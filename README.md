@@ -1,2 +1,2 @@
-# GPT_for_Financial_Advice
-GPT for Financial Advice
+# GPT for Financial Advice
+## The combination of Large Language Models and Rule-Based Systems

@@ -1,7 +1,6 @@
 import openai,pickle
 import numpy as np
 import pandas as pd
-from operator import attrgetter
 from typing import Optional
 
 class ChatSession:
@@ -23,8 +22,10 @@ class ChatSession:
         }
     
     def __init__(self) -> None:
-
+        
+        # History of all messages in the chat.
         self.messages = []
+        # History of completions by the model.
         self.history = []
     
     def chat(self,user_input:Optional[dict|str]=None,*args,**kwargs):
@@ -48,7 +49,7 @@ class ChatSession:
     
     def display_probas(self,reply_index):
         """ Display probabilities of each word for the given reply by the model. """
-        
+
         history = self.history[reply_index]
         assert not history.completion_index
         probas = history.logprobs.top_logprobs

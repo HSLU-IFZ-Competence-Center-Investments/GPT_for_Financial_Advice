@@ -28,12 +28,6 @@ class ChatSession:
 
         # History of completions by the model.
         self.history = []
-
-        # Role of gpt ('user' or 'assistant)
-        self.gpt_role = 'assistant'
-        
-        # Role of user ('user' or 'assistant)
-        self.user_role = 'user'
     
     def chat(self,user_input:Optional[dict|str]=None,*args,**kwargs):
         """ Say something to the model and get a reply. """
@@ -100,12 +94,12 @@ class ChatSession:
             self.history += temp.history
 
     def __get_input(self,user_input,log:bool=False):
-        """ Converts input to desired format. """
+        """ Converts user input to desired format. """
 
         if user_input is None:
             user_input = input("> ")
         if not isinstance(user_input,dict): 
-            user_input = {"role": self.user_role, "content": user_input}
+            user_input = {"role": 'user', "content": user_input}
         if log:
             self.__log(user_input)
         return user_input
@@ -118,7 +112,7 @@ class ChatSession:
             if hasattr(reply,'message'):
                 self.__log(message=reply.message,history=reply)
             else:
-                self.__log(message={"role": self.gpt_role, "content": reply.text},history=reply)
+                self.__log(message={"role": 'assistant', "content": reply.text},history=reply)
         return reply
     
     def __log(self,message:dict,history=None):
@@ -133,5 +127,5 @@ class ChatSession:
         k = len(self.messages) if k is None else k
         for msg in self.messages[-k:]:
             message = msg['content']
-            who = {self.user_role:'User: ',self.gpt_role:'GPT: '}[msg['role']]
+            who = {'user':'User: ','assistant':'GPT: '}[msg['role']]
             print(who + message.strip() + '\n')

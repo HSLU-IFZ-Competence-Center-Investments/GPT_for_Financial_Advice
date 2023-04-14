@@ -21,14 +21,16 @@ class ChatSession:
             )
         }
     
-    def __init__(self) -> None:
+    def __init__(self,gpt_name='GPT') -> None:
         
         # History of all messages in the chat.
         self.messages = []
 
         # History of completions by the model.
         self.history = []
-    
+
+        self.gpt_name=gpt_name
+
     def chat(self,user_input:Optional[dict|str]=None,*args,**kwargs):
         """ Say something to the model and get a reply. """
         
@@ -127,5 +129,5 @@ class ChatSession:
         k = len(self.messages) if k is None else k
         for msg in self.messages[-k:]:
             message = msg['content']
-            who = {'user':'User: ','assistant':'GPT: '}[msg['role']]
+            who = {'user':'User: ','assistant':f'{self.gpt_name}: '}[msg['role']]
             print(who + message.strip() + '\n')

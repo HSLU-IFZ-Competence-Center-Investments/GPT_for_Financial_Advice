@@ -64,7 +64,7 @@ class ChatSession:
     def save(self,filename):
         """ Saves the session to file. """
         with open(filename, 'wb') as f:
-            pickle.dump(session, f)
+            pickle.dump(self, f)
 
     def load(self,filename):
         """ Loads up the session. """

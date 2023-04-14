@@ -1,3 +1,6 @@
+# Author: Ahmet Ege Yilmaz
+# Year: 2023
+
 import openai,pickle
 import numpy as np
 import pandas as pd

@@ -25,6 +25,7 @@ class ChatSession:
         
         # History of all messages in the chat.
         self.messages = []
+
         # History of completions by the model.
         self.history = []
     
@@ -124,7 +125,7 @@ class ChatSession:
         """ Display full chat log or last k messages. """
 
         k = len(self.messages) if k is None else k
-        for i,msg in enumerate(self.messages[-k:]):
+        for msg in self.messages[-k:]:
             message = msg['content']
             who = {'user':'User: ','assistant':'GPT: '}[msg['role']]
             print(who + message.strip() + '\n')

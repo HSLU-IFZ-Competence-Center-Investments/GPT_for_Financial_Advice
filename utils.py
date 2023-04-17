@@ -134,3 +134,14 @@ class ChatSession:
             message = msg['content']
             who = {'user':'User: ','assistant':f'{self.gpt_name}: '}[msg['role']]
             print(who + message.strip() + '\n')
+
+
+def check_info(information:list,dialogue:str):
+    check = []
+    for info in information:
+        reply = openai.ChatCompletion.create(\
+                    messages=[{"role": "user", "content": f"Does the Customer mention his {info} in the following dialogue." + dialogue}],\
+                        model="gpt-3.5-turbo").choices[0].message.content
+        check.append('yes' in reply.lower()) # change this to sentiment analysis
+
+    return check

@@ -143,5 +143,9 @@ def check_info(information:list,dialogue:str):
                     messages=[{"role": "user", "content": f"Does the Customer mention his {info} in the following dialogue." + dialogue}],\
                         model="gpt-3.5-turbo").choices[0].message.content
         check.append('yes' in reply.lower()) # change this to sentiment analysis
+        
+        # TODO Extract the info itself from ``reply``.
+        investor_profile:list[str] = ...
 
-    return check
+
+    return check,investor_profile

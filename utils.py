@@ -135,17 +135,36 @@ class ChatSession:
             who = {'user':'User: ','assistant':f'{self.gpt_name}: '}[msg['role']]
             print(who + message.strip() + '\n')
 
+def update_investor_profile(investor_profile:dict,dialogue:str):
 
-def check_info(information:list,dialogue:str):
-    check = []
-    for info in information:
-        reply = openai.ChatCompletion.create(\
-                    messages=[{"role": "user", "content": f"Does the Customer mention his {info} in the following dialogue." + dialogue}],\
-                        model="gpt-3.5-turbo").choices[0].message.content
-        check.append('yes' in reply.lower()) # change this to sentiment analysis
-        
-        # TODO Extract the info itself from ``reply``.
-        investor_profile:list[str] = ...
+    messages = []
+    ask_for_these = [i for i in investor_profile if not investor_profile[i]]
 
+    # Give the option to say 'not sure'
+    # questions = [
+    #     'Is the Customer 51 years old or older? You have to answer yes or no.',\
+    #     'Does the Customer earn less than 100K annually? You have to answer yes or no.',\
+    #     'Does the Customer have a high risk appetite? You have to answer yes or no.'
+    # ]
+    questions = [
+        'Is the Customer 51 years old or older?',\
+        'Does the Customer earn less than 100K annually?',\
+        'Does the Customer have a high risk appetite?'
+    ]
 
-    return check,investor_profile
+    questions = {i:k for i,k in zip(investor_profile,questions)}
+    for info_type in ask_for_these:
+        messages.append({"role": "user", "content": f"Does the Customer mention his {info_type} in the following dialogue." + dialogue})
+        messages.append(openai.ChatCompletion.create(\
+                            messages=messages,\
+                                model="gpt-3.5-turbo").choices[0].message)
+        # TODO Extract the info itself from GPT's reply.
+        if 'yes' in messages[-1].content.lower(): # change this to sentiment analysis?
+            messages.append({"role": "user", "content": questions[info_type]})
+            messages.append(openai.ChatCompletion.create(\
+                                messages=messages,\
+                                    model="gpt-3.5-turbo",\
+                                        # max_tokens=1,\
+                                        # temperature=0\
+                                            ).choices[0].message)
+            investor_profile[info_type] = 'yes' if 'yes' in messages[-1].content.lower() else 'no' # change this to sentiment analysis? gpt might not use the word yes

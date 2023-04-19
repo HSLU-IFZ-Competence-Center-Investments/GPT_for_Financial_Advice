@@ -9,3 +9,11 @@
 - Try out different openings with Customer-GPT. Temperature for customer.
 
 - Implement a hybrid conversation scenario, where both the user and gpt could be the customer, i.e. allow gpt to take over giving the user to skip answering.
+
+- Make sure Advisor does not complete Costumer's answer if it is empty
+
+- Overlapping age/income range should be questioned by Advisor
+
+- Speed up sentiment analysis
+
+- Sentiment analysis should only be performed for variables not general answers

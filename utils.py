@@ -34,10 +34,10 @@ class ChatSession:
 
         self.gpt_name=gpt_name
 
-    def chat(self,user_input:Optional[dict|str]=None,*args,**kwargs):
+    def chat(self,user_input:Optional[dict|str]=None,verbose=True,*args,**kwargs):
         """ Say something to the model and get a reply. """
         
-        completion_index = 0 if kwargs.get('logprobs',False) else 1
+        completion_index = 0 if kwargs.get('logprobs',False) or kwargs.get('model')=='text-davinci-003' else 1
         
         completion = self.completions[completion_index]
 
@@ -50,8 +50,9 @@ class ChatSession:
         self.__get_reply(completion=completion['completion'],log=True,*args,**kwargs)
 
         self.history[-1].update({'completion_index':completion_index})
-
-        self.__call__(1)
+        
+        if verbose:
+            self.__call__(1)
     
     def display_probas(self,reply_index):
         """ Display probabilities of each word for the given reply by the model. """
@@ -111,7 +112,6 @@ class ChatSession:
         
     def __get_reply(self,completion,log:bool=False,*args,**kwargs):
         """ Calls the model. """
-
         reply = completion.create(*args,**kwargs).choices[0]
         if log:
             if hasattr(reply,'message'):
@@ -153,6 +153,8 @@ def update_investor_profile(investor_profile:dict,dialogue:str):
     ]
 
     questions = {i:k for i,k in zip(investor_profile,questions)}
+    session1 = ChatSession()
+    session2 = ChatSession()
     for info_type in ask_for_these:
         messages.append({"role": "user", "content": f"Does the Customer mention his {info_type} in the following dialogue." + dialogue})
         messages.append(openai.ChatCompletion.create(\
@@ -160,22 +162,19 @@ def update_investor_profile(investor_profile:dict,dialogue:str):
                                 model="gpt-3.5-turbo").choices[0].message)
 
         # TODO Extract the info itself from GPT's reply with sentiment analysis
-        sentiment = openai.Completion.create(
-            model="text-davinci-003",
-            prompt="Decide whether a message's sentiment is positive or negative depending on whether it is affirming or denying, respectively."\
-                + messages[-1].content + "Sentiment:",
-            temperature=0,
-            max_tokens=60,
-            top_p=1.0,
-            frequency_penalty=0.5,
-            presence_penalty=0.0
-            )
-        
-        
-    
-        print("\n message:", messages[-1].content.lower(), "\n sentiment: ", sentiment.choices[0].text)
 
+        # print("\n message:", messages[-1].content.lower())
 
+        session1.chat(f"Decide whether the following message is affirming, indecisive or denying, respectively. {messages[-1].content}",verbose=False)
+        sentiment = session1.messages[-1]['content'].lower().strip()
+        session2.chat(f"Decide whether a following message's sentiment is positive, or negative. {sentiment}. Sentiment:",verbose=False)
+        sentiment = session2.messages[-1]['content'].lower().strip()
+
+        assert 'negative' in sentiment or 'positive' in sentiment or 'neutral' in sentiment, sentiment
+
+        session1.clear()
+        session2.clear()
+        
         # if 'yes' in messages[-1].content.lower(): # change this to sentiment analysis?
         if sentiment == 'positive': 
             messages.append({"role": "user", "content": questions[info_type]})
@@ -186,6 +185,8 @@ def update_investor_profile(investor_profile:dict,dialogue:str):
                                         # temperature=0\
                                             ).choices[0].message)
             investor_profile[info_type] = 'yes' if 'yes' in messages[-1].content.lower() else 'no' # change this to sentiment analysis? gpt might not use the word yes
+        
+        # Implement GPT asking again if the answer is not yes or no
         elif sentiment == 'neutral':
             pass
-        # Implement GPT asking again if the answer is not yes or no
+        

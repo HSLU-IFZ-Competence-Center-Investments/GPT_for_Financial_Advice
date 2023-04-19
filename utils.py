@@ -176,16 +176,16 @@ def update_investor_profile(investor_profile:dict,dialogue:str):
         print("\n message:", messages[-1].content.lower(), "\n sentiment: ", sentiment.choices[0].text)
 
 
-    # if 'yes' in messages[-1].content.lower(): # change this to sentiment analysis?
-    if sentiment == 'positive': 
-        messages.append({"role": "user", "content": questions[info_type]})
-        messages.append(openai.ChatCompletion.create(\
-                            messages=messages,\
-                                model="gpt-3.5-turbo",\
-                                    # max_tokens=1,\
-                                    # temperature=0\
-                                        ).choices[0].message)
-        investor_profile[info_type] = 'yes' if 'yes' in messages[-1].content.lower() else 'no' # change this to sentiment analysis? gpt might not use the word yes
-    elif sentiment == 'neutral':
-        pass
-    # Implement GPT asking again if the answer is not yes or no
+        # if 'yes' in messages[-1].content.lower(): # change this to sentiment analysis?
+        if sentiment == 'positive': 
+            messages.append({"role": "user", "content": questions[info_type]})
+            messages.append(openai.ChatCompletion.create(\
+                                messages=messages,\
+                                    model="gpt-3.5-turbo",\
+                                        # max_tokens=1,\
+                                        # temperature=0\
+                                            ).choices[0].message)
+            investor_profile[info_type] = 'yes' if 'yes' in messages[-1].content.lower() else 'no' # change this to sentiment analysis? gpt might not use the word yes
+        elif sentiment == 'neutral':
+            pass
+        # Implement GPT asking again if the answer is not yes or no

@@ -173,7 +173,7 @@ def update_investor_profile(investor_profile:dict,dialogue:str):
         
         
     
-    print("\n message:", messages[-1].content.lower(), "\n sentiment: ", sentiment.choices[0].text)
+        print("\n message:", messages[-1].content.lower(), "\n sentiment: ", sentiment.choices[0].text)
 
 
     # if 'yes' in messages[-1].content.lower(): # change this to sentiment analysis?

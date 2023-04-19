@@ -158,13 +158,33 @@ def update_investor_profile(investor_profile:dict,dialogue:str):
         messages.append(openai.ChatCompletion.create(\
                             messages=messages,\
                                 model="gpt-3.5-turbo").choices[0].message)
-        # TODO Extract the info itself from GPT's reply.
-        if 'yes' in messages[-1].content.lower(): # change this to sentiment analysis?
-            messages.append({"role": "user", "content": questions[info_type]})
-            messages.append(openai.ChatCompletion.create(\
-                                messages=messages,\
-                                    model="gpt-3.5-turbo",\
-                                        # max_tokens=1,\
-                                        # temperature=0\
-                                            ).choices[0].message)
-            investor_profile[info_type] = 'yes' if 'yes' in messages[-1].content.lower() else 'no' # change this to sentiment analysis? gpt might not use the word yes
+
+        # TODO Extract the info itself from GPT's reply with sentiment analysis
+        sentiment = openai.Completion.create(
+            model="text-davinci-003",
+            prompt="Decide whether a message's sentiment is positive, neutral, or negative."\
+                + messages[-1].content.lower() + "Sentiment:",
+            temperature=0,
+            max_tokens=60,
+            top_p=1.0,
+            frequency_penalty=0.5,
+            presence_penalty=0.0
+            )
+        
+        if sentiment == 'positive':
+            investor_profile[info_type] = 'yes'
+        else:
+            investor_profile[info_type] = 'no'
+        
+    print("investor profile: ", investor_profile, "\n message:", messages[-1].content.lower(), "\n sentiment: ", sentiment)
+
+
+    """ if 'yes' in messages[-1].content.lower(): # change this to sentiment analysis?
+        messages.append({"role": "user", "content": questions[info_type]})
+        messages.append(openai.ChatCompletion.create(\
+                            messages=messages,\
+                                model="gpt-3.5-turbo",\
+                                    # max_tokens=1,\
+                                    # temperature=0\
+                                        ).choices[0].message)
+        investor_profile[info_type] = 'yes' if 'yes' in messages[-1].content.lower() else 'no' # change this to sentiment analysis? gpt might not use the word yes """

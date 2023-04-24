@@ -19,3 +19,5 @@
 - Sentiment analysis should only be performed for variables not general answers
 
 - Enable input of different user api keys for different users
+
+- Create function, which handles both cases GPT/GPT and GPT/Human

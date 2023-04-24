@@ -18,6 +18,6 @@
 
 - Sentiment analysis should only be performed for variables not general answers
 
-- Enable input of different user api keys for different users
+- <s>Enable input of different user api keys for different users.</s> Handle the case if the given api key is not valid.
 
 - Create function, which handles both cases GPT/GPT and GPT/Human

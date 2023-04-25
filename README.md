@@ -1,7 +1,7 @@
 # GPT for Financial Advice
 ## The combination of Large Language Models and Rule-Based Systems
 
-![Cover](https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/blob/main/Images/A4ft23front-4x-300dpi.jpg?raw=true)
+![Cover](https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/blob/main/Images/Cover)
 
 ### TODOs
 

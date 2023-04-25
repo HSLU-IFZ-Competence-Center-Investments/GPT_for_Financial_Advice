@@ -29,4 +29,4 @@
 
 - Encountered the following error: RateLimitError: That model is currently overloaded with other requests. You can retry your request, or contact us through our help center at help.openai.com if the error persists. (Please include the request ID 678a66aeab515c0bb4d2bf392bee1385 in your message.)
 
-- Adjust RuleBased Portfolio bands to make them exclusive 
+- Adjust RuleBased Portfolio Age bands to make them exclusive 

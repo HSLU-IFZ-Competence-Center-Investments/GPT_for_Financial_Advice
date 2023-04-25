@@ -1,0 +1,21 @@
+Customer: Hi. I am not sure about how to invest. Could you help me?
+Advisor: Of course, I'd be happy to help. Before we get started, can you tell me a little bit about what you're hoping to achieve with your investments? Are you looking to save for retirement, a down payment on a house, or something else?
+
+Customer: I want to save for retirement. But I am a little nervous about investing because I don't want to take too many risks. What do you think about the current financial situation in the world?
+
+Advisor: I understand your concerns. The current financial situation is complex and constantly changing, but there are still opportunities for growth and stability in the market. Before we discuss any specific investment options, I'd like to ask a few questions to better understand your financial situation and risk tolerance. Can you tell me a little bit about your income and age range?
+
+Customer: I am 50 years old with an income of 120K, and I have a low risk appetite.
+
+***********
+AssertionError                            Traceback (most recent call last)
+Cell In[2], line 45
+     41 # Rule based portfolio by using ``investor_profile``
+     42 portfolio = RuleBasedPortfolios.where(lambda x: x['age'].apply(lambda y: y in investor_profile['age'].lower())*\
+     43                             x['income'].apply(lambda y: y in investor_profile['income'].lower())*\
+     44                                 x['risk appetite'].apply(lambda y: y in investor_profile['risk appetite'].lower()))['portfolio'].dropna().values
+---> 45 assert portfolio.size == 1
+     46 portfolio = int(portfolio.item())
+     48 # Tell GPT to recommend portfolio
+
+AssertionError:

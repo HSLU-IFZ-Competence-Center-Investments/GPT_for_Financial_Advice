@@ -1,0 +1,57 @@
+#Does not reccomend portfolio despiste all information / goodbye deadlock 
+#Rate limite example
+
+Customer: Hi. I am not sure about how to invest. Could you help me?
+Advisor: Of course, I'd be happy to help. Before we get started, can you tell me a little bit about your financial goals? 
+Are you looking to save for retirement, a down payment on a house, or something else?
+
+Customer: I am mainly interested in saving for retirement. What do you suggest given the current financial situation in the world and Switzerland?
+
+Advisor: That's a great goal to have. Before I can make any specific recommendations, 
+I need to gather some information about you. Can you tell me a little bit about your age, income, and risk appetite? This will help me tailor my advice to your specific needs and goals.
+
+Customer: I am 50 years old with an income of 120K. My risk appetite is low.
+
+Advisor: Thank you for sharing that information with me. Based on your age and risk appetite, 
+I would recommend a more conservative investment strategy that focuses on preserving your capital while still generating some income. 
+We can explore options such as bonds, dividend-paying stocks, and mutual funds that prioritize stability and income over growth. 
+Does that sound like a good starting point for you?
+
+Customer: Yes, that sounds reasonable. Can you tell me a little bit more about the current financial situation in the world and Switzerland?
+
+Advisor: Certainly. The global economy has been impacted by the COVID-19 pandemic, 
+which has caused significant disruptions to businesses and financial markets. In Switzerland, the economy has also been affected, but the country has taken measures to support businesses and individuals during this time. Despite the challenges, there are still opportunities for investors to achieve their financial goals through careful planning and strategic investments.
+
+Customer: Thank you for your advice. What are the potential risks associated with investing in bonds, dividend-paying stocks, and mutual funds?
+
+Advisor: All investments come with some level of risk, and it's important to understand those risks before making any investment decisions. 
+Bonds, for example, are generally considered less risky than stocks, but they still carry the risk of default if the issuer is unable to make payments. Dividend-paying stocks can be a good source of income, but they are still subject to market fluctuations and company-specific risks. Mutual funds can provide diversification, but they also come with management fees and the risk of underperformance. It's important to work with a financial advisor to understand the risks associated with any investment and to develop a strategy that aligns with your goals and risk tolerance.
+
+Customer: Thank you for the detailed explanation. How can I monitor my investments, and how often should I review my portfolio?
+
+Advisor: It's important to monitor your investments regularly to ensure that they are still aligned with your goals and risk tolerance. 
+I recommend reviewing your portfolio at least once a year, or more frequently if there are significant changes in your financial situation or the market. You can monitor your investments through online portals or by working with a financial advisor who can provide regular updates and recommendations. It's also important to stay informed about market trends and economic news that could impact your investments.
+
+Customer: Thank you for your help. I think I have a better understanding of how to invest for my retirement now.
+
+Rate limit error: A advisor will be with you shortly. Please, wait for 1 minute.
+Advisor: You're welcome! I'm glad I could help. If you have any further questions or if you'd like to discuss your investment options in more detail, 
+please don't hesitate to reach out to me.
+
+Customer: Sure, I will do that. Thank you again for your time and advice.
+
+Advisor: You're welcome. Have a great day!
+
+Customer: You too!
+
+Advisor: Goodbye!
+
+Customer: Goodbye!
+
+Advisor: Have a great day!
+
+Customer: You too!
+
+Advisor: Goodbye!
+
+Customer: Goodbye!

@@ -1,13 +1,21 @@
 Customer: Hi. I am not sure about how to invest. Could you help me?
-Advisor: Of course, I'd be happy to help. Before we get started, can you tell me a little bit about your financial goals? Are you looking to save for retirement, a down payment on a house, or something else?
+Advisor: Of course, I'd be happy to help. Before we get started, can you tell me a little bit about your financial goals? 
+Are you looking to save for retirement, a down payment on a house, or something else?
 
-Customer: I am considering investing for retirement. But I am concerned about the current financial situation in the world and Switzerland. What is your opinion on this?
+Customer: I am considering investing for retirement. But I am concerned about the current financial situation in the world and Switzerland. 
+What is your opinion on this?
 
-Advisor: I understand your concerns. The current financial situation can be unpredictable, but it's important to remember that investing is a long-term strategy. While there may be short-term fluctuations, historically, the stock market has shown growth over time. That being said, it's important to consider your risk appetite and investment goals before making any decisions. Would you mind sharing a little bit about your age and income so I can better understand your situation?
+Advisor: I understand your concerns. The current financial situation can be unpredictable, but it's important to remember that investing
+is a long-term strategy. While there may be short-term fluctuations, historically, the stock market has shown growth over time. 
+That being said, it's important to consider your risk appetite and investment goals before making any decisions. 
+Would you mind sharing a little bit about your age and income so I can better understand your situation?
 
 Customer: Sure. I'm 50 years old with an income of 120K. However, as I mentioned earlier, my risk appetite is low.
 
-Advisor: Thank you for sharing that information with me. Based on your age and income, investing for retirement is a smart decision. However, since you have a low risk appetite, we can explore investment options that are less volatile. There are several investment options that may be suitable for you, such as bonds, mutual funds, or exchange-traded funds (ETFs). These options typically have lower risk than stocks, but still offer the potential for growth over time. Would you like to discuss these options further?
+Advisor: Thank you for sharing that information with me. Based on your age and income, 
+investing for retirement is a smart decision. However, since you have a low risk appetite, we can explore investment options that are less volatile.
+ There are several investment options that may be suitable for you, such as bonds, mutual funds, or exchange-traded funds (ETFs). 
+ These options typically have lower risk than stocks, but still offer the potential for growth over time. Would you like to discuss these options further?
 
 Customer: Yes, I would be interested in learning more about these options. Can you give me an idea of how these investments have been performing recently?
 

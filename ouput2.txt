@@ -1,0 +1,37 @@
+# Age is missing! Could be portfolio 1 or 2
+
+Customer: Hi. I am not sure about how to invest. Could you help me?
+Advisor: Of course, I'd be happy to help. Before we get started, can you tell me a little bit about your financial goals? 
+Are you looking to save for retirement, a down payment on a house, or something else?
+
+Customer: I am mainly looking to save for retirement, but I also want to make sure my money is safe and secure.
+
+Advisor: Great, retirement planning is an important goal. Can you tell me a bit about your current financial situation? 
+What is your income and expenses like?
+
+Customer: My income is around 120K a year, and my expenses are pretty stable. 
+I have a mortgage, some car payments, and a few other bills, but I generally have some extra money left over each month.
+
+Advisor: That's helpful to know. Now, before we discuss any specific investment options, 
+I'd like to ask you a few questions about your risk appetite. How comfortable are you with taking risks when it comes to investing?
+
+Customer: I have a low risk appetite. I prefer safe and stable investments over high-risk ones.
+
+Advisor: Understood. It's important to find investments that align with your risk tolerance. 
+I'll keep that in mind as we discuss potential options. Is there anything else you'd like to know or any questions you have before we move forward?
+
+Customer: Yes, I wanted to ask about the current financial situation in the world and specifically in Switzerland. Can you give me an overview?
+
+Advisor: Certainly. The global economy has been impacted by the COVID-19 pandemic, and Switzerland is no exception. 
+However, Switzerland has a strong and stable economy, and the government has implemented measures to support businesses and individuals during this time.
+ The Swiss National Bank has also taken steps to stabilize the financial markets. Overall, while there have been some challenges, 
+ Switzerland remains a relatively safe and stable place to invest.
+
+Customer: Thank you for the information. What investment options would you recommend given my situation and risk appetite?
+
+Advisor: Before I make any specific recommendations, I would like to gather more information about your investment goals and time horizon. 
+How long do you plan to invest your money for? Are you looking for short-term or long-term investments?
+
+Customer: I am looking to invest for the long-term, around 15-20 years.
+
+Advisor: Then, I would recommend portfolio 1.

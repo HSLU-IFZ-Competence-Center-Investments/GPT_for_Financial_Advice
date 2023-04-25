@@ -1,10 +1,19 @@
 # Author: Ahmet Ege Yilmaz
 # Year: 2023
 
-import openai,pickle
+
+import openai,pickle,re
 import numpy as np
 import pandas as pd
 from typing import Optional
+
+RuleBasedPortfolios = pd.read_excel('RuleBasedPortfolios.xlsx')
+RuleBasedPortfolios.columns = RuleBasedPortfolios.columns.map(lambda x: x.lower())
+assert 'portfolio' in RuleBasedPortfolios.columns
+
+RuleBasedPortfolios.age = RuleBasedPortfolios.age.apply(lambda x: 'yes' if x == '50 -' else 'no') # use .strip()
+RuleBasedPortfolios.income = RuleBasedPortfolios.income.apply(lambda x: 'yes' if x == '0 - 100' else 'no') # use .strip()
+RuleBasedPortfolios['risk appetite'] = RuleBasedPortfolios['risk appetite'].apply(lambda x: 'yes' if x == 'High' else 'no') # use .strip()
 
 class ChatSession:
     
@@ -146,9 +155,11 @@ def update_investor_profile(investor_profile:dict,dialogue:str):
     #     'Does the Customer earn less than 100K annually? You have to answer yes or no.',\
     #     'Does the Customer have a high risk appetite? You have to answer yes or no.'
     # ]
+
+    # TODO:Maybe populate these questions so that the indications we get from GPT are more robust.
     questions = [
         'Is the Customer 51 years old or older?',\
-        'Does the Customer earn less than 100K annually?',\
+        'Does the Customer have an annual income of less than 100K?',\
         'Does the Customer have a high risk appetite?'
     ]
 
@@ -165,7 +176,7 @@ def update_investor_profile(investor_profile:dict,dialogue:str):
 
         # print("\n message:", messages[-1].content.lower())
 
-        session1.chat(f"Decide whether the following message is affirming, indecisive or denying, respectively. {messages[-1].content}",verbose=False)
+        session1.chat(f"Decide whether the following message is affirming, indecisive or denying, respectively: {messages[-1].content}",verbose=False)
         sentiment = session1.messages[-1]['content'].lower().strip()
         session2.chat(f"Decide whether a following message's sentiment is positive, or negative. {sentiment}. Sentiment:",verbose=False)
         sentiment = session2.messages[-1]['content'].lower().strip()
@@ -190,3 +201,66 @@ def update_investor_profile(investor_profile:dict,dialogue:str):
         elif sentiment == 'neutral':
             pass
         
+def chat(customer_is:str='human'):
+    """
+        customer_is: 'human' or 'gpt' or 'mixed'. With 'mixed', the customer is 'human' with the option of switching to 'gpt' upon empty input.
+    """
+    assert customer_is in ['human','gpt','mixed']
+
+    # Initialize investor_profile
+    investor_profile = {i:False for i in RuleBasedPortfolios.columns[~RuleBasedPortfolios.columns.isin(['portfolio'])]}
+    
+    # Instruct AdvisorGPT
+    session1 = ChatSession()
+    session1.inject(line="You are a financial advisor at a bank. You should ask about customers' age, income and risk apetite later in the conversation before suggesting a portfolio. Be subtle about asking for these information and do not ask at the very beginning of the conversation. Always prioritize answering the customers' questions over asking for these information. I am a customer seeking financial advise from you. Say ok if you understand.",role="user")
+    session1.inject(line="Ok.",role= "assistant")
+
+    # Instruct CustomerGPT
+    if customer_is != 'human':
+        session2 = ChatSession()
+        session2.inject(line="You are a customer at a bank, seeking financial advise from me. You will ask general questions about current financial situation in the world and Switzerland. You are 50 years old with an income of 120K. Your risk appetite is low. Do not give these information unless you are asked for. Say ok if you understand.",role="user")
+        session2.inject(line="Ok.",role= "assistant")
+    
+    # Handle opening
+    if customer_is == 'gpt':
+        beginning_sentence = "Hi. I am not sure about how to invest. Could you help me?"
+        session2.inject(line=beginning_sentence,role= "assistant")
+        user_input=session2.messages[-1]['content']
+    else:
+        user_input = input("> ")
+    
+    # Start conversation
+    print('Customer: ', user_input)
+    print(investor_profile)
+    while True:
+        session1.chat(user_input=user_input,verbose=False)
+        print('Advisor: ', session1.messages[-1].content)
+        if customer_is == 'gpt':
+            session2.chat(user_input=session1.messages[-1],verbose=False)
+            user_input = session2.messages[-1]['content']
+        else:
+            user_input = input("> ")
+        print('Customer: ', user_input)
+        if re.search(re.compile(r'[\w?]+'),user_input.strip()) is not None:
+            print('Possibly updating...',investor_profile)
+            update_investor_profile(investor_profile=investor_profile,dialogue=f'{session1.gpt_name}: {session1.messages[-1].content}'+'\n'+f'Customer: {user_input}')
+        if not len([i for i in investor_profile.values() if not i]):
+            break
+
+    # Suggest rule based portfolio by using ``investor_profile``
+    portfolio = RuleBasedPortfolios.loc[\
+    RuleBasedPortfolios[investor_profile.keys()].\
+                        apply(lambda x:x.apply(lambda y: y in investor_profile[x.name].lower())).product(axis=1).where(lambda x:x==True).dropna().index[0]
+                                        ,'portfolio']
+
+    # Tell GPT to recommend portfolio
+    session1.inject(line=f"Then, I would recommend portfolio {portfolio}.",role= "assistant")
+    session1(1)
+
+def get_api_key(filename="key.txt"):
+    try:
+        openai.api_key = open("key.txt", "r").read().strip("\n")
+    except FileNotFoundError:
+        openai.api_key = input("Please enter your OpenAI API key: ")
+        with open("key.txt", "w") as f:
+            f.write(openai.api_key)

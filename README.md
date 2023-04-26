@@ -13,6 +13,7 @@ The demo can be accessed by running chat.py
 - Make sure Advisor does not complete Costumer's answer if it is empty
 - Valid user imput: IF empty, GPT has to ask the same question again. Work on the implementation of the regular expression for the user input. 
 - Limit Dialog / Catch *End of conversation*
+- RateLimitError handling needs to cover the case where the error happens in update_investor_profile
 
 # PRIO 2
 - Overlapping age/income range should be questioned by Advisor

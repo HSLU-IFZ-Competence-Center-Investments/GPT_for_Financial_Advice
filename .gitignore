@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 key.txt
 RuleBasedPortfolios.xlsx
+experiments.ipynb
 .DS_Store

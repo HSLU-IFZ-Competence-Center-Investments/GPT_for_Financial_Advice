@@ -6,6 +6,9 @@ import time
 # load and set our key
 try:
     openai.api_key = open("key.txt", "r").read().strip("\n")
+    # if key.txt is empty or if the file is  not found, ask for key as an input
+    if openai.api_key == "":
+        raise FileNotFoundError
 except FileNotFoundError:
     openai.api_key = input("Please enter your OpenAI API key: ")
     with open("key.txt", "w") as f:

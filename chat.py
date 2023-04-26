@@ -20,7 +20,6 @@ RuleBasedPortfolios['risk appetite'] = RuleBasedPortfolios['risk appetite'].appl
 
 session1 = ChatSession(gpt_name='Advisor')
 
-# user_input = input("> ")
 user_input = ''
 session1.inject(line="You are a financial advisor at a bank. You must ask specifically what the customers' age, annual income and risk appetite is. Be subtle about asking for these information and\
                             do not ask at the very beginning of the conversation. Always prioritize answering the customers' questions\
@@ -33,12 +32,10 @@ while True:
     session1.chat(user_input=user_input,verbose=False)
     print('Advisor: ', session1.messages[-1].content)
     user_input = input("> ")
-    print('Customer: ', user_input)
     if re.search(pattern,user_input.strip()) is not None:
         update_investor_profile(investor_profile=investor_profile,dialogue=f'{session1.gpt_name}: {session1.messages[-1].content}'+'\n'+f'Customer: {user_input}')
     if not len([i for i in investor_profile.values() if not i]):
         break
-print(investor_profile)
 # Rule based portfolio by using ``investor_profile``
 portfolio = RuleBasedPortfolios.where(lambda x: x['age'].apply(lambda y: y in investor_profile['age'].lower())*\
                             x['income'].apply(lambda y: y in investor_profile['income'].lower())*\

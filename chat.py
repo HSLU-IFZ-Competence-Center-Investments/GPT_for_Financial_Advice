@@ -1,6 +1,7 @@
-import openai,re
+import openai, re
 from utils import ChatSession,update_investor_profile
 import pandas as pd
+import time
 
 # load and set our key
 try:
@@ -29,13 +30,18 @@ session1.inject(line="Ok.",role= "assistant")
 investor_profile = {i:None for i in ['age','income','risk appetite']}
 pattern = re.compile(r'[\w?]+')
 while True:
-    session1.chat(user_input=user_input,verbose=False)
-    print('Advisor: ', session1.messages[-1].content)
-    user_input = input("> ")
-    if re.search(pattern,user_input.strip()) is not None:
-        update_investor_profile(investor_profile=investor_profile,dialogue=f'{session1.gpt_name}: {session1.messages[-1].content}'+'\n'+f'Customer: {user_input}')
-    if not len([i for i in investor_profile.values() if not i]):
-        break
+    try: 
+        session1.chat(user_input=user_input,verbose=False)
+        print('Advisor: ', session1.messages[-1].content)
+        user_input = input("> ")
+        if re.search(pattern,user_input.strip()) is not None:
+            update_investor_profile(investor_profile=investor_profile,dialogue=f'{session1.gpt_name}: {session1.messages[-1].content}'+'\n'+f'Customer: {user_input}')
+        if not len([i for i in investor_profile.values() if not i]):
+            break
+    except openai.error.RateLimitError:
+        print('Rate limit exceeded. I will be back shortly, please wait for a minute.')
+        time.sleep(60)
+        continue
 # Rule based portfolio by using ``investor_profile``
 portfolio = RuleBasedPortfolios.where(lambda x: x['age'].apply(lambda y: y in investor_profile['age'].lower())*\
                             x['income'].apply(lambda y: y in investor_profile['income'].lower())*\

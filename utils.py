@@ -1,10 +1,21 @@
 # Author: Ahmet Ege Yilmaz
 # Year: 2023
 
-import openai,pickle
+import openai,pickle,time
 import numpy as np
 import pandas as pd
 from typing import Optional
+
+def RateLimitHandler(f, *args, **kwargs):
+    def wrapper(*args, **kwargs):
+        while True:
+            try:
+                f(*args, **kwargs)
+                break
+            except openai.error.RateLimitError:
+                print('Rate limit exceeded. I will be back shortly, please wait for a minute.')
+                time.sleep(60)
+    return wrapper
 
 class ChatSession:
     
@@ -32,6 +43,7 @@ class ChatSession:
         # History of completions by the model.
         self.history = []
 
+        # The name of the model.
         self.gpt_name=gpt_name
 
     def chat(self,user_input:Optional[dict|str]=None,verbose=True,*args,**kwargs):
@@ -71,7 +83,6 @@ class ChatSession:
 
         self.__log(message={"role": role, "content": line})
 
-
     def clear(self):
         """ Clears session. """
 
@@ -109,7 +120,8 @@ class ChatSession:
         if log:
             self.__log(user_input)
         return user_input
-        
+
+    @RateLimitHandler    
     def __get_reply(self,completion,log:bool=False,*args,**kwargs):
         """ Calls the model. """
         reply = completion.create(*args,**kwargs).choices[0]
@@ -135,18 +147,11 @@ class ChatSession:
             who = {'user':'User: ','assistant':f'{self.gpt_name}: '}[msg['role']]
             print(who + message.strip() + '\n')
 
-def update_investor_profile(investor_profile:dict,dialogue:str):
+@RateLimitHandler
+def update_investor_profile(investor_profile:dict,questions:list[str],dialogue:str):
 
     ask_for_these = [i for i in investor_profile if not investor_profile[i]]
-
-    questions = [
-        'Is the Customer 51 years old or older? Answer by saying yes or no.',\
-        'If the annual income of the Customer is not given as annual income, convert it to annual income. Is it less than 100K annually? Answer by saying yes or no.',\
-        'Does the Customer have a high risk appetite? Answer by saying yes or no.'
-    ]
-
-    questions = {i:k for i,k in zip(investor_profile,questions)}
-
+    
     for info_type in ask_for_these:
         sentiment = None
         messages = []

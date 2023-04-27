@@ -14,6 +14,7 @@ def main():
         openai.api_key = input("Please enter your OpenAI API key: ")
         with open("key.txt", "w") as f:
             f.write(openai.api_key)
+    
 
 
 
@@ -87,9 +88,11 @@ def main():
     ### 3.3.6) Tell GPT to recommend portfolio
     sessionAdvisor.inject(line=f"Then, I would recommend portfolio {portfolio}.",role= "assistant")
     sessionAdvisor(1)
+    print('Session successfully ended.')
 
 if __name__ == "__main__":
+    print('Connecting you to the financial advisor...')
     try:
         main()
     except:
-        print('Advisor disconnected. Please start a new chat.')
+        print('Connection failed. Please start a new chat.')

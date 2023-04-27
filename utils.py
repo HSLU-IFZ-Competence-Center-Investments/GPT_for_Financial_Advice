@@ -6,15 +6,20 @@ import numpy as np
 import pandas as pd
 from typing import Optional
 
-def RateLimitHandler(f, *args, **kwargs):
+def ErrorHandler(f, *args, **kwargs):
     def wrapper(*args, **kwargs):
         while True:
             try:
                 f(*args, **kwargs)
                 break
+            # RateLimitError
             except openai.error.RateLimitError:
                 print('Rate limit exceeded. I will be back shortly, please wait for a minute.')
                 time.sleep(60)
+            # AuthenticationError
+            except openai.error.AuthenticationError as e:
+                print(e)
+                raise
     return wrapper
 
 class ChatSession:
@@ -121,7 +126,7 @@ class ChatSession:
             self.__log(user_input)
         return user_input
 
-    @RateLimitHandler    
+    @ErrorHandler    
     def __get_reply(self,completion,log:bool=False,*args,**kwargs):
         """ Calls the model. """
         reply = completion.create(*args,**kwargs).choices[0]
@@ -147,7 +152,7 @@ class ChatSession:
             who = {'user':'User: ','assistant':f'{self.gpt_name}: '}[msg['role']]
             print(who + message.strip() + '\n')
 
-@RateLimitHandler
+@ErrorHandler
 def update_investor_profile(investor_profile:dict,questions:list[str],dialogue:str):
 
     ask_for_these = [i for i in investor_profile if not investor_profile[i]]

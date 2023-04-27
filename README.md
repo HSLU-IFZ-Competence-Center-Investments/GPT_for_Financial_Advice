@@ -9,7 +9,7 @@ The demo can be accessed by running chat.py
 
 # PRIO 1
 - Make sure Advisor does not complete Costumer's answer if it is empty
-- Valid user imput: IF empty, GPT has to ask the same question again. Work on the implementation of the regular expression for the user input. 
+- Valid user input: If empty, GPT has to ask the same question again. Work on the implementation of the regular expression for the user input. 
 - Limit Dialog / Catch *End of conversation*
 
 # PRIO 2

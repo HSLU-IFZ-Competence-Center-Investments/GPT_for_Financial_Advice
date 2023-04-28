@@ -8,14 +8,11 @@ The demo can be accessed by running chat.py
 ### TODOs
 
 # PRIO 1
-- Make sure Advisor does not complete Costumer's answer if it is empty
-- Valid user imput: IF empty, GPT has to ask the same question again. Work on the implementation of the regular expression for the user input. 
-- Limit Dialog / Catch *End of conversation*
+- Catch *End of conversation*
 
 # PRIO 2
-- Overlapping age/income range should be questioned by Advisor
-- Create function, which handles both cases GPT/GPT and GPT/Human. Implement a hybrid conversation scenario, where both the user and gpt could be the customer, i.e. allow gpt to take over giving the user to skip answering. 
-- Make the implementation flexible in terms of varying investment profile attributes.
+- Overlapping age/income range should be questioned by Advisor.
+- Create function, which handles both cases GPT/GPT and GPT/Human. Implement a hybrid conversation scenario, where both the user and gpt could be the customer, i.e. allow gpt to take over and the user to skip answering. 
 
 # PRIO 3
 - Make sure GPT does not recommend any portfolios before having all the variables.
@@ -25,6 +22,7 @@ The demo can be accessed by running chat.py
 - Sentiment analysis:
     - It should only be performed for variables not general answers
 - Implement the rest of the conversation after recommending the portfolio. For this, we would need information on the content of the portfolios.
+- Make the implementation flexible in terms of varying investment profile attributes.
 
 
 

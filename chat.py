@@ -2,21 +2,7 @@ import openai,re
 import pandas as pd
 from utils import ChatSession, update_investor_profile
 
-def main():
-
-    # 1) load or set API key
-    try:
-        openai.api_key = open("key.txt", "r").read().strip("\n")
-        # if key.txt is empty or if the file is  not found, ask for key as an input
-        if openai.api_key == "":
-            raise FileNotFoundError
-    except FileNotFoundError:
-        openai.api_key = input("Please enter your OpenAI API key: ")
-        with open("key.txt", "w") as f:
-            f.write(openai.api_key)
-    
-
-
+def main():    
 
     # 2) Rule based system.
 
@@ -61,7 +47,6 @@ def main():
     user_input = ''
 
     ### 3.3.2) The loop will end when the investor profile is completely obtained.
-    pattern = re.compile(r'[\w?]+')
 
     ### 3.3.3) The loop will end upon reaching chat limit.
     limit = 100
@@ -71,8 +56,10 @@ def main():
         sessionAdvisor.chat(user_input=user_input,verbose=False)
         print('Advisor: ', sessionAdvisor.messages[-1].content)
         user_input = input("> ")
-        if re.search(pattern,user_input.strip()) is not None:
-            update_investor_profile(investor_profile=investor_profile,questions=questions,dialogue=f'{sessionAdvisor.gpt_name}: {sessionAdvisor.messages[-1].content}'+'\n'+f'Customer: {user_input}')
+        while re.search('[\w?]+',user_input) is None:
+            print('Advisor: I am sorry. I did not quite get that.')
+            user_input = input("> ")
+        update_investor_profile(investor_profile=investor_profile,questions=questions,dialogue=f'{sessionAdvisor.gpt_name}: {sessionAdvisor.messages[-1].content}'+'\n'+f'Customer: {user_input}')
         if limit <= 0:
             print('Chat limit exceeded. Session ended.')
             return
@@ -91,6 +78,22 @@ def main():
     print('Session successfully ended.')
 
 if __name__ == "__main__":
+
+    # 1) load or set API key
+    while True:
+        try:
+            openai.api_key = open("key.txt", "r").read().strip("\n")
+            # if re.search('(^sk-)(\w{48})$',openai.api_key) is None:
+            # if re.search('(^sk-)(.{48})$',openai.api_key) is None:
+            # if key.txt is empty or if the file is  not found, ask for key as an input
+            if re.search('^sk-',openai.api_key) is None:
+                print('Invalid API key.')
+                raise FileNotFoundError
+            break
+        except FileNotFoundError:
+            with open("key.txt", "w") as f:
+                f.write(input("Please enter your OpenAI API key: "))
+
     print('Connecting you to the financial advisor...')
     try:
         main()

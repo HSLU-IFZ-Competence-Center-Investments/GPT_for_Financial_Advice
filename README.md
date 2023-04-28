@@ -8,9 +8,8 @@ The demo can be accessed by running chat.py
 ### TODOs
 
 # PRIO 1
-- Make sure Advisor does not complete Costumer's answer if it is empty
-- Valid user input: If empty, GPT has to ask the same question again. Work on the implementation of the regular expression for the user input. 
-- Limit Dialog / Catch *End of conversation*
+
+- Catch *End of conversation*
 
 # PRIO 2
 - Overlapping age/income range should be questioned by Advisor

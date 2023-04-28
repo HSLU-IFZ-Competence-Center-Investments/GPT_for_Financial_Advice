@@ -8,6 +8,7 @@ The demo can be accessed by running chat.py
 ### TODOs
 
 # PRIO 1
+
 - Catch *End of conversation*
 
 # PRIO 2

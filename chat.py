@@ -52,7 +52,8 @@ def main():
     limit = 100
 
     ### 3.3.4) Gather info from customer to obtain investor profile.
-    while len([i for i in investor_profile.values() if not i]):
+    ask_for_these = [i for i in investor_profile if not investor_profile[i]]
+    while True:
         sessionAdvisor.chat(user_input=user_input,verbose=False)
         print('Advisor: ', sessionAdvisor.messages[-1].content)
         user_input = input("> ")
@@ -60,11 +61,15 @@ def main():
             print('Advisor: I am sorry. I did not quite get that.')
             user_input = input("> ")
         update_investor_profile(investor_profile=investor_profile,questions=questions,dialogue=f'{sessionAdvisor.gpt_name}: {sessionAdvisor.messages[-1].content}'+'\n'+f'Customer: {user_input}')
+        ask_for_these = [i for i in investor_profile if not investor_profile[i]]
         if limit <= 0:
             print('Chat limit exceeded. Session ended.')
             return
         limit -= 1
-
+        if len(ask_for_these):
+            sessionAdvisor.inject(line=f"*I must ask about the customer's {', '.join(ask_for_these)}...*",role="assistant")
+        else:
+            break
     ### 3.3.5) Get rule based portfolio by using ``investor_profile``
     portfolio = RuleBasedPortfolios.where(lambda x: x['age'].apply(lambda y: y in investor_profile['age'].lower())*\
                                 x['income'].apply(lambda y: y in investor_profile['income'].lower())*\

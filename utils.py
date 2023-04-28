@@ -153,7 +153,7 @@ class ChatSession:
             print(who + message.strip() + '\n')
 
 @ErrorHandler
-def update_investor_profile(investor_profile:dict,questions:list[str],dialogue:str):
+def update_investor_profile(investor_profile:dict,questions:list[str],dialogue:str,verbose:bool=False):
 
     ask_for_these = [i for i in investor_profile if not investor_profile[i]]
     
@@ -166,7 +166,8 @@ def update_investor_profile(investor_profile:dict,questions:list[str],dialogue:s
             messages.append(openai.ChatCompletion.create(\
                                 messages=messages,\
                                     model="gpt-3.5-turbo",max_tokens=1).choices[0].message)
-            # print('1',messages[-1].content)
+            if verbose:
+                print('1',messages[-1].content)
             if 'yes' in messages[-1].content.lower():
                 sentiment = 'positive'
             elif 'no' in messages[-1].content.lower():
@@ -187,7 +188,8 @@ def update_investor_profile(investor_profile:dict,questions:list[str],dialogue:s
                                             max_tokens=1,\
                                             # temperature=0\
                                                 ).choices[0].message)
-                # print('2',messages[-1].content)
+                if verbose:
+                    print('2',messages[-1].content)
                 if 'yes' in messages[-1].content.lower():
                     sentiment = 'positive'
                 elif 'no' in messages[-1].content.lower():

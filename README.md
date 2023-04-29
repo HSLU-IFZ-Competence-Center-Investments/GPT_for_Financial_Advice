@@ -8,7 +8,7 @@ The demo can be accessed by running chat.py
 ### TODOs
 
 # PRIO 1
-
+- <s>AdvisorGPT seems to be more aware of the collected data than SupervisorGPT. Maybe, just consult to AdvisorGPT about the investor profile rather than SupervisorGPT.</s>Done.
 - Catch *End of conversation*
 
 # PRIO 2

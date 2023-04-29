@@ -19,10 +19,15 @@ def main():
     investor_profile = {i:None for i in ['age','income','risk appetite']}
 
     ## 2.3) Questions need to be crafted, allowing SupervisorGPT to navigate through the rule based system and reach a portfolio recommendation.
+    # questions = [
+    #         'Is the Customer 51 years old or older? Answer by saying yes or no.',\
+    #         'If the annual income of the Customer is not given as annual income, convert it to annual income. Is it less than 100K annually? Answer by saying yes or no.',\
+    #         'Does the Customer have a high risk appetite? Answer by saying yes or no.'
+    #     ]
     questions = [
-            'Is the Customer 51 years old or older? Answer by saying yes or no.',\
-            'If the annual income of the Customer is not given as annual income, convert it to annual income. Is it less than 100K annually? Answer by saying yes or no.',\
-            'Does the Customer have a high risk appetite? Answer by saying yes or no.'
+            'Am I 51 years old or older? Say only yes or no.',\
+            'If my annual income is not given as annual income, convert it to annual income. Is it less than 100K annually? Say only yes or no.',\
+            'Do I have a high risk appetite? Say only yes or no.'
         ]
     questions = {i:k for i,k in zip(investor_profile,questions)}
 
@@ -45,7 +50,8 @@ def main():
 
     ### 3.3.1) user might or might not say anything at the beginning of the conversation.
     user_input = ''
-
+    sessionAdvisor.chat(user_input=user_input,verbose=False)
+    print('Advisor: ', sessionAdvisor.messages[-1].content)
     ### 3.3.2) The loop will end when the investor profile is completely obtained.
 
     ### 3.3.3) The loop will end upon reaching chat limit.
@@ -54,13 +60,12 @@ def main():
     ### 3.3.4) Gather info from customer to obtain investor profile.
     ask_for_these = [i for i in investor_profile if not investor_profile[i]]
     while True:
-        sessionAdvisor.chat(user_input=user_input,verbose=False)
-        print('Advisor: ', sessionAdvisor.messages[-1].content)
         user_input = input("> ")
         while re.search('[\w?]+',user_input) is None:
             print('Advisor: I am sorry. I did not quite get that.')
             user_input = input("> ")
-        update_investor_profile(investor_profile=investor_profile,questions=questions,dialogue=f'{sessionAdvisor.gpt_name}: {sessionAdvisor.messages[-1].content}'+'\n'+f'Customer: {user_input}',verbose=True)
+        sessionAdvisor.inject(line=user_input,role='user')
+        update_investor_profile(session=sessionAdvisor,investor_profile=investor_profile,questions=questions,verbose=True)
         ask_for_these = [i for i in investor_profile if not investor_profile[i]]
         if limit <= 0:
             print('Chat limit exceeded. Session ended.')
@@ -71,6 +76,9 @@ def main():
             sessionAdvisor.inject(line=f"*I must ask about the customer's {', '.join(ask_for_these)}...*",role="assistant")
         else:
             break
+        sessionAdvisor.chat(user_input='',verbose=False)
+        print('Advisor: ', sessionAdvisor.messages[-1]['content'])
+        
     ### 3.3.5) Get rule based portfolio by using ``investor_profile``
     portfolio = RuleBasedPortfolios.where(lambda x: x['age'].apply(lambda y: y in investor_profile['age'].lower())*\
                                 x['income'].apply(lambda y: y in investor_profile['income'].lower())*\
@@ -101,7 +109,4 @@ if __name__ == "__main__":
                 f.write(input("Please enter your OpenAI API key: "))
 
     print('Connecting you to the financial advisor...')
-    try:
-        main()
-    except:
-        print('Connection failed. Please start a new chat.')
+    main()

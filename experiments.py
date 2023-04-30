@@ -19,16 +19,16 @@ def main():
     investor_profile = {i:None for i in ['age','income','risk appetite']}
 
     ## 2.3) Questions need to be crafted, allowing SupervisorGPT to navigate through the rule based system and reach a portfolio recommendation.
-    # questions = [
-    #         'Is the Customer 51 years old or older? Answer by saying yes or no.',\
-    #         'If the annual income of the Customer is not given as annual income, convert it to annual income. Is it less than 100K annually? Answer by saying yes or no.',\
-    #         'Does the Customer have a high risk appetite? Answer by saying yes or no.'
-    #     ]
     questions = [
-            'Am I 51 years old or older? Say only yes or no.',\
-            'If my annual income is not given as annual income, convert it to annual income. Is it less than 100K annually? Say only yes or no.',\
-            'Do I have a high risk appetite? Say only yes or no.'
+            'Is the Customer 51 years old or older? Answer by saying yes or no.',\
+            'If the annual income of the Customer is not given as annual income, convert it to annual income. Is it less than 100K annually? Answer by saying yes or no.',\
+            'Does the Customer have a high risk appetite? Answer by saying yes or no.'
         ]
+    # questions = [
+    #         'Am I 51 years old or older? Say only yes or no.',\
+    #         'If my annual income is not given as annual income, convert it to annual income. Is it less than 100K annually? Say only yes or no.',\
+    #         'Do I have a high risk appetite? Say only yes or no.'
+    #     ]
     questions = {i:k for i,k in zip(investor_profile,questions)}
 
 

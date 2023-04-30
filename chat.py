@@ -24,6 +24,11 @@ def main():
             'If the annual income of the Customer is not given as annual income, convert it to annual income. Is it less than 100K annually? Answer by saying yes or no.',\
             'Does the Customer have a high risk appetite? Answer by saying yes or no.'
         ]
+    # questions = [
+    #     'Am I 51 years old or older? Say only yes or no.',\
+    #     'If my annual income is not given as annual income, convert it to annual income. Is it less than 100K annually? Say only yes or no.',\
+    #     'Do I have a high risk appetite? Say only yes or no.'
+    # ]
     questions = {i:k for i,k in zip(investor_profile,questions)}
 
 

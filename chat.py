@@ -19,16 +19,7 @@ def main():
     investor_profile = {i:None for i in ['age','income','risk appetite']}
 
     ## 2.3) Questions need to be crafted, allowing SupervisorGPT to navigate through the rule based system and reach a portfolio recommendation.
-    # questions = [
-    #         'Is the Customer 51 years old or older? Answer by saying yes or no.',\
-    #         'If the annual income of the Customer is not given as annual income, convert it to annual income. Is it less than 100K annually? Answer by saying yes or no.',\
-    #         'Does the Customer have a high risk appetite? Answer by saying yes or no.'
-    #     ]
-    # questions = [
-    #     'Am I 51 years old or older? Say only yes or no.',\
-    #     'If my annual income is not given as annual income, convert it to annual income. Is it less than 100K annually? Say only yes or no.',\
-    #     'Do I have a high risk appetite? Say only yes or no.'
-    # ]
+
     questions = [
             'Based on our conversation so far, am I 51 years old or older? Yes or no:',\
             'Based on our conversation so far, calculate my annual income. Is it less than 100K? Yes or no:',\
@@ -75,7 +66,7 @@ def main():
             print('Chat limit exceeded. Session ended.')
             return
         loop_no += 1
-        if len(ask_for_these) and loop_no > 5:
+        if len(ask_for_these):
             # sessionAdvisor.inject(line=f"*I must ask about the customer's {', '.join(ask_for_these)}...*",role="assistant")
             if loop_no > 5:
                 sessionAdvisor.inject(line=f"*I am still not sure what the customer's {', '.join(ask_for_these)} is. I must ask for these...*",role="assistant")

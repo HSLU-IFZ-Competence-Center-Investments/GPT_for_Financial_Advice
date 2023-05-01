@@ -13,7 +13,10 @@ The demo can be accessed by running chat.py
 - <s>AdvisorGPT seems to be more aware of the collected data than SupervisorGPT. Maybe, just consult to AdvisorGPT about the investor profile rather than SupervisorGPT.</s>Done.
 - Catch *End of conversation*
 - Moderate risk may confuse bot
-- How much chatter should it be able to deal with
+- How much chatter should it be able to deal with / confusion with mortgage/leasing
+- Use percentage for Yes / No, take highest
+- Catch "As a language model AI..." / "consult a financial advisor"
+- 
 
 # PRIO 2
 - Overlapping age/income range should be questioned by Advisor.

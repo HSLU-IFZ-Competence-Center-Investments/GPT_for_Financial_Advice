@@ -70,7 +70,8 @@ def main():
     ### 3.3.2) The loop will end when the investor profile is completely obtained.
 
     ### 3.3.3) The loop will end upon reaching chat limit.
-    limit = 100
+    loop_no = 0
+    threshold = 100
 
     ### 3.3.4) Gather info from customer to obtain investor profile.
     while True:
@@ -82,13 +83,14 @@ def main():
         # print(session.messages)
         update_investor_profile(session=sessionAdvisor,investor_profile=investor_profile,questions=questions,verbose=True)
         ask_for_these = [i for i in investor_profile if not investor_profile[i]]
-        if limit <= 0:
+        if loop_no >= threshold:
             print('Chat limit exceeded. Session ended.')
             return
-        limit -= 1
+        loop_no += 1
         if len(ask_for_these):
             print(ask_for_these)
-            sessionAdvisor.inject(line=f"*I am still not sure what the customer's {', '.join(ask_for_these)} is. I must ask for these...*",role="assistant")
+            if loop_no > 5:
+                sessionAdvisor.inject(line=f"*I am still not sure what the customer's {', '.join(ask_for_these)} is. I must ask for these...*",role="assistant")
         else:
             break
         sessionAdvisor.chat(user_input='',verbose=False)

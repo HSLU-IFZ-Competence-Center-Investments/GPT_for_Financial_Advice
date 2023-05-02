@@ -9,14 +9,13 @@ The demo can be accessed by running chat.py
 
 # PRIO 1
 
-- Implementation of looking for the word yes or no is not robust enough. Firstly, if a word has yes or no in it we get True. On the other hand, we are already limiting it with max token=1. Secondly, np.any returns True even when we have one reply with yes (no) and majority of the replies are not yes (no).
+- Implementation of looking for the word yes or no is not robust enough. Firstly, if a word has yes or no in it we get True. On the other hand, we are already limiting it with max token=1. Secondly, np.any returns True even when we have one reply with yes (no) and majority of the replies are not yes (no). Use percentage for Yes / No, take highest.
 - <s>AdvisorGPT seems to be more aware of the collected data than SupervisorGPT. Maybe, just consult to AdvisorGPT about the investor profile rather than SupervisorGPT.</s>Done.
 - Catch *End of conversation*
 - Moderate risk may confuse bot
 - How much chatter should it be able to deal with / confusion with mortgage/leasing
-- Use percentage for Yes / No, take highest
 - Catch "As a language model AI..." / "consult a financial advisor"
-- 
+
 
 # PRIO 2
 - Overlapping age/income range should be questioned by Advisor.

@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+scipy
+numpy
+pandas
+dnspython
+jupyter_contrib_nbextensions
+openai

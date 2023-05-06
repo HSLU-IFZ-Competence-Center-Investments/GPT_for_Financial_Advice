@@ -130,3 +130,8 @@ dmypy.json
 key.txt
 RuleBasedPortfolios.xlsx
 .DS_Store
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/GPT_for_Financial_Advice/v17/.wsuo
+.vs/GPT_for_Financial_Advice/FileContentIndex/read.lock
+.vs/GPT_for_Financial_Advice/FileContentIndex/b02e7000-514c-420a-8f4f-4ca116426467.vsidx

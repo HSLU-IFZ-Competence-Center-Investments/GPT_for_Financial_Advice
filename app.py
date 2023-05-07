@@ -53,7 +53,7 @@ def get_bot_response(user_input=None):
         get_bot_response(user_input)
     # AuthenticationError
     except openai.error.AuthenticationError as e:
-        pop_up('Rate limit exceeded. I will be back shortly, please wait for a minute.')
+        pop_up(e)
 def stop():
     CTRL_C_EVENT = 0
     GenerateConsoleCtrlEvent(CTRL_C_EVENT, 0)

@@ -198,9 +198,9 @@ class AdvisorGPT(ChatSession):
         else:
             self.session_completed = True
             ### 3.3.5) Get rule based portfolio by using ``investor_profile``
-            portfolio = RuleBasedPortfolios.where(lambda x: x['age'].apply(lambda y: y in investor_profile['age'].lower())*\
-                                        x['income'].apply(lambda y: y in investor_profile['income'].lower())*\
-                                            x['risk appetite'].apply(lambda y: y in investor_profile['risk appetite'].lower()))['portfolio'].dropna().values
+            portfolio = RuleBasedPortfolios.where(lambda x: x['age'].apply(lambda y: y in self.investor_profile['age'].lower())*\
+                                        x['income'].apply(lambda y: y in self.investor_profile['income'].lower())*\
+                                            x['risk appetite'].apply(lambda y: y in self.investor_profile['risk appetite'].lower()))['portfolio'].dropna().values
             assert portfolio.size == 1
             portfolio = int(portfolio.item())
 

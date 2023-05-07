@@ -134,7 +134,7 @@ RuleBasedPortfolios.xlsx
 .vs/slnx.sqlite
 .vs/GPT_for_Financial_Advice/v17/.wsuo
 .vs/GPT_for_Financial_Advice/FileContentIndex/read.lock
-.vs/GPT_for_Financial_Advice/FileContentIndex/b02e7000-514c-420a-8f4f-4ca116426467.vsidx
 .vs/PythonSettings.json
-.vs/GPT_for_Financial_Advice/FileContentIndex/457a50cc-ae3d-406e-8dbf-387819cdad77.vsidx
-.vs/GPT_for_Financial_Advice/FileContentIndex/3988322d-5649-406a-91f5-cad5af204819.vsidx
+*.vsidx
+static/styles/Cover.jpg
+static/styles/Screenshot 2023-05-07 183552.png

@@ -1,26 +1,11 @@
 # Author: Ahmet Ege Yilmaz
 # Year: 2023
 
-import openai,pickle,time
+import openai,pickle,time,re
 import numpy as np
 import pandas as pd
 from typing import Optional
 
-def ErrorHandler(f, *args, **kwargs):
-    def wrapper(*args, **kwargs):
-        while True:
-            try:
-                f(*args, **kwargs)
-                break
-            # RateLimitError
-            except openai.error.RateLimitError:
-                print('Rate limit exceeded. I will be back shortly, please wait for a minute.')
-                time.sleep(60)
-            # AuthenticationError
-            except openai.error.AuthenticationError as e:
-                print(e)
-                raise
-    return wrapper
 
 class ChatSession:
     
@@ -129,7 +114,6 @@ class ChatSession:
             self.__log(user_input)
         return user_input
 
-    @ErrorHandler    
     def __get_reply(self,completion,log:bool=False,*args,**kwargs):
         """ Calls the model. """
         reply = completion.create(*args,**kwargs).choices[0]
@@ -155,72 +139,106 @@ class ChatSession:
             who = {'user':'User: ','assistant':f'{self.gpt_name}: '}[msg['role']]
             print(who + message.strip() + '\n')
 
-@ErrorHandler
-def update_investor_profile(session,investor_profile:dict,questions:list[str],verbose:bool=False):
 
-    ask_for_these = [i for i in investor_profile if not investor_profile[i]]
-    n_limit = 20
-    temp_reply = openai.ChatCompletion.create(messages=session.messages.copy(),model='gpt-3.5-turbo').choices[0].message.content
-    for info_type in ask_for_these:
-        choices = [*map(lambda x:x.message.content,openai.ChatCompletion.create(messages=
-                                            session.messages+\
-                                            # [{"role": "assistant", "content":'Understood.'}]+\
-                                            [{"role": "assistant", "content":temp_reply}]+\
-                                            [{"role": "user", "content": f'Do you know my {info_type} based on our conversation so far? Yes or no:'}],\
-                                            model='gpt-3.5-turbo',n=n_limit,max_tokens=1).choices)]
-        if verbose:
-            print('1:')
-            print({i:round(choices.count(i)/len(choices),2) for i in pd.unique(choices)})
-        if np.any([*map(lambda x: 'yes' in x.lower(),choices)]):
-            choices = [*map(lambda x:x.message.content,openai.ChatCompletion.create(messages=\
-                                        session.messages+\
-                                        # [{"role": "assistant", "content": 'Understood.'}]+\
-                                        [{"role": "assistant", "content":temp_reply}]+\
-                                        [{"role": "user", "content": questions[info_type]}],\
-                                        model='gpt-3.5-turbo',n=n_limit,max_tokens=1).choices)]
+
+# 2) Rule based system.
+
+## 2.1) Read in rule based system.
+RuleBasedPortfolios = pd.read_excel('RuleBasedPortfolios.xlsx')
+RuleBasedPortfolios.columns = RuleBasedPortfolios.columns.map(lambda x: x.lower())
+assert 'portfolio' in RuleBasedPortfolios.columns
+
+RuleBasedPortfolios.age = RuleBasedPortfolios.age.apply(lambda x: 'yes' if x == '50 -' else 'no') # use .strip()
+RuleBasedPortfolios.income = RuleBasedPortfolios.income.apply(lambda x: 'yes' if x == '0 - 100' else 'no') # use .strip()
+RuleBasedPortfolios['risk appetite'] = RuleBasedPortfolios['risk appetite'].apply(lambda x: 'yes' if x == 'High' else 'no') # use .strip()
+
+## 2.3) Questions need to be crafted, allowing SupervisorGPT to navigate through the rule based system and reach a portfolio recommendation.
+investor_profile = {i:None for i in ['age','income','risk appetite']}
+questions = [
+        'Based on our conversation so far, am I 51 years old or older? Yes or no:',\
+        'Based on our conversation so far, calculate my annual income. Is it less than 100K? Yes or no:',\
+        'Based on our conversation so far, do I have a high risk appetite? Yes or no:'
+    ]
+questions = {i:k for i,k in zip(investor_profile,questions)}
+
+class AdvisorGPT(ChatSession):
+    def __init__(self, chat_limit, gpt_name='Advisor') -> None:
+        ## 3.1) Initialize the AdvisorGPT.
+        super().__init__(gpt_name)
+
+
+        ## 2.2) The attributes of the investor profile. They need to be consistent with the columns of RuleBasedPortfolios.
+        self.investor_profile = investor_profile.copy()
+        self.ask_for_these = [i for i in self.investor_profile if not self.investor_profile[i]]
+
+        self.loop_no=0
+        self.threshold = chat_limit
+        
+        ## 3.2) Instruct GPT to become a financial advisor.
+        self.inject(line="You are a financial advisor at a bank. You must ask specifically what the customers' age, annual income and risk appetite is. Be subtle about asking for these information and\
+                                do not ask at the very beginning of the conversation. Always prioritize answering the customers' questions\
+                                over asking for these information. Do not recommend a specific portfolio before you gathered these information.\
+                                I am a customer seeking financial advise from you. Say ok if you understand.",role="user")
+        self.inject(line="Ok.",role= "assistant")
+
+        self.session_completed = False
+
+    def respond(self,user_input):
+        if self.loop_no >= self.threshold:
+            raise Exception('Chat limit exceeded. Session ended.')
+        if re.search('[\w?]+',user_input) is None and self.loop_no>0:
+            return 'I am sorry. I did not quite get that.'
+        self.inject(line=user_input,role='user')
+        self.update_investor_profile(verbose=False)
+        self.loop_no += 1
+        if len(self.ask_for_these):
+            # self.inject(line=f"*I must ask about the customer's {', '.join(ask_for_these)}...*",role="assistant")
+            if self.loop_no > 5:
+                self.inject(line=f"*I am still not sure what the customer's {', '.join(self.ask_for_these)} is. I must ask for these...*",role="assistant")
+        else:
+            self.session_completed = True
+            ### 3.3.5) Get rule based portfolio by using ``investor_profile``
+            portfolio = RuleBasedPortfolios.where(lambda x: x['age'].apply(lambda y: y in investor_profile['age'].lower())*\
+                                        x['income'].apply(lambda y: y in investor_profile['income'].lower())*\
+                                            x['risk appetite'].apply(lambda y: y in investor_profile['risk appetite'].lower()))['portfolio'].dropna().values
+            assert portfolio.size == 1
+            portfolio = int(portfolio.item())
+
+            ### 3.3.6) Tell GPT to recommend portfolio
+            self.inject(line=f"Then, I would recommend portfolio {portfolio}.",role= "assistant")
+            return self.messages[-1]['content']
+
+        self.chat(user_input='',verbose=False)
+        return self.messages[-1]['content']
+
+   
+    def update_investor_profile(self,verbose:bool=False):
+
+        self.ask_for_these = [i for i in self.investor_profile if not self.investor_profile[i]]
+        n_limit = 20
+        temp_reply = openai.ChatCompletion.create(messages=self.messages.copy(),model='gpt-3.5-turbo').choices[0].message.content
+        for info_type in self.ask_for_these:
+            choices = [*map(lambda x:x.message.content,openai.ChatCompletion.create(messages=
+                                                self.messages+\
+                                                # [{"role": "assistant", "content":'Understood.'}]+\
+                                                [{"role": "assistant", "content":temp_reply}]+\
+                                                [{"role": "user", "content": f'Do you know my {info_type} based on our conversation so far? Yes or no:'}],\
+                                                model='gpt-3.5-turbo',n=n_limit,max_tokens=1).choices)]
             if verbose:
-                print('2:')
+                print('1:')
                 print({i:round(choices.count(i)/len(choices),2) for i in pd.unique(choices)})
             if np.any([*map(lambda x: 'yes' in x.lower(),choices)]):
-                investor_profile[info_type] = 'yes'
-            elif np.any([*map(lambda x: 'no' in x.lower(),choices)]):
-                investor_profile[info_type] = 'no'
-
-
-# @ErrorHandler
-# def update_investor_profile(session,investor_profile:dict,questions:list[str],verbose:bool=False):
-
-#     ask_for_these = [i for i in investor_profile if not investor_profile[i]]
-    
-#     for info_type in ask_for_these:
-#         sentiment = None
-#         limit = 20
-#         while sentiment is None:
-#             session.chat(f'Do you know my {info_type}? Say only yes or no.',max_tokens=1,verbose=False)
-#             if verbose:
-#                 print('1',session.messages[-1].content)
-#             if 'yes' in session.messages[-1].content.lower():
-#                 sentiment = 'positive'
-#             elif 'no' in session.messages[-1].content.lower():
-#                 sentiment = 'negative'
-#             elif limit <= 0:
-#                 raise Exception('Something went wrong. Please try again.')
-#             session.clear(2)
-#             limit -= 1
-#         if sentiment == 'positive': 
-#             sentiment = None
-#             limit = 20    
-#             while sentiment is None:
-#                 session.chat(questions[info_type],max_tokens=1,verbose=False)
-#                 if verbose:
-#                     print('2',session.messages[-1].content)
-#                 if 'yes' in session.messages[-1].content.lower():
-#                     sentiment = 'positive'
-#                 elif 'no' in session.messages[-1].content.lower():
-#                     sentiment = 'negative'
-#                 elif limit <= 0:
-#                     break
-#                 session.clear(2)
-#                 limit -= 1
-#             if sentiment is not None:
-#                 investor_profile[info_type] = 'yes' if sentiment == 'positive' else 'no'
+                choices = [*map(lambda x:x.message.content,openai.ChatCompletion.create(messages=\
+                                            self.messages+\
+                                            # [{"role": "assistant", "content": 'Understood.'}]+\
+                                            [{"role": "assistant", "content":temp_reply}]+\
+                                            [{"role": "user", "content": questions[info_type]}],\
+                                            model='gpt-3.5-turbo',n=n_limit,max_tokens=1).choices)]
+                if verbose:
+                    print('2:')
+                    print({i:round(choices.count(i)/len(choices),2) for i in pd.unique(choices)})
+                if np.any([*map(lambda x: 'yes' in x.lower(),choices)]):
+                    self.investor_profile[info_type] = 'yes'
+                elif np.any([*map(lambda x: 'no' in x.lower(),choices)]):
+                    self.investor_profile[info_type] = 'no'
+        self.ask_for_these = [i for i in self.investor_profile if not self.investor_profile[i]]

@@ -1,7 +1,7 @@
 # Author: Ahmet Ege Yilmaz
 # Year: 2023
 
-import openai,pickle,time,re
+import openai,pickle,re
 import numpy as np
 import pandas as pd
 from typing import Optional
@@ -38,7 +38,7 @@ class ChatSession:
         # The name of the model.
         self.gpt_name=gpt_name
 
-    def chat(self,user_input:Optional[dict|str]=None,verbose=True,*args,**kwargs):
+    def chat(self,user_input:None,verbose=True,*args,**kwargs):
         """ Say something to the model and get a reply. """
         
         completion_index = 0 if kwargs.get('logprobs',False) or kwargs.get('model')=='text-davinci-003' else 1

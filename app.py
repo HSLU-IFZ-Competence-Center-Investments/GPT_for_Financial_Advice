@@ -19,10 +19,9 @@
 #    # Run the app server on localhost:4449
 #    app.run('localhost', 4449)
 
-from tkinter import E
 from flask import Flask, render_template, request
 #from win32api import GenerateConsoleCtrlEvent
-import nltk,os,openai
+import nltk,openai
 
 from utils import AdvisorGPT,ChatLimitError
 nltk.download('popular')

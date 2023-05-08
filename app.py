@@ -22,13 +22,12 @@
 from tkinter import E
 from flask import Flask, render_template, request
 from win32api import GenerateConsoleCtrlEvent
-import nltk,os,openai,time
+import nltk,os,openai
 
 from utils import AdvisorGPT
 nltk.download('popular')
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
-import pandas as pd
 
 
 

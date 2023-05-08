@@ -130,12 +130,13 @@ dmypy.json
 key.txt
 RuleBasedPortfolios.xlsx
 .DS_Store
-.vs/VSWorkspaceState.json
-.vs/slnx.sqlite
-.vs/GPT_for_Financial_Advice/v17/.wsuo
-.vs/GPT_for_Financial_Advice/FileContentIndex/read.lock
-.vs/PythonSettings.json
+.vs/
+obj/
+__pycache__/
+sfti_gpt_webapp_env/
+Properties/
 *.vsidx
 static/styles/Cover.jpg
 static/styles/Screenshot 2023-05-07 183552.png
-.vs/tasks.vs.json
+SFTI_GPT_WebApp.pyproj
+SFTI_GPT_WebApp.pyproj.user

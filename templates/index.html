@@ -155,6 +155,9 @@
         else if (msgText.startsWith("Error2: ")) {
             popup.style.display = "flex";
         }
+        else if (msgText.startsWith("Error3: ")) {
+            endSession(msgText.replace(/Error3: /, ""));
+        }
         else if (msgText.startsWith("Error: ")) {
             endSession();
           }
@@ -176,10 +179,14 @@
 
         }
 
-    function endSession() {
+    function endSession(txt='') {
         popup.style.display = "none";
-        sysMessage("Session ended.");
-        $.get("/stop");
+        if (txt === '') {
+            sysMessage("Session ended.");
+        } else {
+            sysMessage(txt + ' ' + "Session ended.");
+        }
+        //$.get("/stop");
     }
 
     //function startChat() {

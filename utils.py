@@ -6,6 +6,8 @@ import numpy as np
 import pandas as pd
 from typing import Optional
 
+class ChatLimitError(Exception):
+    pass
 
 class ChatSession:
     
@@ -185,7 +187,7 @@ class AdvisorGPT(ChatSession):
 
     def respond(self,user_input):
         if self.loop_no >= self.threshold:
-            raise Exception('Chat limit exceeded. Session ended.')
+            raise ChatLimitError('Chat limit exceeded. Session ended.')
         if re.search('[\w?]+',user_input) is None and self.loop_no>0:
             return 'I am sorry. I did not quite get that.'
         self.inject(line=user_input,role='user')

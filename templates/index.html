@@ -22,10 +22,18 @@
         </header>
 
         <main class="msger-chat">
+            <div class="popup">
+                <div class="popup-content">
+                    <h4>Authentication error. Please enter your API key.</h4>
+                    <input type="password" id="key-input" placeholder="Enter key...">
+                    <button id="key-submit">Submit</button>
+                    <button id="key-cancel">Cancel</button>
+                </div>
+            </div>
 
         </main>
-
         <form class="msger-inputarea">
+            <!--<button type="button" class="restart-chat"></button>-->
             <input type="text" class="msger-input" id="textInput" placeholder="Enter your message...">
             <button type="submit" class="msger-send-btn">Send</button>
         </form>
@@ -41,6 +49,36 @@
     const msgerInput = get(".msger-input");
     const msgerChat = get(".msger-chat");
 
+    const popup = document.querySelector(".popup");
+    const keyInput = document.querySelector("#key-input");
+
+    // Function to handle key submission
+    function submitkey() {
+        const key = keyInput.value;
+
+        $.get("/key", { key: key })
+
+        // Hide the popup
+        popup.style.display = "none";
+        botResponse("");
+    }
+
+    // Get the submit and cancel buttons and add event listeners
+    const submitButton = document.querySelector("#key-submit");
+    const cancelButton = document.querySelector("#key-cancel");
+
+    submitButton.addEventListener("click", submitkey);
+    cancelButton.addEventListener("click", endSession);
+
+    const restartChatButton = document.querySelector('.restart-chat');
+        restartChatButton.addEventListener('click', () => {
+        restartChatButton.classList.toggle('clicked');
+        setTimeout(() => {
+            restartChatButton.classList.toggle('clicked');
+        }, 1000);
+        startChat();
+    });
+
 
     // Icons made by Freepik from www.flaticon.com
     const BOT_IMG = "https://img.freepik.com/free-vector/background-piggy-bank-with-money_23-2147629142.jpg?w=740&t=st=1683387424~exp=1683388024~hmac=6dd49ec9cb9f382b85c312f5486731d57175b5d0543bd68b7c1e061a99eff881";
@@ -48,18 +86,20 @@
     const BOT_NAME = "    Advisor";
     const PERSON_NAME = "You";
 
-    botResponse('');
+    $.get("/start")
+    botResponse("");
 
-    msgerForm.addEventListener("submit", event => {
-      event.preventDefault();
+    const listenerFunction = event => {
+            event.preventDefault();
 
-      const msgText = msgerInput.value;
-      if (!msgText) return;
+            const msgText = msgerInput.value;
+            if (!msgText) return;
 
-      appendMessage(PERSON_NAME, PERSON_IMG, "right", msgText);
-      msgerInput.value = "";
-      botResponse(msgText);
-    });
+            appendMessage(PERSON_NAME, PERSON_IMG, "right", msgText);
+            msgerInput.value = "";
+            botResponse(msgText);
+        };
+    msgerForm.addEventListener("submit", listenerFunction);
 
     function appendMessage(name, img, side, text) {
       //   Simple solution for small apps
@@ -102,17 +142,63 @@
 
       // Bot Response
       $.get("/get", { msg: rawText }).done(function (data) {
-        console.log(rawText);
-        console.log(data);
+        //console.log(rawText);
+        //console.log(data);
         const msgText = data;
-        const element = document.getElementById("temp");
-        element.remove();
-        appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
-
+        document.getElementById("temp").remove();
+        if (msgText.startsWith("Error1: ")) {
+            sysMessage(msgText.replace(/Error1: /, ""));
+            setTimeout(function () {
+                document.getElementById("sys").remove();
+                botResponse(rawText);
+            }, 60000);
+        }
+        else if (msgText.startsWith("Error2: ")) {
+            popup.style.display = "flex";
+        }
+        else if (msgText.startsWith("Error: ")) {
+            endSession();
+          }
+        else {
+            appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
+        }
       });
-
     }
 
+    function sysMessage(rawText) {
+        const msgHTML = `
+        <div class="sys" id="sys">
+            <div class="sys-message">
+                ${rawText}
+            </div>
+        </div>
+        `;
+        msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+
+        }
+
+    function endSession() {
+        popup.style.display = "none";
+        sysMessage("Session ended.");
+        $.get("/stop");
+    }
+
+    //function startChat() {
+    //    let leftElements = document.getElementsByClassName("msg left-msg");
+    //    let rightElements = document.getElementsByClassName("msg right-msg");
+
+    //    // Loop through leftElements and delete each one
+    //    for (let i = 0; i < leftElements.length; i++) {
+    //        leftElements[i].remove();
+    //    }
+
+    //    // Loop through rightElements and delete each one
+    //    for (let i = 0; i < rightElements.length; i++) {
+    //        rightElements[i].remove();
+    //    }
+    //    $.get("/start")
+    //    botResponse("");
+    //}
 
     // Utils
     function get(selector, root = document) {

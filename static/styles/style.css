@@ -135,12 +135,12 @@ body {
     background: #eee;
 }
 
-    .msger-inputarea * {
-        padding: 10px;
-        border: none;
-        border-radius: 3px;
-        font-size: 1em;
-    }
+.msger-inputarea * {
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    font-size: 1em;
+}
 
 .msger-input {
     flex: 1;
@@ -182,3 +182,110 @@ body {
         transform: rotate(360deg);
     }
 }
+.sys {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sys-message {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+
+.popup-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+.popup-content h2 {
+    margin-top: 0;
+}
+
+.popup-content input[type="password"] {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.popup-content button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.popup-content button:hover {
+    background-color: #3e8e41;
+}
+
+.popup-content button:active {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    transform: translateY(1px);
+}
+
+
+.rest/*art-chat {
+    padding-left: 30px;
+    background: url("refresh.png") no-repeat left;
+    background-size: 30px;*/
+    /*border-radius: 50%;*/
+    /*background-color: #009688;*/
+    /*cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.restart-chat:hover {
+    transform: scale(1.1);
+}
+
+.restart-chat.clicked {
+    animation: rotate 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}*/

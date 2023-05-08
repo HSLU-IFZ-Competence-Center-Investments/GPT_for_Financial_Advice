@@ -19,6 +19,7 @@
 #    # Run the app server on localhost:4449
 #    app.run('localhost', 4449)
 
+from tkinter import E
 from flask import Flask, render_template, request
 from win32api import GenerateConsoleCtrlEvent
 import nltk,os,openai,time
@@ -35,7 +36,10 @@ app = Flask(__name__)
 app.static_folder = 'static'
 
 chat_limit = 100
-openai.api_key = open("key.txt", "r").read().strip("\n")
+try:
+    openai.api_key = open("key.txt", "r").read().strip("\n")
+except:
+    pass
 advisor = AdvisorGPT(chat_limit=chat_limit)
 
 @app.route("/")
@@ -43,24 +47,33 @@ def home():
     return render_template("index.html")
 
 @app.route("/get")
-def get_bot_response(user_input=None):
-    user_input = request.args.get('msg') if user_input is None else user_input
+def get_bot_response():
+    user_input = request.args.get('msg')
     try:
         return advisor.respond(user_input)
     except openai.error.RateLimitError:
-        pop_up('Rate limit exceeded. I will be back shortly, please wait for a minute.')
-        time.sleep(60)
-        get_bot_response(user_input)
-    # AuthenticationError
-    except openai.error.AuthenticationError as e:
-        pop_up(e)
+        return 'Error1: Rate limit exceeded, please wait for a minute.'
+    except openai.error.AuthenticationError:
+        return "Error2: Authentication error. Please enter your API key."
+    except Exception as e:
+        print(e)
+        return "Error: " + 'Connection failed. Please start a new chat.'
+
+@app.route("/start")
+def start():
+    advisor.__init__(chat_limit=chat_limit)
+    return "Chat started."
+
+@app.route("/stop")
 def stop():
     CTRL_C_EVENT = 0
     GenerateConsoleCtrlEvent(CTRL_C_EVENT, 0)
     os._exit(0)
 
-def pop_up(text1):
-    return render_template("popup.html")
+@app.route("/key")
+def set_key():
+    openai.api_key = request.args.get('key')
+    return "Key set."
 
 if __name__ == "__main__":
     app.run('localhost', 4449)

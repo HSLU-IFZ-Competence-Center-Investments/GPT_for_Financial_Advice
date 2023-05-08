@@ -138,3 +138,4 @@ RuleBasedPortfolios.xlsx
 *.vsidx
 static/styles/Cover.jpg
 static/styles/Screenshot 2023-05-07 183552.png
+.vs/tasks.vs.json

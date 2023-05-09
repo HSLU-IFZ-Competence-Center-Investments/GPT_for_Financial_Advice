@@ -9,35 +9,9 @@
 
 The demo can be accessed by running chat.py
 
- 
 
-### Layout new
-- Describe initial situation
-- Rule based tabel / brief example
-- Link to website / GIF with video
-- Main branch clean up / app.py / chat.py
-
- 
-
-### TODOs
-
- 
-
-# PRIO 1
-
- 
-
-- Web hosting 
-- API key on website; disclaimer
-- Pop up when conversation ended / possiblity to close pop up / scrole through conversation
-- Chat icons (gender neutral)
-
- 
-
-# PRIO 2
-- Known issue: No income problematic (Unemployed/Student)
-
- 
+# Known issues
+- Phrases like "no income" or "zero income" are not interpreted correctly. The model does not understand that the user has no income.
 
 
 # Not Part of the prototype
@@ -51,3 +25,17 @@ The demo can be accessed by running chat.py
 - Make the implementation flexible in terms of varying investment profile attributes.
 - Implementation of looking for the word yes or no is not robust enough. Firstly, if a word has yes or no in it we get True. On the other hand, we are already limiting it with max token=1. Secondly, np.any returns True even when we have one reply with yes (no) and majority of the replies are not yes (no). Use percentage for Yes / No, take highest.
 - Create function, which handles both cases GPT/GPT and GPT/Human. Implement a hybrid conversation scenario, where both the user and gpt could be the customer, i.e. allow gpt to take over and the user to skip answering
+
+### Layout new
+- Describe initial situation
+- Rule based tabel / brief example
+- Link to website / GIF with video
+- Main branch clean up / app.py / chat.py
+
+ 
+
+### TODOs
+- Web hosting 
+- API key on website; disclaimer
+- Pop up when conversation ended / possiblity to close pop up / scrole through conversation
+- Chat icons (gender neutral)

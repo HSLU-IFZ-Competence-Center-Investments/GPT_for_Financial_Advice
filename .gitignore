@@ -132,6 +132,7 @@ RuleBasedPortfolios.xlsx
 .DS_Store
 .vs/
 obj/
+static/
 *.sln
 *.pyproj
 static/styles/Cover.jpg

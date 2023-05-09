@@ -135,8 +135,9 @@ obj/
 __pycache__/
 sfti_gpt_webapp_env/
 Properties/
+sfti_gpt_standalone_env/
 *.vsidx
+*.pyproj
+*.sln
 static/styles/Cover.jpg
 static/styles/Screenshot 2023-05-07 183552.png
-SFTI_GPT_WebApp.pyproj
-SFTI_GPT_WebApp.pyproj.user

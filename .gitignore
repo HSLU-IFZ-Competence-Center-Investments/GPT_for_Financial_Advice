@@ -129,5 +129,3 @@ dmypy.json
 .pyre/
 key.txt
 .DS_Store
-*.sln
-*.pyproj

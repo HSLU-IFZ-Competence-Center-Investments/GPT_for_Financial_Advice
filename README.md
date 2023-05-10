@@ -34,16 +34,13 @@ of a user, i.e., a bank client, to a specific model portfolio, but can in princi
 
 The demo can be accessed locally by forking the repository, installing the packages indicated in requirements.txt and running chat.py.
 
+- pip install -r requirements.txt
 
 ### Known issues of the prototype
 - Phrases like "no income" or "zero income" are not interpreted correctly. The model does not understand that the user has no income.
 
 
-
-
-
 ### Additional: 
 - Link to website / GIF with video
-- Main branch clean up / app.py / chat.py
 
  

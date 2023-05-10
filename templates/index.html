@@ -3,11 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>AdvisorGPT</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <title>AdvisorGPT</title>
 </head>
 
 <body>
@@ -15,8 +18,10 @@
     <section class="msger">
         <header class="msger-header">
             <div class="msger-header-title">
+                <a href="#" class="refresh" role="button" onclick="location.reload();">
+                    <i class="fas fa-sync-alt"></i>
+                </a>
                 <i class="fas fa-piggy-bank "></i> AdvisorGPT <i class="fas fa-piggy-bank"></i>
-                <!--<i class="fas fa-bug"></i> AdvisorGPT <i class="fas fa-bug"></i>-->
             </div>
         </header>
 
@@ -32,63 +37,73 @@
 
         </main>
         <form class="msger-inputarea">
-            <!--<button type="button" class="restart-chat"></button>-->
             <input type="text" class="msger-input" id="textInput" placeholder="Enter your message...">
             <button type="submit" class="msger-send-btn">Send</button>
         </form>
     </section>
     <!-- partial -->
+    <script>
+
+        async function getRequest(url = '') {
+            const response = await fetch(url, {
+                method: 'GET',
+                cache: 'no-cache'
+            })
+            return response.json()
+        }
+        document.addEventListener('DOMContentLoaded', function () {
+            let url = document.location
+            let route = "/flaskwebgui-keep-server-alive"
+            let interval_request = 3 * 1000 //sec
+            function keep_alive_server() {
+                getRequest(url + route)
+                    .then(data => console.log(data))
+            }
+            setInterval(keep_alive_server, interval_request)()
+        })
+    </script>
+
     <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
 
 
 
     <script>
 
-    const msgerForm = get(".msger-inputarea");
-    const msgerInput = get(".msger-input");
-    const msgerChat = get(".msger-chat");
+        const msgerForm = get(".msger-inputarea");
+        const msgerInput = get(".msger-input");
+        const msgerChat = get(".msger-chat");
 
-    const popup = document.querySelector(".popup");
-    const keyInput = document.querySelector("#key-input");
+        const popup = document.querySelector(".popup");
+        const keyInput = document.querySelector("#key-input");
 
-    // Function to handle key submission
-    function submitkey() {
-        const key = keyInput.value;
+        // Function to handle key submission
+        function submitkey() {
+            const key = keyInput.value;
 
-        $.get("/key", { key: key })
+            $.get("/key", { key: key })
 
-        // Hide the popup
-        popup.style.display = "none";
+            // Hide the popup
+            popup.style.display = "none";
+            botResponse("");
+        }
+
+        // Get the submit and cancel buttons and add event listeners
+        const submitButton = document.querySelector("#key-submit");
+        const cancelButton = document.querySelector("#key-cancel");
+
+        submitButton.addEventListener("click", submitkey);
+        cancelButton.addEventListener("click", endSession);
+
+        // Icons made by Freepik from www.flaticon.com
+        const BOT_IMG = "https://img.freepik.com/free-vector/background-piggy-bank-with-money_23-2147629142.jpg?w=740&t=st=1683387424~exp=1683388024~hmac=6dd49ec9cb9f382b85c312f5486731d57175b5d0543bd68b7c1e061a99eff881";
+        const PERSON_IMG = "/static/styles/pp.png";
+        const BOT_NAME = "    Advisor";
+        const PERSON_NAME = "You";
+
+        $.get("/start")
         botResponse("");
-    }
 
-    // Get the submit and cancel buttons and add event listeners
-    const submitButton = document.querySelector("#key-submit");
-    const cancelButton = document.querySelector("#key-cancel");
-
-    submitButton.addEventListener("click", submitkey);
-    cancelButton.addEventListener("click", endSession);
-
-    //const restartChatButton = document.querySelector('.restart-chat');
-    //    restartChatButton.addEventListener('click', () => {
-    //    restartChatButton.classList.toggle('clicked');
-    //    setTimeout(() => {
-    //        restartChatButton.classList.toggle('clicked');
-    //    }, 1000);
-    //    startChat();
-    //});
-
-
-    // Icons made by Freepik from www.flaticon.com
-    const BOT_IMG = "https://img.freepik.com/free-vector/background-piggy-bank-with-money_23-2147629142.jpg?w=740&t=st=1683387424~exp=1683388024~hmac=6dd49ec9cb9f382b85c312f5486731d57175b5d0543bd68b7c1e061a99eff881";
-    const PERSON_IMG = "/static/styles/pp.png";
-    const BOT_NAME = "    Advisor";
-    const PERSON_NAME = "You";
-
-    $.get("/start")
-    botResponse("");
-
-    const listenerFunction = event => {
+        const listenerFunction = event => {
             event.preventDefault();
 
             const msgText = msgerInput.value;
@@ -98,125 +113,112 @@
             msgerInput.value = "";
             botResponse(msgText);
         };
-    msgerForm.addEventListener("submit", listenerFunction);
+        msgerForm.addEventListener("submit", listenerFunction);
 
-    function appendMessage(name, img, side, text) {
-      //   Simple solution for small apps
-      const msgHTML = `
-        <div class="msg ${side}-msg">
-          <div class="msg-img" style="background-image: url(${img})"></div>
+        function appendMessage(name, img, side, text) {
+            //   Simple solution for small apps
+            const msgHTML = `
+            <div class="msg ${side}-msg">
+              <div class="msg-img" style="background-image: url(${img})"></div>
 
-          <div class="msg-bubble">
-            <div class="msg-info">
-              <div class="msg-info-name">${name}</div>
-              <div class="msg-info-time">${formatDate(new Date())}</div>
+              <div class="msg-bubble">
+                <div class="msg-info">
+                  <div class="msg-info-name">${name}</div>
+                  <div class="msg-info-time">${formatDate(new Date())}</div>
+                </div>
+
+                <div class="msg-text">${text}</div>
+              </div>
             </div>
+            `;
 
-            <div class="msg-text">${text}</div>
-          </div>
-        </div>
-        `;
+            msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+            msgerChat.scrollTop += 500;
+        }
 
-      msgerChat.insertAdjacentHTML("beforeend", msgHTML);
-      msgerChat.scrollTop += 500;
-    }
+        function botResponse(rawText) {
+            const msgHTML = `
+            <div class="msg left-msg" id="temp">
+              <div class="msg-img" style="background-image: url(${BOT_IMG})"></div>
 
-    function botResponse(rawText) {
-        const msgHTML = `
-        <div class="msg left-msg" id="temp">
-          <div class="msg-img" style="background-image: url(${BOT_IMG})"></div>
+              <div class="msg-bubble">
+                <div class="msg-info">
+                  <div class="msg-info-name">${BOT_NAME}</div>
+                </div>
+                    <i class="fas fa-spinner"></i>
 
-          <div class="msg-bubble">
-            <div class="msg-info">
-              <div class="msg-info-name">${BOT_NAME}</div>
+              </div>
             </div>
-                <i class="fas fa-spinner"></i>
+            `;
 
-          </div>
-        </div>
-        `;
+            msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+            msgerChat.scrollTop += 500;
 
-        msgerChat.insertAdjacentHTML("beforeend", msgHTML);
-        msgerChat.scrollTop += 500;
+            // Bot Response
+            $.get("/get", { msg: rawText }).done(function (data) {
+                //console.log(rawText);
+                //console.log(data);
+                const msgText = data;
+                document.getElementById("temp").remove();
+                if (msgText.startsWith("Error1: ")) {
+                    sysMessage(msgText.replace(/Error1: /, ""));
+                    setTimeout(function () {
+                        document.getElementById("sys").remove();
+                        botResponse(rawText);
+                    }, 60000);
+                }
+                else if (msgText.startsWith("Error2: ")) {
+                    popup.style.display = "flex";
+                }
+                else if (msgText.startsWith("Error3: ")) {
+                    endSession(msgText.replace(/Error3: /, ""));
+                }
+                else if (msgText.startsWith("Error: ")) {
+                    endSession();
+                }
+                else {
+                    appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
+                }
+            });
+        }
 
-      // Bot Response
-      $.get("/get", { msg: rawText }).done(function (data) {
-        //console.log(rawText);
-        //console.log(data);
-        const msgText = data;
-        document.getElementById("temp").remove();
-        if (msgText.startsWith("Error1: ")) {
-            sysMessage(msgText.replace(/Error1: /, ""));
-            setTimeout(function () {
+        function sysMessage(rawText) {
+            const msgHTML = `
+            <div class="sys" id="sys">
+                <div class="sys-message">
+                    ${rawText}
+                    <button id="key-ok">Ok</button>
+                </div>
+            </div>
+            `;
+            msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+            let okButton = document.querySelector("#key-ok");
+            okButton.addEventListener("click", function () {
                 document.getElementById("sys").remove();
-                botResponse(rawText);
-            }, 60000);
-        }
-        else if (msgText.startsWith("Error2: ")) {
-            popup.style.display = "flex";
-        }
-        else if (msgText.startsWith("Error3: ")) {
-            endSession(msgText.replace(/Error3: /, ""));
-        }
-        else if (msgText.startsWith("Error: ")) {
-            endSession();
-          }
-        else {
-            appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
-        }
-      });
-    }
-
-    function sysMessage(rawText) {
-        const msgHTML = `
-        <div class="sys" id="sys">
-            <div class="sys-message">
-                ${rawText}
-            </div>
-        </div>
-        `;
-        msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+            });
 
         }
 
-    function endSession(txt='') {
-        popup.style.display = "none";
-        if (txt === '') {
-            sysMessage("Session ended.");
-        } else {
-            sysMessage(txt + ' ' + "Session ended.");
+        function endSession(txt = false) {
+            popup.style.display = "none";
+            if (typeof (txt) === 'string') {
+                sysMessage(txt + ' ' + "Session ended.");
+            } else {
+                sysMessage("Session ended.");
+            }
         }
-        //$.get("/stop");
-    }
 
-    //function startChat() {
-    //    let leftElements = document.getElementsByClassName("msg left-msg");
-    //    let rightElements = document.getElementsByClassName("msg right-msg");
+        // Utils
+        function get(selector, root = document) {
+            return root.querySelector(selector);
+        }
 
-    //    // Loop through leftElements and delete each one
-    //    for (let i = 0; i < leftElements.length; i++) {
-    //        leftElements[i].remove();
-    //    }
+        function formatDate(date) {
+            const h = "0" + date.getHours();
+            const m = "0" + date.getMinutes();
 
-    //    // Loop through rightElements and delete each one
-    //    for (let i = 0; i < rightElements.length; i++) {
-    //        rightElements[i].remove();
-    //    }
-    //    $.get("/start")
-    //    botResponse("");
-    //}
-
-    // Utils
-    function get(selector, root = document) {
-      return root.querySelector(selector);
-    }
-
-    function formatDate(date) {
-      const h = "0" + date.getHours();
-      const m = "0" + date.getMinutes();
-
-      return `${h.slice(-2)}:${m.slice(-2)}`;
-    }
+            return `${h.slice(-2)}:${m.slice(-2)}`;
+        }
 
 
 

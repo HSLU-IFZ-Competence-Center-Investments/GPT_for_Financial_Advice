@@ -52,6 +52,17 @@ body {
     color: #666;
 }
 
+.refresh {
+    float: left;
+    color: darkslategray;
+    margin-right: 10px;
+    transition: transform 0.3s ease;
+}
+
+.refresh:hover {
+    transform: rotate(360deg);
+}
+
 .msger-chat {
     flex: 1;
     overflow-y: auto;
@@ -260,32 +271,3 @@ body {
     transform: translateY(1px);
 }
 
-
-.rest/*art-chat {
-    padding-left: 30px;
-    background: url("refresh.png") no-repeat left;
-    background-size: 30px;*/
-    /*border-radius: 50%;*/
-    /*background-color: #009688;*/
-    /*cursor: pointer;
-    transition: all 0.3s ease;
-}
-
-.restart-chat:hover {
-    transform: scale(1.1);
-}
-
-.restart-chat.clicked {
-    animation: rotate 1s;
-    animation-fill-mode: forwards;
-}
-
-@keyframes rotate {
-    from {
-        transform: rotate(0deg);
-    }
-
-    to {
-        transform: rotate(360deg);
-    }
-}*/

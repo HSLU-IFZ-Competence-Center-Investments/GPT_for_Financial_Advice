@@ -14,7 +14,7 @@
 
 - Rule based tabel / brief example
 
-![Table_rules.jpg](https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/blob/main/Images/Table_rules.jpg)
+![Table_rules.JPG](https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/blob/main/Images/Table_rules.JPG)
 
 
 ### Prototype 

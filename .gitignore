@@ -129,8 +129,5 @@ dmypy.json
 .pyre/
 key.txt
 .DS_Store
-.vs/
-obj/
 *.sln
 *.pyproj
-static/styles/Cover.jpg

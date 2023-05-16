@@ -39,6 +39,8 @@ The demo can be accessed locally by ![forking the repository](https://docs.githu
 
 The main difference between the files app.py and chat.py is that the app.py start a simple user interface, whereas the chat.py displays your input and the ChatGPT responses directly in the terminal. 
 
+When starting either file, you will be asked to enter an ![OpenAI API key](https://platform.openai.com/account/api-keys), since the prototype runs with the paid LLM ChatGPT-3.5-turbo. 
+
 ### Known issues of the prototype
 - Phrases like "no income" or "zero income" are not interpreted correctly. The model does not understand that the user has no income.
 

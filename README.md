@@ -32,9 +32,12 @@ of a user, i.e., a bank client, to a specific model portfolio, but can in princi
 
 ### Testing the Prototype 
 
-The demo can be accessed locally by forking the repository, installing the packages indicated in requirements.txt and running chat.py.
+The demo can be accessed locally by ![forking the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo), installing the packages indicated in requirements.txt and running the file app.py or chat.py. If you have not worked with GitHub before, ![set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) first.
 
-- pip install -r requirements.txt
+- In an existing environment you can install packages using the following terminal command: pip install -r requirements.txt
+- Please consult this guide if you are unsure how to set up a ![new environment](https://realpython.com/python-virtual-environments-a-primer/#create-it).
+
+The main difference between the files app.py and chat.py is that the app.py start a simple user interface, whereas the chat.py displays your input and the ChatGPT responses directly in the terminal. 
 
 ### Known issues of the prototype
 - Phrases like "no income" or "zero income" are not interpreted correctly. The model does not understand that the user has no income.

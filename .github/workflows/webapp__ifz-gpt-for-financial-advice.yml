@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'IFZ-GPT-for-Financial-Advice'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C36F0C516F3B49669C7EC6FBB5DE6D42 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_598EC44ABB504B54A75FD59059082948 }}

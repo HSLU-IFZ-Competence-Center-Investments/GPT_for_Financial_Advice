@@ -32,12 +32,12 @@ of a user, i.e., a bank client, to a specific model portfolio, but can in princi
 
 ### Testing the Prototype 
 
-The demo can be accessed locally by ![forking the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo), installing the packages indicated in requirements.txt and running the file chat.py. If you have not worked with GitHub before, ![set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) first.
+The demo can be accessed locally by [forking the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo), installing the packages indicated in requirements.txt and running the file chat.py. If you have not worked with GitHub before, [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) first.
 
 - In an existing environment you can install packages using the following terminal command: pip install -r requirements.txt
-- Please consult this guide if you are unsure how to set up a ![new environment](https://realpython.com/python-virtual-environments-a-primer/#create-it).
+- Please consult this guide if you are unsure how to set up a [new environment](https://realpython.com/python-virtual-environments-a-primer/#create-it).
 
-When starting chat.py, you will be asked to enter an ![OpenAI API key](https://platform.openai.com/account/api-keys), since the prototype runs with the paid LLM ChatGPT-3.5-turbo. 
+When starting chat.py, you will be asked to enter an [OpenAI API key](https://platform.openai.com/account/api-keys), since the prototype runs with the paid LLM ChatGPT-3.5-turbo. 
 
 ### Known issues of the prototype
 - Phrases like "no income" or "zero income" are not interpreted correctly. The model does not understand that the user has no income.

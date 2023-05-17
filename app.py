@@ -294,6 +294,7 @@ def get_bot_response():
 @app.route("/start")
 def start():
     advisor.__init__(chat_limit=chat_limit)
+    openai.api_key = None
     return "Chat started."
 
 
@@ -303,4 +304,5 @@ def set_key():
     return "Key set."
 
 if __name__ == "__main__":
-    app.run('localhost', 4449)
+    # app.run('localhost', 4449)
+    app.run()

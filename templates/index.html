@@ -48,6 +48,8 @@
 
     <script>
 
+        let timeoutId;
+
         const msgerForm = get(".msger-inputarea");
         const msgerInput = get(".msger-input");
         const msgerChat = get(".msger-chat");
@@ -68,10 +70,10 @@
 
         // Get the submit and cancel buttons and add event listeners
         const submitButton = document.querySelector("#key-submit");
-        const cancelButton = document.querySelector("#key-cancel");
+        // const cancelButton = document.querySelector("#key-cancel");
 
         submitButton.addEventListener("click", submitkey);
-        cancelButton.addEventListener("click", endSession);
+        // cancelButton.addEventListener("click", endSession);
 
         // Icons made by Freepik from www.flaticon.com
         const BOT_IMG = "https://img.freepik.com/free-vector/background-piggy-bank-with-money_23-2147629142.jpg?w=740&t=st=1683387424~exp=1683388024~hmac=6dd49ec9cb9f382b85c312f5486731d57175b5d0543bd68b7c1e061a99eff881";
@@ -141,7 +143,7 @@
                 document.getElementById("temp").remove();
                 if (msgText.startsWith("Error1: ")) {
                     sysMessage(msgText.replace(/Error1: /, ""));
-                    setTimeout(function () {
+                    timeoutId = setTimeout(function () {
                         document.getElementById("sys").remove();
                         botResponse(rawText);
                     }, 60000);
@@ -166,7 +168,7 @@
             <div class="sys" id="sys">
                 <div class="sys-message">
                     ${rawText}
-                    <button id="key-ok">Ok</button>
+                    <button id="key-ok">Close</button>
                 </div>
             </div>
             `;
@@ -174,6 +176,7 @@
             let okButton = document.querySelector("#key-ok");
             okButton.addEventListener("click", function () {
                 document.getElementById("sys").remove();
+                clearTimeout(timeoutId);
             });
 
         }

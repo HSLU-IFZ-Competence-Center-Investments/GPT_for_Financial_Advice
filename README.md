@@ -47,6 +47,6 @@ When starting chat.py, you will be asked to enter an [OpenAI API key](https://pl
 
 https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/assets/100845332/f50611ec-7127-47f6-9a2f-431267fe1f75
 
-
+You might enlarge the video to full screen for a better experience.
 
  

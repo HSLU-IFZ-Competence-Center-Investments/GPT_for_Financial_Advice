@@ -30,7 +30,7 @@ The rule based decision system can be seen as a function that deterministically 
 of a user, i.e., a bank client, to a specific model portfolio, but can in principle be used for other rule-sets.
 
 
-### Testing the Prototype 
+### Testing the prototype 
 
 The demo can be accessed locally by [forking the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo), installing the packages indicated in requirements.txt and running the file chat.py. If you have not worked with GitHub before, [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) first.
 
@@ -43,7 +43,10 @@ When starting chat.py, you will be asked to enter an [OpenAI API key](https://pl
 - Phrases like "no income" or "zero income" are not interpreted correctly. The model does not understand that the user has no income.
 
 
-### Additional: 
-- Link to website / GIF with video
+### Video of prototpye
+
+https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/assets/100845332/f50611ec-7127-47f6-9a2f-431267fe1f75
+
+
 
  

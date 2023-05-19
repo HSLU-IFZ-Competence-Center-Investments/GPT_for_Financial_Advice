@@ -43,7 +43,10 @@ When starting chat.py, you will be asked to enter an [OpenAI API key](https://pl
 - Phrases like "no income" or "zero income" are not interpreted correctly. The model does not understand that the user has no income.
 
 
-### Additional: 
-- Link to website / GIF with video
+### Video of the prototype 
+
+https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/assets/100845332/b85b9883-0b6c-4b1b-aa9d-753de9319008
+
+
 
  

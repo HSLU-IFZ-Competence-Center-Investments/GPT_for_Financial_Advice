@@ -210,10 +210,9 @@ class AdvisorGPT(ChatSession):
             return 'I am sorry. I did not quite get that.'
         self.inject(line=user_input,role='user')
         self.update_investor_profile(verbose=False)
-        self.loop_no += 1
         if len(self.ask_for_these):
             # self.inject(line=f"*I must ask about the customer's {', '.join(ask_for_these)}...*",role="assistant")
-            if self.loop_no > 5:
+            if self.loop_no > 4:
                 self.inject(line=f"*I am still not sure what the customer's {', '.join(self.ask_for_these)} is. I must ask for these...*",role="assistant")
         else:
             self.session_completed = True
@@ -229,6 +228,7 @@ class AdvisorGPT(ChatSession):
             return self.messages[-1]['content']
 
         self.chat(user_input='',verbose=False)
+        self.loop_no += 1
         return self.messages[-1]['content']
 
    
@@ -288,6 +288,8 @@ def get_bot_response():
         return "Error2: Authentication error. Please enter your API key."
     except ChatLimitError:
         return 'Error3: Chat limit exceeded.'
+    except openai.error.APIError:
+        return 'Error4: Server error. We are reconnecting you. Please wait.'
     except Exception as e:
         print(e)
         return "Error: " + 'Connection failed. Please start a new chat.'

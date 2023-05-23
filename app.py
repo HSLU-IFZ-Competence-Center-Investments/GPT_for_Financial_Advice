@@ -195,10 +195,8 @@ class AdvisorGPT(ChatSession):
         self.threshold = chat_limit
         
         ## 3.2) Instruct GPT to become a financial advisor.
-        self.inject(line="You are a financial advisor at a bank. You must ask specifically what the customers' age, annual income and risk appetite is. Be subtle about asking for these information and\
-                                do not ask at the very beginning of the conversation. Always prioritize answering the customers' questions\
-                                over asking for these information. Do not recommend a specific portfolio before you gathered these information.\
-                                I am a customer seeking financial advise from you. Say ok if you understand.",role="user")
+        self.inject(line="You are a financial advisor at a bank. You must ask specifically what the customers' age, annual income and risk appetite is. Be subtle about asking for these information and do not ask at the very beginning of the conversation. Always prioritize answering the customers' questions over asking for these information. Do not recommend a specific portfolio before you gathered these information. I am a customer seeking financial advise from you. Say ok if you understand." \
+                                ,role="user")
         self.inject(line="Ok.",role= "assistant")
 
         self.session_completed = False
@@ -279,6 +277,9 @@ def home():
 
 @app.route("/get")
 def get_bot_response():
+    
+    # advisor() # Debug
+
     user_input = request.args.get('msg')
     exception_happened = True
     backup_messages = advisor.messages.copy()
@@ -294,14 +295,18 @@ def get_bot_response():
     except openai.error.APIError:
         txt = 'Error4: Server error. We are reconnecting you. Please wait.'
     except Exception as e:
-        # print(e)
+        # print(e) # Debug
         txt = "Error: " + 'Connection failed. Please start a new chat.'
     else:
         exception_happened = False
+        # print("Success. Loop no:",advisor.loop_no) # Debug
         
     if exception_happened:
+        # print("Exception happened. Restoring messages...") # Debug
         advisor.messages = backup_messages
         advisor.history = backup_history
+    
+    # advisor() # Debug
 
     return txt
 
@@ -318,5 +323,5 @@ def set_key():
     return "Key set."
 
 if __name__ == "__main__":
-    # app.run('localhost', 4449)
+    # app.run('localhost', 4449) # Debug
     app.run()

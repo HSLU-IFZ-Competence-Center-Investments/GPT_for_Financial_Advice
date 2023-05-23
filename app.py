@@ -280,19 +280,30 @@ def home():
 @app.route("/get")
 def get_bot_response():
     user_input = request.args.get('msg')
+    exception_happened = True
+    backup_messages = advisor.messages.copy()
+    backup_history = advisor.history.copy()
     try:
-        return advisor.respond(user_input)
+        txt = advisor.respond(user_input)
     except openai.error.RateLimitError:
-        return 'Error1: Rate limit exceeded, please wait for a minute or retry.'
+        txt = 'Error1: Rate limit exceeded, please wait for a minute or retry.'
     except openai.error.AuthenticationError:
-        return "Error2: Authentication error. Please enter your API key."
+        txt = "Error2: Authentication error. Please enter your API key."
     except ChatLimitError:
-        return 'Error3: Chat limit exceeded.'
+        txt = 'Error3: Chat limit exceeded.'
     except openai.error.APIError:
-        return 'Error4: Server error. We are reconnecting you. Please wait.'
+        txt = 'Error4: Server error. We are reconnecting you. Please wait.'
     except Exception as e:
         # print(e)
-        return "Error: " + 'Connection failed. Please start a new chat.'
+        txt = "Error: " + 'Connection failed. Please start a new chat.'
+    else:
+        exception_happened = False
+        
+    if exception_happened:
+        advisor.messages = backup_messages
+        advisor.history = backup_history
+
+    return txt
 
 @app.route("/start")
 def start():

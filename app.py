@@ -289,6 +289,7 @@ def get_bot_response():
     except ChatLimitError:
         return 'Error3: Chat limit exceeded.'
     except Exception as e:
+        print(e)
         return "Error: " + 'Connection failed. Please start a new chat.'
 
 @app.route("/start")
@@ -304,5 +305,4 @@ def set_key():
     return "Key set."
 
 if __name__ == "__main__":
-    # app.run('localhost', 4449)
-    app.run()
+    app.run('localhost', 4449)

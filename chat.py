@@ -105,7 +105,4 @@ if __name__ == "__main__":
                 f.write(input("Please enter your OpenAI API key: "))
 
     print('Connecting you to the financial advisor...')
-    try:
-        main()
-    except:
-        print('Connection failed. Please start a new chat.')
+    main()

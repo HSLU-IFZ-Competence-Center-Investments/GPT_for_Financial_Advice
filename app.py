@@ -195,10 +195,8 @@ class AdvisorGPT(ChatSession):
         self.threshold = chat_limit
         
         ## 3.2) Instruct GPT to become a financial advisor.
-        self.inject(line="You are a financial advisor at a bank. You must ask specifically what the customers' age, annual income and risk appetite is. Be subtle about asking for these information and\
-                                do not ask at the very beginning of the conversation. Always prioritize answering the customers' questions\
-                                over asking for these information. Do not recommend a specific portfolio before you gathered these information.\
-                                I am a customer seeking financial advise from you. Say ok if you understand.",role="user")
+        self.inject(line="You are a financial advisor at a bank. You must ask specifically what the customers' age, annual income and risk appetite is. Be subtle about asking for these information and do not ask at the very beginning of the conversation. Always prioritize answering the customers' questions over asking for these information. Do not recommend a specific portfolio before you gathered these information. I am a customer seeking financial advise from you. Say ok if you understand." \
+                                ,role="user")
         self.inject(line="Ok.",role= "assistant")
 
         self.session_completed = False
@@ -210,10 +208,9 @@ class AdvisorGPT(ChatSession):
             return 'I am sorry. I did not quite get that.'
         self.inject(line=user_input,role='user')
         self.update_investor_profile(verbose=False)
-        self.loop_no += 1
         if len(self.ask_for_these):
             # self.inject(line=f"*I must ask about the customer's {', '.join(ask_for_these)}...*",role="assistant")
-            if self.loop_no > 5:
+            if self.loop_no > 4:
                 self.inject(line=f"*I am still not sure what the customer's {', '.join(self.ask_for_these)} is. I must ask for these...*",role="assistant")
         else:
             self.session_completed = True
@@ -229,6 +226,7 @@ class AdvisorGPT(ChatSession):
             return self.messages[-1]['content']
 
         self.chat(user_input='',verbose=False)
+        self.loop_no += 1
         return self.messages[-1]['content']
 
    
@@ -279,17 +277,38 @@ def home():
 
 @app.route("/get")
 def get_bot_response():
+    
+    # advisor() # Debug
+
     user_input = request.args.get('msg')
+    exception_happened = True
+    backup_messages = advisor.messages.copy()
+    backup_history = advisor.history.copy()
     try:
-        return advisor.respond(user_input)
+        txt = advisor.respond(user_input)
     except openai.error.RateLimitError:
-        return 'Error1: Rate limit exceeded, please wait for a minute.'
+        txt = 'Error1: Rate limit exceeded, please wait for a minute or retry.'
     except openai.error.AuthenticationError:
-        return "Error2: Authentication error. Please enter your API key."
+        txt = "Error2: Authentication error. Please enter your API key."
     except ChatLimitError:
-        return 'Error3: Chat limit exceeded.'
+        txt = 'Error3: Chat limit exceeded.'
+    except openai.error.APIError:
+        txt = 'Error4: Server error. We are reconnecting you. Please wait.'
     except Exception as e:
-        return "Error: " + 'Connection failed. Please start a new chat.'
+        # print(e) # Debug
+        txt = "Error: " + 'Connection failed. Please start a new chat.'
+    else:
+        exception_happened = False
+        # print("Success. Loop no:",advisor.loop_no) # Debug
+        
+    if exception_happened:
+        # print("Exception happened. Restoring messages...") # Debug
+        advisor.messages = backup_messages
+        advisor.history = backup_history
+    
+    # advisor() # Debug
+
+    return txt
 
 @app.route("/start")
 def start():
@@ -304,5 +323,5 @@ def set_key():
     return "Key set."
 
 if __name__ == "__main__":
-    # app.run('localhost', 4449)
+    # app.run('localhost', 4449) # Debug
     app.run()

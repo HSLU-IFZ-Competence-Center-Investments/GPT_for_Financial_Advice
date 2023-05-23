@@ -142,17 +142,29 @@
                 const msgText = data;
                 document.getElementById("temp").remove();
                 if (msgText.startsWith("Error1: ")) {
-                    sysMessage(msgText.replace(/Error1: /, ""));
+                    sysMessage(msgText.replace(/Error1: /, ""),true,"Retry");
                     timeoutId = setTimeout(function () {
                         document.getElementById("sys").remove();
                         botResponse(rawText);
                     }, 60000);
+                    let okButton = document.querySelector("#key-ok");
+                    okButton.addEventListener("click", function () {
+                        clearTimeout(timeoutId);
+                        botResponse(rawText);
+                    });
                 }
                 else if (msgText.startsWith("Error2: ")) {
                     popup.style.display = "flex";
                 }
                 else if (msgText.startsWith("Error3: ")) {
                     endSession(msgText.replace(/Error3: /, ""));
+                }
+                else if (msgText.startsWith("Error4: ")) {
+                    sysMessage(msgText.replace(/Error4: /, ""),false);
+                    setTimeout(function () {
+                        document.getElementById("sys").remove();
+                        botResponse(rawText);
+                    }, 3000);
                 }
                 else if (msgText.startsWith("Error: ")) {
                     endSession();
@@ -163,12 +175,14 @@
             });
         }
 
-        function sysMessage(rawText) {
-            const msgHTML = `
+        function sysMessage(rawText, allowClose = true,buttonText="Close") {
+
+            if (allowClose) {
+                const msgHTML = `
             <div class="sys" id="sys">
                 <div class="sys-message">
                     ${rawText}
-                    <button id="key-ok">Close</button>
+                    <button id="key-ok">${buttonText}</button>
                 </div>
             </div>
             `;
@@ -176,8 +190,18 @@
             let okButton = document.querySelector("#key-ok");
             okButton.addEventListener("click", function () {
                 document.getElementById("sys").remove();
-                clearTimeout(timeoutId);
             });
+            }
+            else{
+                const msgHTML = `
+            <div class="sys" id="sys">
+                <div class="sys-message">
+                    ${rawText}
+                </div>
+            </div>
+            `;
+            msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+            }
 
         }
 

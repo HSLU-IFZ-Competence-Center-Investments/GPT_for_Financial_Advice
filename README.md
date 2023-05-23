@@ -8,7 +8,7 @@
 
 ### Initial situation
 
-The objective of study GPT for Financial Advice is to explore how LLMs and rule-based systems can be combined for investment advice.
+The objective of study "GPT for Financial Advice" is to explore how LLMs and rule-based systems can be combined for investment advice.
 In addition, the study aims to create a prototype that showcases the benefits of integrating these two concepts,
 without, however, meeting all regulatory requirements (e.g. by the Banking Act or the Federal Data Protection Act) for
 AI-based investment advice. Hence, the focus is on demonstrating the technical feasibility of using LLMs to support

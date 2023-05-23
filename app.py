@@ -283,7 +283,7 @@ def get_bot_response():
     try:
         return advisor.respond(user_input)
     except openai.error.RateLimitError:
-        return 'Error1: Rate limit exceeded, please wait for a minute.'
+        return 'Error1: Rate limit exceeded, please wait for a minute or retry.'
     except openai.error.AuthenticationError:
         return "Error2: Authentication error. Please enter your API key."
     except ChatLimitError:

@@ -5,7 +5,7 @@ from easydict import EasyDict as edict
 
 #%% for DEV
 
-PROJECT_NAME = 'ML_template' # must be same as project folder name
+PROJECT_NAME = 'AI-and-Impact-Investing' # must be same as project folder name
 
 SUPPORTED_MODELS = ['OLS']
 
@@ -51,5 +51,6 @@ __C.PATH.OUTPUT = os.path.join(__C.PATH.CODE,'output')
 
 __C.PATH.PREP = os.path.join(__C.PATH.OUTPUT,'data')
 __C.PATH.MODELS = os.path.join(__C.PATH.OUTPUT,'models')
+__C.PATH.HTMLS = os.path.join(__C.PATH.DATA,'websites')
 
 __C.SUPPORTED_MODELS = SUPPORTED_MODELS

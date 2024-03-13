@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>Vimeo</ShortName>
+	<Description>Search for videos on Vimeo</Description>
+	<Url type="text/html" template="https://vimeo.com/search">
+	<Param name="q" value="{searchTerms}"/>
+	</Url>
+	<Image height="16" width="16" type="image/x-icon">https://f.vimeocdn.com/images_v6/favicon.ico?273389cf398240f0fefb9af33aec4eff7b0048e5</Image>
+	<Image height="64" width="64" type="image/png">https://i.vimeocdn.com/favicon/main_64</Image>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

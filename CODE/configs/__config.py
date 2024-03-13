@@ -52,5 +52,6 @@ __C.PATH.OUTPUT = os.path.join(__C.PATH.CODE,'output')
 __C.PATH.PREP = os.path.join(__C.PATH.OUTPUT,'data')
 __C.PATH.MODELS = os.path.join(__C.PATH.OUTPUT,'models')
 __C.PATH.HTMLS = os.path.join(__C.PATH.DATA,'websites')
+__C.PATH.CRAWLER = os.path.join(__C.PATH.DATA,'CRAWLER')
 
 __C.SUPPORTED_MODELS = SUPPORTED_MODELS

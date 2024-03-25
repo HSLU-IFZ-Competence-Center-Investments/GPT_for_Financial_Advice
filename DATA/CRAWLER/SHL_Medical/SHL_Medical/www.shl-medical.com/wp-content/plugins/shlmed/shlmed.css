@@ -1,0 +1,49 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4137302, 2021-08-06T02:12:41-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Calibri-Italic by Ascender
+ * URL: https://www.myfonts.com/fonts/ascender/calibri/italic/
+ * 
+ * Webfont: Calibri-BoldItalic by Ascender
+ * URL: https://www.myfonts.com/fonts/ascender/calibri/bold-italic/
+ * 
+ * Webfont: Calibri-Bold by Ascender
+ * URL: https://www.myfonts.com/fonts/ascender/calibri/bold/
+ * 
+ * Webfont: Calibri by Ascender
+ * URL: https://www.myfonts.com/fonts/ascender/calibri/regular/
+ * 
+ * 
+ * Webfonts copyright: &amp;#x00A9; 2007 Microsoft Corporation. All Rights Reserved.
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url('../../../../hello.myfonts.net/count/3f2156.css');
+  
+@font-face {
+  font-family: "Calibri-Italic";
+  src: url('webFonts/CalibriItalic/font.woff2') format('woff2'), url('webFonts/CalibriItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Calibri-Bold";
+  src: url('webFonts/CalibriBold/font.woff2') format('woff2'), url('webFonts/CalibriBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Calibri-BoldItalic";
+  src: url('webFonts/CalibriBoldItalic/font.woff2') format('woff2'), url('webFonts/CalibriBoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Calibri";
+  src: url('webFonts/Calibri/font.woff2') format('woff2'), url('webFonts/Calibri/font.woff') format('woff');
+}
+

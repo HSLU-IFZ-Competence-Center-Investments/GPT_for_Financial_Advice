@@ -1,0 +1,827 @@
+/* ======= Rooms1 style ======= */
+.rooms1 .item {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 30px; z-index: 9;
+}
+.rooms1 .item:hover img {
+    -webkit-filter: none;
+    filter: none;
+    -webkit-transform: scale(1.09, 1.09);
+    transform: scale(1.09, 1.09);
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.rooms1 .item:hover .con {
+    bottom: 0; height:auto;
+}
+
+.rooms1 .item img {
+    -webkit-transition: all .5s;
+    transition: all .5s; width: 100%;
+}
+.rooms1 .item .category {
+  position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index:99;
+    writing-mode: vertical-rl;
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    text-orientation: mixed;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    background: transparent;
+    border: 1px solid rgba(255,255,255,0.5);
+    
+    padding: 10px 3px;
+    line-height: 1.5em;
+}
+.rooms1 .item .category:hover { background:#ab194e; border:1px solid #ab194e;  }
+.rooms1 .item .category a {
+    color: #fff;
+}
+.rooms1 .item .category:hover {
+    color: #fff;
+}
+
+.rooms1 .item .OverlayContent { 
+  padding: 20px;
+    position: absolute;
+    bottom:-120px;
+    left: 0;
+    width: 100%;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    text-align: left;
+    z-index: 20;
+    height: 100%;
+    box-sizing: border-box;
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+
+  }
+.DevMeetings .rooms1 .item:hover .OverlayContent {height: 100%; bottom: 0; background-color: rgba(0, 0, 0, 0.5);}
+.rooms1 .item:hover .OverlayContent {height: 100%; bottom: 0; background-color: rgba(0, 0, 0, 0.5);}
+.rooms1 .item:hover .OverlayContent .con { background-color: transparent;  }
+
+.rooms1 .item .con {
+    padding: 20px;
+    position: absolute;
+    bottom:0;
+    left: 0;
+    width: 100%;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    text-align: left;
+    z-index: 20;
+    height: auto;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.5);
+    /*background: -moz-linear-gradient(top, transparent 0, rgba(0, 0, 0, .5) 10%, rgba(0, 0, 0, .9) 90%);
+    background: -webkit-linear-gradient(top, transparent 0, rgba(0, 0, 0, .05) 10%, rgba(0, 0, 0, .9) 90%);
+    background: linear-gradient(to bottom, transparent 0, rgba(0, 0, 0, .05) 10%, rgba(0, 0, 0, .9) 90%);*/
+}
+.rooms1 .item .con h6,
+.rooms1 .item .con h6 a {
+    position: relative;
+    color: #fff;
+    font-size: 16px;
+    
+    display: inline;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.rooms1 .item .con h6 i {
+    font-size: 6px;
+    margin-right: 2px;
+}
+.rooms1 .item .con h5,
+.rooms1 .item .con h5 a {
+    position: relative;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 5px; text-decoration: none;
+}
+.rooms1 .item .con h5 a:hover { color:#ad9766;  }
+.rooms1 .item .con p {
+    color: #fff;
+    font-size: 16px; line-height: 20px;
+}
+.rooms1 .item .con i {
+    color: #fff;
+    font-size: 18px;
+}
+.rooms1 .item .con i:hover {
+    color: #fff;
+}
+.rooms1 .item .con .butn-light {
+    margin-left: 0;
+    border-radius: 30px;
+    border-color: #666;
+    padding: 11px 30px;
+}
+.rooms1 .item .con .butn-light:hover {
+    border-color: #f79b7a;
+}
+/* line animation */
+.rooms1 .item .line {
+    text-align: center;
+    height: 1px;
+    width: 60px;
+    background-color: rgba(255, 255, 255, 0.2);
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    margin: auto 0 15px;
+}
+.rooms1 .item:hover .line {
+    width: 100%;
+    transition-property: all;
+    transition-duration: 0.8s;
+    transition-timing-function: ease-in-out;
+}
+/* facilities */
+.rooms1 .facilities ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.rooms1 .facilities ul li {
+  color: #fff;
+  font-size: 10px;
+  text-transform: uppercase;
+    letter-spacing: 3px;
+  line-height: 1.2em;
+  padding-bottom: 0;
+    float: left; margin-right: 10px;
+}
+.rooms1 .facilities ul li img {
+    height: 20px;
+}
+.rooms1 .facilities ul li i {
+  margin-right: 0;
+}
+/* permalink */
+.rooms1 .item .con .permalink {
+    font-size: 16px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #fff;
+    height: 0;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    display: inline;
+}
+.rooms1 .item .con .permalink a {
+    color: #fff;
+    text-align: right; text-decoration: none;
+}
+.rooms1 .item .con .permalink i {
+   font-size: 10px;
+    text-align: right;
+}
+.rooms1 .item .con .permalink a:hover,
+.rooms1 .item .con .permalink i:hover {
+color: #ad9766; text-decoration: none;
+}
+
+
+/* ======= Rooms 2 style  ======= */
+.rooms2 {
+    position: relative;
+}
+.rooms2:last-child {
+    margin-bottom: 20px;
+}
+.rooms2 figure {
+    margin: 0;
+    position: relative;
+    width: 66.666667%;
+    margin-left: auto;
+}
+.rooms2.left figure {
+    margin-left: 0;
+    margin-right: auto;
+}
+.rooms2 figure img:hover {
+    transform: scale(0.98);
+}
+.rooms2 .caption {
+    background: #fff;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 50%;
+    padding: 4% 4% 4% 0;
+    -ms-transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+}
+
+.rooms2.left .caption {
+    left: auto;
+    right: 0;
+    background: #fff;
+    padding: 4% 0 4% 4%;
+}
+
+
+.rooms2 .caption.padding-left {
+    padding-left: 4%;
+}
+
+.rooms2.left .caption.padding-left {
+    padding-right: 4%;
+}
+
+
+.rooms2 .caption h4,
+.rooms2 .caption h4 a {
+    font-size: 35px;
+    color: #222;
+    margin-bottom: 5px;
+}
+.rooms2 .caption h3,
+.rooms2 .caption h3 a {
+    font-size: 24px;
+    color: #ab8a62;
+    margin-bottom: 0px;
+}
+.rooms2 .caption h3 span {
+    font-size: 15px;
+    color: #666;
+    
+}
+.rooms2 .caption h6 {
+    display: inline-block;
+    color: #666;
+    
+    font-weight: 400;
+    font-size: 10px;
+    margin-bottom: 10px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    -webkit-align-self: flex-start;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+}
+.rooms2 .caption .info-wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.rooms2 .caption .info-wrapper .more {
+    color: #666;
+    text-decoration: none;
+    font-size: 14px;
+}
+.rooms2 .caption .info-wrapper .more i {
+    color: #666;
+    font-size: 10px;
+}
+.rooms2 .caption .info-wrapper .date {
+    color: #222;
+    
+    font-size: 15px;
+    background: transparent;
+    border: 1px solid #ab8a62;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding: 3px 12px;
+}
+.rooms2 .caption .info-wrapper .date:hover {
+    background: transparent;
+    border: 1px solid #222;
+    color: #222;
+}
+@media (max-width: 991.98px) {
+    .rooms2 figure {
+        width: auto;
+        margin: 0;
+    }
+    .rooms2 .caption {
+        position: relative;
+        left: 0;
+        top: 0;
+        width: auto;
+        padding: 30px 20px;
+        -ms-transform: translate(0, 0);
+        -webkit-transform: translate(0, 0);
+        transform: translate(0, 0);
+    }
+}
+.rooms1 .facilities ul li i.chair img {
+    width: 18px; opacity: 1;
+}
+.AllcapacityItem {
+    display: flex;
+    width: 100%;
+    justify-content: center; padding-top:15px; 
+}
+.rooms1 .item .capacityItem { flex-direction: column; display: flex; justify-content: center; text-align: center; margin: 0 10px; }
+.rooms1 .item .capacityItem img { width:30px; height:30px; }
+.rooms1 .item .capacityItem h6 { margin: 0;  }
+.rooms1 .facilities ul li i.chair img { width:20px;  }
+
+
+.tooltip {
+  position: relative;
+  border-bottom: 1px dotted black; opacity: 1;
+}
+
+/* Tooltip box */
+.tooltip:before {
+  content: attr(data-tooltip); 
+  position: absolute;
+  width: 130px;
+  background-color: #115a4f;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  line-height: 1.2;
+  border-radius: 6px;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity .6s;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  font-size: 0.75em;
+  visibility: hidden; font-size:14px;
+}
+
+/* Tooltip arrow */
+.tooltip:after {
+  content: "";
+  position: absolute;
+  bottom:105%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  opacity: 0;
+  transition: opacity .6s;
+  border-color: #115a4f transparent transparent transparent;
+  visibility: hidden;
+}
+
+.tooltip:hover:before, .tooltip:hover:after {
+  opacity: 1;
+  visibility: visible;
+}
+
+.qodefReadmore {
+    margin-top: 13px;
+}
+
+.imgbox img { max-width: 100%;  }
+.MainMarginleft { padding-left:97px; width: 100%; float:left;  }
+
+
+section.section.rooms1.section-padding.bg-cream {
+    overflow: hidden;
+    margin: 0px 0 0 0;
+    position: relative;
+}
+.bg-cream {
+    background-color: rgba(173, 151, 102, 0.5);
+}
+.section-padding {
+    padding: 80px 0 50px 0;
+}
+section.section.rooms1 .section-title {
+    font-size: 55px;
+    text-align: center;
+    font-weight: 400;
+    color: #222;
+    position: relative;
+    margin-bottom: 20px;
+    line-height: 1.25em;
+    
+}
+
+section.Availableservices {
+    margin: 70px 0 50px 0;
+}
+.servicesdiv {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap; margin-top: 30px; 
+}
+.Mainservices {
+    background-color: #9cb7d4;
+    width:33.3%;
+    text-align: center;
+    padding: 30px; height: 260px; position: relative;
+}
+
+.Mainservices h6 a { font-size:20px; font-weight:normal; color:#fff; margin:15px 0 10px 0;   }
+.Mainservices.Serviceswhite h6 a { color:#000;  }
+.Mainservices.Serviceswhite p a { color:#000;  }
+
+.Mainservices .Divhover {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+        transform: translateY(calc(-50% + 25.9091px));
+    transition: transform .3s ease-in-out;
+    will-change: transform; left: 0; right: 0; margin: 0 auto;
+
+}
+
+.Mainservices:hover .Divhover {
+    transform: translateY(-50%)!important; text-decoration: none;
+}
+.Divhover .icons-1,.Divhover .icons-7,.Divhover .icons-8 {
+    margin: 0 0 20px 0;
+    display: inline-block;
+}
+
+.Mainservices p a{
+    opacity: 0;
+    color: #fff;
+    z-index: 7;
+    padding: 0 4%;
+    transition: opacity .3s ease-in-out;
+    will-change: opacity;
+    margin: 0; display: inline-block;
+}
+
+.Mainservices:hover p a{
+    opacity: 1; text-decoration: none;
+}
+.Mainservices:hover h6 a { text-decoration: none;   }
+
+.Mainservices.Serviceswhite { background-color:#fff;    }
+.Mainservices.Servicesblue { background-color:#6e293a;   }
+.Mainservices.Servicesblue h6 a,.Mainservices.Servicesblue p a{ color:#fff;   }
+
+.Availableservices .qodef-section-title {text-align: center;}
+
+.text-align {
+    text-align: center;
+}
+.BookMeeting {
+    text-align: center;
+    margin: 0 0 40px 0;
+    border-top: solid 1px #ddd;
+    padding-top: 15px;
+}
+
+.submitrequest {
+    float: left;
+    width: 100%;
+    margin-top: 25px;
+    text-align: center;
+}
+
+
+.MainBookinglistBox {
+    padding: 0;
+    border: solid 1px #ddd;
+    margin-bottom: 30px;
+}
+
+
+.formbg {
+    padding:0 0 10px 0; border-bottom: solid 1px #ddd;
+    margin:0;
+}
+.poundicon .input { position:relative; }
+.poundicon .input:before { content:"\f154"; position:absolute; font-family:'FontAwesome'; top:6px; left:10px; }
+.rateicon .input:before { content:"%"; position:absolute;  top:6px; left:10px; font-weight:bold; }
+.poundicon.rateicon .input input.form-control { padding-left:30px;  }
+.poundicon .input input.form-control { padding-left:20px;  }
+p.note.bg-info.additionalbox {
+    padding: 10px;
+    margin:0 0 10px 0;
+}
+.panel-group .panel { border-radius:0;  }
+.MainAdditional {float: left; width: 100%; margin-bottom:0; padding:15px 15px 0px 15px; }
+.MainAdditional .labelbox.Maintitlediv {width: 70%; padding-right: 20px; }
+.Additionallabel .labelbox {width: 20%; padding-right: 20px;}
+.Additionallabel .labelbox.Maincheckboxdiv { width: auto; padding-right:0; }
+
+.MainAdditional h3 { margin:0 0 10px 0; padding:0 0 10px 0; border-bottom:solid 1px #ddd; font-size:20px; font-weight:bold;  }
+.MainAdditional span.duration_set { line-height:30px; color:#ab194e; top:-2px; position:relative;  }
+.Additionallabel { display:flex; margin-bottom:15px; background-color:#fff; border:solid 1px #ccc; padding:5px; cursor:pointer; flex-direction: column; width: 100%;}
+.Additionallabel .sub-service-box { width:100%; align-items:center; }
+.Additionallabel .tcb-inline label { margin-bottom:0; position:relative; top:-2px; }
+.Additionallabel:hover,.Additionallabel.active { background-color:#fff5f8; border:solid 1px #ffd8e4; }
+.Additionallabel:hover {  }
+.Additionallabel .labelbox h5 { font-weight:bold; font-size:16px; margin-bottom:0;  }
+.Additionallabel .labelbox p { font-weight:normal; margin:0; }
+.labelbox.Maintitlediv { display: flex;}
+.labelbox.Maintitlediv span { width:30px; display: inline-block; margin-right: 10px; }
+.labelbox.Maintitlediv span img { width:100%;  }
+.PlasticBottles {
+    text-align: center;
+    border: solid 1px #ddd;
+    padding: 20px;
+    border-radius: 5px;
+}
+.PlasticBottles img { height:80px; margin-bottom:20px;   } 
+.PlasticBottles h4 { font-weight:bold; margin-bottom:20px; font-size:16px; }
+
+.yellow { background-color:#ffd71f; border-color:#ffd71f; color:#000  }
+
+.RightForm .width50 {
+    width: 49%;
+    margin-right: 8px;margin-bottom: 10px;
+}
+.RightForm .textboxdiv { margin-bottom:10px; }
+.textboxdiv .AddressLookup .input{ position:relative; }
+.textboxdiv .AddressLookup button.FindMyAddress {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 44px;
+    line-height: 12px; padding-right: 15px; padding-left: 15px; 
+}
+.textboxdiv .AddressLookup button.FindMyAddress:before{ display:none; }
+
+.AddCart {
+    display: flex;
+    text-align: center; max-width: 150px;
+}
+.AddCart input.form-control {
+    text-align: center; width:55px; height: 35px;
+}
+
+.RoomBookingForm .AddCart button.btn:before { display:none;  }
+.RoomBookingForm .AddCart button.btn {  padding:0 10px; background-color:rgba(7,88,79); border-color:rgba(7,88,79); line-height:10px; height:auto; }
+.RoomBookingForm .AddCart button.btn i { color:#fff;  }
+button.btn.minus { border-radius:0; } 
+button.btn.plus { border-radius:0; }
+
+.AddressLookup {
+    background: #eee;
+    padding: 10px 10px 10px 10px !important;
+    border: solid 1px #ddd;
+    width: 100%;
+}
+
+
+.MainMeetingRooms,.RoomRentalBox{ border:solid 1px #ddd; padding:15px; width:100%; margin-top:0; overflow:hidden;  }
+.Pancrasbox h4 { font-weight:bold; font-size:20px; margin-top:0; margin-bottom:0; }
+.boardroomright img {max-width: 110px; border-radius: 20px;}
+.RoomRentalBox .calendar i.fa { margin-right:5px; color: rgba(7,88,79); transform:none !important;  }
+.RoomRentalBox .displayflex.calendar { border:none; padding:0; margin:0; align-items:center; justify-content:space-between; width:100%;  }
+.RoomRentalBox .portlet-body .rowdiv.displayflex { padding-top:0; }
+
+.MainMeetingRooms .RoomRentalBox .portlet-heading a { border:none; margin-bottom:0; padding-bottom:0; }
+.MainMeetingRooms .RoomRentalBox .MB_BookingFunnel {
+    border-top: solid 1px #ddd;
+    padding-top: 6px;
+    margin-top: 10px;
+}
+
+.RoomRentalBox .calendar { color: rgba(7,88,79);
+    border-bottom: solid 1px #ddd; font-weight: bold;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.RoomRentalBox { padding:10px; margin-bottom:15px; margin-top: 15px; }
+.rowdiv.displayflex {padding:10px 0;
+    justify-content: space-between;
+}
+.rowdiv .coldiv {   padding-right:20px;  }
+.rowdiv .col.text-right { font-weight:bold;  }
+.colorbg {color: rgba(7,88,79);}
+.submitrequest { float:left; width:100%; margin-top:25px; text-align:center;  }
+.submitrequest button.btn { width:auto;  }
+.Pancrasbox {
+    padding-right: 10px;
+}
+.Pancrasbox p { margin-bottom:0; }
+
+.SubTotal .rowdiv {
+    font-weight: bold;
+}
+.SubTotal .rowdiv .colorbg button.btn { padding:3px 15px 3px 30px;  }
+.SubTotal .rowdiv .colorbg button.btn.next { padding-right:30px; padding-left:15px; }
+.SubTotal .rowdiv .colorbg button.btn:before { right:auto; left:10px; top:5px; transform:rotate(-180deg);  }
+.SubTotal .rowdiv .colorbg button.btn.next:before { top:6px; right:10px; left:auto; transform:none; }
+
+.SubTotal .rowdiv .colorbg a.btn { padding:13px 15px 13px 30px;  }
+.SubTotal .rowdiv .colorbg a.btn.next { padding-right:30px; padding-left:15px; }
+.SubTotal .rowdiv .colorbg a.btn:before { right:auto; left:10px; top:5px; transform:rotate(-180deg);  }
+.SubTotal .rowdiv .colorbg a.btn.next:before { top:6px; right:10px; left:auto; transform:none; }
+
+ul.nav.nav-tabs.tab-color-dark.SubmenuTabs li a { background-color:rgba(7,88,79);  }
+ul.nav.nav-tabs.tab-color-dark.SubmenuTabs li.active a { background-color:#FFF;  }
+ul.nav.nav-tabs.tab-color-dark.SubmenuTabs {
+    border-bottom: solid 1px #ddd;
+    margin: 0 -16px 0 -15px;
+    padding-left: 15px;
+}
+.displayflex {
+    display: flex;
+}
+
+.RoomBookingForm { margin:0px 0 50px; float:left; width:100%; }
+.RoomBookingForm .portlet-heading a { border-bottom:solid 1px #ddd; display:flex;   justify-content:space-between; text-decoration:none; padding:10px 15px; margin-bottom:-1px; border-radius:0; }
+.RoomBookingForm .portlet-heading a:hover { color:#ab194e;  }
+.RoomBookingForm .portlet-heading a[aria-expanded="true"]{color:#ab194e;   }
+.RoomBookingForm .portlet-heading a[aria-expanded="true"] i.fa { transform: rotate(0deg);  }
+.RoomBookingForm .portlet-heading a[aria-expanded="false"] i.fa { transform: rotate(180deg);  }
+
+.RoomBookingForm .portlet-heading a h4 { margin:0;  font-weight:bold; }
+/*.portletbg {background-color: #fdfdfd; padding:20px; border:solid 1px #eee; }*/
+.RoomBookingForm .RightForm {
+    background: #f6f6f6;
+    padding: 15px;
+}
+
+.switch input[type="checkbox"] {
+    position: relative;
+    width: 60px;
+    height:30px;
+    -webkit-appearance: none;
+    background:rgba(7,88,79);
+    outline: none;
+    border-radius: 20px;
+    box-shadow: inset 0 0 5px rgba(255, 0, 0, 0.2);
+    transition: 0.7s;
+}
+
+.switch input:checked[type="checkbox"] {
+  background: #ab194e;
+}
+
+.switch input[type="checkbox"]:before {
+  content: '';
+  position: absolute;
+  width:30px;
+  height:30px;
+  border-radius: 20px;
+  top: 0;
+  left: 0;
+  background: #ffffff;
+  transform: scale(1.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  transition: .5s;
+}
+
+.switch input:checked[type="checkbox"]:before {
+  left: 40px;
+}
+
+
+.MainBookinglistBox { padding: 0; border: solid 1px #ddd; margin-bottom: 30px;}
+.MainBookinglistBox.active { box-shadow: 0px 2px 9px 0px #ffb9d2; border-color: #ffb9d2; }
+.AllRoomDiv.RoomBookingForm { min-height:400px;  }
+
+
+.MainBookinglistBox .boardroomimg {float: left; margin-right: 20px;  height: 280px; overflow: hidden; width:250px; }
+.MainBookinglistBox .boardroomimg img { width:100%; }
+.MainBookinglistBox .facilities ul { padding:0;  }
+.MainBookinglistBox .facilities ul li { display:inline-block; margin-right:20px; margin-bottom:5px; }
+.MainBookinglistBox .facilities ul li img { width: 25px; background-color: #085950; padding:5px;  border-radius: 3px; margin-right: 5px; }
+.MainBookinglistBox .facilities ul li i.chair img { width: 17px; }
+.MainBookinglistBox .facilities ul li i { color:#085950; }
+.MainBookinglistBox .capacityItem img {  width: 30px; height: 30px; }
+.Bookingwidth { display: flex; justify-content: space-between; width: 100%; align-items: center; border-top: solid 1px #ddd; padding:10px; }
+.Bookingwidth .AllcapacityItem { padding-top:0; width:auto;  }
+.Bookingwidth .AllcapacityItem .capacityItem {margin-right:20px; border:none; text-align:center;  }
+.Bookingwidth .AllcapacityItem .capacityItem h6 { margin-bottom:0; margin-top:5px;  }
+.MainBookinglistBox .OverlayContent {padding-top: 20px; padding-right: 20px; padding-bottom: 20px; }
+.Bookingwidth .category {display: flex; align-items: center; }
+.Bookingwidth .pricenew {margin-right: 20px; font-size: 20px; font-weight: bold; color:#085950; }
+
+.MainBookinglistBox .OverlayContent h6 {text-transform: uppercase; font-size: 16px;}
+.MainBookinglistBox .OverlayContent h5 { font-size:20px; text-decoration: none;}
+.MainBookinglistBox .OverlayContent h5 a { text-decoration:none; color:#085950; }
+.MainBookinglistBox .OverlayContent h5 a:hover { text-decoration:none; color:#ab194e; }
+
+
+.MainMeetingRooms .submitrequest { margin-top:0; }
+.MainBookinglistBox a.book-btn2.btn { background: #fff; border: 1px solid #ab194e; color: #ab194e; padding:15px 25px 15px 25px; }
+.btn[disabled] { background-color:#ab194e !important; opacity:0.5; color: #ab194e;  }
+.MainBookinglistBox a.book-btn2.btn:hover { background-color:#ab194e; color:#fff;  }
+.MainBookinglistBox a.book-btn2.btn:before { display:none; }
+.MainBookinglistBox .book-btn1 { text-decoration:none; }
+
+.Durationtop { padding-top:15px;  }
+
+
+select.form-control { padding:7px 12px 10px 12px }
+.MainBookinglistBox .boardroomimg.horizontal { display:flex; justify-content: center;   }
+.MainBookinglistBox .boardroomimg.horizontal img {width: auto; margin: 0 auto;  max-width: 447px; }
+
+.MainBookinglistBox .boardroomimg.fullimage { display: flex; justify-content: center; }
+.MainBookinglistBox .boardroomimg.fullimage img { width: auto; max-height: 290px; }
+
+.MainMeetingRooms .form-group { margin-left:-15px; margin-right:-15px;    }
+.MainMeetingRooms .displayflex.titalBox { justify-content: space-between; }
+
+
+.portlet1.SustainabilityOptions {
+    float: left;
+    width: 100%;
+    margin: 30px 0 30px 0;
+}
+.portlet1.SustainabilityOptions .portlet-heading,.portlet.ContactDetail .portlet-heading {border-bottom:solid 1px #ddd; padding:0 0 10px 0; margin-bottom:20px;  }
+.portlet1.SustainabilityOptions .portlet-heading h4,.portlet.ContactDetail .portlet-heading h4 { margin:0; color:rgba(7,88,79);  }
+.portlet.ContactDetail .form-group { margin-right:-15px; margin-left:-15px;   }
+.portlet.ContactDetail .form-group label.error { position:relative;  }
+
+span.duration_set { font-size:12px; margin-right:10px; color:#000;  }
+span.Unavailable {
+    color: #fff;
+    background: #ab194e;
+    border-radius: 3px;
+    padding: 1px 6px 3px 6px;
+    line-height: 14px;
+}
+
+.promotionaldiscount {
+    position: absolute;
+    top: 0;
+    padding: 20px 50px 20px 20px;
+    color: #fff;
+    z-index: 99; font-size:16px;
+}
+.promotionaldiscount p.discountdiv { margin:0 0 10px 0 !important; line-height:18px !important; font-size:16px !important; font-weight:normal !important; color:#fff !important; }
+.promotionaldiscount .date { color:#a29166 !important; font-weight:bold !important; font-size:16px !important; line-height:18px !important;  }
+
+section.main-slider.CmsBanner .promotionaldiscount {
+    bottom: 0;
+    top: auto;
+    left: 0;
+    right: 0;
+    width: 100%; background-color:rgba(0, 0, 0, 0.5);;
+}
+.col-sm-12.agree { padding-bottom:15px;  }
+
+body.scrolling_down .submitrequest,body.scrolling_up .submitrequest {
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    right: 0;
+    background: #fff; border-top: solid 1px #666; padding-top: 8px; 
+}
+.Additionallabel .input.text.noteclass {
+    margin: 5px 0px 5px 5px;
+}
+
+span.service_set { color:rgba(171,25,78); font-weight:bold;  }
+span.note_set { color:#a29166; display:block; line-height:15px; }
+.FontSize12 { font-size:12px; }
+.sidebar-item {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+   
+}
+
+
+.make-me-sticky {
+  position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+  padding:0;
+}
+.Miandisplayflex {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}

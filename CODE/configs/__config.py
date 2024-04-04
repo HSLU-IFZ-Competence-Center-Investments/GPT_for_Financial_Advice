@@ -22,7 +22,10 @@ if WORKSPACE == "GitHub":
 else:
     raise NotImplementedError(f"Workspace '{WORKSPACE}' not implemented.")
 
-assert os.path.exists(PROJECT_DIR), f"Project folder '{PROJECT_DIR}' not found. Check PROJECT_NAME in __config.py."
+try:
+    assert os.path.exists(PROJECT_DIR), f"Project folder '{PROJECT_DIR}' not found. Check PROJECT_NAME in __config.py."
+except AssertionError:
+    PROJECT_DIR = input("Enter the project folder path: ")
 
 #%% ALL CONFIG DICTS
 

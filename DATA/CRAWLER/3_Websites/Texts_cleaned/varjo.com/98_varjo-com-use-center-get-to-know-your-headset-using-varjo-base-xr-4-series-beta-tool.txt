@@ -1,0 +1,161 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+XR-4 Series Beta Tool – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for / owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Get started Varjo headsets XR-4
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Setting up your headset XR-4
+XR-3
+VR-3
+Varjo Aero
+XR-1 Developer Edition
+VR-2 Pro, VR-2, and VR-1
+
+Setting up tracking Varjo inside-out tracking
+
+Varjo services Varjo Account Commercial account
+
+Varjo Reality Cloud Varjo Reality Cloud subscription
+System requirements
+
+Varjo XR and VR subscriptions Getting a seat in a subscription
+
+Get to know your headset Using the headset
+Using Varjo Controllers
+Fitting the headset XR-4
+XR-3, VR-3, and Varjo Aero
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Getting the perfect image quality
+
+Get to know Varjo Reality Cloud
+Develop for Varjo Developer support
+
+FAQ & Troubleshooting
+Downloads Release notes Release notes for Varjo Base
+Release notes for Varjo Reality Cloud for Windows
+Release notes for Varjo Reality Cloud for iOS
+
+XR-4 Series Beta Tool
+
+Varjo XR-4 Series Beta Tool provides a set of options and information that will help you to monitor the headset performance and adjust a few parameters for features that are still under development during the Beta phase. Varjo Customer Support may also advise you to use the tool to help diagnose a possible issue with your headset.
+
+ the Beta Tool does not affect the headset’s performance, and it can be kept open while using the headset.
+
+Opening the Beta Tool
+
+Using the Beta Tool
+
+Varjo Inside-out tracking settings
+Define presets and restore default settings
+
+Opening the Beta Tool
+
+The tool VarjoXR-4SeriesBetaTool.exe is included in the Varjo Base installation package. The default installation location is C:Program FilesVarjovarjo-betatool .
+
+Using the Beta Tool
+
+When the headset is connected and powered on, the tool displays the initialization process for the headset’s camera streams. The statuses for each stream are:
+
+Running
+
+To ensure reliable restart of the headset, the headset should only be powered on when all processes are in “Idle” state.
+
+In case of problems with restarting the processes, Reboot Cameras button can be used to restart the camera system.
+
+Once the camera systems are up and running, the Beta Tool displays the status of each individual stream with color-coding:
+
+Green color: system is performing as expected
+Yellow and Red color: status may occasionally briefly display yellow color, which is not yet an indication of performance issues. However, if any of the streams shows up constantly as yellow or red, some of the features of the headset are not functioning correctly. In this case, it is recommended to check that your computer’s USB port and motherboard chipset are compatible with XR-4. See System requirements for XR-4 for more information.
+
+Ambient light sensor readings can be viewed in the Beta Tool. This information can be useful for finding out an ideal white balance setting to use in Mixed reality camera settings in Varjo Base.
+
+Focus value offset
+
+In XR-4 Focal Edition, focus distances for the left and right eye can be adjusted separately. This setting can be used to mitigate issues in autofocus behavior if:
+
+Video pass-through cameras do not focus correctly onto an object. For example, if an object 50 cm away does not appear sharp on the headset displays.
+There is a discrepancy in focus between left and right.
+
+To manually correct focus calibration issues, follow these steps:
+
+Set Automatic mixed reality camera focus distance off and manually set the focus distance to 50 cm from Mixed Reality settings in Varjo Base.
+Turn on Real-world view from Varjo Base.
+Put the headset on a table and place an object 50 cm away from the headset cameras.
+Start XR-4 Beta Tool and adjust the sliders so that the object is sharp in both left and right cameras. You can use the Analytics window to see when the image is sharp.
+Set Automatic mixed reality camera focus distance back on from Varjo Base.
+
+Note: If you want to manually adjust focus so that the image is sharp at, for example, exactly 100 cm, use Varjo Base instead. Navigate to Mixed reality settings in Varjo Base, turn the Auto focus to manual mode, and then use a slider to control the focusing distance in centimeters.
+
+Varjo Inside-out tracking settings
+
+The Beta Tool can be used to do small adjustments to the behaviour of Varjo Inside-out tracking.
+
+Switch tracking cameras:You can select either the top or bottom cameras for inside-out tracking:
+
+Click the dropdown menu next to Stream input override.
+Select which cameras to use for tracking.
+Click Restart Tracking Tasks.
+
+Dampening: In case the tracking quality in your environment is not stable, you can try different dampening settings.
+Tracking camera exposure: The automatic exposure of the tracking cameras may not yet perform optimally in all environments, for example with very bright lights. Use the manual exposure to override the automatic exposure.
+Restart tracking: In case the headset stops tracking, you can restart the tracking of the headset using the Restart Tracking Tasks button. This allows to reset the tracking without having to restart Varjo Base completely.
+
+Note: By default, Varjo inside-out tracking uses the top cameras, and Varjo Controllers use the bottom cameras for tracking. Using the bottom cameras for both controller and inside-out tracking may result in suboptimal tracking performance for both. Also, if the view of the bottom cameras has been obstructed due to, for example, the headset being left on a table, tracking may be negatively affected. We recommend running Room Setup again to fix this.
+
+Define presets and restore default settings
+
+You can create your own presets  using the Save and Load buttons.
+
+Press Reset button to restore the default settings.
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

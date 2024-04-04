@@ -1,0 +1,109 @@
+Distran,apioneerinpassiveacousticimagingforindustrialfaultdetection
+
+CompositeManufacturing
+GasLeakDetectionAsAService
+
+UltraPro/UltraProX
+
+Blog
+Distraninthemedia
+
+CompositeManufacturing
+GasLeakDetectionAsAService
+
+UltraPro/UltraProX
+
+Blog
+Distraninthemedia
+
+TalktoyourlocalExpert
+
+Distran’s mission is to make industrial plants safer and reduce their environmental footprint through the use of sound sensing and technology.
+
+Workers use their ears every day, consciously or unconsciously, to assess machine conditions. Traditional acoustic sensors have long been used for that purpose, but are limited by the background sounds present in typical industrial environments. Phased-array sensors developed by Distran overcome this limitation by spatially filtering the sounds. It becomes possible to locate defects, such as leaks or discharges, while being at a safe distance.
+
+Distran is a spin-off from the Autonomous System Lab, ETH Zurich, developing advanced acoustic sensors for industrial applications.
+
+years of scientific research
+
+Our cameras are used in
+
+countries, and in space
+
+Back in 2011, two engineers, Joël Busset and Florian Perrodin, developed a camera at ETH Zurich, the world’s 4th best university for engineering and technology (Top Universities, 2020), that was able to locate sounds, in order to help locate and save people trapped in debris after disaster.
+
+The acoustic camera was able to produce high-definition images in real-time, a breakthrough for real-world applications. With the support of the Autonomous System Lab, the two founders were able to convince the jury of the ETH Pioneer Fellowship to give them the initial funds necessary to develop the first product and find commercial partners.
+
+A few years later, the company was founded, and its first two strong partnerships with Alstom and RUAG allowed the founders to improve the technology and adapt it to ultrasonic frequencies. A new device was designed and tested in power plants which resulted in multiple success stories, saving hundreds of thousands of euros for the plant owners, not counting the strong positive impact on the environment through the reduction of greenhouse gas emissions and energy savings.
+
+Currently, Distran employs more than 65 people and keeps a strong focus on R&D, developing novel algorithms to improve ultrasound imaging. Ultrasound cameras are designed, assembled and tested in-house in Zurich (read Distran’s Quality Policy). Distran is able to support customers worldwide.
+
+An ultrasound imaging leader
+
+Distran, a pioneer in passive acoustic imaging
+
+Since its inception, Distran has been focused to radically improve the performance of acoustic arrays and to develop technologies at the service of valuable causes, such as environmental or safety related. Advanced algorithms were developed to allow non-specialists to use the device, without extensive training. Throughout years of development, Distran invented many acoustic devices and algorithms allowing a broader use of the passive acoustic imaging technology.
+
+2011 | World’s first real-time portable acoustic camera
+
+Back in 2011, acoustic cameras were used by R&D labs to optimize acoustic emissions of cars and other consumer products such as coffee and washing machines. They needed expensive and heavy acquisition boards, weighing more than 20 kgs, to simultaneously acquire dozens of microphone signals. Then, acoustic imaging was done in post-processing. To enable easier field measurements, we developed a novel acquisition board, smaller than a credit card, and directly connected to a computer by USB. The device was not only easily transportable, but also the first acoustic camera producing high definition acoustic images in real-time, enabling users to directly understand the system under study.
+
+2012 | World’s first acoustically transparent spherical camera
+
+Planar acoustic cameras are compact but can only locate sound sources placed in front of the camera. To get a 360° field of view, we patented a novel spherical camera that was acoustically transparent. Existing spherical cameras were either full inside and too small to locate low frequency sounds, or were bigger and packed with cables at the center thereby disturbing wave fronts. Ours, an icosahedron, was fully empty: the key was to hide all the cabling inside the faces of the icosahedron, enabling waves to propagate undisturbed and get an unparalleled precision.
+
+2013 | World’s first ultrasonic camera
+
+So far, acoustic cameras were mostly used to improve the audible properties of objects (such as cars). However, acoustic emissions were already used in the industry to diagnose failures such as partial discharges or gas leaks. Therefore, we decided to design a camera that would be sensitive to these high pitch sounds. In 2013, we got the world’s first ultrasound images using a three-dimensional acoustic imaging algorithm. Ultrasounds visualized were generated by the blades of an electric razor. It was also possible to precisely locate the friction points of the blades, as well as the noise created by the gearboxes.
+
+2018 | World’s first acoustic autofocus
+
+Autofocus is well known in optical cameras, it gives crisp images and prevents from getting any blur at the focus distance. Acoustic cameras also need to be well focused, otherwise images produced are blurry and difficult to understand. To make sure no acoustic source, such as gas leak remains undetected, we developed an acoustic autofocus able to find the distance of a sound source in real-time while getting crisp ultrasound images. In addition, this distance, combined with the amplitude received at the microphones, is used to estimate the source sound level, which in turn is used, for example, to calculate the flow rate of a leak.
+
+2020 | World’s first acoustic camera in space
+
+Manned space flights require an atmosphere in spaceships. Any leak, at best, increases the need of resupply of the spaceship, at worst, compromises the safety of the crew. NASA started evaluating the best available solution to find these leaks. After months of tests and space qualification, we received the great news that our camera was going to be sent to the ISS in the following days, making it the world’s first acoustic camera used in space.
+
+2020 | World’s first ATEX acoustic camera
+
+Ultrasound cameras do not require contact with the gas when trying to detect leaks, which is a big advantage. Though, operators may have to enter areas classified as hazardous, because gases potentially leaking may be flammable or explosive. Tools worn or carried by operators must never become an ignition source and manufacturers have to bring the proof of it. That is what the ATEX norm is about. At the end of 2020, Distran certified its camera complies with ATEX, making it the world’s first ATEX acoustic camera.
+
+Developing unique technologies for meaningful applications having real users is a challenging yet rewarding social and professional experience. If you want to see the result of your work and to be part of the next discoveries, apply here.
+
+Florian PerrodinCo-founder & CEO
+Joël BussetCo-founder & CTO
+Peter MantelHead of International Business development
+
+Florian PerrodinCo-founder & CEO
+Joël BussetCo-founder & CTO
+Peter MantelHead of International Business development
+Lukas HoratCFO
+
+Javier BilbaoIntellectual Property Advisor
+Cédric Le-MinterBusiness Strategic Advisor
+Alexander FriesMember of the Board
+
+Distran is proud to be supported by the Swiss Climate Foundation, the Bundesamt für Umwelt (Swiss federal office for the environment), ZKB and Energie 360°.
+
+Distran cameras are used every day by many of the biggest industrial companies in the world to ensure the highest safety standard, to improve their reliability and to reduce their gas emissions.
+
+ISO 9001 quality management system
+
+Distran is ISO 9001 certified
+
+Distran’s quality management system has been audited, validated and certified by TüV Rheinland under the ISO 9001 certification. This certification ensures that customers get consistent, high-quality products and services. It makes sure that quality processes are defined and implemented at all levels and departments within the company.
+
+Distran’s Quality Management System is ISO 9001:2015 certified.
+
+ISO 9001 quality management system
+
+Distran is ISO 9001 certified
+
+Distran’s quality management system has been audited, validated and certified by TüV Rheinland under the ISO 9001 certification. This certification ensures that customers get consistent, high-quality products and services. It makes sure that quality processes are defined and implemented at all levels and departments within the company.
+
+Distran’s Quality Management System is ISO 9001:2015 certified.
+
+ OUR CERTIFICATE
+OUR QUALITY POLICY
+
+Please enable JavaScript in your browser to complete this form.First Name *Last Name *Company *Email *Country *AfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBolivia (Plurinational State of)Bonaire, Saint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCabo VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCongo (Democratic Republic of the)Cook IslandsCosta RicaCroatiaCubaCuraçaoCyprusCzech RepublicCôte d'IvoireDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatini (Kingdom of)EthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHondurasHong KongHungaryIcelandIndiaIndonesiaIran (Islamic Republic of)IraqIreland (Republic of)Isle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea (Democratic People's Republic of)Korea (Republic of)KosovoKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesia (Federated States of)Moldova (Republic of)MonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorth Macedonia (Republic of)Northern Mariana IslandsNorwayOmanPakistanPalauPalestine (State of)PanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarRomaniaRussian FederationRwandaRéunionSaint BarthélemySaint Helena, Ascension and Tristan da CunhaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint Maarten (Dutch part)SlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandSyrian Arab RepublicTaiwan, Republic of ChinaTajikistanTanzania (United Republic of)ThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkmenistanTurks and Caicos IslandsTuvaluTürkiyeUgandaUkraineUnited Arab EmiratesUnited Kingdom of Great Britain and Northern IrelandUnited States Minor Outlying IslandsUnited States of AmericaUruguayUzbekistanVanuatuVatican City StateVenezuela (Bolivarian Republic of)VietnamVirgin Islands (British)Virgin Islands (U.S.)Wallis and FutunaWestern SaharaYemenZambiaZimbabweÅland IslandsCity / Site *State *AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingPhone *I would like to:Request for a QuotationRequest information about Ultra Pro X (ATEX ultrasound camera)Request a discovery packageRequest information about Ultra CE (ultrasound camera dedicated to Composite Manufacturing)Request information about Ultra ReadyBuy one or more ultrasonic cameraBecome a resellerRequest technical supportRequest a trainingYour MessageBy sending this form you agree that we process your personal data according to Distran's privacy policy. *I agree to receive one to one communication e-mails from Distran and its local distributors.Submit

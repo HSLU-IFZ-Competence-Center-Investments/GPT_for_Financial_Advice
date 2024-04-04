@@ -1,0 +1,105 @@
+Changeablepagetitle
+Parents of secondary school pupils | 
+
+[if lte IE 9]>
+
+ <![endif]
+ since IE ignores conditional comments, we use this 
+
+ End Google Tag Manager /Head scripts 
+
+ Body scripts 
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) /Body scripts 
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer Service
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer ServiceService
+
+Order your laptop straight away 
+
+You can order in your school's webshop. Enter the code the school provided to you down below.
+
+I have a code
+
+Ik have no code
+
+HomeEasy4u subscriptionParents of secondary school pupils 
+
+Parents of secondary school pupils
+
+Easy4u is an all-in-one assurance package that comes standard with every laptop. Whether you rent or buy, you're always well insured. The Easy4u service is included in the price. 
+
+Easy4u can be divided into several categories:
+
+We provide laptops specially designed for education. A laptop that can withstand a bump. A laptop small enough to fit in a backpack. A laptop with a long battery life. In addition, all laptops come with our sturdy, water-repellent protective case. With , you always choose the right laptop for your school. 
+
+Laptops are delivered ready to use. We install the right programs on the laptop before delivery. Which programs are needed for education? This can vary per school. That's why we always discuss the school's wishes beforehand. 
+
+With the damage and theft insurance, you're always protected against damages or unexpected costs. Is there damage to the laptop? We will repair the laptop for a personal contribution of €50.00 per damage. The insurance is included as standard in the Easy4u assurance package. Would you like to know more about the terms and conditions of the damage and theft insurance? View the Easy4u Service Conditions here. 
+
+Service
+
+We work together with the school to provide you with the best service. Is your laptop broken? No problem! You can hand in your laptop at a central point at school. While your laptop is being repaired, you'll receive a laptop on loan. This way, you won't miss anything from class. After your laptop has been repaired, you can pick it up again at your school. 
+
+You'll get access to your personal Easy4u portal after placing an order. In the Easy4u portal, you'll find all information about your subscription, repair tickets, and payments. Would you like to handle things yourself? You can! Through the portal, you can place orders, change contact and residence details, and register repair tickets. 
+
+ <div class="media-slide">
+ <div class="media-image" style="background-image: url('https://img.youtube.com/vi/2DRdMamDlpM/sddefault.jpg')"></div>
+
+This is how Easy4u works
+
+Why an education laptop?
+
+Students and laptops? They are inextricably linked. Thanks to our full service provision via the Easy4u subscription, we make access to digital education easy and affordable.
+
+Laptops on loan during repairs, super-fast service, a single point of contact for the school and the students, and accidental damage and theft insurance are included.
+
+Choose Convience and securityChoose Easy4u
+
+Special educational laptop with solid casing and rubber edges
+Active battery life of at least 7 hours
+Wi-Fi card for fast and stable wireless access
+Model selection is agreed in advance with the educational institution 
+
+Basic installation for educational purposes
+Re-installation of the software at school is possible with a special image network
+Integration with school website domain if needed
+
+Replacement laptop during repairs
+Customer service support by phone
+Support via the school or home address during holidays
+Online customer portal
+Single point of contact for the customer
+In-house transport and repair service
+
+Damage and theft insurance with a limited excess of €50,00 per incident (max. 3)
+Includes solid, water-resistant protective sleeve
+The entire process is handled by 
+
+What customers say about 
+
+"We have had a very good relationship with for several years. Their sound products, helpfulness and professional approach takes digital education to a higher level." - Rik Zwart -
+
+"We shaped our Chromebook programme for pupils in collaboration with The Rent Company. They offer genuine input in terms of service, support and what best suits the school and the eduction sector." - Marcel Hoogstoevenbeld -
+
+The Rent Company
+
+"Effective and rapid communication at the front end and efficient organisation of contracts and procedures at the back end. We used to arrange everything ourselves, which required almost 2 FTE." - Sjors van der Heiden -
+
+The Rent Company
+
+"The Rent Company does not treat you like a number, but a valued client, they all offer proactive input. Suppliers often say they will unburden you when in reality they give you cause for concern. At The Rent Company, they really take … 
+The Rent Company
+
+"We have had a good relationship with The Rent Company for 3 years. They are always willing to inform parents and are happy to offer input for solutions." - Leonie Drabbe-van Rijn -
+
+The Rent Company
+
+10
+
+"We have been working with The Rent Company for three years. A good company where everything is well organised. Assistance with our open days, the web shop, delivery, not to mention the service provided to our pupils at school. The use of … 
+The Rent Company
+
+ <div class="columns is-mobile is-overflow-x-scroll">

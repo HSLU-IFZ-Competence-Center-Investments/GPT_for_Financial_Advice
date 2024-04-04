@@ -1,0 +1,33 @@
+Globalsitetag (gtag.js) - Google Analytics 
+
+ This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ 
+
+ / Yoast SEO plugin. 
+
+ We're here to help. Here are our contact options at a glance. 
+
+ End Page Title H1 
+
+ End Page Title H2 
+
+Fotokite US LLC
+3125 Sterling Circle, STE 107
+
+Fotokite US LLC
+235 Harrison Street, MD 52
+
+Already have a Fotokite and need support? Please start your support ticket here by filling out the following form or calling us on the number listed on your Operator’s Manual.
+
+Interested in seeing a Fotokite Sigma in action or receiving more technical information? Fill out the form to arrange a system demonstration for your application.
+
+Fotokite US LLC
+3125 Sterling Circle, STE 107
+Boulder, CO 80301, USA
+
+Fotokite US LLC
+235 Harrison Street, MD 52
+Syracuse, NY 13202, USA
+
+ © 2024 Fotokite. All rights reserved
+
+ Custom Feeds for Instagram JS

@@ -1,0 +1,172 @@
+ThissiteisoptimizedwiththeYoastSEOPremiumpluginv22.0(Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+VR– Most Advanced Solutions – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Training and Simulation
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+Get in the zone with the highest-performance XR/VR.
+
+Keep trainees fully immersed and engaged with an unmatched level of realism. VR training and simulation with Varjo puts people in the right frame of mind the moment they enter the simulation environment, replicating the exact feeling and conditions of real life and providing the most natural and fully immersive training simulation ever experienced.
+
+Train any time, any place.
+
+Reduce the cost of training by up to 99%+ with low-cost, immersive learning environments to replace or supplement traditional training solutions
+Increase training velocity and enable more trainees to become proficient in less time by using XR and VR training tactics
+Optimize user engagement with a solution where trainees want to engage in and repeat exercises
+Increase the value of existing part-task simulators with full field of view, immersive visuals using mixed reality technology
+Reduce travel time and costs by training at the point of need, thanks to portability and reduced simulator size
+Train effectively for the most dangerous scenarios in a completely safe immersive environment
+
+The industry’s highest resolution virtual reality for unmatched realism in training.
+
+Varjo XR-4 series headsets provide the highest resolution (up to 51 ppd) experienced in an immersive simulation and training environment. Users can read displays, controls, text, symbols and distant objects in perfect clarity in mixed reality. The XR-4 Focal Edition has all the features of the XR-4 but offers the gaze-directed autofocus cameras and further optimized camera resolution for pilot training and other cockpit-based use cases. To meet the needs of Varjo’s government and defense customers, the XR-4 Secure Edition adheres to all government and enterprise-level security requirements.
+
+Varjo Aero offers edge-to-edge clarity at 35 PPD with variable resolution aspheric lenses that eliminate god rays and includes the same industry-leading Varjo eye tracking as the XR-4 series. Thanks to lower hardware requirements, it is the perfect choice for larger training deployments and for example classroom training.
+
+ These comparison shots are unmodified shot-through images of a competitor VR headset (on the left) and the Varjo VR-3 (on the right) using the PREPAR3D software. With Varjo, the dashboard of the F-35 cockpit can be seen clearly down to the smallest detail.
+
+Broad compatibility with 3D software you already use.
+
+Varjo’s mixed and virtual reality headsets are fully compatible with a rapidly expanding collection of the most widely used 3D platforms and software. We support Unity™, Unreal Engine™, OpenXR 1.0 and hundreds of other industrial VR training and simulation software, including Lockheed Martin Prepar3d™, VBS BlueIG™ and FlightSafety Vital™.
+
+SEE ALL COMPATIBLE SOFTWARE
+
+Unmatched features for synthetic, virtual or mixed reality training.
+
+Dual 4K x 4K displays with a resolution of 51 pixels per degree (ppd)
+50% wider field of view (120° x 105°) compared to previous-generation devices, with double the display brightness (200 nits) and wider color gamut with 96% DCI-P3
+Dual 20 Mpx cameras for powering the industry’s highest-fidelity, real-time photorealistic video pass-through mixed reality
+New ambient light sensors and 8 x improved LiDAR resolution compared to Varjo XR-3 that seamlessly blends real and virtual elements
+Built-in DTS 3D spatial audio with noise-canceling mics and integrated speakers for collaborative use cases
+Inside-out tracking and in-box Varjo Controllers, powered by Razer, providing precise interactions with high tactile immersion, and reducing setup complexity and cost
+
+Dynamic real-world occlusion for mixed reality.
+
+Get ready for the most natural blending of real and virtual elements ever experienced in an immersive training environment. Varjo XR-4 series video pass-through and high-resolution LiDAR sensors enable accurate room, object, body and hand occlusion with real-world objects in real time.
+
+Varjo XR-4 series perfectly mixes real and virtual content. Users can fully interact with a physical panel, HOTAS or crew member to replicate real training scenarios with incredible true-to-life accuracy, eliminating negative training.
+
+Stay comfortably immersed for longer – without simulator sickness.
+
+Varjo headsets are ergonomically designed to be lightweight with a zero-gravity head band for maximum comfort – perfectly fitting any head shape and size. Combined automatic interpupillary distance (IPD) adjustment, and active cooling, they enable a comfortable experience even for extended XR/VR sessions without any simulator sickness.
+
+Highest-level security and privacy.
+
+The Varjo XR-4 Secure Edition is the world’s most advanced headset for XR training and simulation. Assembled in state-of-the-art facilities in Finland, it is fully TAA compliant, works completely offline, and can be ordered with no radio components.
+
+Incorporating the world’s first gaze-driven camera system, the Varjo XR-4 boasts 4K per eye displays across a massive 120 x 105-degree FOV and dual 20-megapixel passthrough cameras to deliver a mixed reality experience that exceeds even the most stringent requirements for pilot training and other high-precision XR scenarios.
+
+Industry leaders and pioneers choose Varjo for advanced virtual reality and mixed reality training.
+
+See all customer stories
+
+“The high-resolution video pass-through of the XR-4 preserves the required ability for trainees to see and engage with physical devices.”
+
+George Forbes, founder and CEO of Immersive Display Solutions, Inc.
+
+“The widest Field of View (FOV) and the pinnacle of mixed reality resolution. A quantum leap in extended reality (XR) simulation capabilities.”
+
+Fabi Riesen, CEO and Founder of Loft Dynamics
+
+“The XR-4 series raises the realism of immersive training to a whole new level.”
+
+Oli Arup, Chief Product Officer of Bohemia Interactive Simulations
+
+See how Apache helicopter pilots train with Varjo
+
+“The mixed reality passthrough Varjo has achieved in the XR-4 series is remarkable.”
+
+Felix Gorbatsevich, CEO of PaleBlue
+
+“Removes negative training when recreating conditions of the most mission critical scenarios.”
+
+Chris Metel, Prepar3D Engineering Program Manager at Lockheed Martin
+
+Watch our joint webinar
+
+“The same level of realism and interactions as if the astronauts were sitting in the physical simulators.”
+
+Connie Miller, Product Specialist at Boeing
+
+“Varjo Aero and Microsoft Flight Simulator are a powerful combination for ambitious aviators everywhere.”
+
+Jorg Neumann, Head of Microsoft Flight Simulator at Microsoft
+
+“The collaboration will offer numerous new training opportunities at a fraction of the cost.”
+
+Stefan Furenbäck, Saab’s Head of Tactical Environment Simulation and Visualisation
+
+Read more about Varjo and Saab's collaboration
+
+“Pilots can train for the most demanding missions completely naturally and comfortably.”
+
+Thomas Kehr, Program Manager for Synthetic Training, Cole Engineering Services Inc.
+
+“Varjo brings us the cutting-edge technology needed to achieve better resolution in our simulations.”
+
+Xavier Rabillard, Head of HMI for Simulators, Dassault Aviation
+
+Mixed reality practically indistinguishable from natural sight
+
+Meet the Varjo XR-4 Series
+
+Through the fusion of its highest-resolution displays, foveated capture stream, advanced LiDAR depth sensing and camera sensors, all of which mimic the function of the human eye, the Varjo XR-4 series offers virtual and mixed reality experiences practically indistinguishable from natural sight.
+
+Explore Varjo XR-4 series
+
+Read more about using XR and VR training and simulation for optimal performance:
+
+Operating Drones in Mixed Reality: How Inzpire Leverages Varjo for Next-Gen UAV Training
+
+Mixed Reality in JTAC Training: A New Dimension in Defence Preparedness
+
+How Wärtsilä Revolutionizes Maritime Training with Varjo’s XR Technology
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

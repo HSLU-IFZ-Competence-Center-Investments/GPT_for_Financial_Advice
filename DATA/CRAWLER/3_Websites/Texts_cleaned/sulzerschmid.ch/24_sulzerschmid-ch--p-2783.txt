@@ -1,0 +1,30 @@
+html This site is optimized with the Yoast SEO plugin v17.3 - https://yoast.com/wordpress/plugins/seo/ Navigating Rotor Blade Inspections With Customized Solutions - Sulzer & Schmid Laboratories AG / Yoast SEO plugin. Leadfeeder End Leadfeeder Google Tag Manager End Google Tag Manager 
+Navigating Rotor Blade Inspections With Customized Solutions07.03.2024
+
+Understanding the diverse requirements of our clients in wind turbine blade inspections, we have developed a comprehensive range of drone-based solutions tailored to various conditions and inspection purposes. Whether you prefer in-house control or outsourcing to a reliable third-party provider, our solutions are designed to meet your unique needs.
+A Solid Foundation for Blade InspectionsFully autonomous Rotor blade inspections with 3DX AutoPilot
+
+At the core of our end-to-end digital inspection process is the 3DX™ Blade Platform. Repeatable and with consistently high image quality, all our inspections cover 100% of the blade. Images are checked on-site for quality control and automatically transferred to the platform. This transfer is completely seamless and doesn’t utilize third party applications such as drop box etc. After an advanced AI-supported annotation process, in which our dedicated in-house team categorizes and classifies damages, blade experts can review and approve them faster than ever before and decide what action to take. By using different tools and filters in the platform, customers can also analyze fleet wide inspection data and use these blade insights for accurate repair planning and optimization of the wind turbine fleet’s performance.
+
+Whether you choose to inspect with your own team or contract a third-party provider for inspections, the platform and the process is the same.
+Substantial Cost-Savings with 3DX™ SmartPilot Utilizing In-House TeamsBlade inspections with inhouse team using 3DX SmartPilot
+
+When considering inspections using your own team, especially for adhoc inspections such as after a lightning strike or repairs, our 3DX™ SmartPilot emerges as a cost-effective solution. Compatible with a wide range of off-the-shelf DJI drones below 1kg and no need for additional hardware, the equipment fits in a backpack and offers full flexibility and convenience. Combined with the larger DJI Zenmuse P1, the SmartPilot is also a great option for higher image quality requirements.
+
+With just half a day of training required, this automated solution is not only user-friendly but also economically viable with low investment. Whether you’re a small or large operator, the SmartPilot is a pragmatic choice, especially for those with in-house teams already on-site.
+3DX™ AutoPilot Pro for Maximum Efficiency and Best-in-Class Image QualitySulzerSchmid new AutoPilot Pro Advanced blades inspection solution
+
+For those who prioritize the efficiency of third-party providers, our fully-automated 3DX™ AutoPilot Pro sets a new standard for image quality and maximum capacity, boasting the capability to inspect up to 20 turbines per day and team under optimal conditions. Eliminating the need for pilot intervention, the 3DX™ AutoPilot Pro is an ideal solution for large fleets spread across vast regions and allows the drone to safely fly closer to the blade than ever before. With a streamlined, single-stop inspection process and a mere 30 minutes of downtime, it ensures rapid and efficient inspections, requiring as little as one day of pilot training.
+
+The 3DX™ AutoPilot Pro incorporates a state-of-the-art image capturing system that delivers market-leading image quality. This includes superior sharpness, minimal noise visibility, high dynamic range, and exposure accuracy meticulously tailored for each individual image. These features make the 3DX™ AutoPilot Pro particularly well-suited for demanding scopes such as end-of-warranty inspections. This comprehensive and advanced solution guarantees not only operational efficiency but also the highest standards in image quality, ensuring the precision required for critical inspections.
+Informed Decision Making and Accurate Repair Planning with 3DX™ Blade Platform3DX Blade Platform data analytics
+
+Utilizing high-quality images accompanied by detailed metadata, including precise localization and measurements, enhances our ability to detect and categorize damages with accuracy. This, in turn, facilitates informed and well-planned repairs, minimizing the risk of poor repair execution, but also ensures that even seemingly minor damages receive thorough assessment and appropriate attention.
+
+With advanced and user-friendly analytics features, the 3DX™ Blade Platform also provides powerful tools to transform fleet wide inspection data to actionable insights. You can for example analyze damage patterns and review historical data to track how damages evolve over time, in order to assist in repair planning and optimize your fleet’s performance.
+
+By investing in our inspection solutions and utilizing the 3DX™ Blade Platform for reviewing and analyzing inspection data, you are making a strategic investment in the reliability and accuracy of your wind turbine blade inspections. This clarity is pivotal for making informed O&M decisions and optimizing maintenance strategies.
+The Choice is Yours
+
+In closing, whether you choose the self-controlled approach with the 3DX™ SmartPilot or opt for the efficiency of the AutoPilot Pro, our solutions, combined with the 3DX™ Blade Platform, guarantee unparalleled image quality and the insights to make the best decisions for your blades. To discuss which option aligns with your specific needs, please don’t hesitate to contact us. We’re here to help and set up a call at your convenience. Use the contact form below or email us at: info@sulzerschmid.com.
+Share this articleBlog/Newsxml version="1.0" encoding="UTF-8"?3DX™ Blade PlatformCustomized SolutionsPartner with usBlog/NewsAbout UsOpen/close navigation3DX™ Blade PlatformCustomized SolutionsPartner with usBlog/NewsAbout Us Matomo End Matomo Code

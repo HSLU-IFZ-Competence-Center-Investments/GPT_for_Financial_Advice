@@ -1,0 +1,138 @@
+ClinicalTrialTestingforPharma
+
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySiteKit
+
+GoogleTagManagersnippetadded by Site Kit 
+
+ End Google Tag Manager snippet added by Site Kit 
+
+ Google Tag Manager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solutions
+
+Solid Biopsy (OncoDEEP® Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+Characterise patients in clinical trials with one single lab with two distinct technologies 
+
+Exclusive molecular tools making the difference 
+
+	Among other standard clinical testing tools, OncoDNA has developed two exclusive solutions to improve the characterisation of clinical trial’s patients and to ease treatment monitoring. These approaches are of course of interest in planned or up-and-running trials but also to have a comprehensive restrospectively analysis of patients’ samples collected during trial.	
+
+Planned or up-and-running trials or a comprehensive retrospectively analysis of patients’ samplesOffering NGS and molecular pahtology as stand-alone or integrated assay.ISO 15189 lab processing.NGS sequencing – Ion torrent or Illumina based.Protein expression analysis through IHC / RNA-Seq.Pathologist team.Unique assesment of tumour microenvironment using immunogram and upgraded immunogram to support immonotherapy clinical trials.Liquid or solid biopsy. 
+
+We have developed solutions especially designed for your clinical testings
+
+We use a combination of the most relevant molecular technologies and bioinformatic approaches to offer you molecular integrated assays. 
+
+What we do with Generation Sequencing?
+
+OncoDNA uses next-generation sequencing for DNA and RNA analysis. Sequencing DNA allows us to address three classes of genomic alterations known to be relevant in solid tumours:Somatic point mutations;Indels (insertion or deletion of bases);Copy number variations (CNVs).
+
+The 4th class of genomic alterations - translocations/fusions/rearrangements - is tested through RNA sequencing. RNA sequencing can also be used to perform expression profiling analyses.
+
+What technology do we use?
+
+Routinely, OncoDNA runs all 3 devices from Thermo Fisher Scientific using Ion Torrent™ sequencing technology: Ion PGM, Ion Proton and Ion S5 XL Systems.
+
+For specific projects, we can also run Illumina devices.From single gene to complete panel.On demand target with validated panels or customised panel design.Using solid tumor (FFPE block or slides) and/or liquid biopsy (blood, urine, CSF, saliva…).From sample to biological and clinical interpretation.AND the most flexible and personalised ctDNA solution.
+
+OncoDNA embraces the challenges and benefits of IHC. Our molecular pathology experts come from extensive clinical pathology and research-based backgrounds.
+
+So the IHC assays available in our portfolio can serve cancer diagnostic and cancer theranostic, question the potential benefit of different treatment approaches (Chemo, targeted therapy, immunotherapy).Cancer diagnostic: ER, PR, CD117, CD10, CKs…Chemo potential benefit: TLE3, TOPO1, RRM1, TUBB3, TOP2A…Targeted therapies benefit: EGFR, VEGFR2, HER2, PTEN…Immunotherapies benefit: PD-L1, CD8…
+
+Immunohistochemistry assays are also great tools to question activation of some cancer pathways in cancer cells: mTOR pathway, MAPK pathway, cell cycle pathway, … We have validated IHC and pIHC assays to question those pathways.Cancer pathways : p4EBP1, pERK1/2, cMET, pAKT, pRB, CDK4…
+
+Beside the large portfolio of off-the-shelf IHCs assays, OncoDNA has developed a large expertise in IHC based biomarker assay development and validation services. Developed assays can be used from preclinical development through proof of concept to testing in clinical trials, ensuring transition of procedures and technology during the drug development process.
+
+Specific biomarkers need specific assays
+
+Biology is complex, so is the biomarker landscape. Beside molecular alterations that can easily be tested using NGS and/or IHS, a lot of biomarkers require specific technologies/assays to be evaluated. Being technology agnostic / biomarker believer, we have put in place and validated diffrent assays to answer those specific biomarkers
+
+Splice variants: In cancer cells, various splicing alterations have been identified that e.g. eliminate protein domains or enzymatic activities required for efficacy of cancer therapies.
+
+OncoDNA proposes RT-QPCR based assays to test those splice variants amongst which EGFR-VIII, AR-V7, MET Exon 14 Skipping…
+
+Methylation analysis: In glioblastoma, promoter methylation of the gene encoding for MGMT is undoubtedly the genetic fingerprint with highest impact on clinical practice. We offer this biomarker testing through a combination of bisulfite treatment and pyrosequencing for accurate and cost-efficient assessment.
+
+FISH or CISH: While FISH cannot be utilised as a screening test for chromosomal aberrations, FISH has been widely used to identify specific molecular targets with predictive, diagnostic and/or prognostic significance. As an example, HER2 FISH PharmDx Kit still is a companion diagnostic for some HER2 inhibitors.
+
+PCR – QPCR – dPCR: OncoDNA has developed a large selection of validated PCR based methods and assays and PCR platforms to support your development and clinical needs.
+
+A unique immunogram to properly predict response to immunotherapy 
+
+	Our immunogram combines five different biomarkers for predicting clinical benefit of immune checkpoint inhibitors (ICIs): PD-L1 protein expression (FDA-approved marker), TMB, CD8+ T-cell infiltration, MSI (FDA-approved marker) and gene alterations leading to sensibility or resistance to ICIs. 	
+
+Liquid biopsy to monitor treatment response
+
+OncoDNA has developed a solution to monitor treatment response using a simple blood sample. It is the perfect tool to help pharma and biotech companies transition from tissue to blood based assays during drug development and/or for market positioning of already approved molecules.
+
+This test is based on free circulating tumor DNA (ctDNA) in liquid biopsies, principally blood, while other matrixes are currently under validation (urine, saliva, vaginal swab, …).
+
+In clinical trials, our personalised ctDNA assay can be used:To identify disease recurrence and potentially identify relapse drivers by monitoring the amount of ctDNA of treated patients and identifying escaping variants, allowing this way to change/initiate treatment earlier.To assess therapy response in the neoadjuvant setting to assess personalised therapies.To better characterise patients and optimise their selection or randomisation for clinical trials.
+
+Customisation for each patient can be made by selecting a set of patient-specific variants, identified in the tumor by a previous genetic test.
+
+Our assay can then be composed of one or two sets of markers:A first set of markers consisting in a core panel addressing variants (SNV, Indel and CNV) or translocation. We have standard panels ranging from 10 to 40 genes but this core panel can be designed according to your genes of interest.The second set of biomarkers consists in patients’ specific variants which allow to monitor the heterogeneity of the response. 
+
+Your benefits with personalised ctDNA assay? 
+
+The combination of clinically validated variants and patient-specific variants allows fast and robust treatment escape monitoring at a lower cost than large CDS gene panels. The panel can truly be used repeatedly on liquid biopsy samples. 
+
+Relapses can be detected earlier than with routine imaging technologies. 
+
+Identify new targets if the cancer grows resistant to the current therapy. 
+
+They trust our expertise 
+
+	Aiding physicians to identify HRAS and other mutations in HNSCC is an essential element of Kura’s clinical development strategy. Streamlining screening processes facilitates timely access to important medical information that could help oncologists and their patients in making treatment decisions.	
+
+M.D. PH.D ANTONIO GUALBERTOHead of Development and Chief Medical Officer, Kura Oncology - USA 
+
+	The study met its predefined success criteria and has been amended to continue enrolling HRAS mutant HNSCC pts, as well as pts with SCC, other than HNSCC, with HRAS mutations into a new Cohort 3. (ESMO 22 october 2018)	
+
+DR. ALAN L. HOOncologist, Memorial Sloan Kettering Cancer Center - USA 
+
+ Next
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+Manage consent
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712105573

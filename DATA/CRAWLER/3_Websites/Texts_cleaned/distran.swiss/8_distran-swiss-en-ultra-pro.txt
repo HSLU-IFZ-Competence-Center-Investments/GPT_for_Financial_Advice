@@ -1,0 +1,203 @@
+DistranUltraPro-Ultrasoundcameraforgasleakdetection
+
+CompositeManufacturing
+GasLeakDetectionAsAService
+
+UltraPro/UltraProX
+
+Blog
+Distraninthemedia
+
+CompositeManufacturing
+GasLeakDetectionAsAService
+
+UltraPro/UltraProX
+
+Blog
+Distraninthemedia
+
+TalktoyourlocalExpert
+
+UltraProUltrasonicleakimagingforhigh-reliabilityinspections
+
+Redefiningstandardsingasleakinspection
+
+The Ultra Pro hand-held ultrasound imaging camera is capable of accurately locating gas leaks from several meters with unrivaled speed. It excels in finding leaks in high or in hard-to-reach areas.
+
+The sensor works by detecting the specific sounds that pressurized gas leaks emit. Thanks to its integrated 124 ultrasound microphones, the ultrasound camera reconstructs the position of the sound source. The information is overlaid in real-time with a wide angle optical image.
+
+Ultra Pro creates, in a single tap, images and videos that can be assembled in reports either using Distran’s reporting software Audalytics or with the user’s preferred software.
+
+Works with all types of gas
+
+0.3 to 100 m
+
+or 1 to 330 ft
+
+or 2.10⁻⁴ cfm for a 4 bar methane leak at a 30 cm distance
+
+or 0.7 psi
+It also works with vacuum leaks
+
+Ultrasonic Gas Leak Detection
+
+Pinpoint gas leaks without scanning each single element
+
+Ultrasonic Gas Leak Imaging is a technique that allows you to analyze the sound emitted by leaks and and display it as an image. It works for any gas type, even vacuum.
+
+How Ultrasonic Gas Leak Imaging worksHow it works?
+
+Why use Ultra Pro?
+
+10 times faster than traditional methods
+
+Classical gas detectors require the operator to thoroughly check every potential leak point. With Ultrasonic Imaging, the detection can be performed without scanning every single element. The inspection is done several meters away, reducing the need for scaffolding.
+Reduce your exposure to gas
+
+Leaks can be found several meters away (for bigger leaks up to 100 meters away). The operator has less or no exposure to the hazardous location.
+Uncover leaks in unexpected locations
+
+As sound propagates beyond our line of sight, hidden leaks that are missed with other techniques can be detected with Ultrasonic Imaging.
+
+Ultra Pro is able to quantify the leak rate (in liters per hours or in cubic feet per minute) in a few seconds without using a tripod.
+
+Quantify gas leak rates and prioritize maintenance
+
+Estimating gas leak rates has never been this easy
+
+Thanks to its 124 sensors, Ultra Pro can not only locate leaks but also quantify the severity of a gas leak within seconds and without the need for a tripod. From the sound source loudness, a gas flow rate is automatically converted in real-time. It is not affected by the background noise. The leak rate quantification makes it possible to prioritize the maintenance and inform the decisions regarding the repair of the leaks.
+
+Additionally, the ultrasonic camera Ultra Pro estimates, in real-time, its limit of detection in the current environment given the user selected settings. It enables the operator to validate his inspection.
+
+Locate partial discharges, such as corona, tracking, arcing
+
+Ultra Pro also pinpoints partial discharges and other electrical faults
+
+Partial discharges such as Corona discharges, arcing and tracking happen in high-voltage systems and may lead to failures. These phenomena produce ultrasound and can be precisely localized with Ultra Pro.
+
+Inspection reports with Audalytics
+
+Ultrasonic imaging shines when it comes to reports because images speak more than a thousand words when it comes to describing a leak location. Furthermore, Distran has developed an integrated reporting tool, called Audalytics, that enables the operator to create a report with annotations within minutes after the inspection. The report can then be shared within all stakeholders without additional software, directly in the browser where videos are embedded seamlessly.
+Special software features allow data-trending, dashboard functions and recording of voice notes.
+
+Best-in-class handling in the field
+
+From the beginning, Ultra Pro has been developed with industrials and by people who have performed many inspections in the past. Weighing only 1.5 kg including the battery, the camera is operated with a single hand, so that the operator can safely inspect, even in a staircase. The camera has also been tested for drops, in design to be robust. Its integrated LED lighting illuminate dark areas without the need for a separate light source.
+
+1.5 kg all inclusive
+
+1400 lumens, integrated LED lighting
+
+The only ATEX Certified ultrasound camera in the world
+
+In January 2021, Distran announced the Ultra Pro X, the world’s first ATEX certified ultrasound camera.
+
+Ultra Pro X is the ATEX certified version of Ultra Pro, specifically designed for use within potentially explosive atmospheres for the oil and gas, chemistry and power plant industry.
+
+Detected gasesAll compressed gases incl. air, vacuum and steam
+
+Working distanceFrom: 0.3 - 100 m (1 - 330 ft)
+Typical: 1 - 6 m (3 - 20 ft)
+
+Detection thresholdFrom 0.3 L/h at 30 cm (0.01 ft3/h at 1 ft)
+Quiet environment 2 L/h at 30 cm (0.1 ft3/h at 1 ft) 
+Industrial environment 10 L/h at 30 cm (0.4 ft3/h at 1 ft) 
+
+Detection methodAcoustic imaging using 124 ultrasound sensors
+
+Pressure differenceMin. 50 mbar (0.7 psi)
+
+Acoustic angle of view180°
+
+Optical angle of view110°
+
+Weight1.5 kg (3.3 lb)
+
+Temperature range-10°C to 50°C (10°F to 122°F)
+
+Battery life5 hours (2x2.5 hours - 2 batteries provided in pack)
+
+Integrated LED lights1400 lumens
+
+Data exportAudalytics or SD card
+
+CertificationCE, RoHS and WEEE compliant
+ATEX for X version (Zone 2, including hydrogen)
+
+Ex marking (for X version)II 3G Ex ic IIC T5 Gc
+II 3D Ex ic IIIC T100°C Dc
+Tamb = -10°C to 40°C
+
+–
+
+What distance can a leak be detected?
+
+Depending on the flow rate of the leak, from 30 centimeters (1 feet) to 50-100 meters (150-300 feet). Large leaks (thousand of liters per hour) can be detected up to 50 meters. Small leaks (a few liters per hour) are detectable at a few meters. Typical leak search distance is between 1 to 6 meters (3 to 20 feet).
+
+What type of gases can be detected?
+
+A difference in pressure of 50 mbar (0.7 psi) is recommended for good detection. Below this, it is still be possible to detect gas leaks, but the detection limit of the device is higher. The difference can also be negative (vacuum leaks).
+
+Which gases can be detected ? Does it work with vacuum leaks?
+
+The camera does not detect gases directly but the sound leaks make when the gas is escaping (learn more about technology). Vacuum leaks can also be detected because they create turbulences and thus ultrasounds. What is needed is a minimum pressure difference (typically 50 mbar / 0.7 psi) and a path in the air for the sound to propagate.
+
+Is it possible to operate Ultra Pro in noisy areas (compressor rooms, gas turbine enclosure, etc.)?
+
+Ultra Pro filters all noises outside the detection window, in particular low frequency in the audible range. Even in a very noisy environment like in gas turbine noise enclosure with up to 100 dB(A) noise, leakages have been detected.
+
+Ultra Pro estimates in real-time its lower limit of detection (LoD), allowing the user to know how accurate the inspection is. This is typically useful when acceptance criterion is used.
+
+Can I inspect underground or insulated systems?
+
+Direct sight is not required for leak detection, but the sound must propagate from the leak to the surface of Ultra Pro, where the microphones are located. This is typically not the case for underground systems (shielded by soil). For insulated systems it depends on how tight the insulation is.
+
+What is the accuracy of Ultra Pro?
+
+Similar to an optical camera, the accuracy is determined as an angle (the closer you are to a leak, the smaller is the linear accuracy). The accuracy depends on the acoustic imaging algorithm, the imaging frequency and how good the optical camera and the microphone array are matched.
+
+The typical accuracy is about 1°.
+
+Is the device ATEX Certified / Intrinsically Safe?
+
+Ultra Pro X is the ATEX certified / intrinsically safe version of Ultra Pro. It is certified for zone 2 gas for class IIC (USA: div 2 class 1), including hydrogen.
+
+Does Distran supply a tool to generate digital reports?
+
+Yes. With every device, Distran includes free access to its reporting tool Audalytics. Pictures and videos can be included in reports along with notes and comments. It is easily shared between stakeholders.
+
+ To which distance can a leak be detected? 
+
+Depending on the flow rate of the leak, from 30 centimeters (1 feet) to 50-100 meters (150-300 feet). Large leaks (thousand of liters per hour) can be detected up to 50 meters. Small leaks (a few liters per hour) are detectable at a few meters. Typical leak search distance is between 1 to 6 meters (3 to 20 feet).
+
+ What types of gases can be detected? Does it work with vacuum leaks? 
+
+Ultra Pro does not detect gases directly but the sound leaks make when the gas is escaping (learn more about technology). Thus, the camera can detect leaks of any gas type, a 50 mbar (0.7 psi) difference in pressure is recommended for a good detection, as well as an open path in the air for the sound to propagate.
+
+Ultra Pro is not limited to gas types, it can detect hydrocarbons, hydrogen, noble gases, compressed air, steam, etc. Negative pressures are also detectable, so Ultra  Pro can pinpoint vacuum leaks too.
+
+Below 50 mbar, it is still be possible to detect gas leaks, but the detection limit of the device is higher. The difference can also be negative (vacuum leaks).
+
+ Is it possible to operate Ultra Pro in noisy areas (compressor rooms, gas turbine enclosure, etc.)? 
+
+Ultra Pro filters all noises outside the detection window, in particular low frequency in the audible range. Even in a very noisy environment like in gas turbine noise enclosure with up to 100 dB(A) noise, leakages have been detected.
+
+Ultra Pro estimates in real-time its lower limit of detection (LoD), allowing the user to know how accurate the inspection is. This is typically useful when acceptance criterion is used.
+
+ Can I inspect underground or insulated systems? 
+
+Direct sight is not required for leak detection, but the sound must propagate from the leak to the surface of Ultra Pro, where the microphones are located. This is typically not the case for underground systems (shielded by soil). For insulated systems it depends on how tight the insulation is.
+
+ What is the accuracy of Ultra Pro? 
+
+Similar to an optical camera, the accuracy is determined as an angle (the closer you are to a leak, the smaller is the linear accuracy). The accuracy depends on the acoustic imaging algorithm, the imaging frequency and how good the optical camera and the microphone array are matched.
+
+The typical accuracy is about 1°.
+
+ Is the device ATEX Certified / Intrinsically Safe? 
+
+Ultra Pro X is the ATEX certified / intrinsically safe version of Ultra Pro. It is certified for zone 2 gas for class IIC (USA: div 2 class 1), including hydrogen.
+
+ Does Distran supply a tool to generate digital reports? 
+
+Yes. With every device, Distran includes free access to its reporting tool Audalytics. Pictures and videos can be included in reports along with notes and comments. It is easily shared between stakeholders.

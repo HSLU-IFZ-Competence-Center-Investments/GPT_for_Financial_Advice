@@ -1,0 +1,47 @@
+This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ 
+Road to SLAS 2024 - Nagi Bioscience
+
+ / Yoast SEO plugin. 
+Road to SLAS 2024 - Nagi Bioscience
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Products & ServicesSydLab OneSydLab OneNagi Assay KitsSoftware SolutionsNagi Service SolutionsApplicationsEarly ToxicologyPre-clinical TestingAging ResearchTechnologyOrganism-on-ChipBiological ModelsNews & ResourcesNews & Blog#ResearchAlertEventsResourcesAboutAbout UsTeamTestimonialsSupportersCareersContact
+
+Road to SLAS 2024
+
+Nagi Bioscience will participate at SLAS 2024 International Conference and Exhibition to connect with researchers and professionals in the high-content screening world , explore partnerships, and establish the basis of our expansion plan.
+
+Society for Laboratory Automation and Screening (SLAS 2024)
+
+SLAS is an international non-profit professional community comprising scientists from academia, government, and industry who are dedicated to leveraging technological advancements to achieve scientific goals. An integral aspect of their mission is to bring together brilliant minds in life sciences and technology, fostering a collaborative transformation in research. 
+
+The annual SLAS International Conference and Exhibition converges experts in life sciences, technology and automation to explore cutting-edge technologies and collaborative opportunities at the intersection of research and technology. Taking place in Boston this year, is the landmark event to engage is insightful discussions, explore groundbreaking research, and enjoy a vibrant exhibition showcasing about the latest advancements.
+
+Meet Nagi Bioscience’s CEO Matteo Cornaglia at SLAS 2024
+
+At Nagi Bioscience we developed the first fully automated high-content screening device on small organisms, providing ethical 3Rs in vivo testing at the in vitro scale. 
+
+Powered by our patented Organism-on-Chip technology, combines advanced microfluidic technology with cutting-edge robotics, AI, and biology to automate the entire process of culture, treatment, imaging, and multi-phenotypic analysis of microscopic organisms for safety and efficacy testing.
+
+Our platform facilitates our customers’ early toxicity assessments, drug discovery, pre-clinical testing and aging research. How? Allowing automated generation of whole-organism readouts in high-throughput, without the barrier of in vivo studies (feasibility, scaling, ethics).
+
+SydLab™ One
+
+in vivo testing at the in vitro scale
+
+WHOLE-ORGANISM DATA WITHIN A 3RS TECHNOLOGY
+
+AUTOMATION = STANDARDIZATION & HIGHER REPRODUCIBILITY
+
+MICROFLUIDICS = 10X LESS COMPOUND CONSUMPTION
+
+C. ELEGANS MODEL ORGANISM = 40X FASTER THAN MICE TESTING
+
+HIGH-THOUGHPUT = 1000+ ORGANISMS & 64 CONDITIONS IN PARALLEL
+
+AI-POWERED DATA ANALYSIS = 25+ READOUTS PER ORGANISM/HOUR

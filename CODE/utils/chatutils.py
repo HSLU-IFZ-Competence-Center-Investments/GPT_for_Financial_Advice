@@ -1,10 +1,11 @@
 # Author: Ahmet Ege Yilmaz
-# Year: 2023
+# Year: 2024
 
-import openai,pickle,time
+import openai,pickle,time,os
 import numpy as np
 import pandas as pd
 from typing import Optional
+from tqdm import tqdm
 
 def ErrorHandler(f, *args, **kwargs):
     def wrapper(*args, **kwargs):
@@ -12,12 +13,11 @@ def ErrorHandler(f, *args, **kwargs):
             try:
                 f(*args, **kwargs)
                 break
-            # RateLimitError
-            except openai.error.RateLimitError:
-                print('Rate limit exceeded. I will be back shortly, please wait for a minute.')
-                time.sleep(60)
             # AuthenticationError
-            except openai.error.AuthenticationError as e:
+            except openai.AuthenticationError as e:
+                print(e)
+                raise
+            except Exception as e:
                 print(e)
                 raise
     return wrapper
@@ -40,7 +40,7 @@ class ChatSession:
             )
         }
     
-    def __init__(self,gpt_name='GPT') -> None:
+    def __init__(self,gpt_name='GPT',username = "User") -> None:
         
         # History of all messages in the chat.
         self.messages = []
@@ -50,6 +50,9 @@ class ChatSession:
 
         # The name of the model.
         self.gpt_name=gpt_name
+
+        # The name of the user.
+        self.username=username
 
     def chat(self,user_input:Optional[dict|str]=None,verbose=True,*args,**kwargs):
         """ Say something to the model and get a reply. """
@@ -146,12 +149,135 @@ class ChatSession:
             assert isinstance(history,dict)
             self.history.append(history)
 
+    def _unpack_message(self,msg):
+        message = msg['content']
+        who = {'user':f'{self.username}: ','assistant':f'{self.gpt_name}: '}[msg['role']]
+        return who + message.strip() + '\n'
+    
     def __call__(self,k:Optional[int]=None):
         """ Display full chat log or last k messages. """
 
         k = len(self.messages) if k is None else k
         for msg in self.messages[-k:]:
-            message = msg['content']
-            who = {'user':'User: ','assistant':f'{self.gpt_name}: '}[msg['role']]
-            print(who + message.strip() + '\n')
+            print(self._unpack_message(msg))
 
+
+
+class AssistantSession(ChatSession):
+    
+    assistant = None
+
+    def __init__(self,gpt_name='Assistant',model="",instructions:str="",tools:list[dict[str,str]]=[],file_paths:list[str]=[""],api_key:str="") -> None:
+        
+        assert model, "Please provide a model."
+        
+        super().__init__(gpt_name=gpt_name)
+
+        assert len(file_paths)>0, "Please provide at least one file path."
+        for file_path in file_paths:
+            assert os.path.exists(file_path), f"File path {file_path} does not exist."
+
+        self.client = openai.OpenAI(api_key=api_key)
+
+        self.files = []
+        failed_to_open = 0
+        print("Uploading files...")
+        for file_path in tqdm(file_paths,total=len(file_paths)):
+            try :
+                file = self.client.files.create(file=open(file_path, 'rb'),
+                                            purpose="assistants")
+            except:
+                failed_to_open+=1
+            else:
+                self.files.append(file)
+
+        print(f"Failed to open {failed_to_open} files out of {len(file_paths)}")
+
+        self.model = model
+        self.instructions = instructions
+        self.tools = tools
+
+        print("Creating assistant...")
+        self.__make_assistant()
+
+        assert self.assistant is not None, "Failed to create assistant."
+
+        self.thread = self.client.beta.threads.create()
+
+    def chat(self,user_input:Optional[dict|str]=None,verbose=True,*args,**kwargs):
+        """ Say something to the model and get a reply. """
+        
+
+        user_input = self.__get_input(user_input=user_input)
+        
+        self.__get_reply(user_input=user_input,*args,**kwargs)
+
+        if verbose:
+            self.__call__(1)
+    
+    def __get_input(self,user_input):
+        if user_input is None:
+            user_input = input("> ")
+        return user_input
+    
+    @ErrorHandler    
+    def __get_reply(self,user_input,*args,**kwargs):
+        """ Calls the model. """
+        
+        _length_before = len(self.messages)
+
+        user_message = self.__create_message(role='user',content=user_input)
+        _ = self.__create_run(user_message)
+        
+        while len(self.messages)<_length_before+2: time.sleep(4)
+    
+    @ErrorHandler
+    def __make_assistant(self):
+        """ Creates an assistant. """
+        self.assistant = self.client.beta.assistants.create(
+            name=self.gpt_name,
+            instructions=self.instructions,
+            tools=self.tools,
+            model=self.model,
+            file_ids=[file.id for file in self.files]
+        )
+    
+    def __create_message(self,role,content):
+        message = self.client.beta.threads.messages.create(
+            thread_id=self.thread.id,
+            role=role,
+            content=content
+        )
+        return message
+    
+    def __create_run(self,message):
+        run = self.client.beta.threads.runs.create(
+            thread_id=self.thread.id,
+            assistant_id=self.assistant.id,
+        )
+        
+        return self.client.beta.threads.runs.retrieve(thread_id=self.thread.id, run_id=run.id)
+    
+    @property
+    def messages(self):
+        messages = self.client.beta.threads.messages.list(thread_id = self.thread.id)
+        return [*reversed(messages.data)]
+    
+    @messages.setter
+    def messages(self,_):return
+
+    @property
+    def history(self):
+        hstry = []
+        messages = self.client.beta.threads.messages.list(thread_id = self.thread.id)
+        for msg in reversed(messages.data):
+            hstry.append({msg.role:msg.content[0].text.value})
+        return hstry
+    
+    @history.setter
+    def history(self,_):return
+
+    def _unpack_message(self,msg):
+        message = msg.content[0].text.value
+        who = {'user':f'{self.username}: ','assistant':f'{self.gpt_name}: '}[msg.role]
+        return who + message + '\n'

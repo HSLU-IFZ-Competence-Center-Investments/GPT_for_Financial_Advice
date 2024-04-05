@@ -1,0 +1,63 @@
+This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ 
+ | In Vivo Micro-Organism Assays | Nagi Bioscience
+
+ / Yoast SEO plugin. 
+Applications | In Vivo Micro-Organism Assays | Nagi Bioscience
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Products & ServicesSydLab OneSydLab OneNagi Assay KitsSoftware SolutionsNagi Service SolutionsApplicationsEarly ToxicologyPre-clinical TestingAging ResearchTechnologyOrganism-on-ChipBiological ModelsNews & ResourcesNews & Blog#ResearchAlertEventsResourcesAboutAbout UsTeamTestimonialsSupportersCareersContact
+
+Applications
+
+ONE SYSTEM, UNLIMITED APPLICATIONS
+
+THE ENDLESS POSSIBILITIES OF the SYDLAB™ one universe
+
+Perform innovative bioassays with Nagi’s cutting-edge products. Screen your small molecules, food additives, nanoparticles, peptides, natural compounds and anthelmintics in just a couple of clicks. Infinite applications on hand.
+
+Discover Nagi™ ReproTox and Developmental Toxicity Assays
+
+NEW! Gain unleashed datapoints about your candidates
+
+End-to-end automated C. elegans lifespan assays
+
+Unlocking unique datapoints by end-to-end automation.
+
+By automating end-to-end small organisms experimentation, unprecedented levels of standardization and reproducibility are achieved.
+
+Micro-organisms testing made fast. made easy.
+
+Run experiments seamlessly in the Nagi™ platforms, so you can focus on what is important: your results.
+
+The tech behind the applications
+
+Innovation is in our DNA
+
+EMPOWERING YOUR RESEARCH is OUR goal
+
+R&D are in the core values of Nagi. That is why our team never stops developing innovative bioassays with the aim of getting better and faster quality data.
+
+In need of a tailored assay? Let’s work together
+
+Talk with an expert
+
+Enhancing mitochondrial proteostasis reduces amyloid-β proteotoxicity.
+
+Vincenzo Sorrentino, Mario Romani, Laurent Mouchiroud, John Beck, Hongbo Zhang […] Johan Auwerx
+
+An automated microfluidic platform for C. elegans embryo arraying, phenotyping, and long-term live imaging.
+
+Matteo Cornaglia, Laurent Mouchiroud, Alexis Marette, Shreya Narasimhan, Thomas Lehnert, Virginija Jovaisaite, Johan Auwerx, Martin Gijs
+
+An evolutionarily conserved role for the aryl hydrocarbon receptor in the regulation of movement.
+
+Evan Williams, Laurent Mouchiroud, Michael Frochaux, Ashutosh Pandey, Pénélope Andreux, Bart Deplancke, Johan Auwerx
+
+Loss of Sirt1 function improves intestinal anti-bacterial defense and protects from colitis-induced colorectal cancer.
+
+Giuseppe Lo Sasso, Dongryeol Ryu, Laurent Mouchiroud, Samodha Fernando, Christopher Anderson […] Johan Auwerx

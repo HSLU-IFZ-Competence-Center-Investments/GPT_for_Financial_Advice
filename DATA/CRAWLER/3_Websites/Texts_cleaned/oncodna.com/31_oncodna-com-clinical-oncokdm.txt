@@ -1,0 +1,100 @@
+OncoKDMturnsNGSdataintopersonalizedclinicalrecommendations
+
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySiteKit
+
+GoogleTagManager snippet added by Site Kit 
+
+ End Google Tag Manager snippet added by Site Kit 
+
+ Google Tag Manager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solid Biopsy (OncoDEEP® Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+Clinical and biological interpretation (OncoKDM) 
+
+Clear data insight and clinical interpretation 
+
+	OncoKDM®’s comprehensive interpretation reports provide labs with eight essential assets to enhance the understanding of NGS data, including detailed annotations, a list of actionable variants, a list of therapies recommendation and a summary of relevant clinical trials.	
+
+Watch KDM full movie
+
+Analysis details and quality control
+
+Accurate and reliable clinical interpretation of genomic data is essential for labs. OncoKDM provides the necessary views to labs to ensure the quality of sequencing data by enabling them to control key values. However, if labs require a deeper insight into molecular data such as hotspots, they can utilize the advanced Mercury platform.
+
+Our comprehensive variant analysis allows labs to discover all relevant variants detected through sequencing, which are categorized as SNV, INDEL, CNV, AMP. Additionally, we classify each variant based on its biological and therapeutic impact, using the TIER classification system that follows the established ACMG/AMP guidelines ensuring labs receive detailed and accurate information about each variant's potential clinical significance.
+
+In addition to identifying individual alterations, the OncoDEEP kit also focuses on complex genomic signatures and rearrangements, such as HRD, MSI, and TM. Our process includes scoring and reporting the expression of these signatures into OncoKDM, enabling labs to access a comprehensive overview of their patients' molecular profile. By incorporating these signatures into the analysis, we provide a more complete picture of the tumor's biology ensuring the best clinical interpretation.
+
+OncoKDM treatment recommendation provides a clear overview of the most effective treatment options based on official guidelines and clinical evidence, ensuring that non-responders are spared from unnecessary toxicities and ineffective therapies. We list each drug with its associated biomarkers and approval details, allowing oncologists to make informed decisions about the best treatment for the patients.
+
+Easily find worldwide, relevant clinical trials that have reached at least Phase 2, based on your patient's specific condition and molecular profile. With our advanced search capabilities, you can quickly identify clinical trials that are most likely to benefit your patients and provide them with the latest treatment options available.
+
+Our comprehensive reporting includes key findings, simplified pathway analysis, and treatment recommendations based on both molecular and clinical evidence. This allows labs to easily understand the implications of the molecular profiling results and make informed decisions about the best course of treatment for the patients.
+
+The most advanced technologies coupled with our clinical expertise 
+
+	Our BioIT team is dedicated to ongoing advancements in algorithm development, ensuring precise variant calling and accurate calculation of specific signatures. By integrating our proprietary knowledgebase, we harness the power of sequenced data to generate meaningful clinical recommendations. To ensure utmost reliability, our biologists meticulously validate these recommendations before they are published as comprehensive reports within OncoKDM®.	
+
+	OncoKDM® is CE-IVD *, HIIPA * and GDPR * compliant / CE-IVD :European CE Marking for In Vitro Diagnostic medical Devices for safety, and environmental protection standards for products sold within the European Economic Area (EEA) / GDPR: European EU 2016/679 General Data Protection Regulation (GDPR) for personal data storage, management and security /HIPAA: Health Insurance Portability and Accountability ; American data privacy and security provisions for safeguarding medical information.	
+
+"Every new feature we release is carefully designed to not only provide 
+users with a solution but also provide them with a real value for their job."
+
+No matter how comprehensive or focused, commercial or custom your panel is, OncoKDM® embeds a large library of BioIT pipelines enabling a seamless clinical interpretation of the NGS data. 
+
+• AmpliSeq for Illumina BRCA Panel• AmpliSeq for Illumina Cancer Hotspot Panel V2• AmpliSeq for Illumina Focus Panel• AmpliSeq for Illumina Comprehensive Cancer Panel• TruSight Tumor 15• TruSight Tumor 170• TruSight Oncology 500
+
+• OncoMINE Comprehensive Assay Plus
+• OncoMINE Comprehensive Assay (V3)
+• OncoMINE Focus Assay
+• OncoMINE BRCA Assay
+
+• Solid Tumor Solution
+
+• Human Breast Cancer Panel• Human Colorectal Cancer Panel• Human Lung Cancer Panel• Human Actionable Solid Tumor Panel• Human BRCA 1 & 2 Plus Panel
+
+ClearSeq Comprehensive Cancer Panel
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+Manage consent
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712124025

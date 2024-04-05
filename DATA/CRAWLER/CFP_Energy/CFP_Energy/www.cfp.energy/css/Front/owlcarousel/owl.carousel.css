@@ -1,0 +1,256 @@
+/**
+ * Owl Carousel v2.3.4
+ * Copyright 2013-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+ */
+/*
+ *  Owl Carousel - Core
+ */
+.owl-carousel {
+  display: none;
+  width: 100%;
+  -webkit-tap-highlight-color: transparent;
+  /* position relative and z-index fix webkit rendering fonts issue */
+  position: relative;
+  z-index: 1; }
+  .owl-carousel .owl-stage {
+    position: relative;
+    -ms-touch-action: pan-Y;
+    touch-action: manipulation;
+    -moz-backface-visibility: hidden;
+    /* fix firefox animation glitch */ }
+  .owl-carousel .owl-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0; }
+  .owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    /* fix for flashing background */
+    -webkit-transform: translate3d(0px, 0px, 0px); }
+  .owl-carousel .owl-wrapper,
+  .owl-carousel .owl-item {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0); }
+  .owl-carousel .owl-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none; }
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 100%; }
+  .owl-carousel .owl-nav.disabled,
+  .owl-carousel .owl-dots.disabled {
+    display: none; }
+  .owl-carousel .owl-nav .owl-prev,
+  .owl-carousel .owl-nav .owl-next,
+  .owl-carousel .owl-dot {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; }
+  .owl-carousel .owl-nav button.owl-prev,
+  .owl-carousel .owl-nav button.owl-next,
+  .owl-carousel button.owl-dot {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit; }
+  .owl-carousel.owl-loaded {
+    display: block; }
+  .owl-carousel.owl-loading {
+    opacity: 0;
+    display: block; }
+  .owl-carousel.owl-hidden {
+    opacity: 0; }
+  .owl-carousel.owl-refresh .owl-item {
+    visibility: hidden; }
+  .owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; }
+  .owl-carousel.owl-grab {
+    cursor: move;
+    cursor: grab; }
+  .owl-carousel.owl-rtl {
+    direction: rtl; }
+  .owl-carousel.owl-rtl .owl-item {
+    float: right; }
+
+/* No Js */
+.no-js .owl-carousel {
+  display: block; }
+
+/*
+ *  Owl Carousel - Animate Plugin
+ */
+.owl-carousel .animated {
+  animation-duration: 1000ms;
+  animation-fill-mode: both; }
+
+.owl-carousel .owl-animated-in {
+  z-index: 0; }
+
+.owl-carousel .owl-animated-out {
+  z-index: 1; }
+
+.owl-carousel .fadeOut {
+  animation-name: fadeOut; }
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1; }
+  100% {
+    opacity: 0; } }
+
+/*
+ * 	Owl Carousel - Auto Height Plugin
+ */
+.owl-height {
+  transition: height 500ms ease-in-out; }
+
+/*
+ * 	Owl Carousel - Lazy Load Plugin
+ */
+.owl-carousel .owl-item {
+  /**
+			This is introduced due to a bug in IE11 where lazy loading combined with autoheight plugin causes a wrong
+			calculation of the height of the owl-item that breaks page layouts
+		 */ }
+  .owl-carousel .owl-item .owl-lazy {
+    opacity: 0;
+    transition: opacity 400ms ease; }
+  .owl-carousel .owl-item .owl-lazy[src^=""], .owl-carousel .owl-item .owl-lazy:not([src]) {
+    max-height: 0; }
+  .owl-carousel .owl-item img.owl-lazy {
+    transform-style: preserve-3d; }
+
+/*
+ * 	Owl Carousel - Video Plugin
+ */
+.owl-carousel .owl-video-wrapper {
+  position: relative;
+  height: 100%;
+  background: #000; }
+
+.owl-carousel .owl-video-play-icon {
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  left: 50%;
+  top: 50%;
+  margin-left: -40px;
+  margin-top: -40px;
+  background: url('../../../index.html') no-repeat;
+  cursor: pointer;
+  z-index: 1;
+  -webkit-backface-visibility: hidden;
+  transition: transform 100ms ease; }
+
+.owl-carousel .owl-video-play-icon:hover {
+  -ms-transform: scale(1.3, 1.3);
+      transform: scale(1.3, 1.3); }
+
+.owl-carousel .owl-video-playing .owl-video-tn,
+.owl-carousel .owl-video-playing .owl-video-play-icon {
+  display: none; }
+
+.owl-carousel .owl-video-tn {
+  opacity: 0;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transition: opacity 400ms ease; }
+
+.owl-carousel .owl-video-frame {
+  position: relative;
+  z-index: 1;
+  height: 100%;
+  width: 100%; }
+
+section.testimonials .TitleBox {
+    position: relative;
+}
+section.testimonials span.text-title { display:block; font-weight:bold; padding-bottom:5px;  position: relative; z-index: 9;}
+
+
+
+/**** Banner  css start ***/
+section.main-slider.HomeBanner { height:85vh; overflow:hidden; }
+section.main-slider.HomeBanner .Video_Image { height:85vh; }
+section.main-slider.HomeBanner .Video_Image video { width:100%;  }
+section.main-slider.HomeBanner iframe { height:85vh;  }
+section.main-slider {float: left; width: 100%; overflow: hidden; height: 100%; position: relative;  padding: 0; margin: 0;}
+section.main-slider img { width: auto;   } 
+
+section.main-slider.HomeBanner .banner-content { position: absolute;  left: 0; right:0; margin: 0 auto; z-index:999; top:0; display: flex; height: 100%; width: 100%; align-items: center;  }
+section.main-slider.HomeBanner .banner-content .btn { margin: 0 2px;  }
+section.main-slider.HomeBanner .banner-content.TxtLeft .ContentColor { padding: 0;  text-align: left;  }
+section.main-slider.HomeBanner .banner-content.TxtRight .ContentColor { padding: 0;  text-align: right;  }
+section.main-slider.HomeBanner .banner-content.TxtBottom { top:auto; bottom: -170px;  } 
+section.main-slider.HomeBanner .banner-content.TxtCenter { text-align: center;  }
+section.main-slider.HomeBanner .banner-content.TxtTop .ContentColor { top:-100px;  }
+
+.main-slider .banner-content .ContentColor { position:relative;  }
+.main-slider .overlay { background: rgba(255, 255, 255, 0.7); float: left;  height: 100%;  overflow: hidden;  position: absolute;  top: 0;  width: 100%; z-index: 99; }
+.main-slider .banner-content h1 {font-size: 50px;  line-height: 50px;  color: #212121;  margin: 0 0 15px 0;  display: inline-block;  font-weight: normal; }
+.main-slider .banner-content p { color: #212121; margin:0 0 15px 0 ; font-size: 15px; font-weight: normal; }
+
+section.main-slider.CmsBanner .BannreBg { width: 100%; height: 300px; overflow: hidden;   }
+section.main-slider.CmsBanner .BannreBg video { width: 100%; }
+
+section.main-slider.CmsBanner .banner-content { position:absolute; top:0; left:0; width:100%;  } 
+
+/**** Cms Banner css start ***/
+section.main-slider.CmsBanner .banner-content a.btn {margin: 0 5px 0 0;}
+section.main-slider.CmsBanner .banner-content.TxtBottom {
+    bottom: 0;
+    height: 100%;
+    display: flex;
+    text-align: center;
+    align-items: end;
+    padding-bottom: 20px;
+}
+section.main-slider.CmsBanner .banner-content .container { padding: 0 8px; }
+section.main-slider.CmsBanner .banner-content.TxtLeft { display:flex; align-items:center; height:100%;  }
+section.main-slider.CmsBanner .banner-content.TxtRight { display:flex; align-items:center; height:100%; text-align:right;  }
+
+section.main-slider.CmsBanner .banner-content.TxtTop { top:20px; text-align:center; }
+section.main-slider.CmsBanner .banner-content h1 { display: block; margin-bottom: 10px;   }
+section.main-slider.CmsBanner .banner-content.TxtRight {  top: 0;   }
+section.main-slider.CmsBanner .banner-content.TxtCenter {top:0; display:flex; justify-content: center; align-items:center; height:100%; text-align:center;  }
+
+
+@media screen and (max-width:1023px) and (min-width:769px) {
+section.main-slider.HomeBanner .Video_Image { height: auto;  }
+section.main-slider.CmsBanner .BannreBg { height: auto;  }
+section.main-slider.CmsBanner .owl-carousel .owl-item img { width: auto; }
+section.main-slider .searchBox.Relativetp { display:none; }
+
+}  
+@media all and (max-width:768px) { 
+section.main-slider.HomeBanner .Video_Image { height: auto;  }
+section.main-slider.CmsBanner .BannreBg { height: auto;  }
+section.main-slider.CmsBanner .owl-carousel .owl-item img { width: auto; }
+section.main-slider .searchBox.Relativetp { display:none; }
+
+}
+
+

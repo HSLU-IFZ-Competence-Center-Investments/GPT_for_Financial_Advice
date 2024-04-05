@@ -1,0 +1,30 @@
+ElectronicallySteered Antenna Arrays | SWISSto12
+
+Antenna Components
+Electronically Steered Antenna Arrays
+
+Next generation active antennas for satellite communications
+
+Active Antennas are the future of satellite communications. SWISSto12 exploits the new design avenues offered by its technology to develop highly optimized antennas for LEO, MEO, and GEO satellite missions. RF active electronics are developed with third-party partners and integrated by SWISSto12 into the active antenna systems. 
+
+Electronically steered antenna array for LEO
+
+LEO antennas have to steer beams over a very wide field of view. This requirement imposes severe constraints on the array elements, which previously had to be produced using lossy dialectrics. Leveraging our proprietary 3D-printing, we design and manufacture electrically small array elements in waveguide technology with unbeatably low losses. The arrays can include up to 500+ dual-polarized elements (horn, OMT-polarizer, filter) and are produced monolithically. The latter ensures an ultra-simple integration, making the antenna especially suited for satellite constellations.
+Designs are available in Ku- and Ka-band.
+Verified experimentally. Data available upon request.
+
+Electronically steered antenna array for LEO
+
+Loading 3D model
+This might take a minute.
+
+Electronically steered antenna array for GEO
+
+Upcoming GEO flexible satellites will require arrays greater than 2m². To enable this, we take a modular approach to large arrays. Our modules are very light (up to 5 times lighter than conventional antennas), require minimal assembly and also simplify integration into the spacecraft. Other advantages include best-in-class RF performance, very low insertion loss, enhanced mechanical performance of the payload, ability to include thermal management features and design freedom when it comes to array shape.
+Designs are available from X- to Q-band. Designs can be TX&RX or only-TX or only-RX.
+Verified experimentally. Data available upon request.
+
+Electronically steered antenna array for GEO
+
+Loading 3D model
+This might take a minute.

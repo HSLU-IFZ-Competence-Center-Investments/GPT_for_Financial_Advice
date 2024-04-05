@@ -1,0 +1,498 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+PC VR – Find PCs Compatible with World's Best VR/XR from Varjo
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. .
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+Varjo’s PC VR headsets are compatible with a broad range of Windows 10 and 11 computers. We partner with industry-leading manufacturers to test and certify their computers for optimal performance. Browse and filter our list of recommended Varjo VR/XR-compatible computers here.
+
+Ready for maximum performance.
+
+Varjo works together with industry-leading manufacturers – including , , , , , , and others – to test and certify a suite of computers to make it quick and easy to get started with XR/VR. Each computer goes through extensive testing to make sure it provides optimal performance with Varjo’s human-eye resolution headsets.
+
+Pick your workstation from our recommended list to make it quick and easy to get started with XR/VR.
+These computers have been certified to be compatible with Varjo headsets either in local use or together with Varjo .
+The following computers also undergo continuous testing to guarantee forward compatibility with any future Varjo software releases.
+
+All computers certified for local use are compatible with Varjo Reality Cloud.
+
+Reality Cloud
+
+Acer
+Corsair
+
+HP
+Lenovo
+MSI
+
+Razer
+
+Acer Predator Helios 500
+
+CPU: Intel Core i9-11960K
+Memory: 64GB
+GPU: NVIDIA GeForce RTX 3080
+
+Acer Predator Orion 7000
+
+CPU: Processor: Intel Core i9-12900K
+Memory: 64GB
+GPU: NVIDIA GeForce RTX 3090 or NVIDIA RTX A6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: Intel Core i9-12900K
+Memory: 32GB
+GPU: NVIDIA GeForce RTX 3080
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: AMD Ryzen 3700X
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 2080 Ti
+
+Available in North America
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+HP Z2 SFF G9
+
+CPU: Intel Core i7-12700K
+Memory: 32 GB
+GPU: NVIDIA RTX A4000
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+HP Z4 G4 Workstation
+
+CPU: Intel Xeon W-2245 8C/16T
+Memory: 64GB
+GPU: NVIDIA RTX A6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+HP Z4 G5 Workstation
+
+CPU: Intel Xeon W5-2455X 12C
+Memory: 64 GB
+GPU: NVIDIA RTX 6000 Ada
+
+HP Z4 G5 Workstation
+
+CPU: Intel Xeon W5-2455X
+Memory: 64 GB
+GPU: NVIDIA RTX A6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+HP Z4 G5 Workstation
+
+CPU: Intel Xeon W5-2455X 12C
+Memory: 64 GB
+GPU: NVIDIA RTX A4000
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+HP Z6 G5 Workstation
+
+CPU: Intel Xeon W5-3435X 16C
+Memory: 64 GB
+GPU: NVIDIA RTX 6000 Ada
+
+HP Z6 G5 Workstation
+
+CPU: Intel Xeon W5-3435X
+Memory: 64 GB
+GPU: NVIDIA RTX A6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+HP Z6 G5 Workstation
+
+CPU: Intel Xeon W5-3435X 16C
+Memory: 64 GB
+GPU: NVIDIA RTX A4000
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+HP Z8 G4 Workstation
+
+CPU: dual Intel Xeon Gold 6244
+Memory: 64GB
+GPU: NVIDIA RTX A6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+HP Z8 G5 Fury Workstation
+
+CPU: Intel Xeon W5-3435 16C
+Memory: 128 GB
+GPU: NVIDIA RTX A6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+HP ZBook Fury 15 G8
+
+CPU: Intel Core i9-11950H
+Memory: 32 GB
+GPU: NVIDIA RTX A5000
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+HP ZBook Fury G9
+
+CPU: Intel Core i9-12950HX
+Memory: 64 GB
+GPU: NVIDIA GeForce RTX A5500 Laptop
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+HP ZBook Studio G9
+
+CPU: Intel Core i7-12700H
+Memory: 32 GB
+GPU: NVIDIA RTX A4500 laptop
+
+Lenovo ThinkPad P1 Gen 5
+
+CPU: Intel Core i9-12950HX
+Memory: 64 GB
+GPU: NVIDIA GeForce RTX 3080 Ti Laptop
+
+(w/ Varjo Reality Cloud)Varjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+Lenovo ThinkPad P16 Gen 1
+
+CPU: Intel Core i9-12950HX
+Memory: 128 GB
+GPU: NVIDIA RTX A5500 Laptop
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+Lenovo ThinkPad P16 Gen2
+
+CPU: Intel Core i9-13950HX
+Memory: 64 GB
+GPU: NVIDIA RTX 5000 ADA
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+Lenovo ThinkPad P17 Gen 2
+
+CPU: Intel Xeon W-11855M or Intel Core i9-11950H
+Memory: 32GB
+GPU: NVIDIA RTX A5000
+
+Lenovo ThinkStation P350 Tower
+
+CPU: Intel Core i7-11700, Core i7-11700K or Core i9-11900K
+Memory: 16GB
+GPU: NVIDIA RTX A4000 16GB, NVIDIA RTX A5000 24GB
+
+Varjo Aero 
+
+Lenovo ThinkStation P360 Ultra
+
+CPU: Intel Core i9-12900
+Memory: 64 GB
+GPU: NVIDIA RTX A5000 Laptop
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+CPU: Intel Xeon W3-2435 8C
+Memory: 64 GB
+GPU: NVIDIA RTX 6000 Ada
+
+CPU: Intel Xeon W2245 8C/16T
+Memory: 64 GB
+GPU: NVIDIA RTX A6000 or NVIDIA Quadro RTX 6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: Intel Xeon 2225
+Memory: 32 GB
+GPU: NVIDIA RTX A4000 16GB, NVIDIA RTX A5000 24GB
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+CPU: AMD Ryzen Threadripper PRO 3975WX
+Memory: 64 GB
+GPU: NVIDIA RTX A6000 or NVIDIA Quadro RTX 6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: AMD Ryzen Threadripper PRO 3945WX, 3975WX or 3995WX
+Memory: 32 GB
+GPU: NVIDIA RTX A4000 or NVIDIA RTX A5000
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+CPU: Xeon W3-3435X 8C
+Memory: 64 GB
+GPU: NVIDIA RTX 6000 Ada
+
+CPU: 2x Intel Xeon Gold 6244 16C/32T
+Memory: 64 GB
+GPU: NVIDIA RTX A6000 or NVIDIA Quadro RTX 6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: Intel Xeon Silver 4215R or Xeon Gold 6242
+Memory: 32 GB
+GPU: NVIDIA RTX A5000 or NVIDIA RTX A6000
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+CPU: Intel Core i7-11700
+Memory: 32GB
+GPU: NVIDIA GeForce RTX 3060
+
+Varjo Aero (w/ Varjo Reality Cloud)Varjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+MSI MEG Aegis Ti5
+
+CPU: Intel Core i9-11900K
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 3080
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+MSI MEG Trident X
+
+CPU: Intel Core i9-11900K
+Memory: 64 GB
+GPU: NVIDIA GeForce RTX 3090
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: Intel Core i9-12900HK
+Memory: 64 GB
+GPU: NVIDIA GeForce RTX 3080Ti Laptop
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: Intel Core i9-12900HX
+Memory: 128 GB
+GPU: NVIDIA GeForce RTX 3080Ti
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+MSI Titan GT77 HX 13V
+
+CPU: Intel Core i9-13980HX
+Memory: 128 GB
+GPU: NVIDIA GeForce RTX 4090 Laptop
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: Intel Core i7-12700H
+Memory: 16 GB
+GPU: NVIDIA GeForce RTX 3060
+
+Varjo Aero (w/ Varjo Reality Cloud)Varjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+CPU: Intel Core i9-11900K
+Memory: 32GB
+GPU: NVIDIA GeForce RTX 3080
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+Memory: 64 GB
+GPU: NVIDIA GeForce RTX 4090 Laptop
+
+Varjo AeroVarjo VR-3Varjo XR-3
+
+CPU: Intel Core i9-10900k 3.70GHz
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 3090 or RTX A6000
+
+Available in North America
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+Learn more
+
+CPU: Intel Core i9-13900K
+Memory: 64 GB
+GPU: NVIDIA RTX 6000 Ada
+
+CPU: Intel Core i7-11700 or AMD Ryzen 7 5800X
+Memory: 16 GB
+GPU: NVIDIA GeForce RTX 3070
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+learn more
+
+Razer Blade 16 (2023)
+
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 4080 Laptop
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+Razer Blade 17 (2022)
+
+CPU: Intel Core i9-12800H
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 3080 Ti Laptop
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+Razer Blade 17 (2022)
+
+CPU: Intel Core i7-12800HX
+Memory: 16 GB
+GPU: NVIDIA GeForce RTX 3060 Laptop
+
+Varjo Aero (w/ Varjo Reality Cloud)Varjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+Razer Blade 18 (2023)
+
+CPU: Intel Core i9-13950HX
+Memory: 32GB
+GPU: NVIDIA GeForce RTX 4090
+
+Varjo AeroVarjo VR-3Varjo XR-3
+
+SCHENKER KEY 15 (E22)
+
+CPU: Intel Core i7-12700H
+Memory: 16 GB
+GPU: NVIDIA GeForce RTX 3060 Laptop
+
+Varjo Aero (w/ Varjo Reality Cloud)Varjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+ SCHENKER KEY 15 (E22)
+
+CPU: Intel Core i9-12900H
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 3070Ti Laptop
+
+Varjo Aero (w/ Varjo Reality Cloud)Varjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+SCHENKER KEY 15 (E22)
+
+CPU: Intel Core i9-12900H
+Memory: 32 GB
+GPU: NVIDIA Geforce RTX 3080 Ti
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+Schenker KEY 17 (E23)
+
+CPU: Intel Core i9-13900HX
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 4070 Laptop
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+Schenker KEY 17 Pro (E23)
+
+CPU: Intel Core i9-13900HX
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 4090 Laptop
+
+Varjo AeroVarjo VR-3Varjo XR-3XR-4 series 
+
+CPU: Intel Core i7-13700K or i9-13900K
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 4080, NVIDIA GeForce RTX 4090 or NVIDIA RTX A6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: Intel Core i9-13900
+Memory: 32 GB
+GPU: NVIDIA GeForce RTX 4070 Ti
+
+XR-4 series 
+
+CPU: AMD Ryzen 9 5950X 16C 32T Liquid Cooled
+Memory: 64 GB
+GPU: NVIDIA GeForce RTX 3090 or NVIDIA RTX A6000
+
+Varjo AeroVarjo VR-3Varjo XR-3 
+
+CPU: Intel Core i5-11600K or Intel Core i9-11900K
+Memory: 16 GB
+GPU: NVIDIA GeForce RTX 3070 or RTX 3080
+
+Availability: North America, EU, Australia, New Zealand, Japan, South Korea, Singapore
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+CPU: AMD Ryzen 9 5900HX
+Memory: 16GB
+GPU: NVIDIA GeForce RTX 3080
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+XMG NEO 17 (E23)
+
+Memory: 32GB
+GPU: NVIDIA GeForce RTX 4090
+
+XR-4 series 
+
+Z8 G5 Fury Workstation
+
+CPU: Intel Xeon W5-3435 16C
+Memory: 128 GB
+GPU: NVIDIA RTX A4000
+
+Varjo AeroVarjo VR-3 (w/ Varjo Reality Cloud)Varjo XR-3 (w/ Varjo Reality Cloud) 
+
+Sorry, we couldn't find any Varjo ready computers matching your filters.
+
+Want to check if your computer is Varjo ready?
+
+Varjo XR and VR headsets are compatible with a broad range of PCs and workstations with NVIDIA GPUs. If you have any questions about Varjo-ready computers or using our PC VR, reach out to your Varjo sales experts.
+
+See system requirements Questions? Contact our experts
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

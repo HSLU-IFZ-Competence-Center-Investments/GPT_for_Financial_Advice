@@ -1,0 +1,56 @@
+Changeablepagetitle
+ | The Rent Company
+
+[if lte IE 9]>
+
+ <![endif]
+ since IE10 ignores conditional comments, we use this 
+
+ End Google Tag Manager /Head scripts 
+
+ Body scripts 
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) /Body scripts 
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer ServiceService
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer ServiceService
+
+Everything about The Rent Company!
+
+About us
+
+When Ronald van den Boogaard and his wife Sandra founded The Rent Company in 2004, their mission was clear: to make digital education accessible to every pupil. It all started with laptop carts. This way, every space could be transformed into a multimedia library in a flash.
+
+Digitisation has been on the rise in recent years. A logical requirement of the market was: "Can you supply every pupil with their own laptop?" We still do that today via the Easy4u subscription. We offer special laptops for use in education for an affordable monthly sum including software, service, and accidental damage and theft insurance.
+
+Over 700 schools and at least 280,000 pupils now use laptops from The Rent Company.
+
+The Rent Company zal Easy4u ook in andere landen gaan aanbieden. We hebben de start gemaakt in België, waar we ons gevestigd hebben in Lubbeek.
+
+Students and laptops? They are inextricably linked. Thanks to our full service provision via the Easy4u subscription, we make access to digital education easy and affordable.
+
+Laptops on loan during repairs, super-fast service, a single point of contact for the school and the students, and accidental damage and theft insurance are included.
+
+Choose Convience and securityChoose Easy4u
+
+Special educational laptop with solid casing and rubber edges
+Active battery life of at least 7 hours
+Wi-Fi card for fast and stable wireless access
+Model selection is agreed in advance with the educational institution 
+
+Basic installation for educational purposes
+Re-installation of the software at school is possible with a special image network
+Integration with school website domain if needed
+
+Replacement laptop during repairs
+Customer service support by phone
+Support via the school or home address during holidays
+Online customer portal
+Single point of contact for the customer
+In-house transport and repair service
+
+Damage and theft insurance with a limited excess of €50,00 per incident (max. 3)
+Includes solid, water-resistant protective sleeve
+The entire process is handled by The Rent Company

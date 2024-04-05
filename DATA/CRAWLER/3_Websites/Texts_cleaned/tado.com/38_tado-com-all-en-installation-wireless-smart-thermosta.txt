@@ -1,0 +1,21 @@
+htmlInstall Wireless Smart Thermostat on your own – a step-by-step guide
+Installation: Wireless Smart ThermostatOverview
+Useful information:The majority of users install tado° themselves.If you get stuck, our highly qualified technical customer support team will be happy to help you.You will find step-by-step instructions for over 16,000 different heating systems.If you don’t want to install tado° yourself, simply book a professional installer from your local area.
+Your step-by-step instructions: Wireless Smart Thermostat
+
+Please note that this is a simplified version of the instructions and not all the details are included: Please use only the installation assistant in the tado° app to install your tado° devices.
+Step 1: Start the online installation assistant
+
+Scan the QR code on your tado° product with the tado° app. This will guide you step-by-step through the installation process.
+Step 2: Enter your heating system information
+
+The installation assistant uses this information to confirm the compatibility of your system with tado° and to provide you with customised instructions.
+Step 3: Follow the step-by-step instructions
+
+Switch off the electric circuit for your heating system at the fuse box. Before you go any further, make sure that heating system is powered down. This step is extremely important to ensure that the installation process is safe.
+Step 4: Remove the existing controller or open your boiler
+
+Depending on your heating system, either remove your existing control panel or open up your boiler to access the wiring. You can then install your tado° product.
+Step 5: Install your tado° Smart Thermostat
+
+Follow the instructions in the app on how to wire and fit the Smart Thermostat correctly. You can turn the power to your heating back on as soon as the installation is complete.

@@ -1,0 +1,844 @@
+/* Responsive stylesheet A-side media v.2 release: 09-06-2015 by Cornee */
+
+/* Desktop */
+@media screen and (min-width : 1220px) {
+
+    /* Required hide/show classes for responsive */
+    .hide-on-desktop {
+        display    : none;
+        visibility : hidden;
+    }
+
+    .show-on-desktop {
+        display    : block;
+        visibility : visible;
+    }
+
+    /* Main navigation */
+    #main-nav {
+        display : block !important;
+    }
+
+}
+
+/* Tablet */
+@media screen and (min-width : 768px) and (max-width : 1219px) {
+
+    /* Required hide/show classes for responsive */
+    .hide-on-tablet {
+        display    : none;
+        visibility : hidden;
+    }
+
+    .show-on-tablet {
+        display    : block;
+        visibility : visible;
+    }
+
+    /* Container width required for responsive layout */
+    .default-container-width {
+        width : 96%;
+    }
+
+    /* Tablet responsive colums, can be used to overrule normal colums */
+    .tablet-column-20 {
+        width : 17.61904761904762%;
+    }
+
+    .tablet-column-25 {
+        width : 22.61904761904762%;
+    }
+
+    .tablet-column-33 {
+        width : 30.94904761904762%;
+    }
+
+    .tablet-column-40 {
+        width : 37.61904761904762%;
+    }
+
+    .tablet-column-50 {
+        width : 47.61904761904762%;
+    }
+
+    .tablet-column-60 {
+        width : 57.61904761904762%;
+    }
+
+    .tablet-column-66 {
+        width : 64.2904761904762%;
+    }
+
+    .tablet-column-75 {
+        width : 72.61904761904762%;
+    }
+
+    .tablet-column-80 {
+        width : 77.61904761904762%;
+    }
+
+    .locationdiv,
+    .tablet-column-100 {
+        width : 97.61904761904762%;
+    }
+
+    /* Project styles*/
+    .logo-container {
+        width  : 150px;
+        height : 74px !important;
+    }
+
+    .logo-container img {
+        width  : 150px;
+        height : 70px !important;
+    }
+
+    .logo-container.sticky img {
+        margin-top : 4px;
+    }
+
+    .basketdiv {
+        float : right;
+        width : 100%;
+    }
+
+    /* Main navigation */
+    #main-nav {
+        display : block !important;
+    }
+
+    /* Header */
+    /* Elements */
+    .product-filter .product-filter-filter-head, .product-filter .product-filter-category-active {
+        font-size : 18px;
+    }
+
+    /* Brandbox */
+    #brandboxContainer .slider .slide .brandbox-item-text-container {
+        position : relative;
+    }
+
+    .brandbox-item-text-container .default-container-width {
+        width : 100% !important;
+    }
+
+    #brandboxContainer .slider .slide .brandbox-item-text {
+        margin     : 0;
+        width      : 100%;
+        box-sizing : border-box;
+        padding    : 10px 20px;
+    }
+
+    #brandboxContainer .slider .slide .brandbox-item-text .line-1,
+    #brandboxContainer .slider .slide .brandbox-item-text .line-2 {
+        width      : 100%;
+        font-size  : 24px;
+        text-align : left;
+    }
+
+    #brandboxContainer #brandbox-pager {
+        position   : relative;
+        background : #ffffff;
+        padding    : 0;
+    }
+
+    #brandboxContainer #brandbox-pager .pager-item {
+        text-align    : left;
+        min-height    : min-content;
+        color         : #004f99;
+        margin-bottom : 0 !important;
+        padding       : 8px 14px;
+        background    : url('../images/layout/brandbox-pager-mobile-bg.png.html') no-repeat 0% 50%;
+    }
+
+    #brandboxContainer #brandbox-pager .pager-item.border {
+        border : none;
+    }
+
+    .dashboard-buttons-bottom-right,
+    .dashboard-buttons-bottom {
+        position : relative;
+        bottom   : auto;
+        clear    : both;
+    }
+
+    /* Help form */
+    .help-form input[type="text"] {
+        width : 80%;
+    }
+
+    /* Dashboard */
+    .dashboard-header {
+        font-size : 20px;
+    }
+
+
+    /* Steps */
+    .stap .stapnr {
+        font-size  : 30px;
+        text-align : center;
+        width      : 100%;
+    }
+
+    .stap .staptekst {
+        font-size   : 14px;
+        margin-left : 0px;
+        margin-top  : 5px;
+        text-align  : center;
+        width       : 100%;
+    }
+
+
+    /* Page help */
+    .page-help-submit {
+        width : 20%;
+    }
+
+    .page-help-input {
+        width : 80%;
+    }
+
+
+    /* Search */
+    .default-help-input {
+        width : 89% !important;
+    }
+
+    /* webshop overview */
+    .tablet100products {
+        width      : 97.61904761904762% !important;
+        text-align : center !important;
+    }
+
+    .extraSpaceForRebateBox {
+        margin-bottom : 40px !important;
+    }
+
+}
+
+@media screen and (min-width : 768px) and (max-width : 1024px) {
+    .details-content {
+        font-size : 12px;
+    }
+}
+
+/* Mobile */
+@media screen and (max-width : 767px) {
+
+    #main-header {
+        height     : auto;
+        font-size  : 16px;
+    }
+
+    #main-header.sticky {
+        left     : 0;
+        right    : 0;
+        top      : 0;
+        position : fixed;
+    }
+
+    .logo {
+        margin-top : 10px !important;
+    }
+
+    /* Required hide/show classes for responsive */
+    .hide-on-mobile {
+        display    : none;
+        visibility : hidden;
+    }
+
+    .show-on-mobile {
+        display    : block;
+        visibility : visible;
+    }
+
+    /* Container width required for responsive layout */
+    .default-container-width {
+        width : 96%;
+    }
+
+    .pagecontent {
+        padding : 0;
+    }
+
+    /* Responsive columns are all full width on mobile unless else defined*/
+    .column-10, .column-15, .column-20, .column-25, .column-33, .column-40, .column-50, .column-60, .column-66, .column-75, .column-80,
+    .config-column-20, .config-column-40 {
+        width  : 97.61904761904762%;
+        margin : 0 1.19047619047619% 0.76190476190476% 1.19047619047619%;
+    }
+
+    /* Mobile responsive colums, can be used to overrule normal colums */
+    .mobile-column-20 {
+        width : 17.61904761904762%;
+    }
+
+    .mobile-column-25 {
+        width : 22.61904761904762%;
+    }
+
+    .mobile-column-33 {
+        width : 30.94904761904762%;
+    }
+
+    .mobile-column-40 {
+        width : 37.61904761904762%;
+    }
+
+    .mobile-column-50 {
+        width : 47.61904761904762%;
+    }
+
+    .mobile-column-60 {
+        width : 57.61904761904762%;
+    }
+
+    .mobile-column-66 {
+        width : 64.2904761904762%;
+    }
+
+    .mobile-column-75 {
+        width : 72.61904761904762%;
+    }
+
+    .mobile-column-80 {
+        width : 77.61904761904762%;
+    }
+
+    .mobile-column-100 {
+        width : 97.61904761904762%;
+    }
+
+    /* Project styles*/
+    .header-name {
+        width         : 100%;
+        margin-bottom : 10px;
+    }
+
+    .search-nav.mobile {
+        display : block;
+    }
+
+    .header-more-info-link {
+        margin-top : 20px;
+    }
+
+
+    /* Main navigation */
+    .nav-top {
+        background : none;
+    }
+
+    .nav-search-icon {
+        top      : 65px;
+        right    : 45px;
+        position : absolute;
+    }
+
+    #main-nav {
+        display       : none;
+        position      : absolute;
+        top           : -11px;
+        z-index       : 999;
+        min-width     : 200px;
+        right         : 0;
+        left          : 0px;
+        padding-right : 0;
+        border        : 1px solid #ffffff;
+    }
+
+    #main-nav ul {
+        margin  : 0px;
+        padding : 0px;
+    }
+
+    #main-nav ul li {
+        float  : none;
+        height : auto;
+    }
+
+    #main-nav ul li a {
+        float         : none;
+        color         : #ffffff;
+        padding       : 10px;
+        display       : block;
+        margin-right  : 0px;
+        border-bottom : 1px solid #ffffff;
+    }
+
+    .nav-top.sticky {
+        top : auto;
+    }
+
+    .nav-top.stick #main-nav {
+        top : 20px;
+    }
+
+
+    /* Main navigation sub menu */
+    #main-nav ul ul {
+        display : none !important;
+    }
+
+    /* Header */
+    h1.home {
+        font-size : 25px;
+    }
+
+    .help-form h2 {
+        font-size : 25px;
+    }
+
+    .logo-schoolbook {
+        text-align : center;
+        margin-top : 20px;
+    }
+
+    .forgot-password,
+    .forgot-username {
+        width : 100%;
+    }
+
+    /* News */
+    .column-row {
+        /*width: 100%;*/
+    }
+
+    /* Elements */
+    .mobile-menu-icon {
+        display         : inline-flex;
+        background      : url('../images/layout/mobile-menu-icon.png') no-repeat;
+        width           : 25px;
+        height          : 25px;
+        cursor          : pointer;
+        color           : #ffffff;
+        background-size : 25px;
+        margin-top: 5px;
+    }
+
+    .cart-button-mobile {
+        position : absolute;
+        top      : 30px;
+        right    : 70px;
+    }
+
+    .search-button-mobile {
+        position : absolute;
+        top      : 30px;
+        right    : 126px;
+    }
+
+    .search-column {
+        top   : 75px;
+        right : 10px;
+    }
+
+    .productField {
+        width : 240px;
+    }
+
+    .button-webshop,
+    .button-filter {
+        background         : url('../images/layout/closed-blue.png.html') no-repeat 98% center;
+        float              : left;
+        color              : #14204a;
+        border             : none;
+        padding            : 5px 10px;
+        box-sizing         : border-box;
+        -webkit-box-sizing : border-box;
+        -moz-box-sizing    : border-box;
+        border             : 1px solid #cccccc;
+        cursor             : pointer;
+        width              : 100%;
+        margin-top         : 3px;
+    }
+
+    .product-filter-filter,
+    .webshop-filter-filter {
+        display : none;
+        width   : 100%;
+        margin  : 0 auto;
+    }
+
+    /* Footer */
+    .footerLocations,
+    .footer-copyright,
+    .footer-copyright .text-align-right {
+        text-align : center;
+    }
+
+    /* Contact */
+    .locationTab {
+        font-size : 16px;
+        padding   : 0 30px;
+    }
+
+    /* pagination */
+    .pagination span, .pagination a {
+        padding : 10px;
+    }
+
+    .dashboard-buttons-bottom-right,
+    .dashboard-buttons-bottom {
+        position : relative;
+        bottom   : auto;
+    }
+
+    .registratieKolomTitel {
+        text-align : left;
+    }
+
+    /* voorwaarden */
+    #service_voorwaarden {
+        width      : 90%;
+        box-sizing : border-box;
+        padding    : 0;
+    }
+
+    /* Help form */
+    .help-form input[type="text"] {
+        width : 70%;
+    }
+
+
+    /* General */
+    h1 {
+        font-size : 22px;
+    }
+
+    .dashboard-header {
+        font-size : 22px;
+    }
+
+    /* Steps */
+    .stap .staptekst {
+        font-size   : 16px;
+        margin-left : 0px;
+        margin-top  : 6px;
+    }
+
+    .stap .stapnr {
+        font-size : 26px;
+        display   : block;
+        width     : 30px;
+    }
+
+    .accord-header {
+        min-height : 65px;
+    }
+
+    .iconContainer {
+        width              : 100%;
+        box-sizing         : border-box;
+        -moz-box-sizing    : border-box;
+        -webkit-box-sizing : border-box;
+    }
+
+    #netbookDetails img {
+        float : left;
+    }
+
+    .backForward {
+        margin-top : 10px;
+    }
+
+    .backForward a {
+        width              : 100% !important;
+        box-sizing         : border-box;
+        -moz-box-sizing    : border-box;
+        -webkit-box-sizing : border-box;
+    }
+
+    /* Search */
+    .default-help-input {
+        width : 81% !important;
+    }
+
+    .default-help-submit {
+        width : 12% !important;
+    }
+
+    .header-nav-search.help-form {
+        padding : 0px;
+    }
+
+    .remove-border-padding {
+        border  : none !important;
+        padding : 0 !important;
+    }
+
+}
+
+/* Extra Mobile */
+@media screen and (max-width : 599px) {
+    .inspiration-column-66 {
+        width  : 100%;
+        margin : 0.5%;
+    }
+
+    .inspiration-column-50 {
+        width  : 100%;
+        margin : 0.5%;
+    }
+
+    .inspiration-column-width {
+        width   : 1.9%;
+        display : none;
+    }
+
+    .inspiration-column-33 {
+        width  : 100%;
+        margin : 0.5% 0.486%;
+    }
+
+    /* Dashboard */
+    .dashboard-details {
+        height        : auto !important;
+        margin-bottom : 10px;
+    }
+
+}
+
+.landingpagina-container {
+    font-family : 'Montserrat', sans-serif;
+    font-weight : 500;
+}
+
+.top-banner {
+    height           : 100px;
+    width            : 100%;
+    background-color : #76b82a;
+    color            : #ffffff;
+    font-weight      : bold;
+    padding-top      : 32.5px;
+    font-size        : 25px;
+}
+
+.landingspagina-heading {
+    width                      : 100%;
+    border-bottom-right-radius : 15px;
+    margin-left                : -27px;
+}
+
+.landingspagina-voordelen {
+    background-color           : #E2E2E3;
+    padding                    : 20px;
+    border-bottom-right-radius : 15px;
+}
+
+.landingspagina-voordelen ul {
+    margin     : 0 0 20px 0;
+    list-style : none;
+}
+
+.landingspagina-voordelen ul li {
+    margin-bottom : 4px;
+    position      : relative;
+    line-height   : 24px;
+    font-weight   : bold;
+}
+
+.landingspagina-voordelen ul li:before {
+    left         : 0;
+    font-family  : FontAwesome;
+    content      : '\f00c';
+    font-size    : 18px;
+    color        : #76b82a;
+    margin-right : 14px;
+}
+
+.prijsopbouw {
+    margin  : 0;
+    padding : 0;
+}
+
+.prijsopbouw-huur {
+    background-color: #76B82A;
+    border-top-right-radius: 15px;
+    padding: 10px 0;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    border: 1px solid #FFFFFF;
+}
+
+.prijsopbouw-koop {
+    background-color: #102F44;
+    border-top-right-radius: 15px;
+    padding: 10px 0;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    border: 1px solid #FFFFFF;
+}
+
+.prijsopbouw {
+    display: flex;
+}
+
+.prijsopbouw > div {
+    padding: 20px;
+    border: 1px solid #FFFFFF;
+}
+
+.plus-icon-middle {
+    position: absolute;
+    bottom: -12px;
+    left: 45%;
+    color: #76B82A;
+    font-size: 20px;
+    z-index : 99;
+}
+
+.prijsopbouw:nth-child(even) {
+    background-color : #E2E2E3;
+}
+
+.prijsopbouw:nth-child(odd) {
+    background-color : #EFEFF0;
+}
+
+@media screen and (max-width : 767px) {
+    .landingspagina-heading {
+        width : 100%;
+    }
+
+    .webshop-logo {
+        float      : none !important;
+        text-align : center;
+        margin-top : 0px !important;
+    }
+}
+
+@media screen and (max-width : 1024px) {
+    .landingspagina-heading {
+        margin-left : 0px;
+    }
+}
+
+.landingspagina-heading h2 {
+    color      : #ffffff;
+    text-align : center;
+}
+
+.landingspagina-content {
+    color       : #102f44;
+    font-family : 'Montserrat', sans-serif;
+    font-size   : 14px;
+    font-weight : 500;
+    margin-top  : -35px;
+    padding     : 20px;
+}
+
+@media screen and (max-width : 480px) {
+    .landingspagina-content {
+        margin-top : -10px;
+    }
+}
+
+.questions {
+    color          : #76b82a;
+    font-style     : italic;
+    line-height    : 20px;
+    font-weight    : 500;
+    padding-top    : 10px;
+    padding-bottom : 10px;
+}
+
+.list.landingspagina-lijst li:before {
+    background-color : #76b82a;
+    font-weight      : bold;
+    height           : 6px;
+    width            : 6px;
+}
+
+.color-red {
+    color       : red;
+    font-weight : bold;
+}
+
+.video-row {
+    margin-top : 30px;
+}
+
+.landing-preview-art {
+    border-right  : 4px solid #76b82a;
+    border-left   : 4px solid #76b82a;
+    border-bottom : 4px solid #76b82a;
+}
+
+.landing-preview-art span {
+    color       : #ffffff;
+    background  : #76b82a;
+    width       : 100%;
+    position    : absolute;
+    z-index     : 999;
+    height      : 30px;
+    padding-top : 7px;
+}
+
+.let-op {
+    padding    : 15px;
+    border     : 2px solid #76b82a;
+    text-align : center;
+}
+
+.let-op h2 {
+    border-bottom : 2px solid #76b82a;
+    font-weight   : 900;
+}
+
+.webshop-button {
+    margin-top                 : 5px;
+    background-color           : #102f44;
+    color                      : #ffffff;
+    padding                    : 20px;
+    width                      : 100%;
+    display                    : block;
+    text-align                 : center;
+    border-bottom-right-radius : 15px;
+    font-size                  : 20px;
+    font-weight                : bold;
+}
+
+.webshop-button:hover {
+    text-decoration : none;
+}
+
+.kies-heading {
+    font-weight : bold;
+    color       : #76b82a;
+}
+
+@media screen and (min-width : 768px) and (max-width : 968px) {
+    .let-op h2 {
+        font-size : 15px;
+    }
+}
+
+.administratie-tekst {
+    margin-top : 5px;
+}
+
+@media screen and (max-width : 480px) {
+    .administratie-tekst {
+        margin-top : 20px;
+    }
+
+    .questions {
+        text-align : left;
+    }
+}
+
+.webshop-logo {
+    float      : right;
+    margin-top : -30px;
+}
+
+.youtube-preview-art.no-logo:after {
+    display : none;
+}
+
+.youtube-preview-art img {
+    width : 100%;
+}

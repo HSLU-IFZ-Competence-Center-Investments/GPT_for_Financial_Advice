@@ -1,0 +1,54 @@
+Changeablepagetitle
+ | The Rent Company
+
+[if lte IE 9]>
+
+ <![endif]
+ since IE10 ignores conditional comments, we use this 
+
+ End Google Tag Manager /Head scripts 
+
+ Body scripts 
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) /Body scripts 
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer ServiceService
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer ServiceService
+
+Archive
+
+The following terms and conditions apply to orders placedbefore 1-05-2020. 
+
+General Terms & Conditions 2019
+
+Easy4 Service Terms & Conditions Rental 2019
+
+Easy4 Service Terms & Conditions Purchase 2019
+
+Students and laptops? They are inextricably linked. Thanks to our full service provision via the Easy4u subscription, we make access to digital education easy and affordable.
+
+Laptops on loan during repairs, super-fast service, a single point of contact for the school and the students, and accidental damage and theft insurance are included.
+
+Choose Convience and securityChoose Easy4u
+
+Special educational laptop with solid casing and rubber edges
+Active battery life of at least 7 hours
+Wi-Fi card for fast and stable wireless access
+Model selection is agreed in advance with the educational institution 
+
+Basic installation for educational purposes
+Re-installation of the software at school is possible with a special image network
+Integration with school website domain if needed
+
+Replacement laptop during repairs
+Customer service support by phone
+Support via the school or home address during holidays
+Online customer portal
+Single point of contact for the customer
+In-house transport and repair service
+
+Damage and theft insurance with a limited excess of €50,00 per incident (max. 3)
+Includes solid, water-resistant protective sleeve
+The entire process is handled by The Rent Company

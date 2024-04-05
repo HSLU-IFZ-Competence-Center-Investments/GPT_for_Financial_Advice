@@ -1,0 +1,141 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+: – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for / owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Get started Varjo headsets System requirements XR-4
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Accessories
+
+Setting up your headset XR-4
+XR-3
+VR-3
+Varjo Aero
+XR-1 Developer Edition
+VR-2 Pro, VR-2, and VR-1
+
+Setting up tracking Varjo inside-out tracking
+
+Varjo services Varjo Account Commercial account
+
+Varjo Reality Cloud Varjo Reality Cloud subscription
+System requirements
+
+Varjo XR and VR subscriptions Getting a seat in a subscription
+
+Get to know your headset Using the headset
+Using Varjo Controllers
+Fitting the headset XR-4
+XR-3, VR-3, and Varjo Aero
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Getting the perfect image quality
+
+Get to know Varjo Reality Cloud
+Develop for Varjo Developer support
+
+FAQ & Troubleshooting
+Downloads Release notes Release notes for Varjo Base
+Release notes for Varjo Reality Cloud for Windows
+Release notes for Varjo Reality Cloud for iOS
+
+The following accessories are compatible with Varjo headsets.
+
+Included in sales box
+
+Varjo Controllers
+XR-4, XR-4 Focal Edition, XR-4 Secure Edition (except no radio versions)
+XR-4 and XR-4 Focal Edition: Yes
+
+XR-4 Secure Edition: No
+Varjo Controllers are compatible with XR-4 series headsets when using Varjo inside-out tracking.
+
+SteamVR™ base stations 2.0 or 1.0
+XR-4 base station tracking versions
+
+XR-3, VR-3, and Varjo Aero
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+No
+4 x SteamVR™ 2.0 base stationsare recommended when using SteamVR™ Tracking. Four base stations are recommended when using VR apps that allow you to move around in the room.
+
+You can use either SteamVR™ 2.0 or 1.0 base stations provided that the base stations are compatible with each other. Read more about SteamVR™ base station compatibility.
+
+SteamVR™-compatible controllers
+XR-4 base station tracking versions
+
+XR-3, VR-3, and Varjo Aero
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+No
+You can use either SteamVR™ 2.0 or 1.0 controllers provided that the base stations and controllers are compatible with each other.
+
+Read more about controller compatibility.
+
+All headset models
+In-ear headphones provided with Varjo Aero
+Headphones with a 3.5 mm audio jack are compatible with all Varjo headsets.
+
+All headset models
+Separate face cushion models for all generations:
+
+XR-4
+XR-3, VR-3, and Varjo Aero,
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+.
+Varjo headsets come with an attached face cushion that can be easily changed.
+
+You can purchase additional face cushions from Varjo.
+
+Note that face cushions are not interchangeable between product generations.
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

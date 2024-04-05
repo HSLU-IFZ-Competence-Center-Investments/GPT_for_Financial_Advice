@@ -1,0 +1,117 @@
+/**** jobspages css start ***/
+.jb-jobs-header {  font-size: 14px;  padding:20px 0px 20px 0; border-top: 1px solid #eceff1;  border-bottom: 1px solid #eceff1;  margin-bottom: 10px; position: relative;  overflow: hidden; }
+.layout-grid { float: left; margin: 0px 0 0 0; }
+.tab-slider--nav { width: 100%;  float: left;  margin-bottom: $base-margin;}
+.tab-slider--tabs { margin: 0 !important; }
+.tab-slider--trigger { text-transform: uppercase; text-align: center;  position: relative;  z-index: 2;   cursor: pointer;  display: inline-block;  transition: color 250ms ease-in-out;   color: #8d8d8d;  padding: 0 40px 0 40px;  margin-left: 0 !important; border-right: solid 1px #ddd;              }
+.tab-slider--trigger i {   margin-right: 5px; }
+/*.tab-slider--tabs #map-marker { display: none;  }*/
+.JobsResults { padding-bottom:40px; overflow: hidden; padding-top: 35px;  margin-top: 0px; margin-bottom:0px; }
+.jobspages .jobbox.Listingbox .Mainjobbox {background-color: #fff; margin-bottom: 18px; border: 1px solid #ebebeb; -moz-box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);  -ms-box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);  -webkit-border-radius: 5px;  -khtml-border-radius: 5px;  -moz-border-radius: 5px;  -ms-border-radius: 5px;  -o-border-radius: 5px;  border-radius: 5px;  width: 100%;   color: #040e24;   min-height: 100%; text-align: left; padding: 20px;}
+.jobspages .jobbox.Listingbox .Mainjobbox .jobstitle { color: #040e24; font-weight: 600;  min-height: 100%; text-transform: uppercase; }
+.jobspages .jobbox.Listingbox .Mainjobbox .jobstitle h3 {font-weight: 600; height: auto; }
+.jobspages .jobbox.Listingbox .btnbox span.Salarybox { min-height: 100%; }
+.jobspages .jobbox.Listingbox .btnbox span {color: #040e24; }
+.jobspages .jobbox.Listingbox .btnbox span {color: #040e24;  }
+.jobspages .jobbox.Listingbox .Mainjobbox a:hover .jobstitle>h3, .jobspages .jobbox.Listingbox .Mainjobbox a:hover .Specialitybox, .jobspages .jobbox.Listingbox .Mainjobbox a:hover .btnbox span, .jobspages .jobbox.Listingbox .Mainjobbox a:hover .contentbox p, .jobspages .jobbox.Listingbox .Mainjobbox a:hover .Permanent { color: #666; }
+.createAlertBoxLink { width: 100%; text-align: center; margin: 10px 0 0 0;  float: left; }
+.jobs_seperated .section_gallery .container { width: 100%;  padding: 0;}
+.jobs_seperated .section_gallery .jobbox .Mainjobbox { width: 100%;}
+.jobs_seperated .section_gallery .jobbox .Mainjobbox1 { width: 100%;}
+.CandidateReg.advance_pages { margin-bottom: 20px;}
+.jobbox.AllSavedJob .jobstitle {  padding-top: 20px;   }
+ul.CvList {list-style: none; padding-left: 0;}
+.fileUpload.fileUpload02 {
+    position: relative;
+}
+.ApplyjobCvrltr .inputbox {
+    padding-top: 15px;
+}
+.jobsearch-inner { margin-top:30px; float: left; width: 100%;   }
+.jobsearch-inner .jobsearchright .searchBox .Searchselect {margin: 0 15px 10px 0;width: 43%;}
+.jobsearch-inner a.advanceSearchLink { float: right;  }
+.tab-slider--container { margin: 150px 0 0 0; }
+.banner_Map {width: 100%; float:left; position: relative; padding: 20px 0; }
+.banner_Map .tab-slider--nav {position: relative; bottom: 0px; left: 0; right: 0; margin: 0 auto; z-index: 2; display: flex; text-align: center; }
+.banner_Map .tab-slider--tabs { margin: 0 auto !important; padding: 0; text-align: center; width:auto; list-style: none; }
+.banner_Map .tab-slider--tabs li { background:#ef3f38; color:#fff;  padding: 10px 20px; position: relative; z-index: 2; float: left; border: none;   }
+.banner_Map .tab-slider--tabs li.active { background:#000;   }
+.banner_Map .overlay { position: absolute; top: 0;  left: 0; right: 0; height: 100%; z-index: 1; width: 100%; background: #000; opacity: 0.2;}
+.banner_Map .tab-slider--tabs li.BorRadleft { border-radius:20px 0 0 20px;   } 
+.banner_Map .tab-slider--tabs li.BorRadRight { border-radius:0px 20px 20px 0px;   }
+.banner_Map .tab-slider--tabs li.ListBor { border-left: solid 1px #444; border-right: solid 1px #444; border-radius: 0 20px 20px 0; }
+.tab1Box { display: block;  }
+
+section.section_gallery { margin-top:20px; }
+.jobbox { float: left;  width: 100%;  }
+.jobbox .Mainjobbox {  float: left;  transition: all 0.5s;  height: auto;  position: relative;  width: 100%; margin-bottom: 30px;   overflow: hidden;  padding:30px;  background: #f0f0f0;  min-height: 115px;   }
+.jobbox .Mainjobbox h4 { font-size:18px; height:75px;  }
+.jobbox .Mainjobbox .mask { display: block; position: relative; width: 100%; transition: all 200ms ease-out;  }
+/*.jobbox .Mainjobbox:hover .mask { opacity: 1;  }*/
+.jobbox .Mainjobbox a {text-decoration: none;  color: #000; }
+.jobbox .jobstitle { color: #000;  padding: 0px 0;  margin: 0 0px;  overflow: hidden;  min-height: 45px; }
+.jobbox .Mainjobbox .Specialitybox { margin-top: 10px; text-transform: none; height: auto;  line-height: 22px;  display: block;   overflow: hidden; }
+.jobbox .btnbox { display: block;  margin-top: 10px;  }
+.jobbox .Mainjobbox .btnbox span.Salarybox {  padding: 6px 0 10px 0;  margin-bottom: 0;  min-height: 60px; }
+.jobbox .Mainjobbox .btnbox span { display: block;  margin-bottom: 10px;  color: #000; }
+.jobbox .contentbox { padding: 0;  margin-bottom: 0; display: none; }
+/*.jobbox .Mainjobbox:hover { background-color: #eee; color: #fff; }*/
+section.detail.JobsResults .MainLeftSide .jobbox .contentbox { display: block;  }
+section.LatestJobsSeperated .Mainjobbox1 { width: 33%;  }
+.LatestJobsSeperated  .Mainjobbox1 { width: 33%;  }
+.jobbox .contentbox_descr { margin-top:10px; margin-bottom:15px;  }
+
+.John_Doe_right {
+    background: #fff;
+    border-radius:5px;
+    padding: 20px;  
+    box-shadow: 0 3px 10px rgb(0 0 0 / 8%);  margin-top: 35px;
+}
+.John_Doe_right p { border-bottom:solid 1px #ddd; padding-bottom:10px; margin-bottom:10px;  }
+.John_Doe_right p span { font-weight:bold; }
+
+.John_Doe_right .Consultant { margin-bottom: 10px;   }
+.John_Doe_right h2 {margin-top: -50px;}
+.John_Doe_right h3 { font-size: 18px; font-weight: bold; margin:5px;  }
+.John_Doe_right .phone { margin-bottom: 15px;  }
+.John_Doe_right .phone03 { margin-top: 15px; }
+.consultant_designation { font-weight: bold; }
+.John_Doe_right img { border-radius: 50%; border: solid 1px #ddd; padding: 4px; }
+
+.MainRightSide section.section_gallery { margin-top: 0;    }
+.LiveListings {float: left; width: 100%; margin: 10px 0 20px 0; }
+.LiveListings a { color:#000; }
+section.custom_field_value_detail { margin-bottom: 30px;  }
+.JobDiv .js-basic-job-search-section {position: relative;  bottom: auto; top: 0; margin: 0; }
+.JobDiv.custom_fieldDiv { float: left;  width: 100%;  padding:15px 0; background: #eee; }
+.JobDiv .Searchcolor { background:transparent;   }
+.JobDiv .QuickSearches {  display: none;}
+.MainLeftSide.MainFull {  width: 100%;}
+.JobDiv h1 {  font-weight: normal;  font-size:25px;  text-align: center; margin: 0;}
+
+/**** Jobs By Specialty css start ***/
+section.JobsByIndustry {  position: relative;margin-top: 15px;   }
+.JobsByIndustry ul { padding:0 0 0 15px; margin-bottom: 0;   }
+.JobsByIndustry ul li { text-align: left; background-color: #ffffff; border: 1px solid #e8e8e8; border-radius: 0; padding: 10px; width:32.3%; margin: 0 10px 10px 0; position: relative; opacity: 1; }
+.JobsByIndustry ul li a {color: #212121; font-size: 15px; text-transform: uppercase;  text-decoration: none;  margin-left: 0;  line-height: 55px;   font-weight: normal; white-space: nowrap; overflow: hidden; padding: 0 0 0 0; background: #fff;  display: block; text-overflow: ellipsis; }
+.tooltip .tooltiptext {visibility: hidden; background-color: #eee;  color: #000; text-align: center;border-radius: 6px;  padding: 5px 10px;  position: absolute; z-index: 1;  bottom: 106%;  left: 60%; margin-left: -60px;  opacity: 0;  transition: opacity 0.3s; text-transform: none; line-height: 18px; white-space: normal; }
+.tooltip .tooltiptext::after {content: ""; position: absolute; top: 100%;  left: 50%;  margin-left: -5px;  border-width: 5px;  border-style: solid;   border-color: #eee transparent transparent transparent; }
+.tooltip:hover .tooltiptext { visibility: visible;  opacity: 1;}
+.JobsByIndustry ul li:last-child { margin-right: 0;   }
+.JobsByIndustry ul li:first-letter { font-size:50px;   background:#eee; color:#000;  width:80px; float: left; height:60px; line-height:66px; text-align: center; display: inline-block;  padding-left:15px; padding-right: 15px;  font-weight: bold; border-radius: 0; margin-right: 15px;     }
+/**** Jobs By Specialty css End ***/
+.jobbox .deleteApplied { position: absolute; top: 0; right:4px; }
+
+.jobbox.AllSavedJob .Mainjobbox a.smallbtn.Deletebtn {position: relative; right: 0; top: 0; }
+.Deletebtn {background: #d51f38; color: #fff; }
+
+@media screen and (max-width:766px) and (min-width:651px) {
+    section.LatestJobsSeperated .Mainjobbox1 { width: 50%; float:left; } 
+}
+@media screen and (max-width:650px) and (min-width:351px) {
+section.LatestJobsSeperated .Mainjobbox1 { width: 100%; }    
+ }
+@media screen and (max-width:350px) { 
+section.LatestJobsSeperated .Mainjobbox1 { width: 100%; }    
+}
+.jobbox.AllSavedJob .Mainjobbox1 { width:33%;      }

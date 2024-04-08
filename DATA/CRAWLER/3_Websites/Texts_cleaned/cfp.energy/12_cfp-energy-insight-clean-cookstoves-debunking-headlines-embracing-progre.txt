@@ -1,0 +1,154 @@
+CleanCookstoveProjects:DebunkingHeadlinesandEmbracingProgress|CFPEnergy
+
+Themejavascriptstarts
+Themejava script end 
+
+ End Google Tag Manager 
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <span class="open_mobileviews tel2" onclick="openNav()"><i class="fa fa-user"><i> <i class="fa fa-times"></i></span>
+
+ <div class="iconbox">
+ <span class="open_mobileview_cust tel2" onclick="openNav_cust()"><i class="fa fa-user"></i></span>
+
+ <div class="iconbox ProductSearch">
+ <span data-toggle="modal" data-target="#myModalProducts"><i class="fa fa-search"></i></span>
+
+ <div class="iconbox">
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal"></button>
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+Clean Cookstove Projects: Debunking Headlines and Embracing Progress
+
+/
+
+/
+Clean Cookstove Projects: Debunking Headlines and Embracing Progress
+
+VCM
+ <li><a href="#" class="cta cta-default all-caps contact-trigger">COP28</a></li>
+ <li><a href="#" class="cta cta-default all-caps contact-trigger">VCM</a></li> 
+
+Clean Cookstove Projects: Debunking Headlines and Embracing Progress
+
+Amidst the flurry of media attention surrounding clean cookstove projects, it is essential to consider a full range of standpoints to ensure that we focus on continuously improving the quality and integrity of carbon projects. Scrutiny drives change, and with it, the voluntary carbon market can continue to deliver climate finance to initiatives that go beyond emission reductions and offer meaningful benefits to communities. 	
+
+Clean cookstove projects are seen as a key initiative for channelling funding toward addressing a major public health challenge. Today, approximately one-third of the global population, around people, cook their meals by burning coal, firewood, and animal waste on open fires or traditional stoves (WHO 2022). The smoke from traditional cooking exposes them to respiratory and cardiovascular problems and leads to around premature deaths annually, with women and children disproportionately impacted (IEA 2023). Additionally, and importantly for the voluntary carbon market, this form of cooking releases roughly of global greenhouse gas emissions and exacerbates deforestation and habitat loss due to the demand for timber, charcoal and other wood fuels (Bailis et al. 2015).
+
+2.3 billion
+
+people, one third of the global population, cook by burning coal, firewood and animal waste
+
+3.7 million
+
+annual premature deaths are caused by the smoke from traditional cooking
+
+2%
+
+of global greenhouse gas emissions are attributed to traditional cooking practices
+
+The voluntary carbon market provides a means to efficiently finance solutions to household air pollution issues, with great success. A report from the Clean Cookstove Alliance highlights a 45-fold increase in finance secured for cookstove projects on the voluntary carbon market between 2017-2023. Clean cooking is one of the fastest-growing project types in the voluntary carbon market, currently accounting for 1,368 of all 8,777 projects (Berkeley Carbon Trading Project 2023). Carbon credit retirement for cookstove projects has tripled in the past five years, with retirements in 2023 hitting 13.4 million (Trove Research).
+
+Figure 1: Credit retirement for cookstove projects. Source: Trove Research
+
+However, cookstove projects have recently come under public scrutiny over credit quality. The latest wave of scepticism followed a UC Berkeley study published in the peer-reviewed journal Nature Sustainability. The Gill-Wiehl et al. (2024) study estimates that cookstove projects in the voluntary carbon market are on average 9.2 times over-credited. Media outlets have published articles citing the study, with The Guardian posting a headline that cookstove credits are “1,000% overstated”, and the Times claiming cookstove credits are “largely worthless”. However, the study has been met with many counterarguments from major stakeholders in the market. Gold Standard, a major carbon credit registry, stated that the study did not find actual over-estimation. Other stakeholders raised methodological scrutiny, challenging the assumption that literature values are more accurate than data collected through the projects’ monitoring process.
+
+What is the debate?
+
+Before making judgements, it is necessary to understand how these projects curb emissions. Clean cookstove projects achieve emissions reduction by tackling two issues: black carbon emissions and deforestation. Black carbon is the most strongly light-absorbing component of fine particulate matter (PM2.5) and has significant climate warming effects in the near-term (GEF 2015). Black carbon emissions are typically generated during the incomplete combustion of carbon-based fuels, such as wood, charcoal, coal, and kerosene. Improved cookstoves facilitate more efficient combustion than traditional cooking methods and therefore emit less black carbon. More efficient combustion or using alternative fuels also means less wood is required for cooking, thereby reducing the demand for timber and mitigating deforestation.
+
+To calculate the emissions reduction of a cookstove project, current methodologies in the voluntary carbon market consider a few key metrics, such as adoption, usage, and stacking rates, fraction of non-renewable biomass (fNRB), fuel consumption, firewood-charcoal conversion rate, emission factors (EFs), and rebound rates. See the figures below for a breakdown of each of the key metrics used in the emissions reduction calculation.
+
+Adoption, usage and stacking rates
+
+These rates reflect how many new stoves distributed by the project are actually in use, how many meals are cooked in the new stoves, and if the recipients are using the new stoves alongside their traditional stoves.
+
+Fraction of non-renewable biomass (fNRB)
+
+Cookstove projects can achieve emissions reductions by reducing timber consumption. However, net reductions can only occur when the saved biomass is non-renewable. The fNRB parameter considers how much woody biomass is harvested beyond the regeneration rate of a given area.
+
+This metric compares the usage of cooking fuel before and after the distribution of new stoves, thereby calculating fuel use savings.
+
+This conversion rate quantifies how much firewood is required to yield the same energy content as a given weight of charcoal. In other words, it reflects how efficiently firewood can be converted to charcoal.
+
+This metric is a coefficient that relates the amount of carbon dioxide emitted to the fuel used.
+
+This rate reflects how many of the stoves recipients have increased their overall cooking energy consumption due to access to a new stove.
+
+To assess the accuracy of emissions reductions calculations in cookstoves projects, the recent study by Gill-Wiehl et al. replaced the values used for these key metrics in the sampled projects with conservative values drawn from literature. The study found that the overestimation of the fraction of non-renewable biomass (fNRB) values was the largest source of over-crediting (1.7 times), followed by inaccurate firewood-charcoal conversion efficacy rates (1.5 times), with the adoption (1.4 times) and usage (1.4 times) rates of the cookstoves being jointly the third largest source of over-crediting.
+
+So, are cookstove projects truly worthless?
+
+Here is our take:
+
+Over-crediting does exist within cookstove projects, largely attributable to using outdated default values for parameters such as fNRB. Previous methods predominantly relied on default country-specific fNRB values provided by the Clean Development Mechanism (CDM), typically ranging from 80-90%; however, actual fNRB values in some cases have been demonstrated to be 30-40% (Sylvera 2023). Engaging with this scrutiny and implementing rigorous ex ante analysis is crucial. It is recommended to use more accurate subnational/regional calculations, taking into account variables such as local population growth and land cover change, to ensure emissions reduction estimates are not inflated (UNFCCC 2023).
+Despite the above, we should be cautious about approaching comparisons between literature values and carbon project data. As highlighted by BeZero, a project ratings agency, voluntary carbon market project-specific activities, such as regular follow-ups, stove maintenance services and incentivising practices, could result in better-performing projects compared to literature values. Drawing such comparison may oversimplify the complexities of on-the-ground implementation.
+Cookstove projects, if done right, are impactful initiatives that deliver benefits beyond emission reductions. Aside from improving public health, these projects can bring meaningful co-benefits, such as significantly reducing the time spent on fuel collection, particularly benefiting women and children. There are high-quality cookstove projects out there that are bringing real benefits to local communities. When executed with precision, cookstove projects are meaningful and worth scaling up.
+The voluntary carbon market is a dynamic and ever evolving force for positive change. Best practices, baselines, and default values are constantly changing. While challenges like over-crediting exist, organisations like the UNFCCC are actively working on expert consultations and will likely publish their calculations for more accurate fNRB values soon; both Verra and Gold Standard have been actively updating and developing new cookstove methodologies. The market is constantly evolving to ensure the efficacy of projects, and bridge the financing gap for tackling key issues such as household air pollution, which may otherwise struggle to attract adequate attention and resources.
+
+In short, while there is room for improvement at the methodology level, clean cooking projects are one of the worthiest causes to support with climate finance when done right, and so the best projects ought to continue to receive financing despite mounting media scrutiny surrounding the project type as a whole.
+
+The cookstove debate underscores the necessity for well-rounded assessment, considering academic studies, industry practices, and evolving standards. We hope that as the dialogue continues, the market can engage with this discourse constructively to develop high-quality cookstove projects that can bring positive benefits to the communities and the environment.
+
+ Why is Article 6 so relevant to the from a... 
+
+ With Article 6 developments set to drastically affect views on quality and integrity in the VCM, now more than ever it is essential to gain an understanding of what exactly Article 6 is, how the VCM is involved, and why it is so important. 	 
+
+ The Shift to Carbon Project Investment 
+
+Voluntary carbon project investment has taken centre-stage over the last eighteen months as secondary market spot trading of carbon credits has become increasingly difficult. From inflated prices on marketplaces to the crowded world of brokered spot transactions, sourcing of carbon credits directly from carbon project investments increasingly offers a reliable alternative to the traditional methods of purchasing carbon credits.	 
+
+ 2023 Reflections: A Pivotal Year in the Voluntary... 
+
+2023 proved to be a pivotal year for the Voluntary Carbon Market (VCM), marked by several developments in its trajectory. As we step into the new year, let's reflect on the past 12 months, specifically the critical insights and milestones that have shaped the VCM, its evolution and the implications for the future. 
+
+Financial 
+
+VCM 
+
+ Why is Article 6 so relevant to the VCM from a... 
+
+ With Article 6 developments set to drastically affect views on quality and integrity in the VCM, now more than ever it is essential to gain an understanding of what exactly Article 6 is, how the VCM is involved, and why it is so important. 	 
+
+ The Shift to Carbon Project Investment 
+
+ Voluntary carbon project investment has taken centre-stage over the last eighteen months as secondary market spot trading of carbon credits has become increasingly difficult. From inflated prices on marketplaces to the crowded world of brokered spot transactions, sourcing of carbon credits directly from carbon project investments increasingly offers a reliable alternative to the traditional methods of purchasing carbon credits.	 
+
+ 2023 Reflections: A Pivotal Year in the Voluntary... 
+
+ 2023 proved to be a pivotal year for the Voluntary Carbon Market (VCM), marked by several developments in its trajectory. As we step into the new year, let's reflect on the past 12 months, specifically the critical insights and milestones that have shaped the VCM, its evolution and the implications for the future. 
+
+I agree to receive other communications from CFP Energy (UK) Ltd.
+
+You can unsubscribe from these communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.
+
+By clicking submit below, you consent to allow CFP Energy (UK) Ltd. to store and process the personal information submitted above to provide you the content requested.
+
+Close
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+This site uses cookies to store information about your computer.
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site may not work then.
+
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
+
+ <button type="submit" class="pix_button btn_normal pix_button_flat blue_bg bold_text" style="border:none;" name="btn_accept"> </button> 
+ Accept Recommended Settings
+
+ end footer 
+ start scroll to top

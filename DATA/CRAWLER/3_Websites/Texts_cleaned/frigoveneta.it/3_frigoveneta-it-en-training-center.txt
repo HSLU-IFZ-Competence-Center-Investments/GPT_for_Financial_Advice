@@ -1,0 +1,77 @@
+EndGoogle Tag Manager 
+
+Frigoveneta SPA | 
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Centrali e chiller 
+Centrali frigorifere a co2, ciclo transcritico
+Centrali frigorifere a co2, ciclo subcritico
+Chiller (HFC-HFO)
+Centrali frigorifere per espansione diretta (HFC+HFO)
+
+Training Center
+
+Benvenuti nel !
+
+La mission del nostro Centro si può condensare in 4 parole chiave:
+
+Il centro è rivolto a tecnici ed ingegneri per approfondire il funzionamento di impianti di nuova concezione, come quelli transcritici a R744, e di impianti tradizionali ad espansione diretta ed indiretta. Il transfer avviene grazie al know how acquisito da Frigoveneta nelle fasi produttiva, di installazione, di manutenzione e post-vendita. Ciascuna fase, infatti, è da sempre gestita direttamente all’interno dell’azienda.
+
+Questa parte si focalizza sulla funzione di ogni componente in modo da rendere chiaro al corsista il principio di funzionamento degli impianti nel loro complesso, evidenziando le problematiche che possono emergere soprattutto durante la fase di collaudo e di manutenzione.
+
+Sviluppatori software, tecnici di manutenzione, ricercatori, tecnici commerciali. Tutte le persone di Frigoveneta sono dotate di mindset focalizzato sullo studio delle tecnologie e delle migliori soluzioni in ambito sia progettuale che pratico, in modo tale da individuare le migliori soluzioni. I risultati di questa continua ricerca confluiscono nel Training Center Frigoveneta, il quale definisce le best practices e le condivide mediante i corsi di formazione.
+
+Grazie alla supervisione 24/24h per tutto il periodo dell’anno degli impianti, tramite il sistema TeleGest, è possibile seguire il comportamento dell’impianto in svariate condizioni operative, garantendo un continuo miglioramento nella regolazione e nella manutenzione per raggiungere i minimi consumi e la massima affidabilità.
+
+Oltre alla formazione su impianti di nuova concezione, prosegue l’attività di corsi ed esami F-GAS:
+
+dal 2013 Frigoveneta è riconosciuta da Cepas srl "Organismo di Valutazione dal Regolamento UE 2067/2015 e dal D.P.R. 146/2018".
+
+Training Center Frigoveneta
+
+Sei interessato al nostro servizio?
+
+Frigoveneta - Video Aziendale

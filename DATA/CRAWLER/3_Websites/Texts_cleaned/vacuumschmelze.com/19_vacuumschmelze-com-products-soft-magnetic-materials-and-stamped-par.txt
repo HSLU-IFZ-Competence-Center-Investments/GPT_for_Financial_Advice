@@ -1,0 +1,66 @@
+Soft Magnetic Materials and Stamped Parts | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+ Vocational Training and Studies
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Soft Magnetic Materials and Stamped Parts
+
+Lamination stacks are packages using single laminations separated by electrical insulating layers to surpress eddy current losses during dynamic magnetic load.
+
+ Soft Magnetic Stamped Parts
+
+All crystalline alloys can be processed further to stamped parts. VAC has state-of-the-art facilities for punching, deep-drawing and further processing methods like interlocking or wire-EDM.
+
+ 49 % Cobalt Iron
+
+Thanks to their high magnetic saturation of up to 2.4 T, the cobalt-iron (CoFe) alloys VACOFLUX® and VACODUR® are generally suitable for all applications where high flux density and minimum weight are required.
+
+Our alloys with cobalt content of 49 % and 2% vanadium offer low coercivity forces and yield superior performance parameter for electrics motors and generators.
+
+ 9 % to 27 % Cobalt Iron
+
+The low cobalt content VACOFLUX® qualities were developed to offer
+an attractive price level for well defined applications.
+
+ 40 % to 50 % Nickel Iron
+
+Alloys with a Ni-content of around (40...50) wt% are characterized by a maximum in the saturation polarisation of up to JS = 1.6 T and a medium range permeability. By selecting appropriate rolling and annealing conditions, the shape of the magnetization curve can be varied over a wide range.
+
+ 69 % to 82 % Nickel Iron
+
+These high permeability materials differ mainly in the level of permeability. Permeability increases in the series from the standard grade MUMETALL® to the highest grade ULTRAPERM® 250. VACOPERM® 100 D is a solid material.
+
+VITROPERM® is an iron-based nanocrystalline material with an outstanding combination of soft-magnetic properties which make it the state-of-the-art material for a wide range of applications, e.g. common mode chokes (CMCs), current transformers (CTs), EMI filters and shielding material in wireless power transfer.
+
+VITROVAC® alloys are magnetically soft but mechanically hard, with a high elastic limit. Properties comprise highest saturation flux density and excellent permeability, making it the ideal solution for applications like electronic article surveillance, flexible antennae, magnetic sensors,magnetic shielding, switching cores in accelerators or power transformers.
+
+High power combined with low weight is a central feature of motors built with this new low-cobalt-content alloy. Typically, motors can be realised that have a 20 to 30 % higher power density than with electrical steel.
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

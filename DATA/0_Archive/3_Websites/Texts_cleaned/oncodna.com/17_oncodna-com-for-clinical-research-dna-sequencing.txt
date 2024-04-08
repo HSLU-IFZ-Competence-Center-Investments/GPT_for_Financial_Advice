@@ -1,0 +1,106 @@
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySiteKit
+
+GoogleTagManagersnippetaddedbySiteKit 
+
+ End Google Tag Manager snippet added by Site Kit 
+
+ Google Tag Manager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solid Biopsy (OncoDEEP® Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+OncoDNA offers a broard variety of DNA-based sequencing solutions for oncology and rare disease research. 
+
+OncoDNA provides first-in-class exome sequencing service for researchers with the latest high-throughput sequencing technologies and proprietary analytical tools for analyzing data. We help our customers to identify mutations in rare and complex diseases and in oncology.
+
+Exome sequencing enables researchers to target the protein coding regions of the genome reducing both the cost of sequencing as well as data storage and analysis costs. This enables researchers to increase sample numbers better enabling the study of larger populations. 
+
+Experience working with world renowned researchers across a large variety of fields of genomic research including:
+
+Experienced with the operation of clinical grade sequencing platforms for oncology exome and RNA sequencing projects.
+Numerous customer publications based on results from research projects.
+
+We have a robust quality control (QC) system incorporated into each critical step of the sequencing process and a continuous quality improvement (CQI) program for our laboratory protocols and analysis of sequencing data.	
+
+How we add value
+
+Ability to process DNA from samples with low DNA quantities or degraded samples (FFPE).
+Decreased turnaround time as a result of access to newer technologies including:
+
+The latest sequencing platforms from Illumina;
+Automation via advanced lab robotics.
+
+Expertise in the design of genomic research projects.
+Expert insight and assistance with results handling and data interpretation.
+
+Custom gene panel sequencing 
+
+IntegraGen offers commercial and customized gene panels for your specific gene targeting needs, enabling deep sequencing and the identification of low frequency genetic variants. We can help you to design the ideal targeted gene panel sequencing approach for your project helping you to save both time and money.
+How we add valueExperts at gene panel design.Availability of either commercial or customized panels.Customized panels via capture or multiplex PCR.Available throughput from 10’s to 100’s of samples as a result of automation via advanced laboratory robotics.Expert insight and assistance with results handling and data interpretation. 
+
+IntegraGen is highly experienced with whole genome sequencing of any species combining a full range of library preparation methods, Illumina’s sequencing technology, and custom bioinformatics analysis.
+Why choose OncoDNA for your whole genome sequencing needs?
+
+We have the expertise to work with a full panel of library prep methods:Paired-end libraries;Mate-pair libraries;PCR-free libraries;Small quantity;Fragmentation or tagmentation protocols.
+
+We have high-throughput capacity with the latest sequencing platform from Illumina.
+Technical guaranteesRobust quality control process for samples.QC at each critical steps of library preparation.Guaranteed sequence quantity and quality.
+Explore ctDNA from liquid biopsies for oncology applications 
+
+Analysis of circulating tumor DNA (ctDNA) offers great opportunities for cancer research and patient care. 
+
+OncoKDM: A powerful tool for personalized cancer care 
+
+OncoKDM is a clinical decision support platform that helps laboratories interpret NGS data to provide personalized cancer care.
+
+The platform uses a comprehensive database of genetic variants to identify actionable variants that can be targeted by therapy. OncoKDM also provides recommendations for clinical trials and supportive care.
+
+OncoKDM is a valuable resource for laboratories that want to improve the care of their cancer patients. 
+
+Learn more about OncoKDM and how it can help you improve patient care.
+
+	“Despite the substantial sample quantity, OncoDNA (ex-Integragen) successfully conducted its part of the project in a timely manner. We were impressed with the professionalism of the teams, their services, and the performance of their processes, including the quality data process that includes identito-vigilance controls”	
+
+Dr Marie-Christine Etienne-GrimaldiHead of the Oncopharmacology Laboratory at the Antoine Lacassagne Center Center, Nice, France. 
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+Manage consent
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712102370

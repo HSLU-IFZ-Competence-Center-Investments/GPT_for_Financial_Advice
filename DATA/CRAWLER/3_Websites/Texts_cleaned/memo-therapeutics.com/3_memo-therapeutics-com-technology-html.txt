@@ -1,0 +1,17 @@
+- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Technology
+
+Memo Therapeutics AG’s (“MTx”) industry-leading throughput and functional screening capabilities can cover the entire antibody repertoire derived from a patient sample or vaccinated animal. Using its immortal cell libraries and unique nano droplet technology, MTx identifies and isolates the most potent antibodies based on functionality at an unprecedented rate, including discovering ultra-rare antibodies that competing technologies miss.
+
+antibody discovery in humans
+
+The human as source of therapeutic antibody candidates offers the unique opportunity to increase the chance for clinical success of a candidate antibody by selecting donors that present with favorable clinical outcomes.
+
+antibody discovery in rabbits
+
+The platform is an outstanding tool to tap into the wealth of the antibody repertoires of any species. As a first animal host we selected the rabbit due to its ability to generate antibodies against human proteins with higher affinity and greater diversity compared to other rodents. Applying our technology with immunized rabbits we expect to identify 10-100x more antibodies compared to conventional technologies with an unmatched epitope coverage and high affinities. Our high-content-interrogation of the repertoire libraries using our microfluidic screening technologies delivers portfolios of antibodies with the desired features in weeks. The full compatibility of the our technology system for subsequent functional and animal studies speeds up discovery and development timelines considerably.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out

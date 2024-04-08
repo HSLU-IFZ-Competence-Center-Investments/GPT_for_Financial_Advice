@@ -1,0 +1,117 @@
+Compliancecarbon||CFPEnergy
+
+Themejava script starts 
+ Theme java script end 
+
+ End Google Tag Manager 
+
+EnvironmentalLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <span class="open_mobileviews tel2" onclick="openNav()"><i class="fa fa-user"><i> <i class="fa fa-times"><i></span>
+
+ <div class="iconbox">
+ <span class="open_mobileview_cust tel2" onclick="openNav_cust()"><i class="fa fa-user"></i></span>
+
+ <div class="iconbox ProductSearch">
+ <span data-toggle="modal" data-target="#myModalProducts"><i class="fa fa-search"></i></span>
+
+ <div class="iconbox">
+
+EnvironmentalLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal"></button>
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+Compliance carbon
+
+/
+Environmental products
+/
+Compliance carbon
+
+The challenge and opportunity
+
+Many countries are adopting Emissions Trading Schemes (ETS) as their flagship climate strategy. From power generation, industrial and manufacturing to shipping and aviation, every business within high-emitting sectors in the UK and EU now faces a cap on carbon emissions.
+
+Both the EU ETS and UK ETS are going through significant reform which will tighten the cap from now until 2030, reduce free allocations and remove surplus allowances. These changes are forecast to increase future allowance prices and require new abatement technologies to achieve future emissions reduction targets. With this in mind, ETS operators face a choice on whether to decarbonise over the next 5 years, budget for higher carbon prices or use the carbon market to lock in compliance costs now.
+
+We’ve been helping businesses of all sizes understand their ETS requirements for more than 15 years. From developing an effective trading strategy to purchasing the carbon allowances you need, we tailor our support to your real-world context. Providing custom compliance solutions and commercially-sound strategies that work for today's needs and tomorrow's ambition.
+
+Where carbon markets are:
+
+Complex and hard to access, especially for those newer to the opportunity.
+
+Constantly changing, with a regulatory landscape that evolves at both global and local levels.
+
+Volatile, prone to price fluctuations that can have huge financial implications.
+
+Commercially challenging to implement as part of your carbon strategy.
+
+Award-winning market access. Understand and optimise your access to carbon compliance markets, benefiting from our longstanding experience.
+
+Providing clarity. Whether local or global, we will keep you up to date on the latest policy and market developments.
+
+. Our unparalleled experience and unique suite of products helps you make informed decisions and reduce compliance costs. 
+
+Balancing your needs. We address short and long-term requirements with commercially-sound, pragmatic strategies.
+
+In January 2024, the EU's ETS was extended to cover carbon emissions from all large ships entering EU ports, regardless of the flag they fly. Incentivising energy efficiency, low-carbon solutions and the uptake of alternative maritime fuels, this expansion will also require the shipping sector to implement new compliance strategies. We’re here to help you set a commercially sound course from the outset of your planning.
+
+In a dynamic business environment, liquidity is critical. It allows you to navigate uncertainty, seize opportunity and ensure long-term sustainability.
+
+We work with you to unlock working capital through a range of bespoke solutions to ensure your financial position is well protected.
+
+Risk Management for Carbon
+
+Structured products underpin our ability to deliver superior risk management services. By applying industry-leading market knowledge, we’re able to design and implement structured solutions for your specific energy portfolio and overall hedging requirements. 
+
+Receive maximum value, security and price certainty. Our structured solutions deliver a greater degree of flexibility and an optimised hedging strategy, tailor-made for your business.
+
+Why work with us?
+
+Whether you're buying or selling, access carbon markets and optimise your carbon compliance strategy.
+
+Tailored risk management
+
+Agile, thoughtful and specific compliance strategies.
+
+Benefit from 15 years of operational ETS experience in managing EU and UK ETSs.
+
+Real-time intelligence to support better decisions and transactions.
+
+Solutions tailored to your short-term imperatives and long-term ambitions.
+
+ <h3>Interested in learning more about compliance carbon and how it could benefit your business? Our team is ready to help.</h3>
+
+ <a href="#GetinTouch" class="btn2 btn3 cta cta-default all-caps contact-trigger" data-selector="a.cta, a.scroll-to, a.btn, a.play-btn, a.more, a.price-button, .link-list a, .footer-nav li a, button.btn" style="outline: none; cursor: inherit;">Let's talk</a>
+
+ I agree to receive other communications from CFP Energy (UK) Ltd.
+
+You can unsubscribe from these communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.
+
+By clicking submit below, you consent to allow CFP Energy (UK) Ltd. to store and process the personal information submitted above to provide you the content requested.
+
+Close
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+This site uses cookies to store information about your computer.
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site may not work then.
+
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
+
+ <button type="submit" class="pix_button btn_normal pix_button_flat blue_bg bold_text" style="border:none;" name="btn_accept"> </button> 
+ Accept Recommended Settings
+
+ end footer 
+ start scroll to top

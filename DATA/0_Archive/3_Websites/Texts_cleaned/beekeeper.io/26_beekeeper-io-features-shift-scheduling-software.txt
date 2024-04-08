@@ -1,0 +1,102 @@
+EndGoogleTagManager
+
+StartVWOCommonSmartcode
+
+EndVWOCommonSmartcode
+StartVWOAsyncSmartCode
+
+EndVWOAsyncSmartCode
+
+This site is optimized with the Yoast SEO Premium plugin v20.2.1 (Yoast SEO v20.2.1) - https://yoast.com/wordpress/plugins/seo/ 
+Fill Shifts Faster With Beekeeper
+
+ / Yoast SEO Premium plugin. 
+
+ Start Drift By WP-Plugin: Drift 
+ Start of Async Drift Code 
+
+ End of Async Drift Code end: Drift Code. 
+
+ site-navigation-element Schema optimized by Schema Pro / site-navigation-element Schema optimized by Schema Pro breadcrumb Schema optimized by Schema Pro / breadcrumb Schema optimized by Schema Pro 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+How do you support new hires from Day 1? New pre-boarding and onboarding workflows + free trial
+
+» NEW Employee Lifecycle 
+
+ Close the gap between onboarding & offboarding with Employee Lifecycle Management!
+
+Book a demo with a product expert: Select your time here.
+
+ 2024 Frontline Survey Results
+
+ Proven Strategies to Supercharge Frontline Success
+
+ Why Microsoft Doesn’t Work for Frontline Businesses
+
+ Maintenance & Inspection Checklist Package
+
+ The True Cost of Frontline Disconnect
+
+Frontline Workforce Pulse Report 2024 Unlock the Secrets of Frontline Workforce Success in 2024!
+
+Book a demo with a product expert: Select your time here.
+
+Maintenance and Inspection Checklist Package
+
+Streamline your operations and improve compliance and safety.
+
+Streamline Your Business with Beekeeper’s Shift Planning Software 
+
+Suffering from shift stress?
+
+Cover every shift in minutes. » Talk to an Expert 
+
+Boost Employee Retention with Better Shift Scheduling 
+
+Mobile-first shift notifications built for frontline teams. Easily accommodate employee requests to offer shift flexibility. 
+
+Increase your ROI with Beekeeper’s Shift Scheduling Tool
+
+Shift planning and coordination software designed with your frontline employees in mind. 
+
+Shift stress is the #1 cause of frontline burnout. Give your teams the relief they need.
+
+How do you reduce shift absenteeism and improve productivity? 
+
+Effective shift communication leads to fewer no shows and better-staffed shifts. Ensure each shift has enough people to do quality work.
+
+Cover Every Shift with Beekeeper’s Shift Scheduling Software 
+
+Share shift schedules in real-time. Your frontline workers will never miss a shift again because they didn’t know when they were expected to be working. 
+
+Need to make changes to a shift? With with the Beekeeper Shift Scheduling Software, employees automatically get a push notification with the update. No more printing out paper schedules that employees have to hunt down. 
+
+Offer More Shift Flexibility 
+
+Handle shift swap requests in minutes instead of hours. Employees find shifts to swap with and submit the request for automatic review with Beekeeper’s Shift Planning Software. 
+
+Have an employee that can’t make their shift at the last minute? Fill last-minute open shifts without making a single phone call and give your frontline workers the flexibility to pick up extra work. 
+
+Before Beekeeper, 1-2 shift managers spent 2 or more days calling and searching for employees to work weekend jobs. Now, Flagger Force managers can get everyone’s availability in just a few clicks to fill every shift.
+
+Shift Handovers Made Simple 
+
+Close the loop on open tasks and resolve issues faster with digitized shift handover notes. No more logbook binders or paper sticky note reminders with Beekeeper’s Shift Scheduling Software.
+
+Extend your Existing Shift Scheduling Solution to the Frontline 
+
+Put shift information in every employee’s pocket and keep the shift scheduling solution you already use. Whether you build your shift schedules in Excel, UKG Dimensions, or UKG Ready, get more value from the tools and technologies you’ve already invested in.
+
+Find out how much you can save with better Shift Coordination and Coverage
+
+What types of businesses can benefit from Beekeeper’s shift scheduling software?
+
+Beekeeper is fully optimized for frontline success. We work best with companies in hospitality, retail, manufacturing or construction
+
+Start transforming your business today.
+
+Get a free consultation with a frontline success expert!

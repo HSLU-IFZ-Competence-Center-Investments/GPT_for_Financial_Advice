@@ -1,0 +1,84 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+Base Stations – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Learning Hub: Home
+VR Terminology Explained Virtual Reality
+
+Immersive/Spatial Computing
+VR, AR, XR – Which technology to choose?
+What’s the difference between standalone, wireless and tethered VR headsets?
+
+Technical Features and Capabilities Base Stations
+Controllers
+Degrees of freedom in VR/XR
+Eye Tracker
+Field of View in VR
+
+Getting started with VR/XR How to get started with VR: What do I need?
+How to create VR/XR content
+Using existing VR/XR content
+What kind of content can I view in VR? Can I view video content?
+Where does the content come from? How to create it?
+Why do I need such a powerful computer to use VR?
+Capturing VR or XR experiences
+
+Base stations, also known as ‘lighthouses’, track the exact location of your headset by sweeping the room using wireless pulses and laser lines. Full 360° coverage of your surroundings can usually be achieved with two base stations, enabling a fully immersive virtual reality experience, but you may require more depending on the size and accuracy of the desired coverage. When set up correctly, this positional tracking system enables you to move anywhere in your space and re-orient yourself in any position in a virtual or mixed reality environment. If you have a static VR/XR simulator setup with a seated, front-facing position, only one lighthouse may sometimes be enough.
+
+When setting up your headset, installing the base stations correctly into your space is highly recommended. A wrong setup could lead to the following:  
+
+Choppy visuals 
+Incorrect positional tracking of the headset, leading to breaking the immersion
+
+Please note that Varjo XR-4 Series headsets all have Varjo Controllers and Inside-Out Tracking as standard. For Varjo XR-4 Series, only Steam product variants work with base stations.
+
+Older Varjo headsets work together with SteamVR™ base stations (1.0 or 2.0, which are recommended) manufactured by Valve. They can be purchased directly from the Varjo store.
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

@@ -1,0 +1,113 @@
+Quality and Safety | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+ Vocational Training and Studies
+
+The sustainable customer satisfaction and the resulting success of our company is achieved through our ability to meet the requirements and expectations of our customers and interested parties in the long term.
+
+To achieve this goal we have made the strategic decision to introduce, maintain and continuously improve a quality management system.
+
+On the basis of documented procedures and interfaces, we actively manage and control the interacting processes and resources in order to create the values required to achieve the desired results.
+
+SAFETY, HEALTH, ENVIRONMENTAL PROTECTION AND ENERGY
+
+In our processes we implement the principles of a modern quality management, such as customer focus, process approach and continuous improvement.
+
+Through regular internal and external auditing, we obtain transparency about the effectiveness of our quality management system in meeting defined customer requirements and standards.
+
+In order to optimally serve our growth markets, we have implemented the following standards:
+
+In addition, the requirements ofISO 50001 (energy management) are taken into account at the Hanau site.
+
+Stable and sustainable products and processes not only demand our customers and relevant standards, but are also an essential aspect for maintaining and further expanding our market position.
+
+To achieve sustainable product quality, we have implemented core tools, the well-known tools of modern quality management, as an integral part of our processes.
+
+Our quality assurance covers all relevant topics from the development of new products and processes, their transfer into series production up to the continuous optimization of our worldwide production
+
+ Safety, Health, Environmental Protection and Energy
+ "SAFETY FIRST, in everything we do!"
+
+We assume special responsibility for our employees and attach importance to global standards in occupational safety and environmental protection at all our locations.In addition, the Hanau site complies with the requirements of DIN EN ISO 50001 (energy management system).
+
+Furthermore we are in close contact with our representatives of the authorities in accordance with accident legislation. We communicate not only reportable but also non-reportable incidents openly with our contact persons. As a result of the intensive commitment of our employees, there has never been a major event in the long history of VAC.
+
+In the context of implementing our strategic and operational goals, we are particularly committed to sustainability in production. In Consequence, we minimize the environmental impact and reduce the used resources equally.
+
+In our processes we implement the principles of a modern quality management, such as customer focus, process approach and continuous improvement.
+
+Through regular internal and external auditing, we obtain transparency about the effectiveness of our quality management system in meeting defined customer requirements and standards.
+
+In order to optimally serve our growth markets, we have implemented the following standards:
+
+In addition, the requirements of ISO 50001 (energy management) are taken into account at the Hanau site.
+
+Stable and sustainable products and processes not only demand our customers and relevant standards, but are also an essential aspect for maintaining and further expanding our market position.
+
+To achieve sustainable product quality, we have implemented core tools, the well-known tools of modern quality management, as an integral part of our processes.
+
+Our quality assurance covers all relevant topics from the development of new products and processes, their transfer into series production up to the continuous optimization of our worldwide production
+
+SAFETY, HEALTH, ENVIRONMENTAL PROTECTION AND ENERGY
+
+ Safety, Health, Environmental Protection and Energy
+ "SAFETY FIRST, in everything we do!"
+
+We assume special responsibility for our employees and attach importance to global standards in occupational safety and environmental protection at all our locations. In addition, the Hanau site complies with the requirements of DIN EN ISO 50001 (energy management system).
+
+Furthermore we are in close contact with our representatives of the authorities in accordance with accident legislation. We communicate not only reportable but also non-reportable incidents openly with our contact persons. As a result of the intensive commitment of our employees, there has never been a major event in the long history of VAC.
+
+In the context of implementing our strategic and operational goals, we are particularly committed to sustainability in production. In Consequence, we minimize the environmental impact and reduce the used resources equally.
+
+ Materials Safety Datasheets and Information Sheets for Manufactured Articles
+
+Follow the link to download review and download our Material Safety Datasheets and Safety Information.
+
+Information for Manufactured Articles    Material Safety Datasheets
+
+ Certificates and Quality Docs
+
+ Certificates and Quality Docs
+
+ISO 9001 : 2015
+
+ Certificates and Quality Docs
+
+IATF 16949 : 2016
+
+ Certificates and Quality Docs
+
+ISO 14001 : 2015
+
+ Certificates and Quality Docs
+
+EN 9100 : 2018
+
+ Certificates and Quality Docs
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

@@ -1,0 +1,160 @@
+OncoDNA:SupportforPatientsandCaregivers
+
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySiteKit
+
+GoogleTagManagersnippetaddedbySiteKit
+
+EndGoogleTagManagersnippetaddedby Site Kit 
+
+ Google Tag Manager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solid Biopsy (Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+There might be better treatment options for your cancer type 
+
+How biomarker tests can help you get the best treatment 
+
+How does cancer work? 
+
+A collection of diseases
+
+Cancer is the name given to a group of diseases characterized by the abnormal proliferation of cells that can invade different tissues of the body. While healthy cells grow and divide in a controlled manner, cancer cells multiply out of control. 
+
+Tumors begin to develop when a cell acquires a series of mutations that allow it to divide uncontrollably. 
+
+Multiplication of abnormal cells causes the volume of the tissue to increase, a phenomenon called hyperplasia. Further mutations may occur, which further affect the control of cell growth. 
+
+In addition to showing uncontrolled proliferation, the cells are abnormally shaped. The tissue is now said to show dysplasia. After a while, new genetic changes may occur.
+
+Mutated cells become even more abnormal in size and appearance, but for the moment they have not spread to other parts of the body. This is called carcinoma in situ, and it may remain confined indefinitely to the area from which it arose.
+
+If genetic changes give the abnormal cells the potential for spreading to lymph nodes and nearby tissues, the cancer is said to be invasive. Cells are likely to give rise to new tumors (metastases) throughout the body. 
+
+Why is your cancer unique? 
+
+Each tumor is unique and treatment can be personalized for each patient 
+
+Unique combination of mutations
+
+Each cancer has a different combination of mutations in its DNA. This is what makes a tumor unique.
+
+Biomarker testing helps to establish, what we could call, the fingerprinting of a cancer. 
+
+Different types of mutations
+
+There are several types of DNA mutations: single nucleotide variant (SNV), deletion or insertion of DNA nucleotides (indel), fusion of two DNA fragments to create an oncogene, and the amplification (copy/paste) of a same fragment of DNA (CNV). All these mutations can be detected by OncoDNA biomarker tests. 
+
+In addition to DNA mutations, a tumor may also show many surface proteins that could help identify the best therapy. OncoDNA is a pioneer in analyzing not only the DNA of the tumor but also its proteins. OncoDNA is able to identify these proteins using a technique of tumor cell staining called “immunohistochemistry”.  
+
+How can precision medicine help you?
+
+	The past decades have seen significant progress in the understanding of cancer biology, and oncologists can now choose a treatment based on the presence of specific biomarkers. Biomarker testing and personalized treatment strategies can increase the chances of survival, as well as avoid unnecessary treatments and their adverse events.
+
+Targeted therapies have become key in precision medicine. Many are currently under development. Their goal is to halt tumor progression by inhibiting the activity of specific targets related to tumor progression.Extracellular growth factors that promote the formation of new blood vessels (a process called angiogenesis). These blood vessels supply the cancer cells with oxygen and nutrients and are therefore crucial for tumor enlargement and invasion of new tissues.Transmembrane receptors. These receptors are located on the surface of tumor cells and bind to extracellular molecules (signals), such as growth factors. The receptors subsequently transmit the signal information to other molecules (proteins) inside of the cell.Intracellular proteins that receive the signal transmitted through the transmembrane receptors. They promote a variety of cellular processes, such as tumor growth, survival or invasion. 
+
+Hormones are important molecules in our body which regulate many processes, such as growth, development and reproduction.
+
+Hormonal therapies are drugs used to block the action or production of hormones, thereby slowing down or stopping the growth of certain cancers that are hormone-sensitive (meaning that they are dependent on a hormone for survival and/or growth). Hormone-sensitive tumors show hormone receptors on their surface, such as estrogen and progesterone receptors in breast cancer, or androgen receptor in prostate cancer. 
+
+Stimulating our immune system
+
+One of the main roles of our immune system is to defend the body against infecting and other foreign agents by distinguishing our body´s own cells from foreign elements. The principal immunologic cells are called leukocytes or white blood cells. Some examples include macrophages and lymphocytes (natural killer cells, T-cells and B-cells).
+
+The immune system not only provides a line of defense against foreign agents, it can also protect us against tumor cells. Unfortunately, cancer cells have several strategies to become "invisible" to the immune system avoiding immune-mediated elimination.
+
+The goal of immunotherapy is to mobilise the patient's own immune system against the disease. There are several kinds of immunotherapies, such as artificial monoclonal antibodies or immune checkpoint inhibitors. The latter ones bind to molecules that inhibit the immune system, blocking those immune-inhibitory molecules and reactivating the immune system. 
+
+What biomarker testing does OncoDNA offer?
+
+	Our innovative approach is to combine DNA and RNA sequencing (NGS) with protein analysis (immunohistochemistry-IHC) and additional techniques. This gives a comprehensive view of the tumor profile and helps identify more treatment options for patients.
+
+OncoDEEP® 
+
+Analysis of advanced tumors
+
+OncoDEEP® analyzes a tissue sample from the primary tumor or metastasis through a series of tests on 638 genes and protein biomarkers. This comprehensive biomarker test helps to predict a patient’s response to approved or experimental targeted therapies, immunotherapies, hormonal therapies and chemotherapies. 
+
+Blood analysis if no tumor tissue is available
+
+OncoSELECT is a fast and minimally invasive analysis of a blood sample. It is the perfect solution to identify treatment options for cancer patients not able to have their tumor biopsied or whose biopsy is too old. It can help to detect treatment resistance to targeted therapies (before first-line to check the heterogeneity of the disease, or during/after treatment to check for acquired resistance mutations), as well as to monitor cancer progression. 
+
+Personalized liquid biopsy as a monitoring tool
+
+OncoFOLLOW is a test based on the analysis of circulating tumor DNA. It helps to monitor a patient’s response to a treatment and to detect a possible recurrence of the disease. The test is customized for each patient, as it targets specific mutations identified through previous biomarker testing. 
+
+Discover patient stories on our YouTube Channel
+
+What about reimbursement or financing of our tests?
+
+Our tests are reimbursed in a growing number of countries. The reimbursement depends on your public or private health insurance scheme, and either some or all our tests may be covered. Our solutions may also be available through certain research projects in which your oncologist may be taking part in. In any case, talk to your oncologist and to your insurance provider for additional information.
+
+What are the odds that OncoDNA will detect a better treatment for me?
+
+A scientific paper showed that OncoDNA provided information on available treatments in 92% of patients with advanced solid cancer. However, each cancer is different and it may also be that no alternative is found. The effectiveness of the biomarker test will depend on your type of cancer, its severity, the treatments you have already received, and many other factors. Feel free to ask your oncologist to contact us to assess together the potential benefits regarding your case.
+
+How to order an OncoDNA biomarker test?
+
+Your oncologist can order the biomarker tests that best fit your clinical situation via OncoSHARE. OncoSHARE is a web platform on which it takes just a few minutes to create a secure account and place orders. Your oncologist will receive the invoice and the kit to be used in order to send us your sample (tumor tissue specimen or/and blood sample). Once we receive your payment and sample(s), we will perform the analyses in our certified laboratory. Your oncologist will be notified as soon as the report with all the test results and our clinical recommendations is available on OncoSHARE.
+
+Is there a real chance that I will respond to treatment and live longer?
+
+Our biomarker tests are designed to provide your oncologist with the most comprehensive information to make the best choice of treatment. However, cancer is a complex disease that evolves over time, and therefore it is very tricky to predict the efficiency of a treatment. What we do is to provide you with the best treatment options based on scientific knowledge.
+
+How will your tumour tissue and/or blood samples be shipped to our labs?
+
+After ordering the test that you need via the OncoSHARE web platform, your oncologist will receive a kit that he/she will use to send us your tumour tissue or/and blood sample. You will also be asked to settle your invoice. Once we receive your payment and sample(s), we will perform the analysis in our certified laboratory. Your oncologist will be notified as soon as the results are available (7 to 10 working days), so that he/she can check the report with our therapeutic recommendations.
+
+For what types of cancer is biomarker testing recommended?
+
+We do not advise to use our tests for early-stage cancers (stage 1 or 2), as well as for liquid tumors (i.e. leukemia, myeloma). We also do not analyse paediatric tumours (patients aged ≤ 18 years), except for glioblastoma cases. In summary, we recommend using our biomarker tests for stage 3 or 4 solid cancers in adults (except for glioblastoma patients).
+
+If OncoDNA report suggests a new treatment, will it be available for me and covered by my health insurance?
+
+We cannot guarantee that all suggested treatments will be available and/or reimbursed in your country. In some cases, if a treatment is not officially available or reimbursed, you could enroll in a clinical trial. Do not hesitate to ask your oncologist about the best options.
+
+Would biomarker testing predict my response to immunotherapy?
+
+Yes, our biomarker tests may provide your oncologist with insights on your response to immunotherapy. We test a wide range of markers of sensitivity to immunotherapy and provide an immunogram to better visualise the results. However, we may also recommend other treatment options such as hormonal therapy, chemotherapy and targeted therapy.
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+Manage consent
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712125182

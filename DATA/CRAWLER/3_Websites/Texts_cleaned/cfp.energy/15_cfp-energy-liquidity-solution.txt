@@ -1,0 +1,83 @@
+LiquiditySolutions||CFPEnergy
+
+Themejava script starts 
+ Theme java script end 
+
+ End Google Tag Manager 
+
+EnvironmentalCompliance carbonRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <span class="open_mobileviews tel2" onclick="openNav()"><i class="fa fa-user"><i> <i class="fa fa-times"><i></span>
+
+ <div class="iconbox">
+ <span class="open_mobileview_cust tel2" onclick="openNav_cust()"><i class="fa fa-user"></i></span>
+
+ <div class="iconbox ProductSearch">
+ <span data-toggle="modal" data-target="#myModalProducts"><i class="fa fa-search"></i></span>
+
+ <div class="iconbox">
+
+EnvironmentalCompliance carbonRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal"></button>
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+Liquidity solutions
+
+/
+Environmental products
+/
+Liquidity solutions
+
+From locked in to liquid assets
+
+In today’s dynamic business environment, liquidity is essential.
+
+Economic conditions, technological advancements and global events can affect operations at any time. Liquidity enables a business to navigate uncertainty, seize opportunity and ensure its long-term sustainability.
+
+Renewable assets such as carbon credits and Guarantee of Origin certificates (GOs) can represent a highly valuable element of your overall sustainability portfolio – and they hold immediate financial market value. Need to unlock extra liquidity? Renewable assets can be leveraged, before being bought back at an agreed point.
+
+If you’re looking to liquidate assets from your sustainability portfolio, you’ll need expert market knowledge to ensure that they’re traded effectively. After nearly two decades of navigating these complex markets, we’re deeply experienced in mitigating yield and cash movements. So you can be sure your solution has been structured by an expert hand, to secure an optimal financial and strategic position.
+
+CoProtect your position. With long-term strategic structuring that defends your financial forecasts.
+
+Maintain agility. Through well-judged short-term liquidity that releases value before buying back.
+
+Protect credit. Any liquidity solution should minimise credit risk as a core priority.
+
+Providing credit lines. Through our own balance sheet or trade finance facilities already in place.
+
+Offering collateralised lending. Helping to avoid any concerns around market volatility.
+
+Managing risk. This is central to our DNA, so it is at the forefront of any solution that we provide.
+
+I agree to receive other communications from CFP Energy (UK) Ltd.
+
+You can unsubscribe from these communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.
+
+By clicking submit below, you consent to allow CFP Energy (UK) Ltd. to store and process the personal information submitted above to provide you the content requested.
+
+Close
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+This site uses cookies to store information about your computer.
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site may not work then.
+
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
+
+ <button type="submit" class="pix_button btn_normal pix_button_flat blue_bg bold_text" style="border:none;" name="btn_accept"> </button> 
+ Accept Recommended Settings
+
+ end footer 
+ start scroll to top

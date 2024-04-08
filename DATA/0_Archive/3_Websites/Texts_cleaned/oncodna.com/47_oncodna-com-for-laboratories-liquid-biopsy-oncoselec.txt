@@ -1,0 +1,129 @@
+AdecentralizedOncologyLiquidBiopsyKit:OncoSELECT
+
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySiteKit
+
+GoogleTagManagersnippetaddedbySiteKit
+
+EndGoogle Tag Manager snippet added by Site Kit 
+
+ Google Tag Manager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solid Biopsy (OncoDEEP® Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+Liquid Biopsy (OncoSELECT Kit) 
+
+Targeted liquid biopsy to support your clinical decisions
+
+Compatible with Illumina technology
+
+Clear data insight and clinical interpretation
+
+Targeted Liquid Biopsy to Your Clinical Decisions
+
+The OncoSELECT Kit is OncoDNA’s first decentralised RUO (Research Use Only) solution for liquid biopsies , it benefits from having been used in a routine centralised setting for many years ensuring that laboratories can leverage OncoDNA’s extensive expertise locally. The OncoSELECT Kit encompasses more than 70 genes, including pertinent HRR genes, reporting genomic alterations and enabling the identification of MSI and CNV.
+
+When a solid biopsy is impossible or unavailable, the OncoSELECT Kit is recommended as a non-invasive solution to detect ctDNA in the blood of cancer patients. Underpinning the kit is Twist Bioscience reagents, and OncoDNA’s data analysis and clinical interpretation tool, OncoKDMTM. Using the data gathered in OncoKDMTM, molecular biologists can create a report that will ensure oncologists increase patient access to precision oncology. 
+
+10 years of knowledge that matters 
+
+Since 2013, OncoDNA has performed more than 35,000 tests, enabling us to build a comprehensive database (OncoKDO®) comprising 4,5 million variants across 22,000 genes, along with information on 1,400 drugs and 9,000 clinical trials. This vast repository of information allows OncoDNA to provide our clients with the most accurate and up-to-date molecular profiling for personalized cancer treatment. 
+
+A unique capture method for high quality data with less sequencing 
+
+OncoSELECT® Kit uses a unique Twist Biosciences’ capture method allowing high coverage and uniformity with less DNA input and less sequencing needed. 
+
+An easy process automatization 
+
+Thanks to the compatibility with Illumina’s technology, the easy automation process simplifies tasks by continuing using the current tools without disturbing the automate routine activities and losing time in extra training and manipulations. 
+
+Compatible with Illumina Technology 
+
+	OncoSELECT® Kit has been meticulously designed to seamlessly integrate Illumina’s cutting-edge sequencing platforms, ensuring a streamlined and efficient workflow. This singular compatibility empowers researchers to concentrate on their scientific goals, free from the burden of technical obstacles. By optimizing the compatibility of
+OncoSELECT® Kit, we strike the perfect balance between cost efficiency and constand precision, guaranteeing reliable results without compromising accuracy.	
+
+Achieving high-performance sequencing is now more accessible than ever, thanks to the OncoSELECT® Kit and Illumina sequencers. By utilizing these cutting-edge technologies, laboratories can process multiple samples per flow cell, as outlined in the Table above. This streamlined process allows faster and more efficient sequencing, resulting in more accurate data and better outcomes. 
+
+From sample preparation to clinical insights in just 5 days 
+
+OncoSELECT® Kit revolutionizes the diagnostic process by significantly reducing the timeline from DNA extraction to clinical and biological interpretation to just 5 days. This accelerated timeframe enables healthcare professionals to make faster decisions, resulting in enhanced patient care and improved outcomes. 
+
+Clear data insight and clinical interpretation 
+
+Easy sequencing files upload
+
+After the sequencing, output files (FASTQ + Medata files) are uploaded 
+
+Easy sequencing files upload
+
+After the sequencing, output files (Fastq + medata files) are uploaded on a secured storage to automatically launch a batch of samples. 
+
+Variants identification & annotation
+
+Our BioIT pipeline performs the secondary analysis of genomic data 
+
+Variants identification & annotation
+
+Our BioIT pipeline performs the secondary analysis of genomic data by aligning the data, identifying, annotating and classifying the variants, and cleaning the bias. 
+
+Data cross-referencing with our proprietary knowledge base
+
+We use our proprietary knowledge base 
+
+Data cross-referencing with our proprietary knowledge base
+
+We use our proprietary knowledge base OncoKDO to perform tertiary analysis by cross-referencing molecular data, resulting in the clinical interpretation of the data. 
+
+Clinical validation by scientific team
+
+Our team of oncology experts reviews each report 
+
+Clinical validation by scientific team
+
+Our team of oncology experts reviews each report before making it available on OncoKDM 
+
+OncoKDM® ’s comprehensive interpretation reports provide labs with eight essential assets to enhance the understanding of NGS data, including detailed annotations, a list of actionable variants, a list of therapies recommendation and a summary of relevant clinical trials. 
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+Support 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+Manage consent
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712109564

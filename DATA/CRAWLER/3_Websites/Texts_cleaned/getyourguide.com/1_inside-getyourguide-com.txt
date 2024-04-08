@@ -1,0 +1,76 @@
+html Last Published: Fri Apr 05 2024 05:04:02 GMT+0000 (Coordinated Universal Time) Blog | Join the journey
+
+ End Google Tag Manager 
+
+ Start VWO Async SmartCode 
+
+ End VWO Async SmartCode 
+ Change The CSS path according to the project
+
+BlogOpen roles
+
+Life at GetYourGuideOur teamsTech at GetYourGuideLocationsHow we hireBlog
+Life at GetYourGuide
+Our teams
+Tech at GetYourGuide
+Locations
+How we hire
+
+Inside GetYourGuide
+
+Your source for all things culture, people, and tech at GetYourGuide. Get a behind-the-scenes look at what makes us tick.
+Latest articles from our blogCategoriesNewsIncredible WomenLocalizationContentFinance & LegalData Science People Customer ServiceLeadershipMarketingProduct & DesignCustomer ServiceEngineeringSales & SupplyTalent Development Popular tags:CultureEngineeringPersonal GrowthWorking at GetYourGuideFull-Stack EngineerFull-Stack EngineerFull-Stack EngineerFull-Stack EngineerFull-Stack EngineerFull-Stack EngineerFull-Stack EngineerFull-Stack EngineerThank you! Your submission has been received!Oops! Something went wrong while submitting the form.EngineeringDecember 6, 2022
+Why Teamwork and Robust Systems are Key to Driving ImpactKritika KaulEngineering Manager - Partner TechPeople March 29, 2024
+
+Talent Acquisition at GetYourGuide: How We’re Building High-performance Teams in Berlin and BeyondMeury Pontes Senior Recruitment Coordinator EngineeringMarch 22, 2024
+
+Basemath—GetYourGuide’s Way of Sequential Testing. Part II: The TheoryAlexander WeissSenior Data Science ManagerEngineeringMarch 13, 2024
+
+Basemath—GetYourGuide’s Way of Sequential Testing. Part I: The ApplicationAlexander WeissSenior Data Science ManagerEngineeringFebruary 21, 2024
+
+How we Leverage Postgres for our Search Data Processing Pipeline at GetYourGuideDharin ShahSenior Software EngineerEngineeringFebruary 5, 2024
+
+The Long and Winding Road to Short and Smooth ReleasesFábio OliveiraSenior iOS EngineerEngineeringJanuary 29, 2024
+
+Tips for New Software Developers: Navigating Your First Year in EngineeringChris CastleAssociate Full Stack EngineerEngineeringJanuary 17, 2024
+
+How We Use AI to Optimize Travel ImagesYasamin KlinglerSoftware Engineer - MOVNewsJanuary 11, 2024
+
+3 Burning Questions for our New Chief People OfficerGetYourGuideCareers TeamEngineeringDecember 7, 2023
+
+DDataflow: An Open-Source Tool for End-to-End Tests of Machine Learning PipelinesJean Carlo MachadoData Science ManagerEngineeringDecember 5, 2023
+
+‍Primus: GetYourGuide's Answer to Unified Marketing AnalyticsEugene KlyuchnikovStaff Data EngineerEngineeringNovember 20, 2023
+
+GetYourGuide Engineering PrinciplesGetYourGuideCareers TeamProduct & DesignNovember 13, 2023
+
+The Rule of 70%Ameet Ranadive Chief Product Officer Show moreFull-Stack EngineerSept 08, 2022
+
+Building ‘Patient Impatience’ in the Supplier Connectivity Team ConnectivityMichael TatumSenior UX DesignerFull-Stack EngineerSept 08, 2022
+
+Building ‘Patient Impatience’ in the Supplier Connectivity Team ConnectivityMichael TatumSenior UX DesignerFull-Stack EngineerSept 08, 2022
+
+Building ‘Patient Impatience’ in the Supplier Connectivity Team ConnectivityMichael TatumSenior UX DesignerFull-Stack EngineerSept 08, 2022
+
+Building ‘Patient Impatience’ in the Supplier Connectivity Team ConnectivityMichael TatumSenior UX DesignerFull-Stack EngineerSept 08, 2022
+
+Building ‘Patient Impatience’ in the Supplier Connectivity Team ConnectivityMichael TatumSenior UX DesignerFull-Stack EngineerSept 08, 2022
+
+Building ‘Patient Impatience’ in the Supplier Connectivity Team ConnectivityMichael TatumSenior UX Designer
+Collections to help you on your journey4 articles in this seriesFebruary 1, 2023
+Empowering Journeys: Personal Growth at GetYourGuideRead now
+4 articles in this seriesAugust 15, 2022
+Improving User Experience by Boosting Runtime PerformanceRead now
+4 articles in this seriesApril 4, 2019
+Engineering Management at GetYourGuideRead now
+
+Featured articlesLeadershipJanuary 5, 2023
+
+Reflecting On Our Journey: GetYourGuide 2022 LookbackGetYourGuideCareers TeamPeople August 4, 2022
+
+My Career Growth: How I Transitioned from Care to People OperationsMeg TelsonHead of People OperationsEngineeringDecember 6, 2022
+
+Why Teamwork and Robust Systems are Key to Driving ImpactKritika KaulEngineering Manager - Partner TechShow more
+Keep up to date with the latest newsBy completing this form, I agree that my personal details will be processed in line with GetYourGuide’s privacy notice.
+Thank you
+You successfully notified a recruiter.Oops! Something went wrong while submitting the form.

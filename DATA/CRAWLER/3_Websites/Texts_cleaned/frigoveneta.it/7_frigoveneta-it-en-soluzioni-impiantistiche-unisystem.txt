@@ -1,0 +1,123 @@
+EndGoogleTag Manager 
+
+UniSystem: gestione impianti refrigerazione e climatizzazione | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+/ 
+
+System solutions
+
+Unisystem
+
+The ideal solution for small and medium-sized retailers
+
+ Compliant with F GAS regulations
+ The machines are designed to operate with R134a (GWP=1430) or with the new R1234ze refrigerant (GWP=1). 
+
+ Low amount of refrigerant
+ About 35 kg for the entire shop. Food refrigeration and air-conditioning. 
+
+ Extremely low chances of leaks
+ The refrigerant is contained exclusively in the refrigerating unit and in the pumping station, which are built and tested at FRIGOVENETA’s production sites. 
+
+ No high pressure at all
+ The maximum pressure of the carrier fluid is about 1.5 bar. 
+
+ Easy system assembly
+ The piping of the food refrigeration and air-conditioning system can be assembled by a single installer with commonly used hydraulic materials. 
+
+ Compact design
+ Only three machines for the entire system: they can be placed next to or far away from each other. The Dry Cooler functions properly even if positioned under the refrigerating unit. 
+ wow fadeInDown 
+ Low electrical consumption
+ Thanks to the large dimensions of the exchangers, the use of highly efficient pumps and dedicated software designed by FRIGOVENETA. 
+ wow fadeInDown 
+ Fiscal benefits
+ Access to tax concessions on the cost of the system. 
+ wow fadeInDown 
+
+ The lighting control with home automation systems and the monitoring of electrical consumption further contribute to lower electricity costs. 
+ wow fadeInDown 
+
+ UniSystem can be remotely controlled by the FRIGOVENETA supervision system or by other systems. 
+
+The MT Chiller cools the secondary fluid at a temperature that dynamically varies from -1°C to -6°C, according to the cooling request from utilities.
+
+The evaporation temperature of the refrigerant varies from -5°C to -9°C: this shows that the system has very high energy efficiency levels, even beyond classical direct expansion systems.
+
+The secondary fluid is distributed by the Cold Water pumping station, where two redundant pumps determine the flow rate according to the actual opening of the motorised valves located on each cooling utility.
+
+The machines are designed to be loaded with the new R1234ze refrigerant with GWP=1 without further changes.
+
+Advanced regulations and the use of brushless pumps ensures that the power absorbed for the transport of the secondary fluid is very low, about 700 Watt.
+
+In summer, the condensation heat of the chiller and of the heat pump is conveyed outside by a single liquid chiller.
+
+This allows us to place the refrigerating unit and pumping station in the same room, even far away from the the building.
+
+The thermal energy for heating purposes is obtained by fully recovering the condensation heat of the refrigerating unit.
+
+Free heat, available throughout winter, can contribute for more than 75% of the total annual requirements even in northern Italy.
+
+If the heating request is not enough to ensure the desired comfort levels, the the heat pump built into the chiller is activated and compensates for the difference.
+
+These advantages would not be available in a transcritical CO2 system, as the temperature of the heat to be recovered would be too low and hardly usable to heat the shop.
+
+Domestic hot water is obtained throughout the year exclusively from the overheating heat of the chiller hence it is completely free.
+
+Thanks to this technology, efficiency in winter has a performance coefficient (COP) not lower than 2.7 with an outdoor temperature of -7°.
+
+FRIGOVENETA supplies all electrical panels fitted with microcontroller boards running dedicated software to allow for temperature control in the shop according to the opening hours and the outdoor and indoor temperature and humidity in line with the food refrigerating unit to optimise electrical consumption.
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale

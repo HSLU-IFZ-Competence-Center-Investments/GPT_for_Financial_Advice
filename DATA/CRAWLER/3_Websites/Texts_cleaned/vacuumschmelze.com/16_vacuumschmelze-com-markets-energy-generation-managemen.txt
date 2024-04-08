@@ -1,0 +1,43 @@
+Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+Vocational Training and Studies
+
+ Energy Generation & Management
+
+ Energy Generation & Management
+
+Whether you are looking for current transformers, current sensors or AC/DC-sensitive safety devices, we offer solutions which meet the expectations towards highest quality and tightest tolerances.
+
+Our products make your applications and your life safer. We offer various materials, stamped parts and inductive components such as differential current sensors or current transformers to support you in your solution.
+
+Our VITROPERM® is the state-of-the-art nanocrystalline material which is the basis for benchmark strip wound cores and common mode chokes. With our EMC products we provide a wide bandwith for various applications.
+
+No matter if you are looking for state-of-the-art current transformers, gate drive transformers or materials as a superior basis for your own components. With our vertical integration we cover various forms of supply to support your business.
+
+We offer state-of-the-art soft magnetic materials that are the benchmark in magnetic shielding and wireless charging applications.
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

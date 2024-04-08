@@ -1,0 +1,45 @@
+Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+Vocational Training and Studies
+
+ Energy Generation & Management
+
+ Sustainability Drives Our Daily Business
+
+VAC is world’s leading manufacturer of high-end, specialized magnetic materials and solutions. Our technologies play a key role in an increasingly electrified world and support multiple global megatrends such as e-mobility, e-flight, renewable energy, and smart manufacturing. For decades sustainability has been driving our daily business and we are exited to share our insights how our products make our planet a better place to live.
+
+Dr. Erik Eschen - Chief Executive Officer of VAC
+
+With extensive application know-how and 100 years of experience in materials science and product development, we are passionate about advancing the technologies of today and tomorrow. As a vertically integrated manufacturer with superior research and development capabilities, we push technical boundaries and develop groundbreaking solutions with our customers. Our unique ability to develop from basic elements and materials to final solutions enables smaller, lighter, more efficient, power dense and safer solutions for our customers' applications. In doing so, we make a significant contribution to conserving resources and protecting our environment.
+
+ our 
+
+Sustainability Statement
+
+Download
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

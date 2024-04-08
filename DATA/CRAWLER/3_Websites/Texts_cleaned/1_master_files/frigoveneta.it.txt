@@ -1,0 +1,2909 @@
+
+
+1_FRIGOVENETA-IT-EN-SETTORI-INDUSTRIE-ALIMENTARI
+
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+<![endif]
+[iflteIE8]>
+
+<![endif]
+[ifgteIE9]><!
+
+<![endif]
+
+</script>
+<noscript><imgheight="1"width="1"style="display:none"
+
+DONOTMODIFY
+EndFacebookPixelCode
+
+GoogleTagManager(noscript)
+
+EndGoogleTagManager(noscript)
+
+<ulclass="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+Food industries
+
+Safety and comfort in every phase!
+
+Every food industry, regardless of the type of product handled, is a world unto itself, with specific needs regarding the preservation of raw materials, the food processing stages and the storage of the finished product awaiting distribution to customers.
+
+Through careful designing, Frigoveneta systems meet the needs of each production environment, for example: merchandise receiving anterooms, cells at normal temperature or low temperature, processing rooms, zone picking.
+
+As far as processing rooms is concerned it is fundamental to maintain the right temperatures, ensure employees work in comfortable conditions and maintain the utmostair hygiene.
+
+ RELIABILITY
+ machines and systems designed to ensure safe and efficient functioning 
+
+ COMFORT
+ la progettazione degli impianti frigoriferi considera le esigenze di movimentazione e il comfort degli operatori 
+
+ ENERGY SAVINGS
+ thanks to the machine and system’s quality 
+
+ TECHNICAL ASSISTANCE
+ non-stop link with the Remote Management Center and timely maintenance throughout Italy 
+
+ TURNKEY SOLUTION
+ Frigoveneta can also supply the following units: Air treatment, humidifiers, dehumidifiers, freezing tanks, panels, doors, lighting and load plans 
+
+ TELEGEST
+ remote control ready on each system 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+2_FRIGOVENETA-IT-EN-EFFICIENZA-ENERGETICA-TELEGE
+
+EndGoogle Tag Manager 
+
+ - Controllo remoto impianti frigoriferi | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+ENERGY EFFICIENCY / Telegest
+
+Telegest
+
+TeleGest is the visualisation interface that allows you to control your system and individual utilities regardless of what your business is:
+
+The refrigeration utilities are connected to the local supervision terminal at the customer’s site from where the entire system can be monitored and the parameters adjusted. The Modbus protocol was chosen as the communication system between the utilities because it is simple and reliable, in addition to being an open system and easy to maintain.
+
+TeleGest communicates with all major hardware manufacturers for the control of refrigeration utilities. It can also be integrated with all Frigoveneta systems, such as UniGest and UniCalor.
+
+INTEGRATATED MANAGEMENT OF POINT OF SALE
+
+TECHNOLOGY THAT FREESYOU FROM USING NATURAL GAS
+
+The benefits of TeleGest
+
+ACCESS LEVELSAccess to the TeleGest functions is divided into different hierarchical levels based on usage permission.
+
+QUICK ACCESSThe local supervisor only sends compressed data that takes up very little bandwidth: data access is fast.
+
+MULTIPLE ACCESSThe service centre and customer can be logged in at the same time.
+
+SECURITYAll the connected systems (currently about 3,500) continuously send data that is collected and stored on dedicated servers.
+
+COMPATIBILITYThe system can be integrated with UniCalor and UniGest.
+
+With TeleGest, you can access historical system data records:
+
+MONITORKeep an eye on machine consumptions, any malfunctions or critical errors.
+
+INTERVENEChange parameters directly from the user interface.
+
+Would you like us to do the monitoring?
+
+We know that a refrigeration or mechanical system is an investment and an important tool used for all our customers’ business activities. The mission of Frigoveneta Service is to ensure that every system operates at maximum efficiency for as long as possible. We can guarantee the lowest energy consumption by taking care of the operating configuration, in every season. Frigoveneta Service provides a variety of contractual solutions for tailor-made technical assistance.
+
+Would you like to view your systems remotely using TeleGest? You have several options:
+
+Thanks to the USB security key issued by Frigoveneta, you can access local PCs and the database from any PC connected to the internet. All customers can request a USB key to connect to their own systems and the remote database services.
+
+TeleGest can be consulted from any browser on a PC, smartphone or tablet connected to the internet. You can access the information website and all available menus using your personal login credentials.
+
+By downloading the WebGest app from Appstore or Playstore. You can receive personalised notifications and get even easier and faster access to the data on the TeleGest system.
+
+Other things you can do:
+
+WOULD YOU LIKE TO RECEIVE ALARMS AND ALERTS?Enable WebGest ALERTS: 1- Via email2- By enabling push notifications from the app
+
+HACCP RECORD:TeleGest can record critical points in accordance with current legislation.WOULD LIKE TO VIEW HACCP? YOU HAVE TWO OPTIONS:1- It’s always visible locally2- By enabling WebGest HACCP
+
+ Bottom image 
+ <section class="section section-default section-center section-telegest">
+ <img alt="Frigoveneta - Telegest" class="" style="width: 100%; padding: 0;" src="/web/uploads/pagine/telegest_bottom_en.png" /></section> 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+3_FRIGOVENETA-IT-EN-TRAINING-CENTER
+
+EndGoogle Tag Manager 
+
+Frigoveneta SPA | 
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Centrali e chiller 
+Centrali frigorifere a co2, ciclo transcritico
+Centrali frigorifere a co2, ciclo subcritico
+Chiller (HFC-HFO)
+Centrali frigorifere per espansione diretta (HFC+HFO)
+
+Training Center
+
+Benvenuti nel !
+
+La mission del nostro Centro si può condensare in 4 parole chiave:
+
+Il centro è rivolto a tecnici ed ingegneri per approfondire il funzionamento di impianti di nuova concezione, come quelli transcritici a R744, e di impianti tradizionali ad espansione diretta ed indiretta. Il transfer avviene grazie al know how acquisito da Frigoveneta nelle fasi produttiva, di installazione, di manutenzione e post-vendita. Ciascuna fase, infatti, è da sempre gestita direttamente all’interno dell’azienda.
+
+Questa parte si focalizza sulla funzione di ogni componente in modo da rendere chiaro al corsista il principio di funzionamento degli impianti nel loro complesso, evidenziando le problematiche che possono emergere soprattutto durante la fase di collaudo e di manutenzione.
+
+Sviluppatori software, tecnici di manutenzione, ricercatori, tecnici commerciali. Tutte le persone di Frigoveneta sono dotate di mindset focalizzato sullo studio delle tecnologie e delle migliori soluzioni in ambito sia progettuale che pratico, in modo tale da individuare le migliori soluzioni. I risultati di questa continua ricerca confluiscono nel Training Center Frigoveneta, il quale definisce le best practices e le condivide mediante i corsi di formazione.
+
+Grazie alla supervisione 24/24h per tutto il periodo dell’anno degli impianti, tramite il sistema TeleGest, è possibile seguire il comportamento dell’impianto in svariate condizioni operative, garantendo un continuo miglioramento nella regolazione e nella manutenzione per raggiungere i minimi consumi e la massima affidabilità.
+
+Oltre alla formazione su impianti di nuova concezione, prosegue l’attività di corsi ed esami F-GAS:
+
+dal 2013 Frigoveneta è riconosciuta da Cepas srl "Organismo di Valutazione dal Regolamento UE 2067/2015 e dal D.P.R. 146/2018".
+
+Training Center Frigoveneta
+
+Sei interessato al nostro servizio?
+
+Frigoveneta - Video Aziendale
+
+
+
+4_FRIGOVENETA-IT-EN-CENTRALIECHILLER-CENTRALI-FRIGORIFERE-A-CO2-CICLO-SUBCRITICO
+
+EndGoogleTagManager 
+
+INDIRECT-EXPANSION MACHINES WITH LOW-GWP FLUIDS | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+INDIRECT-EXPANSION MACHINES WITH LOW-GWP FLUIDSContinuous innovation
+
+Home
+Refrigerating units and chillers
+
+In SUBCO2 machines for sub-critical cycle systems (cascade), the CO2 is condensed through a direct-expansion circuit running on HFC/HFO refrigerant, or using refrigerated water. This system has several advantages: relatively low operating pressures (max 53 bar), simplified engineering and compatibility with all types of climates. The SUBCO2 range combines the use of natural fluids guaranteeing high operating performances with straightforward maintenance procedures. 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+5_FRIGOVENETA-IT-EN-SETTORI-MATURAZIONE-BANANE
+
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+Banana ripening
+
+ OPTIMAL AIR DIFFUSION IN THE CHAMBERS
+
+ LOW GWP REFRIGERATION SYSTEM
+
+ wow fadeInDown 
+
+ wow fadeInDown 
+ HIGH ENERGY EFFICIENCY COMPONENTS
+
+ wow fadeInDown 
+
+Frigoveneta technology for banana ripening
+
+Banana storage and ripening chambers can be equipped with curtain or airbag systems, two equally effective solutions for the homogeneous distribution of air inside them.
+
+TeleGest for banana ripening
+
+Each plant is equipped with the TeleGest system thanks to which it is possible to:
+
+Customise the ripening and storage cycles
+Manage ventilation completely, including the speed of all fans
+Manage the air exchange cycles
+Manage the ethylene concentration
+Be constantly connected to the Frigoveneta remote control centre
+Receive real-time technical assistance from Frigoveneta technicians
+
+TeleGest is Industry 4.0 ready certified
+
+UniCalor: Free heat for banana ripening
+
+UniCalor is the Frigoveneta system that recovers the condensation heat generated by the operation of the refrigeration system. This heat, which would otherwise be dispersed in the environment, is entirely recovered and used to heat the product and can possibly be used to heat other environments (e.g. offices, services, etc.). This allows for significant energy savings.
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+6_FRIGOVENETA-IT-EN-CONTATTI
+
+EndGoogleTagManager 
+
+Contatti | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+Contacts
+Ask for information
+
+Congratulazioni! Il tuo messaggio è stato spedito. 
+
+Errore! C'è stato un errore durante l'invio del tuo messaggio. 
+
+ <td colspan="2">
+ <button class="btn btn-primary pull-right" type="submit"></button>
+
+Name and surname *
+ <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required> 
+
+Email *
+ <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" required> 
+
+Subject *
+ <input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject" required> 
+
+Message *
+ <textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" id="message" required></textarea> 
+
+ I have read the privacy policy 
+
+Legal, Administrative and Operational Headquarters
+FRIGOVENETA SPA 
+ Via Caduti del Lavoro, 5 
+ 37049 Villa Bartolomea (Vr) - Italia 
+ Tel +39 0442659030 - Fax +39 0442659011
+ frigoveneta@frigoveneta.it
+ P.I. 00586780231 - REA VR-143886
+ Share Capital 3.600.000 €
+
+FRIGOVENETA SERVICE SRL 
+ Via Caduti del Lavoro, 5 
+ 37049 Villa Bartolomea (Vr) - Italia 
+ Tel +39 0442659030 - Fax +39 0442659011
+ service@frigoveneta.it
+ P.I. 03542670231 - REA VR-344892
+ Share Capital 114.000 €
+
+ <ul class="list list-icons list-icons-style-3 mt-xlg">
+ <li><i class="fa fa-map-marker"></i> </li>
+ <li><i class="fa fa-phone"></i> +39 0442659030</li>
+ <li><i class="fa fa-envelope"></i> <a href="mailto:frigoveneta@frigoveneta.it">frigoveneta@frigoveneta.it</a></li>
+
+Frigoveneta - Video Aziendale
+
+
+
+7_FRIGOVENETA-IT-EN-SOLUZIONI-IMPIANTISTICHE-UNISYSTEM
+
+EndGoogleTag Manager 
+
+UniSystem: gestione impianti refrigerazione e climatizzazione | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+/ 
+
+System solutions
+
+Unisystem
+
+The ideal solution for small and medium-sized retailers
+
+ Compliant with F GAS regulations
+ The machines are designed to operate with R134a (GWP=1430) or with the new R1234ze refrigerant (GWP=1). 
+
+ Low amount of refrigerant
+ About 35 kg for the entire shop. Food refrigeration and air-conditioning. 
+
+ Extremely low chances of leaks
+ The refrigerant is contained exclusively in the refrigerating unit and in the pumping station, which are built and tested at FRIGOVENETA’s production sites. 
+
+ No high pressure at all
+ The maximum pressure of the carrier fluid is about 1.5 bar. 
+
+ Easy system assembly
+ The piping of the food refrigeration and air-conditioning system can be assembled by a single installer with commonly used hydraulic materials. 
+
+ Compact design
+ Only three machines for the entire system: they can be placed next to or far away from each other. The Dry Cooler functions properly even if positioned under the refrigerating unit. 
+ wow fadeInDown 
+ Low electrical consumption
+ Thanks to the large dimensions of the exchangers, the use of highly efficient pumps and dedicated software designed by FRIGOVENETA. 
+ wow fadeInDown 
+ Fiscal benefits
+ Access to tax concessions on the cost of the system. 
+ wow fadeInDown 
+
+ The lighting control with home automation systems and the monitoring of electrical consumption further contribute to lower electricity costs. 
+ wow fadeInDown 
+
+ UniSystem can be remotely controlled by the FRIGOVENETA supervision system or by other systems. 
+
+The MT Chiller cools the secondary fluid at a temperature that dynamically varies from -1°C to -6°C, according to the cooling request from utilities.
+
+The evaporation temperature of the refrigerant varies from -5°C to -9°C: this shows that the system has very high energy efficiency levels, even beyond classical direct expansion systems.
+
+The secondary fluid is distributed by the Cold Water pumping station, where two redundant pumps determine the flow rate according to the actual opening of the motorised valves located on each cooling utility.
+
+The machines are designed to be loaded with the new R1234ze refrigerant with GWP=1 without further changes.
+
+Advanced regulations and the use of brushless pumps ensures that the power absorbed for the transport of the secondary fluid is very low, about 700 Watt.
+
+In summer, the condensation heat of the chiller and of the heat pump is conveyed outside by a single liquid chiller.
+
+This allows us to place the refrigerating unit and pumping station in the same room, even far away from the the building.
+
+The thermal energy for heating purposes is obtained by fully recovering the condensation heat of the refrigerating unit.
+
+Free heat, available throughout winter, can contribute for more than 75% of the total annual requirements even in northern Italy.
+
+If the heating request is not enough to ensure the desired comfort levels, the the heat pump built into the chiller is activated and compensates for the difference.
+
+These advantages would not be available in a transcritical CO2 system, as the temperature of the heat to be recovered would be too low and hardly usable to heat the shop.
+
+Domestic hot water is obtained throughout the year exclusively from the overheating heat of the chiller hence it is completely free.
+
+Thanks to this technology, efficiency in winter has a performance coefficient (COP) not lower than 2.7 with an outdoor temperature of -7°.
+
+FRIGOVENETA supplies all electrical panels fitted with microcontroller boards running dedicated software to allow for temperature control in the shop according to the opening hours and the outdoor and indoor temperature and humidity in line with the food refrigerating unit to optimise electrical consumption.
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+8_FRIGOVENETA-IT-EN-CENTRALIECHILLER
+
+EndGoogleTagManager
+
+Centralifrigoriferee chiller frigoriferi | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+REFRIGERATING UNITS AND CHILLERSContinuous innovation
+
+Home
+Refrigerating units and chillers
+
+Refrigerating units and chillers
+
+FULL CO2 - MACHINES WITH NON-GREENHOUSE NATURAL FLUIDS
+SUB CO2 - INDIRECT-EXPANSION MACHINES WITH LOW-GWP FLUIDS
+WECO - INDIRECT-EXPANSION MACHINES
+FULL STD - DIRECT-EXPANSION MACHINES WITH LOW-GWP REFRIGERANTS
+
+Our range of refrigerating units and chillers is designed for maximising efficiency and are manufactured with ISO 9001:2018-certified procedures. Thanks to an extensive assortment of power outputs, overall dimensions and refrigerant fluids, these products can satisfy the requirements of all food and non-food sectors regardless of the size and number of usage points to be cooled. Our mission is to offer lasting, high-performance products that respect the environment and ensure personal safety.
+
+The entire production process takes place in-house at the headquarters based in Villa Bartolomea, where each machine is pre-cabled, tested and subjected to numerous quality and operation tests during specific phases. ach component used and every operator involved in the production process are traced to guarantee quality and reliability. We also design and manufacture the command and control electrical enclosures, which are likewise subjected to rigorous quality and testing procedures.
+
+FULL CO2 - MACHINES WITH NON-GREENHOUSE NATURAL FLUIDS
+
+SUB CO2 - INDIRECT-EXPANSION MACHINES WITH LOW-GWP FLUIDS
+
+WECO - INDIRECT-EXPANSION MACHINES
+
+FULL STD - DIRECT-EXPANSION MACHINES WITH LOW-GWP REFRIGERANTS
+
+ </div> 
+
+Thanks to the TeleGest system, we are able to access all the configuration and control parameters of the machines.
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+9_FRIGOVENETA-IT-EN-SETTORI-APPLICAZIONI-SPECIALI
+
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+<![endif]
+[iflteIE8]>
+
+<![endif]
+[ifgteIE9]><!
+
+<![endif]
+
+</script>
+<noscript><imgheight="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+Special applications
+
+The password is: reliability
+
+The versatility and the technology applied to our machines allow us to produce systems in non-food sectors such as pharmaceutical, metal and leather.
+
+The reliability of machines, customized computer management andhaving continuous remote control of the entire system are decisive in these areas.
+
+ RELIABILITY
+ 35 years of experience in industrial refrigeration 
+
+ QUALITY
+ ISO, PED and BUREAU VERITAS certification 
+
+ ENERGY SAVINGS
+ thanks to the unigest and telegest systems 
+
+ REMOTE CONTROL
+ thanks to the remote control center 
+
+ TECHNICAL ASSISTANCE
+ via telephone and on-site 
+
+ CUSTOMIZATION
+ of all the functioning and managerial parameters 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+10_FRIGOVENETA-IT-EN-CENTRALIECHILLER-CENTRALI-FRIGORIFERE-PER-ESPANSIONE-DIRETTA-HFC-HFO
+
+EndGoogleTagManager
+
+DIRECT-EXPANSIONMACHINESWITH LOW-GWP REFRIGERANTS | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+DIRECT-EXPANSION MACHINES WITH LOW-GWP REFRIGERANTSContinuous innovation
+
+Home
+Refrigerating units and chillers
+
+The refrigerating units of the FULLSTD range are designed for working with low-GWP refrigerant fluids, in accordance with the F-gas Regulation. Characterised by a broad power range, they have compact dimensions, are suitable for outdoor use and are already configured for heat recovery systems. 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+11_FRIGOVENETA-IT-EN-SETTORI
+
+EndGoogleTagManager
+
+Impiantifrigoriferi|FrigovenetaSPA
+
+[iflte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+Industrial refrigeration for all requirements
+
+Operational reliability, energy savings and customer-support services available 24/7 make our cooling equipment an ideal choice whenever it is essential to keep constantly low temperatures within industrial or commercial premises. Certified quality and versatile technology for refrigeration equipment that satisfies all needs.
+
+Frigoveneta - Video Aziendale
+
+
+
+12_FRIGOVENETA-IT-EN-PRIVACY
+
+EndGoogle Tag Manager 
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+<ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+ Informativa ex art. 13 del Codice della Privacy redatta in conformità al Provvedimento del
+ Garante per la protezione dei dati personali del 08.05.2014
+
+ I cookie sono stringhe di testo di piccole dimensioni che i siti visitati dall'utente inviano
+ al suo terminale, dove vengono memorizzati per essere poi ritrasmessi agli stessi siti alla
+ successiva visita del medesimo utente.
+
+ Il presente sito, gestito da Frigoveneta S.p.A., con sede legale in Via Caduti del Lavoro, 5, 37049, Villa Bartolomea (Vr), che assume,
+ pertanto, la qualità di titolare del trattamento ai sensi del D.Lgs. n. 196/03 (Codice della privacy),
+ utilizza solamente cookie tecnici, definiti come quelli utilizzati al solo fine di "effettuare la
+ trasmissione di una comunicazione su una rete di comunicazione elettronica, o nella misura strettamente
+ necessaria al fornitore di un servizio della società dell'informazione esplicitamente richiesto
+ dall'abbonato o dall'utente di erogare tale servizio" (cfr art. 122 comma 1 del Codice della privacy).
+
+ In particolare, trattasi dei seguenti:
+
+Fine della sessione del browser
+
+Cookie di Analytics
+
+Cookie di Sessione
+Fine della sessione del browser
+
+ Per l'installazione e l'utilizzo di tali cookie non è richiesto il preventivo consenso dell'utente. 
+ Trattasi di cookie necessari, in quanto indispensabili per il corretto funzionamento delle applicazioni.
+ Il presente sito web consente di selezionare/deselezionare i singoli cookie, con le modalità di seguito
+ illustrate, ma si avverte che, in caso di disattivazione, potrebbe non essere garantita la completa
+ fruibilità del medesimo.
+ Per disattivare, rimuovere o bloccare i cookie è possibile ricorrere alle impostazioni del browser,
+ secondo le indicazioni riportate di seguito:
+
+Apri Firefox
+Premi il pulsante "Alt" sulla tastiera
+Nella barra degli strumenti situata nella parte superiore del browser, seleziona "Strumenti" e successivamente "Opzioni"
+Seleziona quindi la scheda "Privacy"
+Vai su "Impostazioni Cronologia" e successivamente su "Utilizza impostazioni personalizzate"
+Deseleziona "Accetta i cookie dai siti" e salva le preferenze
+
+Apri Internet Explorer
+Clicca sul pulsante "Strumenti" e quindi su "Opzioni Internet"
+Seleziona la scheda "Privacy" e sposta il dispositivo di scorrimento sul livello di privacy che desideri impostare (verso l'alto per bloccare tutti i cookies o verso il basso per consentirli tutti)
+Quindi clicca su "Ok"
+
+Clicca sull'icona "Strumenti"
+Seleziona "Impostazioni" e successivamente "Impostazioni avanzate"
+Seleziona "Impostazioni dei contenuti" sotto la voce "Privacy"
+Nella scheda "Cookies" è possibile deselezionare i cookies e salvare le preferenze
+
+Apri Safari
+Scegli "Preferenze" nella barra degli strumenti, quindi seleziona il pannello "Sicurezza" nella finestra di dialogo che segue
+Nella sezione "Accetta cookie" è possibile specificare se e quando Safari deve salvare i cookies dai siti web. Per ulteriori informazioni clicca sul pulsante di Aiuto (contrassegnato da un punto interrogativo)
+Per maggiori informazioni sui cookies che vengono memorizzati sul vostro computer, clicca su "Mostra cookie"
+
+ Informazioni utili sui cookie sono disponibili a questi indirizzi:
+ http://www.allaboutcookies.org.
+ Per maggiori informazioni sull'utilizzo dei cookie ciascun interessato potrà rivolgersi
+ direttamente al titolare, a mezzo e-mail, al seguente indirizzo: frigoveneta@frigoveneta.it,
+ anche al fine di richiedere l'elenco completo dei responsabili del trattamento dei
+
+Frigoveneta - Video Aziendale
+
+
+
+13_FRIGOVENETA-IT-EN-NEWS-E-EVENTI
+
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-7564119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+News 
+
+NEWS & EVENTS Stay update!
+
+Exclusive interview with Frigoveneta
+
+What does FRIGOVENETA do and what are the challenges for the future? 
+
+30
+
+Fruit Logistica-Berlin - Looking forward to meet you!
+
+From 5th to 7th February let's meet in Berlin, at Fruit Logistica Fair! 
+
+Unicomm saves energy and costs with the new Solstice Ze refrigeration units of Frigoveneta
+
+Frigoveneta SPA installed new HFO-based refrigeration units at four new Famila and Mega brand stores owned by the Unicomm srl group. 
+
+11
+
+Let's meet in Madrid - Fruit Attraction
+
+The tenth edition of the Fruit Attraction fair is coming: from 23rd to th October you can find us in Madrid! 
+
+Looking forward to meeting you at Macfrut!
+
+From 9 to 11 of May you will find us at Rimini Expo Center, pavilion B3, stand 107! 
+
+25
+
+We exhibit at Fruit Logistica 2017- Berlin
+
+Let's meet in Berlin during the exhibition FRUIT LOGISTICA! 
+
+1
+
+2
+
+Frigoveneta prima nel suo settore
+
+Looking forward to meeting you at Macfrut!
+
+Unicomm saves energy and costs with the new Solstice Ze refrigeration units of Frigoveneta
+
+Facebook
+Linkedin
+Youtube
+
+ <ul class="nav nav-list mb-xlg">
+
+Frigoveneta - Video Aziendale
+
+
+
+14_FRIGOVENETA-IT-EN-SETTORI-ORTOFRUTTA
+
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+<![endif]
+[iflteIE8]>
+
+<![endif]
+[ifgteIE9]><!
+
+<![endif]
+
+</script>
+<noscript><imgheight="1"width="1"style="display:none"
+
+DONOTMODIFY
+EndFacebookPixelCode
+
+GoogleTagManager(noscript)
+
+EndGoogleTagManager(noscript)
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+Fruits and vegetables
+
+At Frigoveneta we know well the fruit and vegetable world: we come from a highly agricultural area and the first industrial systems that we made were for the preservation of nectarines, cauliflower, apples, radishes and melons: crops that are typically found in our area.
+
+In addition to the fruit and vegetables preservation cold rooms, we are also specialized in controlled atmosphere cells for ripening fruit, cold rooms with special ventilation for small fruits.
+
+We know that system reliability, energy savings and ease of maintenance are important factors for our customers because they allow you to recover resources and competitiveness: in order to achieve these results we have implemented remote control technology and the design of the entire system.
+
+ RELIABILITY
+ thanks to systems built with care and relevant technologies 
+
+ ENERGY SAVINGS
+ thanks to the machine and system’s quality 
+
+ EASY MAINTENANCE
+ thanks to the careful design of the machine and system 
+
+ FLEXIBILITY
+ we can design cells that can preserve various products depending on the time of year or the size of orders 
+
+ TURNKEY SOLUTION
+ non solo macchine ed impianti frigoriferi: magazzino o celle chiavi in mano 
+
+ TECHNICAL ASSISTANCE
+ we’re open 7 days a week and intervene throughout all of Italy 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+15_FRIGOVENETA-IT-EN
+
+EndGoogle Tag Manager 
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Centrali e chiller 
+Centrali frigorifere a co2, ciclo transcritico
+Centrali frigorifere a co2, ciclo subcritico
+Chiller (HFC-HFO)
+Centrali frigorifere per espansione diretta (HFC+HFO)
+
+ Purtroppo la pagina che stai cercando non è stata trovata.
+ Prova a controllare il link della pagina oppure contattaci
+
+Frigoveneta - Video Aziendale
+
+
+
+16_FRIGOVENETA-IT-EN-SETTORI-CANTINE
+
+EndGoogleTagManager
+
+Impiantipercantine|FrigovenetaSPA
+
+[iflteIE8]>
+
+<![endif]
+[iflteIE8]>
+
+<![endif]
+[ifgteIE9]><!
+
+<![endif]
+
+</script>
+<noscript><imgheight="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+DOC results with Frigoveneta!
+
+Complete and efficient systems that deliver an optimum result in all phases for wine-making systems: tube in tube exchangers for the rapid reduction of must, high efficiency chillers to monitor the temperature of the vats in the fermentation phase and in subsequent phases.
+
+Tartaric stabilization and heating circuit.
+
+The pumping stations are equipped with an ec motor or inverter pumps, so as to ensure our customers have reduced energy consumption.
+
+The entire system can be easily managed thanks to the specific software and all parameters are customizable based on the specific needs of each wine cellar and relevant procedures.
+
+Telegest enables remote control of the system via trained Frigoveneta technicians, thus guaranteeing the proper functioning process.
+
+ RELIABILITY
+ 35 years of experience in industrial refrigeration 
+
+ QUALITY
+ Guaranteed certification issued by CSQ-IQNET and Bureau Veritas 
+
+ ENERGY SAVINGS
+ thanks to an ec motor and inverter technology 
+
+ REMOTE CONTROL
+ thanks to Telegest the system is always connected to the Remote Monitoring Center 
+
+ TECHNICAL ASSISTANCE
+ a direct line with the technicians and remote or on-site maintenance 
+
+ CUSTOMIZATION
+ of all the operating parameters and system management 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+17_FRIGOVENETA-IT-EN-SETTORI-CENTRI-DISTRIBUTIVI
+
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+<![endif]
+[iflteIE8]>
+
+<![endif]
+[ifgteIE9]><!
+
+<![endif]
+
+</script>
+<noscript><imgheight="1"width="1"style="display:none"
+
+DONOTMODIFY
+EndFacebookPixelCode
+
+GoogleTagManager(noscript)
+
+EndGoogleTagManager(noscript)
+
+<ulclass="social-icons">
+<liclass="facebook"><ahref="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/"target="_blank"title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+Distribution center
+
+The need to store large quantities of perishable products in view of shipments, must strictly comply with the correct storage temperatures and respect cold chain conditions.
+
+No margin of error is provided for these structures, and this is why our design allows for special handling, loading and temperature conditions.
+
+The Telegest system ensures constant contact with the Remote Control Center and, if needed, on-site intervention is immediate throughout all of Italy thanks to the wide network of selected and trained collaborators.
+
+ RELIABILITY
+ macchine ed impianti frigoriferi progettati per garantire un corretto ed efficiente funzionamento 
+
+ COMFORT
+ the design of the system takes into account the handling needs and operational comfort 
+
+ ENERGY SAVINGS
+ thanks to the machine and system’s quality 
+
+ TECHNICAL ASSISTANCE
+ non-stop link with the Remote Management Center and timely maintenance throughout Italy 
+
+ TURNKEY SOLUTION
+ Frigoveneta can supply a warehouse, complete with panels, doors, lighting and loading docks 
+
+ DATA RECORDING
+ all the operating parameters are recorded and are always available 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+18_FRIGOVENETA-IT-EN-EFFICIENZA-ENERGETICA-UNIGE
+
+EndGoogle Tag Manager 
+
+ - Gestione utenze energetiche | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+ENERGY EFFICIENCY / Unigest
+
+Unigest
+
+ ENERGY SAVINGS
+ optimizes the functioning of all the energy consuming utilities at the retail store 
+
+ COST SAVINGS
+ lower gas consumption, maintenance and managementexpenses 
+
+ EASY MANAGEMENT
+ thanks to a single platform and a single interlocutor to manage all the systems 
+
+ USABILITY
+ a simple, intuitiveand customizable system 
+
+ MONITORING AND COMPARISON
+ uses the data to create tables and comparison reports for the various sales points 
+
+ PLANNING
+ uses the data to create expenditure forecasts or identify areas that need to be analyzed 
+
+ SECURITY
+ the data is saved in dedicated servers 
+
+ HIGH RELIABILITY
+ the guarantee ofFrigoveneta’s experience at your service 
+
+The Unigest interface, which is simple and functional, allows you to manage and monitor in real time all energy consumption at the retail store.
+
+Each utility is intelligently managed, on the basis of the recorded consumption data and customized parameters.
+
+This system ensures maximum efficiency and reduces fuel consumption, maintenance costs and management time.
+
+The system allows for the complete management of the lighting costs of retail stores such as:
+
+interior lighting divided into 2/3 delayed lighting and synchronization with the opening hours of the retail stores
+exterior lighting of the parking lot and signs adjustable via time bands and light sensors
+control of load bank lights with separate switches for the loading of goods phases and 100% lighting during opening hours
+ability to adjust the brightness of the sales points depending on the external brightness
+
+Air-conditioning and heating management of the retail store
+
+The heating, cooling and ventilation are activated based on customized time slots (opening and closing hours), eliminating all timers, thermostats and the need for manual intervention.
+
+The set point temperature is set depending on the season, time of day, and the correlation between the store’s temperature-humidity, bothexternally and internally. The reintegration of external air is optimized through motorized dampers, depending on the flow of customersdata and on the amount of CO2 present.
+
+Temperature regulation at the retail store can be divided into several zones, with independent set points and with inverter control of the fan speed.
+
+Monitoring and accounting for electricity consumption
+
+The system provides for the installation of electrical quantity measuring devices, including the energy consumed (kWh). All data from all the instruments installed is stored and managed from the local supervision PC.
+
+You can, among other things:
+
+view all the electrical quantities via a chart, zooming in on both the scale of values and time
+store all the values and view them by selecting a time interval (daily, weekly, monthly, etc.)
+locate any usage/abnormal consumption and consequential energy waste on each utility
+verify the correct sizing of transformers and thermal protection, through the analysis of additional information (voltage, current, power factor etc.)
+manage automatically and with a predefined order, the eventual release of loads so as to attain a threshold reset
+
+ Monitoring and accounting for water and gas/methane
+
+The system can acquire data from pulse output meters for:
+
+water from mains water
+hot water
+natural gas for heating
+
+In case of excessive consumption or excessive peaks, an alarm signal is activated. Hidden leaks or misuse of resources can be discovered via the use of graphics 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+19_FRIGOVENETA-IT-EN-SETTORI-SUPERMERCATI
+
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+<![endif]
+[iflteIE8]>
+
+<![endif]
+[ifgteIE9]><!
+
+<![endif]
+
+</script>
+<noscript><imgheight="1"width="1"style="display:none"
+
+DONOTMODIFY
+EndFacebookPixelCode
+
+GoogleTagManager(noscript)
+
+EndGoogleTagManager(noscript)
+
+<ulclass="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+Supermarkets
+
+You can be sure, it’s Frigoveneta
+
+We’ve developed a range of compact, quiet and efficient machines for the large retail field.
+
+With the entry into force of European Regulation 517/2014, the range has been enriched by the new CO2 machines.
+
+The wide range of machines satisfies every requirement both for refrigeration and heating/cooling of the retail stores.
+
+The system’s design is aimed at production and maintenance simplicity, as well as effective management. This all translates into reliability and functioning efficiency.
+
+In addition to theTelegest system, the latestFrigoveneta creations for the large retail sector are the Unigest system (integrated management for energy-intensive users) and the Unicalor system (heat condensation recovery).
+
+The achievable energy savings are certain and measurable.
+
+ INTEGRATED MANAGEMENT OF UTILITIES
+ thanks to the Unigest integrated management system for the lighting, air conditioning and domestic hot water with parameters customization and consumption measurement 
+
+ HEAT RECOVERY
+ thanks to Unicalor system, condensation heat recovery to heat the sales pointand providehot water without installing a boiler, or using the natural gas network. 
+
+ REMOTELY CONTROLLED
+ grazie al sistema Telegest, semplice gestione degli impianti frigoriferi e collegamento al Centro di Telecontrollo 
+
+ TECHNICAL ASSISTANCE
+ remote support 24/7 and timely maintenance throughout Italy thanks to the network of selected and trained collaborators 
+
+ ENERGY SAVINGS
+ grazie ai sistemi unigest, unicalor e all’efficienza degli impianti frigoriferi 
+ wow fadeInDown 
+ ENVIRONMENTALLY FRIENDLY
+ thanks to the new range of CO2 machines 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+20_FRIGOVENETA-IT-EN-EFFICIENZA-ENERGETICA-WEBGE
+
+EndGoogle Tag Manager 
+
+ - I servizi Frigoveneta da qualsiasi dispositivo| Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+WebGest
+
+Frigoveneta services from any device
+
+Download the app now, is available on APP STORE and GOOGLE PLAY
+
+WebGest allows you to view and manage your refrigeration and building automation systems
+
+What are the available options?
+
+Monitor and manage the system directly from your smartphone and any connected device
+
+Receive automatic emails and push notifications of alarms
+
+You can archive and have the HACCP reports always available
+
+Track and check the consumption of your system
+
+Consult the history of the modified variables of your system
+
+Status and alarm history control database
+
+Download the app now is available on APP STORE and GOOGLE PLAY
+
+ </div>
+
+ Bottom image 
+ <section class="section section-default section-center section-telegest">
+ <img alt="Frigoveneta - Telegest" class="" style="width: 100%; padding: 0;" src="/web/uploads/pagine/telegest_bottom_en.png" /></section> 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+21_FRIGOVENETA-IT-EN-CENTRALIECHILLER-CHILLER-HFC-HFO
+
+EndGoogleTagManager
+
+INDIRECT-EXPANSIONMACHINES| Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+Home
+Refrigerating units and chillers
+
+Frigoveneta chillers of the Weco range are designed for indirect-expansion systems and are equipped with evaporator heat exchangers in both the tube bundle and plate versions. All the components are appropriately sized to ensure maximum energy performances (pumps with high-efficiency EC motors, request-based flow rate modulation, heat exchangers sized with low ΔT) and the refrigerant charge is considerably reduced (in many cases lower than 35 kg). The high efficiency and durability of Frigoveneta chillers stem from premium-quality components and proper sizing based on the requested cooling power. 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+22_FRIGOVENETA-IT-EN-LAVORA-CON-NOI
+
+EndGoogleTagManager
+
+Lavoraconnoi|FrigovenetaSPA
+
+[iflte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+Contacts
+
+ Google Maps - Go to the bottom of the page to change settings and map location. 
+
+Congratulazioni! Il tuo messaggio è stato spedito. 
+
+Work with us
+
+Date of birth *
+
+Curriculum (PDF, JPEG, Word, max 5MB) *
+
+ I have read the privacy policy 
+
+ Via Caduti del Lavoro, 5 - 37049 Villa Bartolomea (Vr)
+
+Frigoveneta - Video Aziendale
+
+
+
+23_FRIGOVENETA-IT-EN-SETTORI-SURGELATI
+
+EndGoogleTagManager
+
+Impiantifrigoriferipersurgelati|FrigovenetaSPA
+
+[iflteIE8]>
+
+<![endif]
+[iflteIE8]>
+
+<![endif]
+[ifgteIE9]><!
+
+<![endif]
+
+</script>
+<noscript><imgheight="1"width="1"style="display:none"
+
+DONOTMODIFY
+EndFacebookPixelCode
+
+GoogleTagManager(noscript)
+
+EndGoogleTagManager(noscript)
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+Cold that is constant, measurable and safe
+
+We, at Frigoveneta, have developed specific solutions for storing frozen products: a dual system to avoid the risks of cooling stoppage, electronic valves, electronic fans and inverter engines to reduce energy consumption, in addition to setting time bands in order to take advantage of lower energy prices.
+
+We can also provide the design and delivery of a warehouse turnkey solution (panels, insulation, doors, lights, loading platforms), with the advantage of having a single contact point and a result that’s in line with the needs of each client.
+
+The smooth functioning of each system is guaranteed by the Telegest system, which enables a direct link to the Remote MonitoringCenter, while the Unigest system energy consumption data is always at hand.
+
+ GUARANTEED COOLING
+ thanks to the dual system there’s no risk of cooling stoppage. 
+
+ ENERGY SAVINGS
+ thanks to electronic valves, the efficiency of the machines and the Telegest system 
+
+ REMOTELY CONTROLLED
+ the system is constantly monitored by our technicians thanks to the Telegest system 
+
+ TURNKEY SOLUTION
+ Frigoveneta can supply a warehouse, complete with panels, doors, lighting and loading docks 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+24_FRIGOVENETA-IT-EN
+
+EndGoogleTagManager
+
+Centralifrigorifere e refrigerazione industriale | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+<ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-75642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+ Il tuo browser non supporta il tag video.
+
+ <div class="hidden-lg"> 
+ <a href="https://www.macfrut.com/c/101/ticket_online" target="_blank" rel="noopener">
+ <div class="container-fluid" style="padding-right:0px; padding-left:0px;">
+ <img style="border-bottom: 1px solid #DBDBDB;" class="img-responsive img-fluid" src="/web/images/homepage/banner-fiera-macfrut-FV.jpg" alt="Banner fiera 2022">
+
+ </div> 
+ <div class="visible-lg"> 
+ <a href="https://www.macfrut.com/c/101/ticket_online" target="_blank" rel="noopener">
+ <div class="container-fluid" style="padding-right:0px; padding-left:0px;">
+ <img style="border-bottom: 1px solid #DBDBDB;" class="img-responsive img-fluid" src="/web/images/homepage/banner-fiera-macfrut-FV.jpg" alt="Banner fiera 2022">
+
+ </div> 
+ <div class="container" style="padding-top: 80px;">
+
+ <div class="col-sm-12" style="text-align: center;">
+ <a href="https://www.tuttofood.it" target="_blank">
+ <img src="/web/images/homepage/tuttofood_banner_728x90px+ICE_ITA.gif" alt="Banner TuttoFood">
+
+ <a href="https://www.tuttofood.it/en/" target="_blank">
+ <img src="/web/images/homepage/tuttofood_banner_728x90px+ICE_ENG.gif" alt="Banner TuttoFood">
+
+Cooling equipment for all sectors
+
+Our company has been specialised in the design and manufacture of industrial-refrigeration systems, cooling equipment, conditioning systems and innovative energy-efficiency solutions since 1980. The immense sector-specific expertise acquired over the years enables us to provide our customers with outperforming products specially developed to meet their requirements.
+
+ <div class="container-fluid webgest-cont" style="padding-left: 0; padding-right: 0;">
+
+ <picture class="img-responsive">
+ <source type="image/jpeg" srcset="/web/images/webgest-banner_homepage-2500x400-ENG.jpg" media="(min-width: 1921px)">
+ <source type="image/jpeg" srcset="/web/images/webgest-banner_homepage-1920x400-ENG.jpg" media="(min-width: 768px)">
+ <source type="image/jpeg" srcset="/web/images/webgest-banner_homepage-600x900-ENG.png" media="(max-width: 767px)">
+ <img class="img-responsive" src="/web/images/webgest-banner_homepage-1920x400-ENG.jpg" alt="Banner TeleGest Industry 4.0 Ready">
+
+ <div class="container-fluid padding-tb-80 who-home" style="background-color: #0096e0;">
+
+ <div class="col-sm-12">
+ <div class="heading heading-border heading-middle-border heading-middle-border-center">
+ <h1 style="color: #ffffff !important; background: #0096e0 !important;"><strong></strong></h1>
+
+ <div class="button-wrap">
+ <a href="" class="rev_slider_approfondisci gatc cta-btn"></a>
+
+ <div class="row">
+
+ <h4 class="mb-none">Default Section</h4>
+ <p class="mb-none">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eros ipsum, facilisis eget scelerisque non, fermentum at tellus.</p> 
+
+Exclusive interview with Frigoveneta
+
+What does FRIGOVENETA do and what are the challenges for the future? 
+
+30
+
+Fruit Logistica-Berlin - Looking forward to meet you!
+
+From 5th to 7th February let's meet in Berlin, at Fruit Logistica Fair! 
+
+Unicomm saves energy and costs with the new Solstice Ze refrigeration units of Frigoveneta
+
+Frigoveneta SPA installed new HFO-based refrigeration units at four new Famila and Mega brand stores owned by the Unicomm srl group. 
+
+11
+
+Let's meet in Madrid - Fruit Attraction
+
+The tenth edition of the Fruit Attraction fair is coming: from 23rd to 25th October you can find us in Madrid! 
+
+ to the newsletter
+
+Subscribe
+
+ <section class="parallax section section-text-light section-parallax mt-none mb-none" data-stellar-background-ratio="0.5" style="background-image: url(file:///Volumes/LAVORI/LAVORI%20DIVISI%20PER%20CLIENTI/FRIGOVENETA/0209_15_frigoveneta_sito/themeforest-4106987-porto-responsive-html5-template/HTML/img/parallax-image.jpg); background-position: 0% -136px;"> 
+
+Frigoveneta - Video Aziendale
+
+
+
+25_FRIGOVENETA-IT-EN-SERVICE
+
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript> height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SERVICE Over 4000 times safe, h24/h24
+
+Service
+
+Customized technical assistance contracts
+
+Interventions throughout Italy and abroad
+
+RELIABILITY AND PROFESSIONALISM 24h/day
+
+We know that a refrigeration system or a mechanical system represents an investment and an important tool at the service of the business of our customers: that’s why the mission of Frigoveneta Service is to maintain each system in conditions of maximum efficiency as long as possible, and also to set up the operating parameters so as to ensure the lowest energy consumption in each season. Our clients operate in a wide variety of sectors: supermarkets and mass retailing, distribution centers, fruit and vegetables industry, frozen food industry, food industry, pharmaceutical industry, wineries. These results are possible due to the TeleGest system, which enables constant monitoring by Frigoveneta Service's internal engineers, each specializing in a specific area: mechanical, electrical, electronics, computer science. In addition to the core made up of the Engineers of the Remote Monitoring Centre, Frigoveneta Service avails of an internal team of refrigeration specialists, as well as carefully selected collaborators trained throughout Italy and abroad: in this way, both online and on-site service operations are always prompt and professional, 24h/day, all year round. Frigoveneta Service and all engineers are certified in accordance with Regulation (EC) 303/2008, P. Decree no. 43 of January 27, 2012 and the Technical Regulations Accredia-RT29.
+
+The follow-up of an installation requires specialised experts and should be organised according to the different needs and the business of the customer. Regardless of the type, the "agreement" formula allows each customer to know in advance the budget to be allocated to technical assistance and maintenance, as well as having a technical partner for every need. Thanks to the dedicated email and direct telephone number, each customer can contact the engineers according to a priority criteria. 
+
+For those who want to carry out specialised follow-up using the remote monitoring system,
+ but intend to entrust on-site service to engineers of their choice or have an internal service specialist.
+ You can also entrust bureaucratic and regulatory obligations to Frigoveneta Service.
+
+DIRECT TELEPHONE SUPPORT 24/7
+
+In addition to the follow-up via remote monitoring, it includes scheduled maintenance
+ procedures and leak tests required by law as well as the compilation of equipment record.
+
+EXTRA BENEFITS COMPARED TO ONLINE OPTION
+
+CHECK OF REFRIGERANT LEAKS
+
+COMPILATION OF EQUIPMENT RECORD
+
+In addition to what is provided for in the plus online agreement, it includes service
+ in the event of failure. This solution allows you to reduce the incidence of failure,
+ operate keeping an eye on prevention and always have the best system setup to reduce
+ energy consumption. Controlling the entire maintenance of the equipment allows our
+ engineers to promptly identify any structural problems or repetitive problems and
+ to refer to the customer the different technical solutions available.
+
+EXTRA BENEFITS COMPARED TO ONLINE PLUS OPTION
+
+A SINGLE CONTACT ENGINEER FOR ASSISTANCE
+
+PREVENTION AND REDUCTION OF FAILURES
+
+compilation and transmission of yearly F-gas statement: a service particularly appreciated because
+ compliance with regulations is characterised by a bureaucratic and technical component that can
+
+thanks to the security USB flash drive issued by Frigoveneta you can access the local PCs and the
+ Database from any PC connected to internet. Each customer may request a USB flash drive to connect
+
+provides access to the data recorded by the Telegest system relating to your system
+ and allows you to create statistical reports, custom reports or graphs
+
+send automatic alert/ warning email, with custom filters and settings according to customer or service engineer requirements
+
+ <img class="img-responsive" title="Qualcosa" alt="Qualcosa" style="margin-bottom: 20px; margin-top: 20px" srcset="http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=600&h=165 600w, http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=800&h=220 800w, http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=1200&h=330 1200w, http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=1800&h=495 1800w, http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=2400&h=660 2400w" sizes="(min-width: 320px) 100vw" src="http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=2400&h=660" /> 
+
+Are you interested in our solutions?
+
+<img
+
+ alt="Qualcosa"
+ style="margin-bottom: 20px; margin-top: 20px"
+
+ //localhost:3000/web/thumb?src=/images/service/telegest-schema.jpg&amp;w=600&amp;h=165 600w"
+ sizes="(min-width: 1200px) 100vw, 2400px"
+
+Frigoveneta - Video Aziendale
+
+
+
+26_FRIGOVENETA-IT-EN-SOLUZIONI-IMPIANTISTICHE
+
+EndGoogleTag Manager 
+
+Soluzioni impiantistiche | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+Refrigeration and Air-conditioning in one single solution
+
+Frigoveneta’s system solutions leverage extremely advanced technology for refrigeration and air-conditioning to the advantage of large-scale-retail outlets. Thanks to UniSystem, cold-storage systems for foodstuffs, climate control and domotics can be effortlessly managed thanks to seamless integration with the TeleGest, Unigest and UniCalor systems.
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+27_FRIGOVENETA-IT-EN-EFFICIENZA-ENERGETICA-UNICALOR
+
+EndGoogle Tag Manager 
+
+ - Sistema di recupero calore | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+ENERGY EFFICIENCY / Unicalor
+
+Unicalor
+
+ COST SAVINGS
+ It reduces the sales points heating costs by over 60% 
+
+ FREE FROM USING NATURAL GAS
+ Eliminates the need to the use the natural gas network and the purchase of a boiler 
+
+ A COMPLETE SYSTEM
+ It provides heating, air conditioning, domestic hot water 
+
+ A SIMPLE SYSTEM
+ Thanks to its intuitive PC interface and readily available data 
+
+ HIGH DEPENDABILITY
+ Frigoveneta’s experience and the Remote Management Center technicians at your service 
+ wow fadeInDown 
+ EVERYTHING UNDER CONTROL
+ It sends alarm signals in case of problems or anomalies 
+
+The UNICALOR recovery system reutilizes the condensation heat of the refrigerating system, which is normally dispersed, to heat and provide hot water for the retail store. Furthermore it guarantees air-conditioned during the summer.
+
+Unicalor is an exclusive simple system for cold food processing, air conditioning, heating and hot water supply, without the need to access the methane network or the use of a boiler.
+
+FRIGOVENETA UniCalorSYSTEM
+DIRECT EXPANSION RECOVERY SYSTEM 
+
+The TN, BT refrigeration units and the heat pump are separate and independent
+A single unit with proprietary control, customized for each installation.
+
+The TN and BT refrigerant lines are separated and made with standard components and methodology. The air-conditioning system is a classic hydraulic circuit. In the event of loss of coolant it will be limited only to the TN or BT circuit.
+A single distribution network for TN, BT and air-conditioning. A loss of coolant, even in the air conditioning circuit, will jeopardize the entire functioning of the TN, BT and Air-conditioning refrigeration system.
+
+Regulating the units and the refrigeration utilities is standard and the air conditioning regulating does not affect the functioning of the units.
+Regulating is centralized and a breakdown in the microprocessor card or to a system’s component can jeopardize the functioning of the entire system.
+
+Unicalor: technology that frees you from using natural gas
+
+The UNICALOR system, entirely designed and built by Frigoveneta, was created to respond,in a simple and innovative manner, to the needs of heating and air conditioning retail stores of all sizes.
+
+Thanks to UNICALOR there is no longer a need to use natural gas or purchase, install and maintain a boiler: Frigoveneta becomes the sole partner of reference for the integrated management of the cold food processing and heating/air conditioning spaces. UNICALOR also provides domestic hot water with customizable temperature.
+
+The entire system is managed through a PC interface which, thanks to the customized parameters, eliminates the need for manual intervention. All of the utilities operating data is immediately available in dedicated servers.
+
+UNICALOR is managed via a simple and intuitive computer interface. In addition to managing the functioning of the various utilities, UNICALOR also regulates the fan speed and the intensity of the air exchange depending on the conditions present in the retail stores (number of people, temperature, CO2 concentration): in this way the current regulations are always met and comfort is guaranteed for those inside the sales points.
+
+The UNICALOR functions integrate seamlessly with the Unigest system, which record the utilities consumption and optimizes their functioning.
+
+UNIGEST, in fact, is the Frigoveneta system for integrated management of the retail stores.
+
+Storing the technical assistance data
+
+All data collected by UNICALOR is stored in special dedicated servers, where it is always availablefor graphs, comparisons and expenditure forecasts. In case of functioning or consumption anomaliesthe system generates alarm messages, which are transmitted to the remote management center: the center technicians can carry out on-line maintenance or on-site maintenance agreed with the customer. The Remote Management Center also monitors the proper functioning and efficiency of the UNICALOR system on a daily basis.
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+28_FRIGOVENETA-IT-EN-AZIENDA
+
+EndGoogleTagManager
+
+FrigovenetaSPA|Impianti frigoriferi industriali dal 1980
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+COMPANY An Italian success
+
+ Frigoveneta was founded in 1980 in Villa Bartolomea (Verona), initially for commercial installations, and then moved to the industrial refrigeration and Mass Retail Channels (MRC) sectors. 
+
+ In 1998 its legal definition changed and Frigoveneta become a Limited Liability Company and in 2000 it moved to its new production and administrative headquarters, still located in Villa Bartolomea.
+In 2002, the constant pursuit of high production and management standards enabled it to obtain the UNI EN ISO 9001: 2000 quality certification.
+In 2004 Frigoveneta became a Joint Stock Company and in 2005 Frigoveneta Service srl was established: a company specializing in after sales technical support.
+In 2013 Frigoveneta spa decided to share its technical expertise and experience and was recognized by Bureau Veritas as Assessment Body, via Regulation CE303 / 2008 andPresidential Decree No. 43 dated 27/01/2012. As a result, courses and exams for obtaining the "Refrigerator Technician License" are held at the company’s main offices.
+The growth of Frigoveneta continues: in 2008 the first expansion of its new production headquarters took place, followed by a second extension in 2015, bringing the company's total area to 63,000 square meters, of which 15,000 are covered. 
+
+Frigoveneta - Video Aziendale
+
+
+
+29_FRIGOVENETA-IT-EN-CENTRALIECHILLER-CENTRALI-FRIGORIFERE-A-CO2-CICLO-TRANSCRITICO
+
+EndGoogleTagManager
+
+MACHINESWITHNON-GREENHOUSENATURALFLUIDS | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+MACHINES WITH NON-GREENHOUSE NATURAL FLUIDSContinuous innovation
+
+Home
+Refrigerating units and chillers
+
+In FULLCO2 machines for transcritical-cycle systems (booster), the CO2 exchanges heat with the outside air and is thus forced to work above the critical point for most of the year (especially in hot climates). The main advantage in this case is that of having a system running entirely on CO2, a readily available “natural” gas that does not harm the environment. These machine guarantee zero greenhouse gas emissions. Frigoveneta technology applied to the FULLCO2 range guarantees the utmost operating safety combined with high energy performances. 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+30_FRIGOVENETA-IT-EN-COLLABORA-CON-NOI
+
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+Contacts
+Collaborate with us
+
+Congratulazioni! Il tuo messaggio è stato spedito. 
+
+Errore! C'è stato un errore durante l'invio del tuo messaggio. 
+
+Collaborate with us
+
+NAME AND SURNAME HOLDER / REFERENT *
+
+CITY / GEOGRAPHICAL AREA IN WHICH YOU OPERATE *
+
+WHICH CUSTOMERS / COMPANIES DO YOU WORK FOR?
+
+WHAT KIND OF BUSINESS DO YOU DO? *
+
+GENERAL COMPANY DESCRIPTION / USEFUL INFO
+
+ I have read the privacy policy 
+
+ Via Caduti del Lavoro, 5 - 37049 Villa Bartolomea (Vr)
+
+Frigoveneta - Video Aziendale
+
+
+
+31_FRIGOVENETA-IT-EN-EFFICIENZA-ENERGETICA
+
+EndGoogleTagManager
+
+, e | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+Telegest, Unigest and Unicalor are Frigoveneta’s innovative solutions for managing cooling equipment and obtaining energy savings. Frigoveneta’s innovative systems were designed to monitor, control and manage refrigeration and conditioning equipment in order to optimise the usage of all machinery involved and ensure high performance levels as well as lower energy consumption.
+
+Telegest
+
+Unicalor
+
+Unigest
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale
+
+
+
+32_FRIGOVENETA-IT-EN-EN
+
+EndGoogle Tag Manager 
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Centrali e chiller 
+Centrali frigorifere a co2, ciclo transcritico
+Centrali frigorifere a co2, ciclo subcritico
+Chiller (HFC-HFO)
+Centrali frigorifere per espansione diretta (HFC+HFO)
+
+ Purtroppo la pagina che stai cercando non è stata trovata.
+ Prova a controllare il link della pagina oppure contattaci
+
+Frigoveneta - Video Aziendale
+

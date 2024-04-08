@@ -1,0 +1,67 @@
+|NIL
+
+MetalensPrototyping
+OpticalDesign&Testing
+
+OpticalElements&Components
+
+ISO9001Certification
+CorporateSocialResponsibility(CSR)
+
+MetalensPrototyping
+OpticalDesign & Testing
+
+Micro and Nanostructuring
+
+Optical Elements & Components
+
+Technology
+
+ISO 9001 Certification
+Corporate Social Responsibility (CSR)
+
+Close this search box.
+
+Micro and nano replication technologies are the cornerstones of NIL Technology
+
+The starting point for micro and nanostructuring is a master with the desired surface relief structures. The structures on the master are defined by electron beam lithography and dry etching. Both are technologies that we have years of experience in, and that we have the needed advanced equipment and processes to offer a wide selection of different types of surface relief gratings.
+
+We have access to a number of different lithography technologies for mastering and prototyping
+
+Our core competences are within nanoimprint lithography, and electron beam lithography, but we are also experienced within  deep UV lithography, laser writing and UV contact lithography.  
+
+Electron beam lithography, often referred to as e-beam lithography or EBL, is a versatile tool capable of making almost any kind of pattern imaginable within nanotechnology and with very small lateral dimensions.
+
+We work primarily on Jeol JBX9500FSZ and Raith EBPG5200 systems.
+
+NIL masters are most often patterned by electron beam lithography, in combination with a variety of pre- and post-processing as required.
+
+Deep UV Lithography (DUV)
+
+Deep UV lithography (in short DUV lithography) is an optical projection type lithography technique where the pattern on a reticle/mask is projected to the wafer surface through a 4X or 5X optical system. The wavelengths used for DUV lithography are 248 nm or 193 nm. DUV lithography is a high-speed lithographic technology suitable for large area masters of discrete components.
+
+We work on two 248 nm DUV tools. The minimum achievable lateral dimensions with these tools are 200-250 nm.
+
+Nanoimprint lithography is a contact technology where a surface relief pattern is transferred from a mold onto polymer material on a hard substrate. Subsequently, the residual layer is removed and the resulting polymer material is used as a mask for pattern transfer into the substrate.
+
+NILT works primarily with thermal and UV NIL Technologies.
+
+Replication is a proven high-volume manufacturing method for nanostructured components
+
+Replication is the most used method in the production of next generation optical components from NILT’s advanced optical masters. This class of elements is also referred to as wafer level optics (WLO).
+
+Replication is done with UV curable material or thermo plastic material. The advantage of UV curable materials is that they are reflow compatible and thereby most suitable for integration into modules with light sources, sensors, and other electronic components. Furthermore, UV curable materials allow for faster cycle times than thermo plastic materials.
+
+Get in touch with us
+
+...and we'll get back to you as soon as possible.
+
+ First Name Last Name Company Phone Email 
+
+© NIL TECHNOLOGY – 2024
+
+ +45 3111 1797 [email protected] 
+
+[if IE]><script src="//www.nilt.com/wp-content/cache/wpfc-minified/2e4grvm7/e71w4.js" id="astra-flexibility-js"></script><![endif]
+
+ WP Fastest Cache file was created in 2.2096631526947 seconds, on 13-03-24 19:53:05

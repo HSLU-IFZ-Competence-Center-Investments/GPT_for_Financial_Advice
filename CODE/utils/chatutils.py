@@ -1,7 +1,7 @@
 # Author: Ahmet Ege Yilmaz
 # Year: 2024
 
-import openai,pickle,time,os
+import openai,pickle,time,os,json,datetime
 import numpy as np
 import pandas as pd
 from typing import Optional
@@ -215,6 +215,19 @@ class AssistantSession(ChatSession):
         if verbose:
             self.__call__(1)
     
+    def save(self, company_foldername):
+        current_time = datetime.datetime.now()
+        formatted_time = current_time.strftime("%Y%m%d_%H%M%S")
+        file_name = f"chat_{formatted_time}.txt"
+        folder_path = f"output/{company_foldername}"
+        os.makedirs(folder_path, exist_ok=True)
+
+        with open(os.path.join(folder_path, file_name), 'w', encoding='utf-8') as file:
+            for exchange in self.history:
+                for role, message in exchange.items():
+                    file.write(f"{role}: {message}\n")
+                file.write("\n")
+
     def __get_input(self,user_input):
         if user_input is None:
             user_input = input("> ")

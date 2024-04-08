@@ -2,7 +2,7 @@ from utils.chatutils import AssistantSession
 from utils.datamanager import get_companyfilepaths
 
 
-company_foldernames = ["sulzerschmid.ch", "swissto12.com", "tado.com", "vacuumschmelze.com", "varjo.com"] # folders expected at DATA/CRAWLER which contain all the files for each company
+company_foldernames = ["cycle0.com", "sulzerschmid.ch", "swissto12.com", "tado.com", "vacuumschmelze.com", "varjo.com"] # folders expected at DATA/CRAWLER which contain all the files for each company
 
 # ALL COMPANIES:
 # "anticimex.com", "anybotics.com", "beekeeper.io", "bloomfreshglobal.com", "cfp.energy", "cycle0.com", "distran.swiss",\

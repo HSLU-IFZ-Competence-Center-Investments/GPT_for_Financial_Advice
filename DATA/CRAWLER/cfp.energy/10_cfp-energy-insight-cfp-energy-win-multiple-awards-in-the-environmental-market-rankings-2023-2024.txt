@@ -1,0 +1,127 @@
+CFPEnergywinmultipleawardsintheEnvironmentalMarketRankings2023-2024|CFPEnergy
+
+Themejavascriptstarts
+ Theme java script end 
+
+ End Google Tag Manager 
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <span class="open_mobileviews tel2" onclick="openNav()"><i class="fa fa-user"><i> <i class="fa fa-times"></i></span>
+
+ <div class="iconbox">
+ <span class="open_mobileview_cust tel2" onclick="openNav_cust()"><i class="fa fa-user"></i></span>
+
+ <div class="iconbox ProductSearch">
+ <span data-toggle="modal" data-target="#myModalProducts"><i class="fa fa-search"></i></span>
+
+ <div class="iconbox">
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal"></button>
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+CFP Energy win multiple awards in the Environmental Market Rankings 2023-2024
+
+/
+
+/
+CFP Energy win multiple awards in the Environmental Market Rankings 2023-2024
+
+UK ETS
+ <li><a href="#" class="cta cta-default all-caps contact-trigger">COP28</a></li>
+ <li><a href="#" class="cta cta-default all-caps contact-trigger">VCM</a></li> 
+
+CFP Energy win multiple awards in the Environmental Market Rankings 2023-2024
+
+Following a successful year, CFP Energy is delighted to have been voted a winner in the Environmental Finance Environmental Market Rankings 2023-2024. CFP Energy were voted as winners in two awards, and runner-up in a further two. 	
+
+Following a successful year, CFP Energy is delighted to have been voted a winner in the Environmental Finance Environmental Market Rankings 2023-2024. The rankings acknowledge CFP Energy's outstanding contributions and expertise in carbon markets and emissions trading, solidifying their position as industry leaders.
+
+CFP Energy were voted as winners in the following awards: 
+
+UK Trading System: Best Trading Company, OTC/Spot
+EU Emissions Trading System: Best Trading Company, Options & Futures
+
+Additionally, CFP Energy earned recognition as a runner-up in the following categories: 
+
+EU Emissions Trading System: Best Trading Company, OTC/Spot
+Energy Attribute Certificates - Europe: Best Trading Company
+
+These awards are particularly pleasing given the rankings are based on client votes. We hope this underscores CFP Energy's efforts to provide clients with market leading solutions to manage compliance in carbon markets, particularly in the and EU ETS.
+
+The rankings come amid a period of lower allowance prices and bearish fundamentals in the short term but companies should prepare for the challenges ahead in both the UK and EU ETS.
+
+Tim Atkinson, Director of Carbon Sales and Structuring at CFP Energy, remarked, "Given future price forecasts expect allowance prices to be back over €100/£100 per CO2e by 2027, our view is that ETS operators face a choice on whether to decarbonise over the next 5 years, budget for higher carbon prices or use the current market to lock in compliance costs now whilst allowance prices are at favourable levels.”
+
+With ETS targets set to tighten by 2030 and beyond, CFP Energy look forward to working with our customers to develop effective risk management strategies for carbon markets.
+
+If you would like to find out more about our award-winning services, and how we can work together, please don’t hesitate to get in touch.
+
+ Emissions Economics: Understanding the Financial... 
+
+ From regulatory compliance to ESG initiatives, the financial impact of the evolving energy landscape on your business is important. The balancing act between doing what's right for the future of your business, your clients, and our planet is not a simple decision, but an important one to get right. 	 
+
+ Why is Article 6 so relevant to the from a... 
+
+With Article 6 developments set to drastically affect views on quality and integrity in the VCM, now more than ever it is essential to gain an understanding of what exactly Article 6 is, how the VCM is involved, and why it is so important. 	 
+
+ Significant changes to Free Allocation will... 
+
+On 30th January the EU Commission adopted the most recent draft of the delegated act amending the free allocation regulation to the EU ETS.	
+
+The regulation will adjust free allocations from this year.
+
+UK ETS 
+
+EU ETS 
+
+Emissions 
+
+VCM 
+
+ Emissions Economics: Understanding the Financial... 
+
+ From regulatory compliance to ESG initiatives, the financial impact of the evolving energy landscape on your business is important. The balancing act between doing what's right for the future of your business, your clients, and our planet is not a simple decision, but an important one to get right. 	 
+
+ Why is Article 6 so relevant to the VCM from a... 
+
+ With Article 6 developments set to drastically affect views on quality and integrity in the VCM, now more than ever it is essential to gain an understanding of what exactly Article 6 is, how the VCM is involved, and why it is so important. 	 
+
+ Significant changes to EU ETS Free Allocation will... 
+
+ On 30th January the EU Commission adopted the most recent draft of the delegated act amending the free allocation regulation to the EU ETS.	
+
+The regulation will adjust free allocations from this year.
+
+ I agree to receive other communications from CFP Energy (UK) Ltd.
+
+You can unsubscribe from these communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.
+
+By clicking submit below, you consent to allow CFP Energy (UK) Ltd. to store and process the personal information submitted above to provide you the content requested.
+
+Close
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+This site uses cookies to store information about your computer.
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site may not work then.
+
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
+
+ <button type="submit" class="pix_button btn_normal pix_button_flat blue_bg bold_text" style="border:none;" name="btn_accept"> </button> 
+ Accept Recommended Settings
+
+ end footer 
+ start scroll to top

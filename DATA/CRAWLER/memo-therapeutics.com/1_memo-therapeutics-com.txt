@@ -1,0 +1,13 @@
+- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Home
+
+ABOUT MEMO THERAPEUTICS AG
+
+Memo Therapeutics AG (”MTx”) is a late-stage biotech company developing best-in-class therapeutic antibodies to transform the lives of patients with virus infections and cancer. MTx’ lead program, AntiBKV, is a highly effective and safe neutralizing antibody to treat BK virus infection in kidney transplant recipients. This infection can lead to loss of kidney function, as well as organ failure and rejection. AntiBKV has successfully completed Phase I with no safety concerns, with Phase II (POC) data expected in H1 2025. MTx’ pipeline consists of additional therapeutic antibodies focusing on infectious diseases, such as cytomegalovirus (“CMV”), undisclosed immuno-oncology targets as well as a partnership with Ono Pharmaceutical.
+
+The pipeline derives from MTx’ industry-leading throughput and functional screening capabilities, which can cover the entire antibody repertoire. Using its immortal cell libraries and unique nano droplet technology, MTx identifies and isolates the most potent antibodies based on functionality at an unprecedented rate, including discovering ultra-rare antibodies that competing technologies fail to identify.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out

@@ -1,0 +1,236 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+ for – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for / owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Get started Varjo headsets System requirements XR-4
+XR-3 and VR-3
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Setting up your headset XR-4
+XR-3
+VR-3
+Varjo Aero
+XR-1 Developer Edition
+VR-2 Pro, VR-2, and VR-1
+
+Setting up tracking Varjo inside-out tracking
+
+Varjo services Varjo Account Commercial account
+
+Varjo Reality Cloud Varjo Reality Cloud subscription
+System requirements
+
+Varjo XR and VR subscriptions Getting a seat in a subscription
+
+Get to know your headset Using the headset
+Using Varjo Controllers
+Fitting the headset XR-4
+XR-3, VR-3, and Varjo Aero
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Getting the perfect image quality
+
+Get to know Varjo Reality Cloud
+Develop for Varjo Developer support
+
+FAQ & Troubleshooting
+Downloads Release notes Release notes for Varjo Base
+Release notes for Varjo Reality Cloud for Windows
+Release notes for Varjo Reality Cloud for iOS
+
+System requirements for XR-3 and VR-3
+
+On this page you can find the system requirements for XR-3 and VR-3.
+
+System requirements with Varjo Reality Cloud
+
+These are the hardware requirements for XR-3 and VR-3 when running applications locally. Note that system requirements are lower with Varjo Reality Cloud.
+
+See below for hardware requirements when using XR-3 and VR-3 with a desktop computer.
+
+One of the following or better:
+Intel Core i9-9900K
+Intel Xeon W-2245 8-core
+ 3700X
+
+One of the following or better:
+Intel Core i7-9700k
+AMD Ryzen 7 2700X
+
+Graphics card (GPU)1
+NVIDIA GeForce RTX 4070Ti
+NVIDIA GeForce RTX 3080
+NVIDIA RTX 6000 Ada
+NVIDIA RTX A6000
+NVIDIA GeForce RTX 4070Ti
+NVIDIAGeForceRTX3070
+NVIDIA GeForce RTX 2080 Ti
+NVIDIA Quadro RTX 6000
+
+Video output
+2 x DisplayPort 1.4
+
+USB connectivity
+2 x USB-A 3.0 / 3.1
+
+1 AMD graphics cards are currently not supported.
+
+2 Storage space required to install Varjo Base.
+
+Note about laptop graphics cards
+
+Laptop graphics cards with identical names can perform differently depending on factors such as the thermal design of the laptop and amount of memory on the card.
+
+Some key terms to keep in mind when comparing graphics cards:
+
+Total Graphics Power (TGP): The maximum power consumption of a graphics card, which gives an indication of its maximum performance.
+GPU memory: Graphics cards come in many variants with different amounts of memory on the card, which also affects performance.
+
+These are the hardware requirements when using XR-3 and VR-3 with a laptop computer:
+
+One of the following or better:
+
+AMD Ryzen 7
+
+Graphics card (GPU)1
+High-end NVIDIA Ada generation laptop GPU with a Total Graphics Power (TGP) of 150W or more:
+
+NVIDIA GeForce RTX 4090
+NVIDIA RTX 5000 Ada
+
+High-end NVIDIA Ampere generation laptop GPU with a Total Graphics Power (TGP) of 165W or more:
+
+NVIDIA GeForce RTX 3080
+
+Connectivity
+Option 1. Using two third-party Mini DisplayPort–DisplayPort adapters:
+
+2 x USB-A 3.0 / 3.1
+2 x Mini DisplayPort
+
+Note that the adapter must support 8k video and DisplayPort 1.4 with Display Stream Compression (DSC). See a list of tested and compatible adapters.
+
+Option 2. Using two Varjo laptop adapters sold separately:
+
+2 x USB-C 3.0/3.1, with support for Alternate Mode
+
+Option 3. Combination of Option A and Option B, using one third-party Mini DisplayPort–DisplayPort adapter and one Varjo laptop adapter:
+
+1 x Mini DisplayPort
+1 x USB-A 3.0 / 3.1
+1 x USB-C 3.0/3.1, with support for Alternate Mode
+
+In all options, note the following requirements for the ports:
+
+Mini DisplayPort ports must be routed directly to the dedicated NVIDIA GPU
+In Option 2 and Option 3 when using Varjo laptop adapter, the USB-C port must be routed directly to the dedicated NVIDIA GPU and include support for Alternate Mode.
+
+See Cabling options for XR-3 and VR-3 for illustrations of the connectivity options.
+
+1 While mobile and desktop GPUs may have identical product names, performance is significantly lower when using mobile GPUs. Note that AMD graphics cards are currently not supported.
+
+2 Storage space required to install Varjo Base.
+
+Note that laptop GPUs have limited processing power compared to desktop GPUs. For the best possible experience, we recommendrunning simple applicationswhenusing a laptop.
+
+Read more about how to optimize application performanceby adjusting the image quality settings in Varjo Base. 
+
+XR-3 and VR-3 are compatible with a broad range of Windows computers. See examples of tested computers and motherboards.
+
+The following software is required to use XR-3 and VR-3:
+
+Requirement
+Where to get it
+
+Varjo Base
+Varjo Base 3.0 or later is required. We recommend using the latest version.
+
+Note that you will need a Varjo Account to download Varjo Base.
+
+Varjo Subscription
+Varjo XR Subscription is required to use XR-3.
+
+Varjo VR or XR Subscription is required to use VR-3.
+
+Note that your computer needs to be connected to internet when using XR and VR subscriptions.
+
+An offline subscription is available for enterprise customers with special requirements for high-security environments.
+Read more at varjo.com/subscriptions.
+
+Windows OS version
+Windows 10: v. 1809 or later
+
+Windows 11: v. 21H2 or later
+Windows 10: Navigate to Settings > Update & Security > Windows Update.
+
+Windows 11: Navigate to Settings > Windows Update.
+
+NVIDIA GPU driver
+We recommend using the latest version.
+
+SteamVR1
+We recommend using the latest version.
+1.  Download the Steam desktop application
+2.  Create a Steam account
+3.  Download SteamVR
+(For offline use, install SteamVR for Enterprise / Government use instead)
+
+1 The SteamVR software is required when using SteamVR™ Tracking.
+
+Read more about the network requirements for Varjo software.
+
+System requirements with Varjo Reality Cloud
+
+With Varjo Reality Cloud, graphics rendering for your application is moved into the cloud. This allows for lower hardware requirements compared to rendering on your local computer.
+
+Read more about system requirements for Varjo Reality Cloud.
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

@@ -1,0 +1,72 @@
+Efficient Noise Suppression – | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+ Vocational Training and Studies
+
+ – VACOCOIL
+ Improved Attenuation at High Frequency
+
+Common Mode Chokes (CMCs) with the patented VACOCOIL design offer improved attenuation at high frequency (f > 1 MHz) compared to standard designs.
+
+10x improved impedance compared to standard design (@10 MHz)
+Optimized for high current applications
+
+ Efficient Noise Suppression
+
+IMPEDANCE IZI (F) Linear
+
+IMPEDANCE IZI (F) Linear
+
+ Benefits of using VACOCOIL in your Application
+
+ Wind and Solar Inverters
+
+ Best-In-Class Choke Design
+ Possible Design of High Current CMCs
+
+(Ø 3 x 3 mm)
+
+VACOCOIL
+
+(Ø 1 x 4.5mm)
+
+Max. load current Iload (<130°C)              80 A
+
+102 x 76 x 25 mm (core)
+
+122 x 122 x 48 mm (component
+
+Insertion loss aE* @ 1 MHz
+
+Insertion loss aE* @ 10 MHz
+
+Impedance Z @ 10 MHz
+
+ Want to talk to a VAC Expert about Open Loop Current Sensors?
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

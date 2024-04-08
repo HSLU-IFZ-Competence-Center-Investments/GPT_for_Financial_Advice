@@ -1,0 +1,93 @@
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+<![endif]
+[iflteIE8]>
+
+<![endif]
+[ifgteIE9]><!
+
+<![endif]
+
+</script>
+<noscript><imgheight="1"width="1"style="display:none"
+
+DONOTMODIFY
+EndFacebookPixelCode
+
+GoogleTagManager(noscript)
+
+EndGoogleTagManager(noscript)
+
+<ulclass="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SYSTEMS Reliability and efficiency
+
+Supermarkets
+
+You can be sure, it’s Frigoveneta
+
+We’ve developed a range of compact, quiet and efficient machines for the large retail field.
+
+With the entry into force of European Regulation 517/2014, the range has been enriched by the new CO2 machines.
+
+The wide range of machines satisfies every requirement both for refrigeration and heating/cooling of the retail stores.
+
+The system’s design is aimed at production and maintenance simplicity, as well as effective management. This all translates into reliability and functioning efficiency.
+
+In addition to theTelegest system, the latestFrigoveneta creations for the large retail sector are the Unigest system (integrated management for energy-intensive users) and the Unicalor system (heat condensation recovery).
+
+The achievable energy savings are certain and measurable.
+
+ INTEGRATED MANAGEMENT OF UTILITIES
+ thanks to the Unigest integrated management system for the lighting, air conditioning and domestic hot water with parameters customization and consumption measurement 
+
+ HEAT RECOVERY
+ thanks to Unicalor system, condensation heat recovery to heat the sales pointand providehot water without installing a boiler, or using the natural gas network. 
+
+ REMOTELY CONTROLLED
+ grazie al sistema Telegest, semplice gestione degli impianti frigoriferi e collegamento al Centro di Telecontrollo 
+
+ TECHNICAL ASSISTANCE
+ remote support 24/7 and timely maintenance throughout Italy thanks to the network of selected and trained collaborators 
+
+ ENERGY SAVINGS
+ grazie ai sistemi unigest, unicalor e all’efficienza degli impianti frigoriferi 
+ wow fadeInDown 
+ ENVIRONMENTALLY FRIENDLY
+ thanks to the new range of CO2 machines 
+
+Are you interested in our solutions?
+
+Frigoveneta - Video Aziendale

@@ -1,0 +1,186 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+Mixed reality headset with TAA certification Varjo 
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. .
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo 
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Your browser does not support the video tag.
+
+Varjo XR-4 Secure Edition – TAA certified mixed reality for secure environments.
+
+The XR-4 Secure Edition is the world’s most advanced mixed reality headset for simulation, allowing real-world and virtual elements to be blended together seamlessly for highly effective and cost-efficient training scenarios. Assembled in state-of-the-art facilities in Finland, it is both certified and optimized for secure environments.
+
+Ultimate security and precision in mixed reality.
+
+Meet Varjo XR-4 Secure Edition.
+
+Industry-leading visual fidelity with 4K by 4K, 200 nits mini-LED displays and a 96% DCI-P3 color space.
+Revolutionary full-dome optics span flawless aspheric clarity across a massive 120° x 105° field of view.
+True human vision replicated in XR by dual 20-megapixel cameras powering up to 51 PPD passthrough and the world’s first gaze-driven XR autofocus system.
+Assembled in Finland supporting full TAA compliancy and has no online connectivity requirements.
+Advanced sensor fusion combining 300 Kpix extended range LiDAR, 200 Hz eye tracking, and all-new ambient light reconstruction cameras.
+Inside-out tracking is integrated as standard and options for alternate tracking methods are available.
+Designed for interactive training with integrated speakers that support DTS 3D spatial audio and dual noise-cancelling microphones.
+Premium support included offering priority response times, onboarding, and shipping.
+
+Experience a no-compromise approach to immersion for training and simulation. Crystal-clear 4K per eye mini-LED displays deliver the accuracy and visual fidelity required for true one-to-one recreations of training environments.
+
+A new ultra-wide 120° x 105° field of view delivers full binocular range vision, and 200 nits of brightness and 1:10000 contrast ratio achieved with local dimming serves both day and night training scenarios.
+
+Varjo’s signature XR cameras facilitate mixed reality simulation setups where real-world elements such as cockpits, maps or tools can be seamlessly merged with virtual content.
+
+The XR-4 Secure Edition’s 20-megapixel cameras deliver industry-leading clarity in passthrough, allowing even small text and avionics to be easily read.
+
+The XR-4 Secure Edition with autofocus further enhances the mixed reality experience, driving an unprecedented 51 PPD in passthrough and introduces the world’s first XR gaze-driven autofocus camera system.
+
+Training and simulation software ready.
+
+The XR-4 Secure Edition is designed to provide unrestricted performance at high frame rates for graphically intense and computationally complex simulations.
+
+Tap into full compatibility with high-end training software such as Bohemia’s VBS Blue IG, PREPAR3D, and many others.
+
+SEE VARJO READY SOFTWARE
+
+“We are breaking the boundary between what’s real and virtual.”
+
+–Sébastien Lozé, Business Director of Simulations, Epic Games
+
+”The Varjo XR-4 Series doesn’t just elevate the simulator experience—it transforms it entirely.”
+
+–Javier Castellar, Co-founder and Chief Strategy Officer of Aechelon
+
+“Unlock a next-level experience for astronauts in terms of training and mission preparation.”
+
+– Felix Gorbatsevich, CEO of PaleBlue
+
+”Varjo’s new XR-4 Series has the highest resolution displays which aligns perfectly with our I/ITSEC theme of ‘replicating reality in a digital world’.”
+
+– George Forbes, founder and CEO of Immersive Display Systems, Inc.
+
+”The XR-4 Series raises the realism of immersive training to a whole new level.”
+
+– Oli Arup, Chief Product Officer of Bohemia Interactive Simulations
+
+Highest-level security and support.
+
+Unlike other headsets in the XR-4 Series, all XR-4 Secure Edition units are assembled in a state-of-the-art facility in Finland, ensuring full TAA compliancy.
+
+Each headset runs completely offline and can be configured to have no radio components, ensuring they are suitable for exceptionally high-security situations and closed-loop network environments.
+
+The XR-4 Secure Edition comes with access to world-class support with less than one business day support guarantees, guided onboarding sessions, priority shipping, and more.
+
+Inside-out tracking is integrated as standard, allowing full 6DoF positional tracking without the need for base stations. For setups where SteamVR™ tracking is required, a version with added support is available for purchase. Tracking with ART and OptiTrack is also supported via API.
+
+Hand tracking support can also be added for hand based interactions and gesture recognition, with the optional Ultraleap hand tracking kit.
+
+Choose your mixed reality experience.
+
+The Varjo XR-4 Secure Edition consists of two variants. For use cases where virtual content is the focus of the experience, the fixed focus version provides best-in-class visual fidelity. For scenarios where real-world elements need to be seen in perfect detail, such as simulators with detailed physical cockpits, the autofocus version adds enhanced passthrough to the mix.
+
+XR-4 Secure Edition
+
+–
+
+Dual mini-LED displays
+3840 x 3744 resolution at 51 PPD
+120° x 105° field of view
+98% sRGB, 96% DCI-P3 color space
+90 Hz refresh rate
+200 nits brightness
+20 MP passthrough cameras
+
+Inside-out tracking
+ART and OptiTrack supported via API
+300 Kpix LiDAR with 7m range
+200 Hz eye tracking
+
+XR-4 Secure Edition
+
+–
+
+Dual mini-LED displays
+3840 x 3744 resolution at 51 PPD
+120° x 105° field of view
+98% sRGB, 96% DCI-P3 color space
+90 Hz refresh rate
+200 nits brightness
+20 MP passthrough cameras
+51 PPD passthrough with Autofocus
+Inside-out tracking
+ART and OptiTrack supported via API
+300 Kpix LiDAR with 7m range
+200 Hz eye tracking
+
+Zero-gravity comfort fit
+No radio component versionavailable
+
+Versatile tracking options available.
+
+Have a project that requires SteamVR™ tracking? Configure your headset for SteamVR™ tracking with the outside-in tracking option at purchase. ART or OptiTrack are fully supported via API.
+
+Add Ultraleap hand tracking.
+
+Have a project that requires hand tracking based interactions? Varjo’s XR-4 Series support Ultraleap’s Leap Motion 2™ hand tracking module as part of a kit including a purchasable mount, setup instructions, and license handling.
+
+Learn more
+
+All Varjo XR-4 Secure Editions come with access to priority support and shipping, onboarding sessions, and have no online connectivity requirements. 
+
+The XR-4 Series caters for the professional software running on Windows PCs, tapping into the power of NVIDIA graphics cards. Find our recommended PC models or check if your current PC is already Varjo-ready.
+
+Extended 15-meter cables, Varjo controllers, carry cases and more. Get everything you need to support your immersive workflow.
+
+Check the minimum requirements for running the XR-4 Series, including operating system, connectivity, GPU and CPU requirements.
+
+Ready for deployment worldwide
+
+Varjo XR-4 Secure Edition. Available now.
+
+Varjo XR-4 Secure Edition units can be ordered via the Varjo sales department. Get in touch with our team today.
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

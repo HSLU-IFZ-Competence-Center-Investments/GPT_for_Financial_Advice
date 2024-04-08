@@ -1,0 +1,85 @@
+DiscovertheLatestEnergyTrendswithCFP
+
+Theme java script starts 
+ Theme java script end 
+
+ End Google Tag Manager 
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout us
+
+ <span class="open_mobileviews tel2" onclick="openNav()"><i class="fa fa-user"><i> <i class="fa fa-times"></i></span>
+
+ <div class="iconbox">
+ <span class="open_mobileview_cust tel2" onclick="openNav_cust()"><i class="fa fa-user"></i></span>
+
+ <div class="iconbox ProductSearch">
+ <span data-toggle="modal" data-target="#myModalProducts"><i class="fa fa-search"></i></span>
+
+ <div class="iconbox">
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal"></button>
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+Insights
+
+/
+Insights
+
+ UK ETS EU ETS Emissions
+
+CFP Energy win multiple awards in the Environmental Market Rankings 2023-2024
+
+Following a successful year, CFP Energy is delighted to have been voted a winner in the Environmental Finance Environmental Market Rankings 2023-2024. CFP Energy were voted as winners in two awards, and runner-up in a further two. 	
+
+ EU ETS Emissions News
+
+Significant changes to EU ETS Free Allocation will increase compliance cost for operators.
+
+On 30th January the EU Commission adopted the most recent draft of the delegated act amending the free allocation regulation to the EU ETS.	
+
+The regulation will adjust free allocations from this year.
+
+ UK ETS Emissions News
+
+UK Government Announces a series of consultations to reform the UK ETS and introduce an Import carbon pricing mechanism.	
+
+Waves are being made in the Voluntary Carbon Market (VCM) by the publication of a study calling for the retraction of the West et al. study used in an article by the Guardian earlier in the year to claim that "more than 90% of rainforest carbon offsets are worthless".	
+
+ News
+
+CFP Energy appoints former senior Shell executive to accelerate business growth
+
+New hire will help CFP Energy unlock growth potential and help customers thrive in evolving energy landscape. CFP Energy has today announced the appointment of Catherine Newman to the position of chief operating officer (COO).	
+
+I agree to receive other communications from CFP Energy (UK) Ltd.
+
+You can unsubscribe from these communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.
+
+By clicking submit below, you consent to allow CFP Energy (UK) Ltd. to store and process the personal information submitted above to provide you the content requested.
+
+Close
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+This site uses cookies to store information about your computer.
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site may not work then.
+
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
+
+ <button type="submit" class="pix_button btn_normal pix_button_flat blue_bg bold_text" style="border:none;" name="btn_accept"> </button> 
+ Accept Recommended Settings
+
+ end footer 
+ start scroll to top

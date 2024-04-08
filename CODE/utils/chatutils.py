@@ -181,17 +181,21 @@ class AssistantSession(ChatSession):
 
         self.files = []
         failed_to_open = 0
+        opening_errors = []
         print("Uploading files...")
         for file_path in tqdm(file_paths,total=len(file_paths)):
             try :
                 file = self.client.files.create(file=open(file_path, 'rb'),
                                             purpose="assistants")
-            except:
+            except Exception as e:
                 failed_to_open+=1
+                opening_errors.append(e)
             else:
                 self.files.append(file)
 
         print(f"Failed to open {failed_to_open} files out of {len(file_paths)}")
+        if failed_to_open > 0:
+            print(f"\n\n Errors when opening: {opening_errors}")
 
         self.model = model
         self.instructions = instructions

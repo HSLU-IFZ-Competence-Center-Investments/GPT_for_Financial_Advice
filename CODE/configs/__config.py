@@ -26,6 +26,7 @@ try:
     assert os.path.exists(PROJECT_DIR), f"Project folder '{PROJECT_DIR}' not found. Check PROJECT_NAME in __config.py."
 except AssertionError:
     PROJECT_DIR = input("Enter the project folder path: ")
+    print(f"Project folder path set to '{PROJECT_DIR}'")
 
 #%% ALL CONFIG DICTS
 

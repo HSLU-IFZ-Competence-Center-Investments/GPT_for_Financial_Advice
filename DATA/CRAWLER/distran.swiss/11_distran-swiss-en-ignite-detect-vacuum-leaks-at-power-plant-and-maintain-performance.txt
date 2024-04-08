@@ -1,0 +1,120 @@
+IgnitedetectvacuumleaksatPowerPlant&maintainperformance
+
+CompositeManufacturing
+GasLeakDetectionAsAService
+
+UltraPro/UltraProX
+
+Blog
+Distraninthemedia
+
+CompositeManufacturing
+GasLeakDetectionAs A Service
+
+Ultra Pro / Ultra Pro X
+
+Blog
+Distran in the media
+
+Talk to your local Expert
+
+31 Jan Ignite and Distran join forces to detect vacuum leaks and maintain performance
+
+Ignite customer success story
+
+Ignite and Distran join forces to detect vacuum leaks and maintain performance
+
+Ignite counts on Distran ultrasonic cameras to offer leak detection as a central element of its services to its customers.
+
+ Distran Ultrasonic Cameras have proven to be a powerful tool to detect leaks and hence maintain performance at power plants.
+
+    Fast, safe, and reliable leak detection empowers plant operators to save costs and increase safety at the same time.
+
+Discover Ultra Pro X
+
+Ignite customer success story
+
+Ignite and Distran join forces to detect vacuum leaks and maintain performance
+
+    Ignite counts on Distran ultrasonic cameras to offer leak detection as a central element of its services to its customers.
+
+    Distran Ultrasonic Cameras have proven to be a powerful tool to detect leaks and hence maintain performance at power plants.
+
+    Fast, safe, and reliable leak detection empowers plant operators to save costs and increase safety at the same time.
+
+Discover Ultra Pro X
+
+Founded in 2017, Ignite Outage Group LLC is made up of a team of experts across multiple disciplines such as gas turbines, steam turbines, and generators. The company offers technical and engineering services for the Heavy Duty Commercial, Utility, and Industrial Energy sectors. As the detection of gas leaks is a crucial element for services such as commissioning and outage planning, Ignite counted on Distran’s Ultrasonic Camera at a combined cycle power plant (CCCP) located in the USA. The 827 MW plant consists of three combined cycle units with separated dry Air-Cooled Condensers (ACC).
+
+How to detect leaks without interfering with plant operations?
+
+Leaks due to cracks and cuts, e.g. on the ACC, downgrade performance. The traditional leak inspection method at the American 827 MW CCCP, i.e. by spraying helium around the relevant areas in combination with a downstream sensor, entailed various issues. Hence, Ignite set out to find a new solution enabling them to:
+
+REDUCE THE EXPOSURE TO HOT AREAS
+
+INCREASE THE PRECISION OF LEAK LOCALIZATION
+
+DECREASE THE REQUIRED EXPERT KNOW-HOW
+
+Different from traditional gas leak detection technologies such as soap spray, sniffers, or infrared cameras, Distran Ultrasonic Cameras (learn more about Ultra Pro and Ultra Pro X in the Products section) harness Acoustic Leak Imaging (ALI), i.e. use ultrasounds to detect leaks of all gas types from safe distances.
+
+High pressure for high performance
+
+Equipped with a Distran Ultrasonic Camera, the team in charge inspected the plant’s three condenser systems. As the vacuum pressures are essential to protect the steam turbines and maintain performance, they focused on detecting atmospheric air leaks into the condenser system negatively impacting the vacuum pressure.
+
+The two-day survey took place during regular plant operation and resulted in findings:
+
+8 vacuum leaks on the ACC.
+5 vacuum leaks on the compensator.
+2 steam leaks on the low-pressure steam turbine casing.
+11 compressed air leaks.
+
+Vacuum leak detected on the ACC
+
+Vacuum leak detected on the compensator
+
+With Audalytics, Distran’s integrated reporting tool, the team in charge created a report including all findings documented in real-time with pictures, videos, and voice recordings.
+
+Based on this report, the plant operator prioritized and scheduled the necessary repairs for the next regular shutdown.
+
+Vacuum performance to ensure power plant availability
+
+The Distran Ultra Pro enabled the operator of a UK-based power plant to detect and pinpoint a 7.5 mbar vacuum loss on the condenser system.
+
+This vacuum loss caused a decrease in production estimated to 7,862 MWh over a six-month period, equivalent to a 1 500 000 USD loss
+(approx. 1 384 000 €).
+
+Vacuum performance to ensure power plant availability
+
+The Distran Ultra Pro enabled the operator of a UK-based power plant to detect and pinpoint a 7.5 mbar vacuum loss on the condenser system.
+
+This vacuum loss caused a decrease in production estimated to 7,862 MWh over a six-month period, equivalent to a
+1 500 000 USD loss
+(approx. 1 384 000 €).
+
+Both a technical and economic impact
+
+The inspection with the Distran Ultrasonic Camera took much less time compared to the previous approach. Additionally, the team in charge covered larger areas, found leaks from safe distances, and gathered more data.
+
+As explained here, the detection of vacuum leaks can have a strong technical and economic impact:
+
+A 0.35 inches Hg (12 mbar) average improvement in condenser vacuum can lead to a 30-70 Btu/kWh heat rate improvement.
+This can result in annual fuel, operations, and maintenance savings of up to 100 000 USD for an 827-MW CCCP.
+
+Video: Vacuum leak detected on a steam turbine housing at a CCGT Power Station, using Distran Ultra Pro ultrasonic camera
+
+Vacuum leak detected
+on a steam condenser crack
+at a CCGT Power Station
+
+Vacuum leak detected
+on a flange steam condenser
+at a CCGT Power Station
+
+Methane leak
+detected on a receiving station
+at a CCGT Power Station
+
+By making ladder climbing, elevating platforms, or entering hot spaces obsolete, Distran Ultrasonic Cameras empower plant operators to maintain performance without interfering with plant operations. A couple of minutes of walking through and scanning an area with the easy-to-use device is sufficient to spot leaks, saving hours of inspection time compared to traditional tools.
+
+Learn more about why inspection specialists in Oil & Gas, Power Generation, Chemistry, Composite Engineering, and other fields detect gas leaks with Distran.

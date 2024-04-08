@@ -1,0 +1,101 @@
+EndGoogleTagManager 
+
+Contatti | Frigoveneta SPA
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+Contacts
+Ask for information
+
+Congratulazioni! Il tuo messaggio è stato spedito. 
+
+Errore! C'è stato un errore durante l'invio del tuo messaggio. 
+
+ <td colspan="2">
+ <button class="btn btn-primary pull-right" type="submit"></button>
+
+Name and surname *
+ <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required> 
+
+Email *
+ <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" required> 
+
+Subject *
+ <input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject" required> 
+
+Message *
+ <textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" id="message" required></textarea> 
+
+ I have read the privacy policy 
+
+Legal, Administrative and Operational Headquarters
+FRIGOVENETA SPA 
+ Via Caduti del Lavoro, 5 
+ 37049 Villa Bartolomea (Vr) - Italia 
+ Tel +39 0442659030 - Fax +39 0442659011
+ frigoveneta@frigoveneta.it
+ P.I. 00586780231 - REA VR-143886
+ Share Capital 3.600.000 €
+
+FRIGOVENETA SERVICE SRL 
+ Via Caduti del Lavoro, 5 
+ 37049 Villa Bartolomea (Vr) - Italia 
+ Tel +39 0442659030 - Fax +39 0442659011
+ service@frigoveneta.it
+ P.I. 03542670231 - REA VR-344892
+ Share Capital 114.000 €
+
+ <ul class="list list-icons list-icons-style-3 mt-xlg">
+ <li><i class="fa fa-map-marker"></i> </li>
+ <li><i class="fa fa-phone"></i> +39 0442659030</li>
+ <li><i class="fa fa-envelope"></i> <a href="mailto:frigoveneta@frigoveneta.it">frigoveneta@frigoveneta.it</a></li>
+
+Frigoveneta - Video Aziendale

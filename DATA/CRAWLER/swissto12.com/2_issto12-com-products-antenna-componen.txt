@@ -1,0 +1,100 @@
+Antennacomponents|SWISSto12
+
+Antenna Components
+Electronically Steered Antenna Arrays
+
+The future of aerospace antennas delivered
+
+SWISSto12 antennas leverage our technology’s inherent design and manufacturing freedom to push the envelope of possibility in antenna technology. The company has specialized in high-performance, innovative antennas for multiple aerospace applications. 
+
+SWISSto12’s 3D printing allows the production of feed-chains in a wide frequency range from C-band to Q-band showing outstanding RF-performance. Reduced mass and assembly time/efforts are achieved by means of clever mechanical designs and lower number of interfaces.
+
+Monolithic component including diplexer, OMT-polarizer, and horn;
+Customizable port location and form factor, adapted to client’s requirements;
+
+20/30 GHz (full Ka-band bandwidth);
+dual-circular polarization in the two bands with a cross polarization in excess of 27 dB;
+low insertion loss (typically 0.2 dB); 
+very high isolation (> 90 dB) between bands;
+weight less than 75 g;
+
+Other frequency bands available.
+
+Loading 3D model
+This might take a minute.
+
+Ultra-lightweight airborne Ku and Ka antennas with outstanding RF performance are now possible thanks to the SWISSto12’s 3D printing. Monolithic modules integrating a large number of apertures reduce the full array assembly from thousands of components to less than ten. Ku-band and Ka-band antenna arrays meet FCC mask regulations. 
+
+Hyper light: Ku (7kg) - Ka (6kg);
+Fully compliant with FCC mask;
+Innovative RF design for enhanced performance;
+No grating lobes: highest transmission efficiency / achievable ESD;
+Robust antenna assembled out of only 4 pieces;
+Ku example (4 blocks):
+
+Rx band: 10.7 – 12.75 GHz;
+Tx band: 13.75 – 14.5 GHz;
+Gain at Tx: 33-34 dB;
+Dual linear polarization;
+Aperture size: 25.2” x 6.3” / 64cm x 16cm.
+
+Loading 3D model
+This might take a minute.
+
+Slotted waveguide antenna arrays
+
+3D printing can also be used for the production of slotted waveguides antenna arrays. SWISSto12 has developed innovative slotted waveguide solutions that are compatible with batch production of monolithic antennas while offering the best possible RF performance. Available from X-band to Ka-band.
+
+Customizable aperture shape;
+Possibility to include complex BFN functions such as comparators for tracking.
+
+Slotted waveguide antenna arrays
+
+Loading 3D model
+This might take a minute.
+
+Antennas and antenna clusters
+
+3D printing provides an ideal solution for monolithic horns. Monolithic antenna clusters can contain hundreds of elements, depending on the application. Reducing the number of elements to be mounted allows for the reduced assembly of systems such as active antenna arrays or antenna farms. Considering clusters at an early stage allows for the improvement of mechanical performances and weight of the RF system. The production lead-time is much faster than if standalone elements were considered.
+
+X-band example (4 elements 2x2):
+
+X-band military band (≈7.5 GHz);
+dual-circular polarization in with a cross polarization in excess of 30 dB;
+low insertion loss (typically 0.35 dB);
+filtering up to Ka-band;
+total weight < 250 g;
+total length: < 350 mm;
+
+Ku-band (single horn for shaped reflector):
+
+commercial Ku-band
+dual-linear, cross-polarization in excess of 35 dB;
+antenna loss: 0.1 dB;
+taper 20 deg;
+weight: x3 reduction with conventional horn;
+
+Antennas and antenna clusters
+
+Loading 3D model
+This might take a minute.
+
+Waveguide filters and diplexers
+
+SWISSto12 is the reference supplier of 3D printed filters for ground and space applications. SWISSto12’s filter portfolio ranges from S-band to Q-band, including narrow-band and wideband bandpass, lowpass, cutoff and stopband filters, using proprietary topologies such as custom waveguides, corrugated, combline, evanescent, dual-mode. SWISSto12 offers design for both highest performance and competitive cost. SWISSto12’s filters are monolithic ultra-light devices. The portfolio also includes diplexers and multiplexers.
+
+Ku-band narrowband filter for converters:
+
+compatible with banks;
+total weight << 100 g;
+GEO environmental test passed;
+
+Band: 17.7-20.2 GHz;
+rejection: typically 100 dB, all harmonics below -60 dB;
+all harmonic rejection up to 43 GHz;
+insertion loss: approx. 0.25 @ 19 GHz;
+
+Waveguide filters and diplexers
+
+Loading 3D model
+This might take a minute.

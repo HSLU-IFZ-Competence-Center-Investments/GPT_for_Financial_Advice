@@ -1,0 +1,203 @@
+|NIL
+
+MetalensPrototyping
+Optical Design & Testing
+
+Optical Elements & Components
+
+ISO 9001 Certification
+Corporate Social Responsibility (CSR)
+
+Metalens Prototyping
+Optical Design & Testing
+
+Optical Elements & Components
+
+Technology
+
+ISO 9001 Certification
+Corporate Social Responsibility (CSR)
+
+Close this search box.
+
+References
+
+In-line characterization of nanostructures produced by roll-to-roll nanoimprintingJonas Skovlund Madsen, Mathias Geisler, Mikkel Berri Lotz, Maksim Zalkovskij, Brian Bilenberg, Petri Peltonen, Poul Erik Hansen, and Søren Alkærsig Jensen. Optics Express, vol. 29, Issue 3.
+
+Low-cost, durable master molds for thermal-NIL, UV-NIL, and injection moldingFeyza Dundar Arisoy, Ilja Czolkos, Alicia Johansson, Theodor Nielsen and James J Watkins. IOP Science, Nanotechnology, volume 31, number 1 (2019)
+
+Fabrication of 3D microstructure array on chip for rapid pathogen detectionKant, K., Anh, T. N., Matteucci, M. & Wolff, A., 2019, In : Sensors and Actuators B: Chemical. 281, p. 774-782. Research output: Contribution to journal › Journal article – Annual report year: 2019 › Research › peer-review
+
+Single-molecule DNA-mapping and whole-genome sequencing of individual cellsR Marie, JN Pedersen, L Bærlocher, K Koprowska, M Pødenphant, … Proceedings of the National Academy of Sciences 115 (44), 11192-11197
+
+VO2 Thermochromic Metamaterial-Based Smart Optical Solar ReflectorK Sun, CA Riedel, A Urbani, M Simeoni, S Mengali, M Zalkovskij, … ACS Photonics 5 (6), 2280-2286
+
+Sequencing Metrics of Human Genomes Extracted from Single Cancer Cells Individually Isolated in a Valveless Microfluidic DeviceR Marie, M Pødenphant, K Koprowska, L Bærlocher, RCM Vulders, … bioRxiv, 258780
+
+A polymeric chip system and uses thereofHung, T. Q., Chin, W. H., Sun, Y., Wolff, A., Bang, D. D. & Matteucci, M., 2018, IPC No. G01N21/64, Patent No. WO2018046689 , 15 Mar 2018, Priority date 8 Sep , Priority No. EP20160187819. Research output: Patent › Patent – Annual report year: 2018
+
+Injection molded lab-on-a-disc platform for screening of genetically modified E. coli using liquid-liquid extraction and surface enhanced Raman scatteringMorelli, L., Serioli, L., Centorbi, F. A., Jendresen, C. B., Matteucci, M., Ilchenko, O., Demarchi, D., Nielsen, A. T., Zor, K. & Boisen, A., 2018, In : Lab on a Chip. 9 p. Research output: Contribution to journal › Journal article – Annual report year (2018)
+
+Dataset for VO2 thermo-chromic metamaterial-based smart optical solar reflectorK Sun, C Riedel, A Urbani, M Simeoni, S Mengali, M Zalkovskij, … University of Southampton
+
+Sequencing of human genomes extracted from single cancer cells isolated in a valveless microfluidic deviceR Marie, M Pødenphant, K Koprowska, L Bærlocher, RCM Vulders, … Lab on a Chip 18 (13), 1891-1902
+
+Concentrating and labeling genomic DNA in a nanofluidic arrayR Marie, JN Pedersen, KU Mir, B Bilenberg, A Kristensen. Nanoscale 10 (3), 1376-1382
+
+Injection-Molded Microfluidic Device for SERS Sensing Using Embedded Au-Capped Polymer NanoconesViehrig, M., Thilsted, A. H., Matteucci, M., Wu, K., Catak, D., Schmidt, M. S., Zor, K. & Boisen, A., 2018, In : ACS Applied Materials and Interfaces. 10, 43, p. 37417-37425. Research output: Contribution to journal › Journal article – Annual report year: 2018 › Research › peer-review
+
+Laser ablation and injection moulding as techniques for producing micro channels compatible with Small Angle X-Ray Scattering Haider, R., Marmiroli, B., Gavalas, I., Wolf, M., Matteucci, M., Taboryski, R., Boisen, A., Stratakis, E. & Amenitsch, H., 2018, In : Microelectronic Engineering. 195, p. 7-12. Research output: Contribution to journal › Journal article – Annual report year: 2018 › Research › peer-review
+
+Hierarchical surfaces for enhanced self-cleaning applications A Fernández, A Francone, LH Thamdrup, A Johansson, B Bilenberg, … Journal of Micromechanics and Microengineering 27 (4), 045020
+
+Design of hierarchical surfaces for tuning wetting characteristicsA Fernández, A Francone, LH Thamdrup, A Johansson, B Bilenberg, … ACS applied materials & interfaces 9 (8), 7701-7709
+
+Measuring multiple nano-textured areas simultaneously with imaging scatterometryJS Madsen, PE Hansen, B Bilenberg, J Nygård, MH Madsen. 16th International Conference of the European Society for Precision …
+
+Enrichment of megabase-sized DNA molecules for single-molecule optical mapping and next-generation sequencingJM Łopacińska-Jørgensen, JN Pedersen, M Bak, MM Mehrjouy, … Scientific Reports 7 (1), 17893
+
+Metasurface optical solar reflectors using AZO transparent conducting oxides for radiative cooling of spacecraftK Sun, CA Riedel, Y Wang, A Urbani, M Simeoni, S Mengali, M Zalkovskij, … ACS Photonics 5 (2), 495-501
+
+Study on microgratings using imaging, spectroscopic, and fourier lens scatterometryJS Madsen, PE Hansen, P Boher, D Dwarakanath, JF Jørgensen, … Journal of Micro and Nano-Manufacturing 5 (3), 0
+
+Optothermally actuated capillary burst valve J Eriksen, B Bilenberg, A Kristensen, R Marie. Review of Scientific Instruments 88 (4), 045101
+
+Challenges in the integration of silicon SERS substrates into a polypropylene injection moulded microfluidic chipSerioli, L., Morelli, L., Matteucci, M., Zor, K. & Boisen, A., 2017.Research output: Contribution to conference › Conference abstract for conference – Annual report year: 2017 › Research › peer-review
+
+Extraction And SERS Based Detection Of Bacterial Metabolites In Mixture On A Centrifugal Microfluidic DeviceMorelli, L., Serioli, L., Centorbi, F. A., Matteucci, M., Demarchi, D., Zor, K. & Boisen, A., 2017. Research output: Contribution to conference › Conference abstract for conference – Annual report year: 2017 › Research › peer-review
+
+High-Throughput Fabrication of Nanocone Substrates through Polymer Injection Moulding For SERS Analysis in Microfluidic SystemsViehrig, M., Matteucci, M., Thilsted, A. H., Schmidt, M. S. & Boisen, A., 2017. 2 p. Research output: Contribution to conference › Conference abstract for conference – Annual report year: 2017 › Research › peer-review
+
+Nanopillar Filters for Surface-Enhanced Raman SpectroscopyDurucan, O., Rindzevicius, T., Schmidt, M. S., Matteucci, M. & Boisen, A., 2017, In : ACS Sensors. 2, 10, p. 1400-1404. Research output: Contribution to journal › Letter – Annual report year: 2017 › Research › peer-review
+
+Batch fabrication of nanopatterned graphene devices via nanoimprint lithographyDavid M. A. Mackenzie, Kristian Smistrup, Patrick R. Whelan, Birong Luo, Abhay Shivayogimath, Theodor Nielsen, Dirch H. Petersen, Sara A. Messina, and Peter Bøggild. Appl. Phys. Lett. 111, 193103 (2017)
+
+Optothermally actuated capillary burst valveJohan Eriksen, Brian Bilenberg, Anders Kristensen, and Rodolphe Marie. Scientific Instruments 88, 045101 (2017)
+
+2016
+
+Comparison of Ultrasonic Welding and Thermal Bonding for the Integration of Thin Film Metal Electrodes in Injection Molded Polymeric Lab-on-Chip Systems for Electrochemistry Matteucci, M., Heiskanen, A., Zor, K., Emnéus, J. & Taboryski, R. J., In: Sensors. 16, 11, 12 p., 1795. (2016)
+
+Plasmonic Colors: Toward Mass Production of Metasurfaces Emil Højlund‐Nielsen Jeppe Clausen Tapio Mäkela Lasse Højlund Thamdrup Maksim Zalkovskij Theodor Nielsen Nello Li Pira Jouni Ahopelto N. Asger Mortensen Anders Kristensen. Advanced Materials Technologies, Vol. 1, Issue 7 (2016)
+
+Optical two-beam trap in a polymer microfluidic chipPalanco, M. E., Catak, D., Marie, R., Matteucci, M., Bilenberg, B., Kristensen, A. & Berg-Sørensen, K., 2016, Proceedings of SPIE 9922, Optical Trapping and Optical Micromanipulation XIII . SPIE – International Society for Optical Engineering, Vol. 9922. 10 p. (S P I E – International Society for Optical Engineering. Proceedings, Vol. 9922). Research output: Chapter in Book/Report/Conference proceeding › Article in proceedings – Annual report year (2016)
+
+User-friendly ScatterometryMH Madsen, JS Madsen, B Bilenberg, D Dwarakanath, JF Jørgensen, … European Optical Society Annual Meeting, Berlin, Germany
+
+Rapid Voltammetric Measurements at Conducting Polymer Microelectrodes Using Ultralow-Capacitance Poly(3,4-ethylenedioxythiophene):TosylateMeier, A. R., Matteucci, M., Vreeland, R. F., Taboryski, R. J. & Heien, M. L., 2016, In : Langmuir. 32, 32, p. 8009-8018 10 p. Research output: Contribution to journal › Journal article – Annual report year (2016)
+
+Demonstration of a positron beam-driven hollow channel plasma wakefield acceleratorSpencer Gessner et al. Nature Communications 7, Article number: 11785 (2016)
+
+Optical manipulation with two beam traps in microfluidic polymer systemsKhoury Arvelo, M., Matteucci, M., Sørensen, K. T., Bilenberg, B., Vannahme, C., Kristensen, A. & Berg-Sørensen, K., , 2015 20th Microoptics Conference (MOC) . IEEE, 2 p. Research output: Chapter in Book/Report/Conference proceeding › Article in proceedings – Annual report (2016)
+
+2015
+
+Fiber-Based, Injection-Molded Optofluidic Systems: Improvements in Assembly and ApplicationsMatteucci, M., Triches, M., Nava, G., Kristensen, A., Pollard, M. R., Berg-Sørensen, K. & Taboryski, R. J., 2015, In : Micromachines. 6, p. 1971-1983. Research output: Contribution to journal › Journal article – Annual report year (2015)
+
+Residual layer-free Reverse Nanoimprint Lithography on silicon and metal-coated substratesA Fernández, J Medina, C Benkel, M Guttmann, B Bilenberg, … Microelectronic Engineering 141, 56-61
+
+Fabrication of Nano-Scale Patterned Sapphire Substrate for GaN Based Nanopillar LEDS Lim, K Rasmussen, B Bilenberg, H Ou. The 3rd European-Asian Workshop on Light-Emitting Diodes, 7
+
+Smart plastic functionalization by nanoimprint and injection moldingM Zalkovskij, LH Thamdrup, K Smistrup, T Andén, AC Johansson, … Alternative Lithographic Technologies VII 9423, 94230T
+
+Separation of cancer cells from white blood cells by pinched flow fractionationW Bodmer, M Podenphant, N Ashley, K Koprowska, K Mir, M Zalkovskij, … Lab On a Chip: microfluidic and nanotechnologies for chemistry, biology, and …
+
+Fast characterization of moving samples with nano-textured surfacesMorten Hannibal Madsen, Poul-Erik Hansen, Maksim Zalkovskij, Mirza Karamehmedović, and Jørgen Garnæs. Optica, Vol. 2, Issue 4, pp. 301-306 (2015)
+
+Injection molded microfluidic device for enrichment of somatic cells in cow milkJensen, M. P., Marie, R., Olesen, T., Matteucci, M. & Kristensen, A., , Proceedings of Polymer Replication on Nanoscale 2014. 1 p. Research output: Chapter in Book/Report/Conference proceeding › Conference abstract in proceedings (2015)
+
+Designing visual appearance using a structured surfaceVillads Egede Johansen, Kristian Smistrup, Theodor Nielsen et al. Optica, Vol. 2, Issue 3, pp. 239-245 (2015)
+
+2014
+
+Residual layer-free Reverse Nanoimprint Lithography on silicon and metal-coated substratesA. Fernándeza et al. Microelectronic Engineering, Micro/Nano Fabrication 2014, Volume 141, 15 June 2015, Pages 56–61 (2014)
+
+Angle-independent structural colors of siliconE. Højlund-Nielsen et al. J. Nanophoton. 8(1), 083988  doi:10.1117/1.JNP.8.083988 (2014)
+
+Injection molded pinched flow fractionation device for enrichment of somatic cells in cow milkJensen, M. P., Marie, R., Olesen, T., Matteucci, M. & Kristensen, A., 2014, In : Microelectronic Engineering. 124, p. 53-57 5 p. Research output: Contribution to journal › Journal article – Annual report year (2014)
+
+Process variations in surface nano geometries manufacture on large area substratesM. Calaon et al. Proceedings of the 14th euspe International Conference – Dubrovnik (2014)
+
+Nanostructuring steel for injection molding toolsA. Al-Azawi, K. Smistrup and A. Kristensen. Journal of Micromechanics and Microengineering Volume 24 Number 5 (2014)
+
+Nanoimprinted DWDM laser arrays on indium phosphide substratesK. Smistrup et al. Microelectronic Engineering – DOI: 10.1016/j.mee (2014)
+
+Injection molded pinched flow fractionation device for enrichment of somatic cells in cow milkM. Pødenphanta et al. Microelectronic Engineering 124, pp. 53–57 (2014)
+
+Bioinspired ultrahigh water pinning nanostructuresJ. B. Law, A. Hua Ng, A. Y. He and H. Y. Low. Langmuir, 30 (1), pp 325–331 (2014)
+
+DNA barcoding via counterstaining with AT/GC sensitive ligands in injection-molded all-polymer nanochannel devicesØstergaard, P. F., Matteucci, M., Reisner, W. & Taboryski, R., 2013, In : Analyst. 138, 4, p. 1249-1255Research output: Contribution to journal › Journal article – Annual report year: 2013 › Research › peer-review (2013)
+
+Fabrication and characterization of injection molded multi level nano and microfluidic systemsMatteucci, M., Christiansen, T. L., Tanzi, S., Østergaard, P. F., Larsen, S. T. & Taboryski, R., 2013, In : Microelectronic Engineering. 111, p. 294-298 (2013)
+
+Ion channel recordings on an injection-molded polymer chipTanzi, S., Matteucci, M., Christiansen, T. L., Friis, S., Christensen, M. T., Garnæs, J., Wilson, S., Kutchinsky, J. & Taboryski, R., 2013, In : Lab on a Chip. 13, 24, p. 4784-4793Research output: Contribution to journal › Journal article – Annual report year: 2013 › Research › peer-review (2013)
+
+Polymer multilevel lab-on-chip systems for electrochemical sensingMatteucci, M., Larsen, S. T., Garau, A., Tanzi, S. & Taboryski, R. J., 2013, In : Journal of Vacuum Science and Technology. Part B. Microelectronics and Nanometer Structures. 31, p. 06F904-1Research output: Contribution to journal › Journal article – Annual report year: 2013 › Research › peer-review (2013)
+
+Single layer broadband anti-reflective coatings for plastic substrates produced by full wafer and roll-to-roll step-and-flash nano-imprint lithographyMarieke Burghoorn et al. Materials 2013, 6(9), 3710-3726 (2013)
+
+Applications of nanometrology in polymer productionJ. Garnaes et al. International Congress on Metrology, Paris, October (2013)
+
+Well-defined microapertures for ion channel biosensorsE. HalzÌŒa, T. H. Bro, B. Bilenberg, and A. KocÌ§er. Analytical Chemestry. 2013, 85, 811 ˆ’815 (2013)
+
+DWDM laser arrays fabricated using thermal nanoimprint lithography on indium phosphide substratesK. Smistrup, J. Nørregaard, A. Mironov, T. H. Bro, B. Bilenberg, O. Hansen, F. Khan, M. Emanuel, Y. Ma, Y. Zhang, A. Kristensen, S. Rishton. The 57th annual conference on electron, ion, and photon beam technology and nanofacrication, EIPBN ( 2013)
+
+Simulation and experimental study of the effects of process factors on the uniformity of the residual layer thickness in hot embossingF. Omar, A. Kolew, E. B. Brousseau, H. Hirshy. Journal of Micro- and Nano-Manufacturing, 2013 by ASME, Vol. 1 / 021002-1 (2013)
+
+Modeling the constitutive and frictional behavior of PTFE flexible stamps for NILM.R. Sonne, J.H. Hattel. Microelectronic Engineering 106, 1—8, (2013)
+
+All polymer, injection molded nanoslits, fabricated through two-level UV-LIGA processesØstergaard, P. F., Matteucci, M., Marie, R., Kristensen, A. & Taboryski, R. J., 2012, Nanotech 2012 Vol. 2 Nanotechnology 2012: Electronics, Devices, Fabrication, MEMS, Fluidics and Computational. Vol. 2. p. 482-485. Research output: Chapter in Book/Report/Conference proceeding › Article in proceedings – Annual report year (2012)
+
+All-in-polymer injection molded device for single cell capture using multilevel silicon master fabricationTanzi, S., Larsen, S. T., Matteucci, M. & Taboryski, R., 2012, Technical Proceedings of the 2012 NSTI Nanotechnology. Conference and Expo. p. 376-379. Research output: Chapter in Book/Report/Conference proceeding › Conference abstract in proceedings – Annual report year (2012)
+
+Study of moiré grating fabrication on metal samples using nanoimprint lithographyM. Tang, H. Xie, J. Zhu, X. Li, and Yanjie Li. Optics Express, Vol. 20, Issue 3, pp. 2942-2955 (2012)
+
+Replication of large area nanoimprint stamp with small critical dimension lossM. FanTao, G. Le, W. ZhiWen, H. ZhiTao, C. JinKui. Science China – Technological Sciences, Vol.55 No.3: 600—605 (2012)
+
+Microfluidic chip designs process optimization and dimensional quality controlM. Calaon, H. N. Hansen, G. Tosello, J. Garnaes, J. Nørregaard, W. Li. Journal Of Microsystem Technology – Heidelberg, December 3-5, (2012)
+
+Printing colour at the optical diffraction limitK. Kumar, H. Duan, R. Hegde, S. Koh, J. Wei, and J. Yang. Nature Nanotechnology. doi:10.1038/nnano.2012.128 (2012)
+
+Production quality control of microfluidic designsM. Calaon, H. N. Hansen, G. Tosello1, J. Garnaes, J. Nørregaard, M. GuttmannMicrofluidics 2012 – Heidelberg (2012)
+
+A nanoporous silicon nitride membrane using a two-step lift-off pattern transfer with thermal nanoimprint lithographyBhargav P Nabar, Zeynep Celik-Butler, Brian H Dennis and Richard E Billol2012 J. Micromech. Microeng. 22 045012 (2012)
+
+Conductive Polymer Microelectrodes for on-chip measurement of transmitter release from living cellsLarsen, S. T., Matteucci, M. & Taboryski, R. J., 2012, Proceedings of Nanotech Conference and Expo 2012. Vol. 2. p. 302. – 305. Research output: Chapter in Book/Report/Conference proceeding › Article in proceedings – Annual report year (2012)
+
+Fabrication of combined-scale nano- and microfluidic polymer systems using a multilevel dry etching, electroplating and molding processTanzi, S., Østergaard, P. F., Matteucci, M., Christiansen, T. L., Cech, J., Marie, R. & Taboryski, R. J., 2012, In : Journal of Micromechanics and Microengineering. 22, 11 p. Research output: Contribution to journal › Journal article – Annual report year (2012)
+
+Optical properties of gold and aluminium nanoparticles for silicon solar cell applicationsT. L. Templea and D. M. Bagnall. Journal of Applied Physics 109, 084343 (2011)
+
+Profiles of complex periodic structures determined by scatterometryP-E. Hansen, B. Bilenberg, Y. R. Shen and M. Karamehmedovic. Proceedings of the 13th International Confeence on Metrology and Properties of Engineering Surfaces, Twickenham Stadium, UK, (2011)
+
+Vertical sidewall roughness measured by AFM and SEMJørgen Garnæs, Brian Bilenberg, Radu Malureanu, Jacob Markussen. Proceedings Nanoscale (2010)
+
+Direct replication of nanostructures from silicon wafers in polymethylpentene by injection moldingR. Brucka, R. Hainbergera, R. Heera, N. Kataevaa, A. Köcka, M. Krapf-Güntherb, K. Kaiblingerb, F. Pipelkab,B. Bilenberg. Proc. SPIE Optics + Photonics (2010)
+
+Microfabricated magnetic bead polydimethylsiloxane microarraysJenny Aveyarda, Tobias Hedegaard, Brian Bilenberg and Dan V. Nicolaua,Microelectronic Engineering (2010)
+
+Formation of nanopatterned polymer blends in photovoltaic devicesXimin He, Feng Gao, Guoli Tu,David Hasko, Sven Huttner, Ullrich Steiner, Neil C. Greenham, Richard H. Friend, and Wilhelm T. S. Huck, Nano Letters, (2010)
+
+Nanopatterned polymethylpentene substrates fabricated by injection molding for biophotonic applications R. Hainberger, R. Brucka, N. Kataeva, R. Heer, A. Köck, P. Czepl, K. Kaiblinger, F. Pipelka and B. Bilenberg, Microelectronic Engineering, (2009)
+
+Industrial applications demanding low and high resolution features realized by soft UV-NIL and hot embossing R. Miller, T. Glinsner, G. Kreindl, P. Lindner, M. Wimplinger, SPIE Advanced Lithography Proceedings (7271) (2009)
+
+Design and fabrication using nanoimprint lithography of a nanofluidic device for DNA stretching applicationsE. Abad, S. Merino, A. Retolaza, A. Juarros, Microelectronic Engineering 85, 818—821 (2008)
+
+ICP etch processes for nanoimprint lithographyC.C.Welch, B. Bilenberg, Proceedings PESM (2007)
+
+High-quality patterns produced by nanoimprint lithography and inductive coupled plasma etchingB. Bilenberg, C. C. Welch, Proceedings MNE (2007)
+
+Get in touch with us
+
+...and we'll get back to you as soon as possible.
+
+ First Name Last Name Company Phone Email 
+
+© NIL TECHNOLOGY – 2024
+
+ +45 3111 1797 [email protected] 
+
+[if IE]><script src="//www.nilt.com/wp-content/cache/wpfc-minified/2e4grvm7/e71w4.js" id="astra-flexibility-js"></script><![endif]
+
+ WP Fastest Cache file was created in 2.735090970993 seconds, on 14-03-24 0:10:27

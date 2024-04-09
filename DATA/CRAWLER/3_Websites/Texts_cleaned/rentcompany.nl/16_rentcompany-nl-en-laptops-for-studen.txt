@@ -1,0 +1,79 @@
+Changeablepagetitle
+ | The Rent Company
+
+[if lte IE 9]>
+
+ <![endif]
+ since IE10 ignores conditional comments, we use this 
+
+ End Google Tag Manager /Head scripts 
+
+ Body scripts 
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) /Body scripts 
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer ServiceService
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer ServiceService
+
+The ideal laptop for students! 
+
+Laptops tailored to your studies
+Rent for a low amount per month or buy outright
+Including warranty and (damage) insurance for education
+
+Check if your MBO/HBO/WO is listed and go straight to the webshop!
+
+School not on the list? Go to laptopcampus.nl to order one. 
+
+Questions? Ask your question to our chatbot, Chip.
+
+laptops for students
+
+You're going to study! Then you have come to the right place for:
+
+The perfect student laptop
+With a protective sleeve
+Including long warranty and comprehensive insurance
+Delivered quickly and free of charge from stock
+
+Check above to see if your school has a partnership with us.
+
+Not the case? You also can order a laptop with a service at home via laptopcampus.nl. This way you can still enjoy the benefits of Easy4u! 
+
+Why The Rent Company
+
+ Perfectly suited for your studies. Our recommendation: Lenovo Thinkbook 
+
+ A free protective sleeve 
+
+ Ordered online = Quickly delivered to your home 
+
+ Always with service and insurance for theft and damage 
+
+Students and laptops? They are inextricably linked. Thanks to our full service provision via the Easy4u subscription, we make access to digital education easy and affordable.
+
+Laptops on loan during repairs, super-fast service, a single point of contact for the school and the students, and accidental damage and theft insurance are included.
+
+Choose Convience and securityChoose Easy4u
+
+Special educational laptop with solid casing and rubber edges
+Active battery life of at least 7 hours
+Wi-Fi card for fast and stable wireless access
+Model selection is agreed in advance with the educational institution 
+
+Basic installation for educational purposes
+Re-installation of the software at school is possible with a special image network
+Integration with school website domain if needed
+
+Replacement laptop during repairs
+Customer service support by phone
+Support via the school or home address during holidays
+Online customer portal
+Single point of contact for the customer
+In-house transport and repair service
+
+Damage and theft insurance with a limited excess of €50,00 per incident (max. 3)
+Includes solid, water-resistant protective sleeve
+The entire process is handled by The Rent Company

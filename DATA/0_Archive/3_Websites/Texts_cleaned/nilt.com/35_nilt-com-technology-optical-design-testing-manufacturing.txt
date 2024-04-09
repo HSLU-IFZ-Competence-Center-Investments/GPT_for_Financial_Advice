@@ -1,0 +1,65 @@
+OpticalDesign,Testing&|NIL
+
+MetalensPrototyping
+&Testing
+
+OpticalElements&Components
+
+ISO9001 Certification
+Corporate Social Responsibility (CSR)
+
+Metalens Prototyping
+Optical Design & Testing
+
+Optical Elements & Components
+
+Technology
+
+ISO 9001 Certification
+Corporate Social Responsibility (CSR)
+
+Close this search box.
+
+Optical Design
+
+NIL Technology creates design of optical modules,  single meta-optical elements, and diffractive optical elements
+
+We typically use ray tracing software to optimize and simulate performance in module design. For example, we design metalens modules to optical specifications of e.g., field of view, total track length, distortion, modulation transfer function (MTF) etc. We also design other types of modules, for example dot projectors and flood illuminators.
+
+For optical elements, we use in-house developed methods, based on accurately solving Maxwells equations to design metalenses, DOE lenses, diffusers, fan-out gratings, and other beam shaping or controlling elements. The strength of our in-house developed design tools is seen in the high fidelity of the output light profile, the vanishing 0-order and high efficiency of elements.
+
+We have developed custom tools to interface the ray tracing models with our in-house rigorous design and simulation tools for diffractive and metaoptic surfaces. In this way, we can do full performance and Monte Carlo simulations, including actual meta or DOE designs.
+
+NILT covers the full loop from initial design, prototyping, optical characterization, and if necessary one or more iterations to obtain the required function.
+
+We put great effort in optical testing of elements and components that are manufactured
+
+At our facilities in Denmark and Switzerland, we have state of the art optical labs to characterize functions of produced parts. We have equipment available to characterize optical functions, such as diffusers, fanouts, imaging cameras and more for visible or IR applications.
+
+Besides initial testing of parts to confirm correct optical functions, our test strategy for production is initiated at the beginning of all projects to ensure delivery of high-quality optical components, according to customer expectations.
+
+Optical testing is a key function to enable a fast feedback loop and cycle time, as well as high quality of shipped parts.
+
+Mass Production
+
+We mass produce optical elements and components. Based on our state-of-the-art masters, we manufacture advanced, high performing optical elements and components
+
+Manufacturing of optical elements and components in NIL Technology is either done in-house or with manufacturing partners; it depends on technology, materials and volume. Manufacturing makes use of our high-quality masters, NILT approved and developed processes, as well as NILT approved and managed materials and suppliers. This enables us to unite high performance with high quality and industry standard long-term reliability.  
+
+As part of the manufacturing process, the optical components are exposed to detailed functional and performance testing, as well as visual inspection in multiple steps. The tight process control and fast performance feedback loop ensure a steady production output of products that meets specifications at a consistent high quality. 
+
+Full compliance with reliability requirements guarantees that NILT products can seamlessly integrate with customers’ supply chain and manufacturing processes.
+
+Get in touch with us
+
+...and we'll get back to you as soon as possible.
+
+ First Name Last Name Company Phone Email 
+
+© NIL TECHNOLOGY – 2024
+
+ +45 3111 1797 [email protected] 
+
+[if IE]><script src="//www.nilt.com/wp-content/cache/wpfc-minified/2e4grvm7/e71w4.js" id="astra-flexibility-js"></script><![endif]
+
+ WP Fastest Cache file was created in 2.5657072067261 seconds, on 13-03-24 23:01:35

@@ -1,0 +1,149 @@
+End
+
+of TBS Osteo (iNsight)
+
+ This site is optimized with the Yoast SEO Premium plugin v12.4 - https://yoast.com/wordpress/plugins/seo/ 
+
+ / Yoast SEO Premium plugin. 
+
+ This site uses the Google Analytics by MonsterInsights plugin v8.20.1 - Using Analytics tracking - https://www.monsterinsights.com/ 
+
+ / Google Analytics by MonsterInsights 
+
+[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css' href='https://www.medimapsgroup.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.3' media='screen' />
+
+ Google Analytics snippet added by Site Kit 
+
+ End Google Analytics snippet added by Site Kit 
+
+ Google Tag Manager 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+skip to Main Content
+
+Electronic Instructions for Use (e-IFU)
+Request TBS iNsight™ User Manual as paper
+
+Contact
+Find Centers with TBS
+
+Home » TBS Osteo » Clinical Validation
+
+The relevance of TBS has been assessed in more than 1200 peer-reviewed scientific papers and publications worldwide and the technology has been used with more than 250,000 patients.
+
+You will find below key studies and publications on TBS by field of application. All publications will progressively be accessible on the Medimaps website.
+
+TBS has proven very useful to assess and predict fragility fractures (current and future) independently of BMD, clinical risk factor and the -based risk estimates; and, when used in conjunction with any one of these measures, it consistently enhances their accuracy.
+
+Shevroja, E., Lamy, O., Kohlmeier, L., Koromani, F., Rivadeneira, F., Hans, D., 2017. Use of Trabecular Bone Score (TBS) as a Complementary Approach to Dual-energy X-ray Absorptiometry (DXA) for Fracture Risk Assessment in Clinical Practice. J Clin Densitom 20, 334–345. [Pubmed link]
+Silva, B.C., Leslie, W.D., 2017. Trabecular Bone Score: A New DXA-Derived Measurement for Fracture Risk Assessment. Endocrinol. Metab. Clin. North Am. 46, 153–180. [Pubmed link]
+Martineau, P., Leslie, W.D., 2017. Trabecular bone score (TBS): Method and applications. Bone 104, 66–72. [Pubmed link]
+Iki, M., Tamaki, J., Kadowaki, E., Sato, Y., Dongmei, N., Winzenrieth, R., Kagamimori, S., Kagawa, Y., Yoneshima, H., 2014. Trabecular bone score (TBS) predicts vertebral fractures in Japanese women over 10 years independently of bone density and prevalent vertebral deformity: the Japanese Population-Based Osteoporosis (JPOS) cohort study. J Bone Miner Res 29, 399–407. [Pubmed link]
+Briot, K., Paternotte, S., Kolta, S., Eastell, R., Reid, D.M., Felsenberg, D., Gluer, C.C., Roux, C., 2013. Added value of trabecular bone score to bone mineral density for prediction of osteoporotic fractures in postmenopausal women: the OPUS study. Bone 57, 232–236. [Pubmed link]
+Hans, D., Goertzen, A.L., Krieg, M.-A., Leslie, W.D., 2011. Bone microarchitecture assessed by TBS predicts osteoporotic fractures independent of bone density: the Manitoba study. J. Bone Miner. Res. 26, 2762–2769. [Pubmed link]
+
+Correlation between TBS and the trabecular bone microarchitecture.
+
+Ramalho, J., Marques, I.D.B., Hans, D., Dempster, D., Zhou, H., Patel, P., Pereira, R.M.R., Jorgetti, V., Moyses, R.M.A., Nickolas, T.L., 2018. The trabecular bone score: Relationships with trabecular and cortical microarchitecture measured by HR-pQCT and histomorphometry in patients with chronic kidney disease. Bone 116, 215–220. [Pubmed link]
+Muschitz, C., Kocijan, R., Haschka, J., Pahr, D., Kaider, A., Pietschmann, P., Hans, D., Muschitz, G.K., Fahrleitner-Pammer, A., Resch, H., 2015. TBS reflects trabecular microarchitecture in premenopausal women and men with idiopathic osteoporosis and low-traumatic fractures. Bone 79, 259–266. [Pubmed link]
+Roux, J.P., Wegrzyn, J., Boutroy, S., Bouxsein, M.L., Hans, D., Chapurlat, R., 2013. The predictive value of trabecular bone score (TBS) on whole lumbar vertebrae mechanics: an ex vivo study. Osteoporos Int 24, 2455–2460. [Pubmed link].
+Hans, D., Barthe, N., Boutroy, S., Pothuaud, L., Winzenrieth, R., Krieg, M.-A., 2011. Correlations between trabecular bone score, measured using anteroposterior dual-energy X-ray absorptiometry acquisition, and 3-dimensional parameters of bone microarchitecture: an experimental study on human cadaver vertebrae. J Clin Densitom 14, 302–312. [Pubmed link].
+
+FRAX®
+
+TBS can be used as an adjustment parameter of FRAX.
+
+Martineau, P., Leslie, W.D., 2018. The utility and limitations of using trabecular bone score with FRAX. Curr Opin Rheumatol 30, 412–419. [Pubmed link]
+McCloskey, E.V., Odén, A., Harvey, N.C., Leslie, W.D., Hans, D., Johansson, H., Barkmann, R., Boutroy, S., Brown, J., Chapurlat, R., Elders, P.J., Fujita, Y., Glüer, C.-C., Goltzman, D., Iki, M., Karlsson, M., Kindmark, A., Kotowicz, M., Kurumatani, N., Kwok, T., Lamy, O., Leung, J., Lippuner, K., Ljunggren, Ö., Lorentzon, M., Mellström, D., Merlijn, T., Oei, L., Ohlsson, C., Pasco, J.A., Rivadeneira, F., Rosengren, B., Sornay-Rendu, E., Szulc, P., Tamaki, J., Kanis, J.A., 2016. A Meta-Analysis of Trabecular Bone Score in Fracture Risk Prediction and Its Relationship to FRAX. J. Bone Miner. Res. 31, 940–948. [Pubmed link]
+
+Ulivieri, F.M., Silva, B.C., Sardanelli, F., Hans, D., Bilezikian, J.P., Caudarella, R., 2014. Utility of the trabecular bone score (TBS) in secondary osteoporosis. Endocrine 47, 435–448. [Pubmed link]
+
+Diabetes is associated with higher BMD but lower lumbar spine TBS.
+
+Ferrari, S.L., Abrahamsen, B., Napoli, N., Akesson, K., Chandran, M., Eastell, R., Fuleihan, G.E.-H., Josse, R., Kendler, D.L., Kraenzlin, M., Suzuki, A., Pierroz, D.D., Schwartz, A.V., Leslie, W.D., Iof, on behalf of the B. and D.W.G. of, 2018. Diagnosis and management of bone fragility in diabetes: an emerging challenge. Osteoporos Int 1–12. [Pubmed link]
+Schacter, G.I., Leslie, W.D., 2017. DXA-Based Measurements in Diabetes: Can They Predict Fracture Risk? Calcif. Tissue Int. 100, 150–164. [Pubmed link]
+Kim, J.H., Choi, H.J., Ku, E.J., Kim, K.M., Kim, S.W., Cho, N.H., Shin, C.S., 2015. Trabecular bone score as an indicator for skeletal deterioration in diabetes. J. Clin. Endocrinol. Metab. 100, 475–482. [Pubmed link]
+Dhaliwal, R., Cibula, D., Ghosh, C., Weinstock, R.S., Moses, A.M., 2014. Bone quality assessment in type 2 diabetes mellitus. Osteoporos Int 25, 1969–1973. [Pubmed link]
+Leslie, W.D., Aubry-Rozier, B., Lamy, O., Hans, D., Manitoba Bone Density Program, 2013. TBS (trabecular bone score) and diabetes-related fracture risk. J. Clin. Endocrinol. Metab. 98, 602–609. [Pubmed link]
+
+TBS is a good surrogate indicator of bone health in such secondary osteoporosis.
+
+Gonzalez Rodriguez, E., Lamy, O., Stoll, D., Metzger, M., Preisig, M., Kuehner, C., Vollenweider, P., Marques-Vidal, P., Waeber, G., Aubry-Rozier, B., Hans, D., 2017. High Evening Cortisol Level Is Associated With Low TBS and Increased Prevalent Vertebral Fractures: OsteoLaus Study. J. Clin. Endocrinol. Metab. 102, 2628–2636. [Pubmed link]
+Leib, E.S., Winzenrieth, R., 2016. Bone status in glucocorticoid-treated men and women. Osteoporos Int 27, 39–48. [Pubmed link]
+Paggiosi, M.A., Peel, N.F.A., Eastell, R., 2015. The impact of glucocorticoid therapy on trabecular bone score in older women. Osteoporos Int 26, 1773–1780. [Pubmed link]
+
+Patients tend to show lower TBS and higher vertebral fracture prevalence.
+
+Bandeira, L., Bilezikian, J.P., 2016. Primary Hyperparathyroidism. F1000Res., 5. [Pubmed link]
+Bilezikian, J.P., Brandi, M.L., Eastell, R., Silverberg, S.J., Udelsman, R., Marcocci, C., Potts, J.T., 2014. Guidelines for the management of asymptomatic primary hyperparathyroidism: summary statement from the Fourth International Workshop. J. Clin. Endocrinol. Metab. 99, 3561–3569. [Pubmed link]
+Silva, B.C., Boutroy, S., Zhang, C., McMahon, D.J., Zhou, B., Wang, J., Udesky, J., Cremers, S., Sarquis, M., Guo, X.-D.E., Hans, D., Bilezikian, J.P., 2013. Trabecular bone score (TBS) – a novel method to evaluate bone microarchitectural texture in patients with primary hyperparathyroidism. J. Clin. Endocrinol. Metab. 98, 1963–1970. [Pubmed link]
+
+The association between TBS and fracture is independent of BMD and other clinical risk factors.
+
+Shevroja, E., Lamy, O., Hans, D.B., 2018. Review on the utility of Trabecular Bone Score (TBS), a surrogate of bone micro-architecture, in the chronic kidney disease spectrum and in kidney transplant recipients. Front. Endocrinol. 9. [Pubmed link]
+Naylor, K.L., Prior, J., Garg, A.X., Berger, C., Langsetmo, L., Adachi, J.D., Goltzman, D., Kovacs, C.S., Josse, R.G., Leslie, W.D., 2016. Trabecular Bone Score and Incident Fragility Fracture Risk in Adults with Reduced Kidney Function. Clin J Am Soc Nephrol 11, 2032–2040. [Pubmed link]
+
+In patients with breast cancer, long-term adjuvant anti-aromatase treatment negatively influences bone quality.
+
+Mariotti, V., Page, D.B., Davydov, O., Hans, D., Hudis, C.A., Patil, S., Kunte, S., Girotra, M., Farooki, A., Fornier, M.N., 2017. Assessing fracture risk in early stage breast cancer patients treated with aromatase-inhibitors: An enhanced screening approach incorporating trabecular bone score. J Bone Oncol 7, 32–37. [Pubmed link]
+Kalder, M., Hans, D., Kyvernitakis, I., Lamy, O., Bauer, M., Hadji, P., 2014. Effects of Exemestane and Tamoxifen treatment on bone texture analysis assessed by TBS in comparison with bone mineral density assessed by DXA in women with breast cancer. J Clin Densitom 17, 66–71. [Pubmed link]
+
+Patients with lower TBS showed a higher prevalence of vertebral fractures, whereas no significant difference was found by BMD alone.
+
+Sharma, A., Ma, Y., Tien, P.C., Scherzer, R., Anastos, K., Cohen, M.H., Hans, D., Yin, M.T., 2018. HIV Infection is Associated with Abnormal Bone Microarchitecture: Measurement of Trabecular Bone Score in the Women’s Interagency HIV Study. JAIDS Journal of Acquired Immune Deficiency Syndromes, 78(4):441–449. [Pubmed link]
+Ciullini, L., Pennica, A., Argento, G., Novarini, D., Teti, E., Pugliese, G., Aceti, A., Conti, F.G., 2017. Trabecular bone score (TBS) is associated with sub-clinical vertebral fractures in HIV-infected patients. J. Bone Miner. Metab. 36, 111–118. [Pubmed link]
+
+Papadakis, G., Hans, D., Gonzalez-Rodriguez, E., Vollenweider, P., Waeber, G., Marques-Vidal, P.M., Lamy, O., 2016. The Benefit of Menopausal Hormone Therapy on Bone Density and Microarchitecture Persists After its Withdrawal. J. Clin. Endocrinol. Metab. 101, 5004–5011. [Pubmed Link]
+
+Shin, M.-S., Cho, E.-H., Kim, H.Y., 2017. Longitudinal Change in Trabecular Bone Score during and after Treatment of Osteoporosis in Postmenopausal Korean Women. J Bone Metab 24, 117–124. [Pubmed Link]
+Di Gregorio, S., Del Rio, L., Rodriguez-Tolra, J., Bonel, E., Garcia, M., Winzenrieth, R., 2015. Comparison between different bone treatments on areal bone mineral density (aBMD) and bone microarchitectural texture as assessed by the trabecular bone score (TBS). Bone 75, 138–143. [Pubmed Link]
+Krieg, M.A., Aubry-Rozier, B., Hans, D., Leslie, W.D., Manitoba Bone Density Program, 2013. Effects of anti-resorptive agents on trabecular bone score (TBS) in older women. Osteoporos Int 24, 1073–1078. [Pubmed link]
+
+Petranova, T., Sheytanov, I., MONOV a, S., NESTOROVAb, R., and Rashkov, R, 2016. Effect of denosumab on bone mineral density and trabecular bone score in postmenopausal osteoporosis: Three-year treatment results. Journal of the Balkan Tribological Association 22, 3369–3375.
+
+Hong, A.R., Lee, J.H., Kim, J.H., Kim, S.W., Shin, C.S., 2019. Effect of Endogenous Parathyroid Hormone on Bone Geometry and Skeletal Microarchitecture. Calcif Tissue Int. [Pubmed link]
+Bilezikian, J.P., Hattersley, G., Fitzpatrick, L.A., Harris, A.G., Shevroja, E., Banks, K., Leder, B.Z., Zanchetta, J.R., Hans, D., 2018. Abaloparatide-SC improves trabecular microarchitecture as assessed by trabecular bone score (TBS): a 24-week randomized clinical trial. Osteoporos Int 29, 323–328. [Pubmed link] 
+Saag, K.G., Agnusdei, D., Hans, D., Kohlmeier, L.A., Krohn, K.D., Leib, E.S., MacLaughlin, E.J., Alam, J., Simonelli, C., Taylor, K.A., Marcus, R., 2016. Trabecular Bone Score in Patients With Chronic Glucocorticoid Therapy-Induced Osteoporosis Treated With Alendronate or Teriparatide. Arthritis & Rheumatology 68, 2122–2128. [Pubmed link]
+
+Osteoarthritis leads to an increase in BMD. In contrast, spine TBS is not affected by it:
+
+Anderson, K.B., Holloway-Kew, K.L., Mohebbi, M., Kotowicz, M.A., Hans, D., Pasco, J.A., 2018. Is trabecular bone score less affected by degenerative-changes at the spine than lumbar spine BMD? Arch Osteoporos 13, 127. [Pubmed link]
+Kolta, S., Briot, K., Fechtenbaum, J., Paternotte, S., Armbrecht, G., Felsenberg, D., Glüer, C.C., Eastell, R., Roux, C., 2014. TBS result is not affected by lumbar spine osteoarthritis. Osteoporos Int 25, 1759–1764. [Pubmed link]
+
+TBS has gained international and national recognition and has been incorporated into several international guidelines and recommendations:
+
+Kanis, J.A., Cooper, C., Rizzoli, R., Reginster, J.-Y., the Scientific Advisory Board of the European Society for Clinical and Economic Aspects of Osteoporosis and Osteoarthritis (ESCEO) and the Committees of Scientific Advisors and National Societies of the International Osteoporosis Foundation (IOF), 2019. Executive summary of European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Aging Clin Exp Res. [Pubmed link]
+Silva, B.C., Broy, S.B., Boutroy, S., Schousboe, J.T., Shepherd, J.A., Leslie, W.D., 2015. Fracture Risk Prediction by Non-BMD DXA Measures: the 2015 ISCD Official Positions Part 2: Trabecular Bone Score. J Clin Densitom 18, 309–330. [Pubmed link]
+Harvey, N.C., Glüer, C.C., Binkley, N., McCloskey, E.V., Brandi, M.-L., Cooper, C., Kendler, D., Lamy, O., Laslop, A., Camargos, B.M., Reginster, J.-Y., Rizzoli, R., Kanis, J.A., 2015. Trabecular bone score (TBS) as a new complementary approach for osteoporosis evaluation in clinical practice. Bone 78, 216–224. [Pubmed link]
+
+Guidelines in France, Germany, Spain, the US and in several other countries recommend the use of TBS:
+
+Briot, K., Roux, C., Thomas, T., Blain, H., Buchon, D., Chapurlat, R., Debiais, F., Feron, J.-M., Gauvain, J.-B., Guggenbuhl, P., Legrand, E., Lehr-Drylewicz, A.-M., Lespessailles, E., Tremollieres, F., Weryha, G., Cortet, B., 2018. Actualisation 2018 des recommandations françaises du traitement de l’ostéoporose post-ménopausique. Revue du Rhumatisme. [Link]
+Naranjo Hernández, A., Díaz del Campo Fontecha, P., Aguado Acín, M.P., Arboleya Rodríguez, L., Casado Burgos, E., Castañeda, S., Fiter Aresté, J., Gifre, L., Gómez Vaquero, C., Guañabens Gay, N., 2018. Recomendaciones de la Sociedad Española de Reumatología sobre osteoporosis. Reumatología Clínica. [Pubmed link]
+Licata, A.A., Binkley, N., Petak, S.M., Camacho, P.M., 2018. Consensus statement by the American Association of Clinical Endocrinologists and American College of Endocrinology on the quality of DXA scans and reports. Endocrine Practice 24, 220–229. [Pubmed link]
+Pfeilschifter, J., 2015. [Diagnosing osteoporosis: what is new in the 2014 DVO guideline?]. Dtsch. Med. Wochenschr. 140, 1667–1671. [Pubmed link]
+
+A series of recent studies, and research conducted within the company, are showing promising new applications of TBS in the field of osteoporosis:
+
+Kolta, S., Etcheto, A., Fechtenbaum, J., Feydy, A., Roux, C., Briot, K., 2018. Measurement of Trabecular Bone Score of the spine by low-dose imaging system (EOS®); a feasibility study. Journal of Clinical Densitometry. [Pubmed link]
+Del Rio, L., Winzenrieth, R., Cormier, C., Hans, D., Di Gregorio, S., YEAR. TBS calculé au fémur permet la détection de la fracture de l’extrémité supérieure du fémur et ce indépendamment de la DMO. Présentation, SFR.
+Lelong, C., Stroncek, J., Howe, J., Huber, B., Hill, R., Hans, D., 2018. Local Osteo-Enhancement Procedure Increases Femoral Raw Trabecular Bone Score (rTBS) at 5-7 Year Follow-up in Osteoporotic Patients. J Bone Miner Res 32 (Suppl 1). ASBMR [Link] 
+White, R., Krueger, D., De Guio, F., Michelet, F., Hans, D., Binkley, N., 2019. A Feasibility Study Using The Texture Research Investigational Platform (TRIP) to Assess Bone Texture on VFA Lateral Spine Images To Discriminate Vertebral Fracture – Application of a Modified TBS Algorithm. Presentation, International Workshop on Quantitative Musculoskeletal Imaging.
+
+White, R; Krueger, D; De Guio, F; Michelet, F; Hans, D; Anderson, P; Binkley, N., 2019. An Exploratory Study of the Texture Research Investigational Platform (TRIP) to Evaluate Bone Texture Score of Distal Femur DXA Scans – A TBS-Based Approach. Presentation, International Workshop on Quantitative Musculoskeletal Imaging (QMSKI).
+
+© Medimaps Group, 2024
+
+Clinical Validation
+
+Electronic Instructions for Use (e-IFU)
+Request TBS iNsight™ User Manual as paper
+
+Contact
+Find Centers with TBS

@@ -1,0 +1,146 @@
+[if!(IE6)|!(IE7)|!(IE8) ]><!
+
+<![endif]
+
+ en Archivi - Previero
+ Set the viewport width to device width for mobile 
+
+ Google Tag Manager for WordPress by gtm4wp.com 
+
+ End Google Tag Manager for WordPress by gtm4wp.com 
+ This site is optimized with the Yoast SEO plugin v2.4 - https://yoast.com/wordpress/plugins/seo/ 
+
+ / Yoast SEO plugin. 
+
+ This site uses the Google Analytics by ExactMetrics plugin v7.2.0 - Using Analytics tracking - https://www.exactmetrics.com/ 
+ Note: ExactMetrics is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the ExactMetrics settings panel. 
+ No tracking code set 
+ / Google Analytics by ExactMetrics 
+ This site uses the Google Analytics by MonsterInsights plugin v8.25.0 - Using Analytics tracking - https://www.monsterinsights.com/ 
+ Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. 
+ No tracking code set 
+ / Google Analytics by MonsterInsights 
+
+ Google Tag Manager for WordPress by gtm4wp.com 
+ GTM Container placement set to footer 
+
+ End Google Tag Manager for WordPress by gtm4wp.com Themnific Styling 
+
+[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://previero.it/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif][if IE 8]><link rel="stylesheet" type="text/css" href="https://previero.it/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif] 
+
+How to reach us
+
+Technical features
+WET GRINDERS: SERIES 508
+WET GRINDERS: SERIES 60
+WET GRINDERS: SERIES 812
+WET GRINDERS: SERIES 916
+
+Technical features
+MULTI PURPOSE GRINDERS: N SERIES
+MULTI PURPOSE GRINDERS: M SERIES
+MULTI PURPOSE GRINDERS: MS SERIES
+MULTI PURPOSE GRINDERS: P SERIES
+MULTI PURPOSE GRINDERS: AS SERIES
+MULTI PURPOSE GRINDERS: DR SERIES
+MULTI PURPOSE GRINDERS: TO SERIES
+
+PELLETIZERS TYPE G
+Pelletizers Type TA 1000
+
+DISK PULVERIZER: PD 300
+DISK PULVERIZER: PD 500
+DISK PULVERIZER: PD 900
+
+Adhesive masses
+Cube dicers for rubber extrusion
+
+News
+
+19 – 26 October, 2022
+
+PREVIERO’S Booth nr. 9D29
+
+SOREMA’S Booth nr. 9D55
+
+PAD 14 STAND A 42
+
+HALL 4 STAND 630
+
+4 – 5 November, 2021
+
+PACKAGING & RECYCLING 2021
+
+29 – 30 September 2021
+
+Arese (Milan) – Italy
+
+15 – 17 September 2021
+
+Hall 2 | Booth nr. 2B469C
+
+N. is a guarantee of reliability and quality in rubber industry.
+
+PREVIERO N. SRL (Hall 2 – Booth N° 2B469) will attend the 21st edition of Rubber Tech China in Shanghai to show the visitors its machines and technologies in the field of rubber industry.
+
+Among Previero’s many activities, we would like to specifically introduce our grinding and homogenizing lines for natural and synthetic rubber to feed internal mixers, extruders or solvent units. Our technologies are widely used in tyres industry, rubber polymerization factory, in production of rubber compounds, polymeric alloys (TPV – TPU) and adhesive masses.
+
+Previero has more of 60 years of experience and his brand is a guarantee of reliability and quality in rubber industry and technology. We daily work side by side with our customers in the field of rubber grinding, in order to develop our machines according to their needs, aiming at always reaching the mandatory high standard worldwide requested by the chemistry and tyres production industries.
+
+Our grinders are able to keep to minimum the temperature increase between the inlet and the outlet of ground material, at the same time optimizing the energy consumption.  They are also excellent in processing sticky and soft rubber with a minimum demand in anti-sticking liquid and powder.
+
+In order to offer complete production lines, our range of product includes the following machines:
+
+Grinders with output from 150kg/h up to 20.000 kg/h,
+
+Dynamic storage and blender units with capacity from 100kg/h up to 10.000 kg/h.
+
+Rubber bales guillotines, with fully adjustable set up of cutting length and weight control.
+
+Liquid and powder anti-sticking dosing units
+
+Rubber material handling and transport systems  
+
+Plastics Recycling World Expo 2021
+
+29 – 30  September 2021
+
+14 – 18 September, 2021
+
+13 – 16 April 2021
+
+Hall 10 | Booth nr. E41
+
+Packaging & Recycling Forum 2020
+
+29 – 30 September 2020
+
+ end post 
+ end latest posts section
+
+1
+2
+
+5
+
+La società PREVIERO appartiene alla famiglia PREVIERO da 3 generazioni. All’inizio degli anni ’20, Natale Previero inizia la propria attività con la rappresentanza di macchine per l’industria tessile e del legno nel territorio di Como.
+
+PREVIERO 
+
+Downloads
+Privacy & Cookie Policy
+
+ PREVIERO N. S.R.L. Via per Cavolto, 17 22040 Anzano del Parco (COMO) Italy - C.F. e P.IVA 00098470131
+
+ GTM Container placement set to footer 
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ Shortcodes Ultimate custom CSS - start 
+
+ Shortcodes Ultimate custom CSS - end 
+ Cookie Notice plugin v2.4.16 by Hu-manity.co https://hu-manity.co/ 
+This site uses cookies to perform activities strictly necessary for the operation of the same. By giving consent you allow the collection of additional anonimous statistical information on your browsing:AcceptRead more
+
+ / Cookie Notice plugin

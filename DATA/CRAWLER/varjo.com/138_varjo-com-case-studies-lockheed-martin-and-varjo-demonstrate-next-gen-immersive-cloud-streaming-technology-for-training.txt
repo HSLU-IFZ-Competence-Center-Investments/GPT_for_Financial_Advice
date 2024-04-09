@@ -1,0 +1,106 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+Lockheed Martin Demonstrates Next-Gen Cloud Streaming for Training
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Your browser does not support the video tag.
+
+Lockheed Martin and Varjo Demonstrate Next-Gen Immersive Cloud Streaming Technology for Training
+
+Lockheed Martin is one of the early adopters of Varjo’s high-fidelity VR/XR cloud streaming solution Varjo Reality Cloud, enabling them to experiment with new ways to scale up the distribution and management of their immersive training applications.
+
+As part of a unique collaboration, Lockheed Martin and Varjo have been able to demonstrate cloud streaming technology as a means of ushering in a whole new era of efficiency for cross-organisational VR and XR simulation deployment. 
+
+Leading aerospace, defence, and advanced technology corporation Lockheed Martin and Varjo share a successful history of collaboration, dating back to the inception of Varjo. The long-standing relationship has enabled the companies to collaborate on various innovative solutions to better serve customers in the training and simulation space.
+
+Lockheed Martin is now one of the early pioneers in adopting the Varjo Reality Cloud, Varjo’s new immersive streaming technology for distributing advanced virtual and mixed reality content.
+
+Pioneering the future of cloud-based training
+
+When discussing the ongoing work with Varjo Reality Cloud, Nigel Jones, Chief Systems Architect at Lockheed Martin, describes the cloud as the way of the future and Lockheed Martin is excited to be at the forefront of this technology. The ability to scale up to match the levels of training that their customers require is a critical priority for Lockheed Martin.
+
+“Varjo were one of the early adopters of this kind of technology and it’s proven to be very useful for us to be able to evaluate what the capability could actually do,” says Jones. “We’re keen to experiment further and see where we can take it in terms of training capability.”
+
+Varjo Reality Cloud enables immersive users to collaborate with ease, share immersive content in up to human-eye resolution, and streamline training workflows. With Varjo Reality Cloud, training and simulation providers can create and share training scenarios, allowing trainees to experience realistic simulations in a readily accessible, controlled environment. The cloud makes it easy to share, and experience these types of simulations in high resolution and with minimal hardware requirements, making them accessible to professionals in all skill levels and circumstances.
+
+Expanding deployment and unlocking access to VR/XR training
+
+Lockheed Martin’s Unreal Engine -based XR training demonstration, showcased at I/ITSEC 2022, utilized a custom Varjo Reality Cloud configuration to remotely manage heavy rendering loads.
+
+This setup enables the use of the professional grade Varjoheadset tethered to a relatively low-cost laptop, which is a major step down in cost from the usual high-end workstations required to power professional grade VR and XR content. This reduction in hardware requirements could allow Lockheed Martin to greatly increase the deployment scope of highly demanding professional simulations. The ability to centralize content management and compute power and use more affordable, smaller footprint devices holds potential for major cost savings.
+
+“For a customer having to buy lots of high-end PCs to distribute widely around their training sites is not an attractive business model. If you can reduce the harbor requirements of your deployed systems, you can save money,” says Jones. “And the ability to centralize your computing power and use far thinner clients is very attractive from a business and price perspective.”
+
+Streamlined solution for sharing and managing VR/XR content at scale
+
+Key benefits of Varjo Reality Cloud for training and simulation:
+
+Streamlined way of delivering software and applications to users at an individual, or organisation-wide, scale
+Ability to manage software versions, configurations, and updates more efficiently
+Reduced costs from driving down the system requirements for local hardware procurement and maintenance
+
+Varjo Reality Cloud streamlines the management and distribution of VR/XR content across entire teams, offering an effortless means of delivering training simulations to Lockheed Martin’s trainees in any location. Unlike conventional high-end simulators that are typically static and confined to barracks or fixed locations, the cloud overcomes this limitation by providing an easily deployable and user-friendly experience for trainees regardless of their location.
+
+“VR allows us to transition our common software baseline into a different means of delivery, so it is very easy to take a VR headset and a PC and use that on a deployed exercise,” Jones explains. Moreover, Varjo Reality Cloud offers additional benefits for Lockheed Martin as a simulations provider, offering them additional tools for distributing software versions from a central source and controlling their use.
+
+“The cloud provides us with the means of managing the configuration of our software a lot more efficiently. If I can distribute to user sites from a central source and control what versions they’re using, for me, that is obviously an attractive way of delivering software and applications to the user.”
+
+Varjo Reality Cloud is the industry’s only out-of-the-box streaming solution that can handle low latency VR and XR experiences in up to human eye resolution. 
+
+explore varjo reality cloud
+
+Learn more about the power of combining cloud streaming and immersive content:
+
+How KPF is Transforming Architectural Visualization with Varjo’s Virtual Reality
+
+Varjo Named One of the World’s Most Innovative Companies by Fast Company for 2023
+
+Special Event: Introducing Unity and Unreal Streaming With Varjo Reality Cloud
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

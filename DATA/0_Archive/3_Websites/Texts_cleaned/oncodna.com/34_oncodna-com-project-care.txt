@@ -1,0 +1,86 @@
+ReceiveCustomerOnboardingforOncoDNAservices&products
+
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySiteKit
+
+ Google Tag Manager snippet added by Site Kit 
+
+ End Google Tag Manager snippet added by Site Kit 
+
+ Google Tag Manager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solid Biopsy (OncoDEEP® Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+A commited team to providing you with assistance at every stage of your project 
+
+Our support teams composed of s (FAS), Product Scientific and Customer support will be by your side to assist you and guide you throughout every step of the process, from sample preparation to data interpretation. They are dedicated to providing you with the necessary assistance and expertise to ensure a smooth and successful experience. 
+
+As part of the implementation process, we will provide you with protocols tailored to your specific needs and offer advice on the most suitable equipment for running the OncoDEEP® Kit efficiently.
+
+We optimize lab process by beta-testing the OncoDEEP® Kit using lab’s data that have been already processed. By comparing the results, we can improve the process and aim for the best balance between operational time and cost optimization.
+
+Our Field Application Scientists (FAS) will arrange an onsite wet lab training session to assist you in achieving optimal sample and library preparation for sequencing.
+
+After sequencing, our dedicated customer support team will guide you through the process of uploading your data to our cloud platform, providing any necessary reminders and outlining specific requirements to ensure your results are promptly and accurately analyzed.
+
+Once your data is generated and analysis-ready on the platform, our expert customer and scientific support team will provide you with OncoKDM or Mercury software training, ensuring that you feel confident generating your final reports independently.
+
+If your team have any scientific concerns regarding the analysis results, they will have the opportunity to bring them up during a dedicated meeting with our scientific support team.
+
+Building strong customer relationships through training fosters long-term partnerships by establishing trust, collaboration, and customer confidence in leveraging our products to achieve their goals.
+
+Field Application Specialist
+
+ Gridbuilder ᵂᴾ Plugin (https://wpgridbuilder.com) 
+
+ Lab Case
+Enhancing HRD Genomic Scar Result Interpretation: New Insights and Strategies5 min readingSep 29th
+
+What is HRD Genomic Scar? The HRD Genomic Scar (GS) is essentially a collection of genetic changes or signatures that indicate a cell’s inability to repair DNA damage effectively using this specific DNA repair pathway....Read more → Lab Case
+Revolutionizing laboratory operations with OncoDEEP® Kit4 min readingJun 18th
+
+Biomarker testing is critical to learning more about each patient’s tumor type and can be used to help determine treatment options. Based on the test results, patients may be matched with targeted therapies aimed at...Read more → 
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+Support 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+Manage consent
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712118998

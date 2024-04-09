@@ -1,0 +1,121 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+Real Response is Transforming Aeromedical Training with Mixed Reality
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Your browser does not support the video tag.
+
+Reimagining Aeromedical Training: How Real Response is Transforming the Way We Learn with Mixed Reality
+
+Australian simulation training provider Real Response is leveraging Varjo’s mixed reality to solve aeromedical teams’ greatest training challenge: access to live airframes.
+
+Disrupting the Industry With New Effective Tools
+
+Key benefits of XR for Aeromedical training:
+
+Allowing learning in environments which are often expensive to access, use, and maintain
+Eliminating logistical issues with accessing real aircraft for training, including aircraft and pilot availability and maintenance
+Removing the limitations of time and place and reducing issues associated with trainee/trainer availability and location
+Flexibility: the system can be used to address a range of training issues beyond aeromedical for Army, Navy, Air Force and Marine Corp applications
+
+Founded in 2014, Australian training company Real Response provides simulation-based training for over 30,000 students annually across Australia and the globe. They specialise in medical, trauma and safety training for both defence and civilian sectors, with the aim of empowering people with vital skills to navigate critical situations.
+
+Real Response initially started by disrupting traditional CPR and First Aid training through live simulation and the use of props such as fake blood, smoke, and sound effects. As they continued to grow, the company expanded their training offerings to include fire training, mental health first aid training, tactical medicine, and advanced medical training, all following their methodology of simulation and immersive learning.
+
+Real Response’s philosophy is to focus on providing the best outcome for the user and the student, using whatever is the most effective tool. When considering medical training, which requires a high level of dexterity and fine motor skills, they turned to Varjo’s mixed reality to provide a highly immersive and accessible training experience with the goal of filling a gap in the market.
+
+Challenge: Limitations in Providing Cost-Effective and Scalable Training
+
+Real Response, a company made up of clinicians and educators with medical backgrounds, encountered the difficulties of accessing airframes for both defence and civilian aeromedical training. Limitations in cost, availability of crew and aircraft, weather conditions, maintenance, and high operating costs led the team to find a technological solution for this problem.
+
+They turned their focus to immersive technologies and drew inspiration from Professor Bob Stone’s work on his mixed reality Medical Emergency Response Team training simulator at the University of Birmingham and with the UK Ministry of Defence.
+
+Real Response released their first virtual reality application in 2018, followed by the launch of an XR department in 2020, allowing them to develop advanced, cost-effective virtual, augmented, desktop, and mixed reality solutions with Varjo’s headsets.
+
+The Solution: Fully Immersive Mixed Reality Platform for Medical Training
+
+Their BlueRoom™ simulation platform, developed with the support of the Australian Defence Innovation Hub, enables students to train for complex medical scenarios in a mixed reality environment.
+
+Varjo’s Focal Edition headset allows trainees to interact with real-world objects and develop their fine motor skills effectively. “Varjo’s headset was the only one on the market capable of doing what we needed,” says , Founder and Director of Future Projects at Real Response. “High resolution visuals are crucial in our simulations, and with the Focal Edition, the level of definition is beyond comparison. We are able to read the fine-print on a 1ml drug ampule and to visualise the epiglottis as we perform an airway intubation.”
+
+The BlueRoom™ simulation platform features a mission control system that allows the instructor to change the scenario in real-time, creating infinite possibilities. This gives the instructor full control over the training environment, allowing them to facilitate and adjust all aspects of the simulation, such as manipulating the patient’s blood pressure based on the student’s actions.
+
+Real Response is also working with Garmin to integrate biometrics into mixed reality, enabling them to analyse student stress levels during simulations and optimise scenarios for better learning outcomes. They are also working on an AI engine that can interpret the baseline stress level of the user and make recommendations to the instructor.
+
+Concrete Benefits from Filling a Much-Needed Gap
+
+Real Response provides live simulation training to over 30,000 students each year using traditional methods. However, mixed reality provides a unique benefit when live simulation or real-world experience cannot be achieved. It allows learning in environments which are often expensive to access, use, and maintain, and reduces issues associated with trainee/trainer availability.
+
+The use of Varjo headsets has enabled Real Response to provide training in environments that may not be accessible in the real world, allowing for more comprehensive and diverse training scenarios such as training for emergency medical procedures in space.
+
+“The high-quality products and assistance that Varjo provides really meet both our, and our clients’ needs, and it’s great to have a strong partnership with such a dependable company.”
+
+Benjamin Krynski
+ -
+ Founder and Director of Future Projects at Real Response
+
+Strong Partnership for Pioneering the Future of Simulated Training 
+
+Real Response is dedicated to creating impactful and life-saving learning experiences. To achieve this goal, they seek trustworthy partnerships with reliable companies. Benjamin Krynski praises Varjo for their support.  “The high-quality products and assistance that Varjo provides really meet both our, and our clients’ needs, and it’s great to have a strong partnership with such a dependable company.”
+
+Real Response’s use of Varjo’s Focal Edition headsets in medical training has left a lasting impression on their clients and partners. The high-definition visuals and hand tracking capabilities have amazed many who have never seen the technology before.
+
+Real Response is committed to staying ahead of the curve in their field, with a vision of a future where training and simulation experiences resemble the level of futurism depicted in science fiction. Krynski is excited about the future of their relationship with Varjo.  “I am excited to continue exploring the possibilities of mixed reality technology to improve medical training. The possibilities are endless, and I’m eager to see where this technology will take us.”
+
+Learn more about pioneering use cases for VR/XR in the medical field:
+
+: How to Leverage Mixed Reality for Medical Simulation Training
+
+Webinar
+
+How Lucid Reality Labs and Roche Raise Awareness for Macular Disease with Varjo Mixed Reality
+
+Transforming Anatomy Education with Virtual and Mixed Reality – Case Touch of Life Technologies
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

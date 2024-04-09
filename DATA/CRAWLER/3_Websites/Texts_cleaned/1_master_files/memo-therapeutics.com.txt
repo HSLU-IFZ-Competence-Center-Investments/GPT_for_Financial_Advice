@@ -1,0 +1,593 @@
+
+
+1_MEMO-THERAPEUTICS-COM
+
+- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Home
+
+ABOUT MEMO THERAPEUTICS AG
+
+Memo Therapeutics AG (”MTx”) is a late-stage biotech company developing best-in-class therapeutic antibodies to transform the lives of patients with virus infections and cancer. MTx’ lead program, AntiBKV, is a highly effective and safe neutralizing antibody to treat BK virus infection in kidney transplant recipients. This infection can lead to loss of kidney function, as well as organ failure and rejection. AntiBKV has successfully completed Phase I with no safety concerns, with Phase II (POC) data expected in H1 2025. MTx’ pipeline consists of additional therapeutic antibodies focusing on infectious diseases, such as cytomegalovirus (“CMV”), undisclosed immuno-oncology targets as well as a partnership with Ono Pharmaceutical.
+
+The pipeline derives from MTx’ industry-leading throughput and functional screening capabilities, which can cover the entire antibody repertoire. Using its immortal cell libraries and unique nano droplet technology, MTx identifies and isolates the most potent antibodies based on functionality at an unprecedented rate, including discovering ultra-rare antibodies that competing technologies fail to identify.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+
+
+
+2_MEMO-THERAPEUTICS-COM-PIPELINE-HTML
+
+- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Pipeline
+
+Memo Therapeutics AG’s (“MTx”) lead program, , is a highly effective and safe neutralizing antibody to treat BK virus infection in kidney transplant recipients. MTx’ pipeline consists of additional therapeutic antibodies focusing on infectious diseases, such as cytomegalovirus (“CMV”), undisclosed immuno-oncology targets as well as a partnership with Ono Pharmaceutical.
+
+Our infectious diseases arm reflects this approach by selecting rare patients as donors for antibody discovery who were able to successfully clear a viral infection.
+
+Our first anti-infectious program addresses an unmet medical need in immune-compromised patients that suffer from infection by a normally harmless virus. Our development candidate is a broadly neutralizing antibody sourced from clinically selected donors showing a high potency for virus neutralization and inhibition of re-infection.
+
+AntiBKV
+
+MTx’ lead program, AntiBKV, is a highly effective and safe neutralizing antibody to treat BK virus infection in kidney transplant recipients. This infection can lead to loss of kidney function, as well as organ failure and rejection. AntiBKV has successfully completed Phase I with no safety concerns, with Phase II (POC) data expected in H1 2025.
+
+Please find our Expanded Access Policy here.
+
+Human antibody repertoire libraries
+
+Memo Therapeutics AG is establishing antibody repertoire libraries from diverse cohorts of clinically selected human donors in order to be able to address a diverse set of antibody or target discovery projects.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+
+
+
+3_MEMO-THERAPEUTICS-COM-TECHNOLOGY-HTML
+
+- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Technology
+
+Memo Therapeutics AG’s (“MTx”) industry-leading throughput and functional screening capabilities can cover the entire antibody repertoire derived from a patient sample or vaccinated animal. Using its immortal cell libraries and unique nano droplet technology, MTx identifies and isolates the most potent antibodies based on functionality at an unprecedented rate, including discovering ultra-rare antibodies that competing technologies miss.
+
+antibody discovery in humans
+
+The human as source of therapeutic antibody candidates offers the unique opportunity to increase the chance for clinical success of a candidate antibody by selecting donors that present with favorable clinical outcomes.
+
+antibody discovery in rabbits
+
+The platform is an outstanding tool to tap into the wealth of the antibody repertoires of any species. As a first animal host we selected the rabbit due to its ability to generate antibodies against human proteins with higher affinity and greater diversity compared to other rodents. Applying our technology with immunized rabbits we expect to identify 10-100x more antibodies compared to conventional technologies with an unmatched epitope coverage and high affinities. Our high-content-interrogation of the repertoire libraries using our microfluidic screening technologies delivers portfolios of antibodies with the desired features in weeks. The full compatibility of the our technology system for subsequent functional and animal studies speeds up discovery and development timelines considerably.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+
+
+
+4_MEMO-THERAPEUTICS-COM-PEOPLE-HTML
+
+- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+People
+
+Mr. Erik van den Berg
+
+Dr. Gerald P. Parzmair
+
+VP Technology and Operations
+
+VP CMC & Supply Chain Management
+
+Elias Papatheodorou, Independent Chairman 
+
+Elias Papatheodorou has over 20 years of C-level experience in all aspects of pharmaceutical commercialization, including sales & marketing, business development, M&A, and operations. He has a proven track-record of managing clinical-stage organizations and preparing them for sale. He is currently the CEO of Genkyotex, which was sold to Calliditas Therapeutics, and was previously the CBO at Covagen, which was acquired by Janssen Pharmaceuticals.
+
+Dr. Philippe Dro, Investor Representative
+
+Dr. Philippe Dro serves a Partner at Adjuvant Capital. He is trained in industrial pharmacy and finance. He has built a successful career in the European biotech and medtech sectors, serving on the boards of several startup and scaleups, initiating and executing notable strategic transactions. His experience includes CEO of GlycoVaxyn, leading it through to its acquisition by GSK. Before that, he led Endoart as CEO through a successful turnaround leading to its acquisition by Allergan.
+
+Dr. Veronica Gambillara Fonck, Investor Representative
+
+Veronica Gambillara Fonck serves as Partner at Pureos Bioventures. She has been a founder CEO of GlycoEra, a Zurich-based company with a glycoengineering platform for novel antibodies in autoimmune diseases, oncology and neurology. She was also a co-founder and the CEO of LimmaTech Biologics, a spin-off of GlycoVaxyn to service GSK. Before that, Veronica was in the executive team of GlycoVaxyn developing innovative vaccines for infectious diseases. She was instrumental in the acquisition of the company by GSK in 2015. Veronica is a bioengineer with a PhD in life science from the EPFL Lausanne.
+
+Dr. Robert Schier, Investor Representative
+
+Robert Schier joined Swissanto Invest at Zürcher Kantonalbank in 2018 as Member of Senior Management, Investment Director PE/VC. He has many years' experience in the healthcare and life sciences sector with background in biotech and as investment director and/or partner in various venture capital firms, such as Inventages Venture Capital and Seventure Partners.Robert Schier holds a degree in pharmacy from the University of Vienna and a PhD in biotechnology from the University of Natural Resources and Life Sciences, Vienna. He received the Keystone Award for Excellence in Research for his outstanding doctoral thesis, which he completed at the University of California, San Francisco. Dr Schier then completed an executive MBA programme at the European University Munich and is the author of several scientific publications and patents.
+
+Dr. Christian Schneider, Investor Representative
+
+Dr. Christian Schneider serves as Managing Partner at Vesalius Biocapital. He has extensive work and investment experience in the areas of diagnostics, medtech and therapeutics. Before transitioning to venture capital, he held various positions in R&D at Boehringer Mannheim and Centocor. Christian holds a PhD in immunology from the University of Munich and an MBA from Penn State University.
+
+Dr. Christoph Esslinger, CSO, Board Member 
+
+Christoph Esslinger is the CSO and scientific founder of Memo Therapeutics AG and a pioneer of the discovery of therapeutic antibody candidates directly from human donors for immunotherapy of Alzheimer’s Disease and cancer. Prior to founding Memo Therapeutics AG he held senior positions at CT Atlantic AG, Neurimmune AG and in academia. Christoph Esslinger holds a diploma in Technical Biology from University of Stuttgart and a PhD in Molecular Immunology from the Ludwig Institute for Cancer Research, Lausanne Branch and University of Lausanne.
+
+Scientific Advisory Board Members
+
+Prof. Dr. Dr. h.c. Stefan Kaufmann
+
+Stefan Kaufmann is an immunologist and microbiologist with focus on infection biology. He received his PhD at the University of Mainz in 1977 and his habilitation in immunology and microbiology at the Free University Berlin in 1981.Currently, he is director of the Department of Immunology at the Max Planck Institute for Infection Biology in Berlin, for which he served as founding director since 1993. Since 1998 he is also professor for immunology and microbiology at the Charité Berlin.
+
+Prof. Dr. med. Bodo Plachter
+
+Bodo Plachter is Professor of Medicine and Deputy Director of Virology at the University of Mainz.Research topics include analysis of virus host interaction with particular emphasis on innate host defense mechanisms, intracellular transport of viral proteins and particle assembly, and development of subviral Dense Bodies as a vaccine candidate against HCMV infection.
+
+Dr. med. Michael Hodges
+
+Michael Hodges is an experienced and successful pharmaceutical industry veteran. He is currently supporting a number of biotechnology companies and VCs in the role of drug development consultant, scientific advisor and/or non-executive board director.Michael Hodges was previously the CMO of Amplyx Pharmaceuticals, developing small molecule and monoclonal antibody drug treatments for life-threatening viral and fungal infections in immunocompromised patients. The company was acquired by Pfizer, Inc. Prior to Amplyx he was the CMO and head of drug development for Santaris A/S, developing RNA targeting drug treatments for chronic viral diseases, cancer, metabolic/lipid and eye diseases. The company was acquired by Hoffman-La Roche, AG.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+
+
+
+5_MEMO-THERAPEUTICS-COM-CAREERS-HTML
+
+- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Careers
+
+Working at Memo Therapeutics AGAt Memo Therapeutics AG, our teams work diligently on the development of best-in-class therapeutic antibodies to transform the lives of patients with virus infections and cancer. We have a diverse team that collaborates across functions and cultures on a shared goal. We promote a spirit of excellence and truly believe that this can only be reached if we put our common goal above our individual goals. We are always interested in meeting talented and highly skilled candidates who want to contribute to this purpose and are attracted by this proposition.
+
+In case you are interested in Memo Therapeutics AG, related to a job opening or in an open application, please send us your resume and motivation letter to jobs@memo-therapeutics.com.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+
+
+
+6_MEMO-THERAPEUTICS-COM-NEWS-HTML
+
+-Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+News
+
+05.02.2024 08:34 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Strengthens Management Team
+
+Schlieren / Zurich, Switzerland, February 5, 2024 – Memo Therapeutics AG (or “MTx”), a late-stage biotech company developing best-in-class therapeutic antibodies for viral infections and oncology, announced today that it has strengthened its senior team with the appointments of Kristie B. Clemmer and Dr. Maartje Verschuur as VP Clinical Operations and VP CMC and Supply Chain Management, respectively, effective today. 
+
+ Memo Therapeutics AG Strengthens Management Team
+
+16.11.2023 08:30 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Appoints Erik van den Berg as Chief Executive Officer
+
+Schlieren / Zurich, Switzerland – November 16, 2023 – Memo Therapeutics AG (“MTx”), a late-stage biotech company developing best-in-class therapeutic antibodies, announced today the appointment of Erik van den Berg as Chief Executive Officer (CEO). Mr. van den Berg joins MTx with over 25 years’ industry experience and proven track record in leading and growing companies. 
+
+ Memo Therapeutics AG Appoints Erik van den Berg as Chief Executive Officer
+
+02.11.2023 08:30 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Raises CHF 25 Million Series C Financing to Complete Phase II Clinical Development of AntiBKV for BKV Infection in Renal Transplant Patients
+
+Schlieren / Zurich, Switzerland – November 2, 2023 – Memo Therapeutics AG (“MTx”), a late-stage biotech company developing best-in-class therapeutic antibodies, announced today the closing of a CHF25 million Series C financing led by Pureos Bioventures. Existing investors Swisscanto, Vesalius Biocapital, Adjuvant Capital, Verve Ventures, Schroders Capital, GF Group, Fresenius Medical Care Ventures and Red Alpine joined in the round. 
+
+ Memo Therapeutics AG Raises CHF 25 Million Series C Financing to Complete Phase II Clinical Development of AntiBKV for BKV Infection in Renal Transplant Patients
+
+22.06.2023 08:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Starts U.S. Pivotal Phase II/III Clinical Trial with AntiBKV for Treatment of BKV Infection in Renal Transplant Patients
+
+Schlieren / Zurich, Switzerland – June 22, 2023 – Memo Therapeutics AG (“MTx”), a late-stage biotech company developing best-in-class therapeutic antibodies, announced today that the first patient has been enrolled in a pivotal, multicenter U.S. Phase II/III trial of AntiBKV, MTx’s antibody therapeutic that targets BK polyomavirus (“BKV”) infection in renal transplant patients. MTx recently received Fast Track designation for AntiBKV from the U.S. Food and Drug Administration (“FDA”). 
+
+ Memo Therapeutics AG Starts U.S. Pivotal Phase II/III Clinical Trial with AntiBKV for Treatment of BKV Infection in Renal Transplant Patients
+
+02.05.2023 08:30 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Receives FDA Fast Track Designation for AntiBKV as Treatment of BKV Infection in Renal Transplant Patients
+
+Schlieren / Zurich, Switzerland – May 2, 2023 – Memo Therapeutics AG (“MTx”), a biotech company developing best-in-class therapeutic antibodies, announced today that the U.S. Food and Drug Administration (“FDA”) has granted Fast Track designation to AntiBKV, MTx’s lead antibody therapeutic that targets BK polyomavirus (“BKV”) infection commonly seen in renal transplant patients. AntiBKV has successfully completed a phase I clinical study and following FDA clearance has started actively recruiting patients for a pivotal phase II/III clinical trial. 
+
+ Memo Therapeutics AG Receives FDA Fast Track Designation for AntiBKV as Treatment of BKV Infection in Renal Transplant Patients
+
+24.01.2023 08:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Announces Positive Phase I Data with AntiBKV for Treatment of BKV Infection in Renal Transplant Patients
+
+Schlieren / Zurich, Switzerland – January 24, 2023 – Memo Therapeutics AG (“MTx”), an innovator in the field of antibody discovery and development, announced today positive safety and tolerability data from a Phase I clinical trial with AntiBKV, an antibody targeting BK polyomavirus (“BKV”) infection in renal transplant patients, meeting its primary endpoint 
+
+ Memo Therapeutics AG Announces Positive Phase I Data with AntiBKV for Treatment of BKV Infection in Renal Transplant Patients
+
+01.11.2022 08:30 | Memo Therapeutics AG 
+
+Memo Therapeutics AG and Ono Pharmaceutical Enter Antibody Discovery Partnership for Immuno-oncology Targets
+
+Schlieren / Zurich, Switzerland, and Osaka, Japan – November 1, 2022 – Memo Therapeutics AG (“MTx”), an innovator in the field of antibody discovery and development, announced today the signing of a research and development collaboration agreement with Ono Pharmaceutical Co. Ltd (“Ono”). 
+
+ Memo Therapeutics AG and Ono Pharmaceutical Enter Antibody Discovery Partnership for Immuno-oncology Targets
+
+31.05.2022 08:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG initiates phase 1 clinical study of MTX-005 against BK virus infection
+
+Schlieren / Zurich, Switzerland – Mai 31, 2022 – Memo Therapeutics AG (“MTx”), an innovator in the field of antibody discovery and development, announced today the initiation of a phase 1 clinical study targeting BK polyomavirus (“BKV”) infection in renal transplant patients. 
+
+ Memo Therapeutics AG initiates phase 1 clinical study of MTX-005 against BK virus infection
+
+27.04.2022 10:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG initiates phase 1 clinical study of COVAB 36 against SARS-CoV-2
+
+Schlieren, Switzerland – April 27, 2022 – Memo Therapeutics AG (“MTx”), an innovator in the field of antibody discovery and development, announced today the initiation of a phase 1 clinical study of COVAB 36, a potent, fully-human monoclonal antibody for the treatment of SARS-CoV-2 infections. 
+
+ Memo Therapeutics AG initiates phase 1 clinical study of COVAB 36 against SARS-CoV-2
+
+16.02.2022 07:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Closes Series B Financing at CHF37 Million Following Oversubscribed CHF23 Million Extension
+
+Schlieren, Switzerland – February 16, 2022 – Memo Therapeutics AG (“MTx”), an innovator in the field of antibody discovery and development, announced today the close of an oversubscribed Series B financing round led by Swisscanto Invest at CHF37 million after securing an additional CHF23 million from a combination of strategic and financial investors, including Adjuvant Capital, Fresenius Medical Care Ventures, GF Group, Verve Ventures, Vesalius Biocapital and Zürcher Kantonalbank. 
+
+ Memo Therapeutics AG Closes Series B Financing at CHF37 Million Following Oversubscribed CHF23 Million Extension
+
+13.12.2021 08:30 | Memo Therapeutics AG 
+
+Memo Therapeutics AG to Receive CHF 10.5 Million from Swiss Federal Funding Programme to Clinically Develop SARS-CoV-2 Antibody Against COVID-19
+
+Schlieren, Switzerland – December 13, 2021 – Memo Therapeutics AG (“Memo”), an innovator in the field of antibody discovery and development, announced today the receipt of CHF 10.5 million from the Swiss Federal Funding Programme for COVID-19 Medicines to clinically develop COVAB 36, a potent, fully-human monoclonal antibody for the treatment of SARS-CoV-2 infections. 
+
+ Memo Therapeutics AG to Receive CHF 10.5 Million from Swiss Federal Funding Programme to Clinically Develop SARS-CoV-2 Antibody Against COVID-19
+
+06.07.2021 10:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Appoints Seasoned Executives Elias Papatheodorou as Chairman and Dr. Thomas Taapken as Member to Board of Directors
+
+Schlieren, Switzerland – July 6, 2020 – Memo Therapeutics AG (“Memo”), an innovator in the field of antibody discovery and development, announced today the appointment of Elias Papatheodorou as Chairman of the Board of Directors. He is joined by Dr. Thomas Taapken, who has been elected as a Member of the Board of Directors. 
+
+ Memo Therapeutics AG Appoints Seasoned Executives Elias Papatheodorou as Chairman and Dr. Thomas Taapken as Member to Board of Directors
+
+16.06.2021 10:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG announces appointment of Dr. George Badita as Chief Medical Officer and Lars Spenger as Head of Finance and Administration
+
+Schlieren, Switzerland – June 16, 2020 – Memo Therapeutics AG (“Memo”), an innovator in the field of antibody discovery and development, announced today the appointment of Dr. George Badita as Chief Medical Officer and Lars Spenger as Head of Finance and Administration. 
+
+ Memo Therapeutics AG announces appointment of Dr. George Badita as Chief Medical Officer and Lars Spenger as Head of Finance and Administration
+
+17.05.2021 10:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Antibodies Against SARS-CoV-2 Show Efficacy Against British and South African Variant
+
+Schlieren, Switzerland – May 17, 2020 – Memo Therapeutics AG , an innovator in the field of antibody discovery and development, announced today that MTX-COVAB, its human-derived antibody against SARS-CoV-2, the virus that causes COVID-19, has shown efficacy against both the original virus as well as the UK variant (B.1.1.7).  Memo Therapeutics AG is now preparing MTX-COVAB for clinical evaluation. 
+
+ Memo Therapeutics AG Antibodies Against SARS-CoV-2 Show Efficacy Against British and South African Variant
+
+03.12.2020 10:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG’s Antibody Against SARS-CoV-2 Demonstrates Potent Therapeutic and Prophylactic Activity in Advanced COVID-19 Disease Model
+
+Schlieren, Switzerland – December 3, 2020 – Memo Therapeutics AG, an innovator in the field of antibody discovery and development, announced today that MTX-COVAB, its human-derived antibody against SARS-CoV-2, the virus that causes COVID-19, has demonstrated outstanding efficacy in an animal model of the infection, both in a treatment and a prophylactic setting. MTX-COVAB was also found to have virus neutralizing potency (IC50= 40pM), which is comparable or better to that of the leading antibody therapies in development, and cross-neutralizes all clinically relevant virus mutants. MTX-COVAB is a fully human antibody isolated from clinically selected convalescent COVID-19 patients. Data have been made available on the bioRxiv.org pre-print server. 
+
+ Memo Therapeutics AG’s Antibody Against SARS-CoV-2 Demonstrates Potent Therapeutic and Prophylactic Activity in Advanced COVID-19 Disease Model
+
+06.11.2020 08:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Raises CHF 14 Million in a Series B Financing Round
+
+Schlieren, Switzerland – November 6, 2020 – Memo Therapeutics AG, an innovator in the field of antibody discovery and immune repertoire analysis, announced today that the company has raised CHF 14 million in Series B financing. The round was led by Swisscanto Invest by Zürcher Kantonalbank and included BERNINA BioInvest, as well as new private investors and existing investors Investiere, Schroder Adveq, Jaquet Partners, and Redalpine. 
+
+ Memo Therapeutics AG Raises CHF 14 Million in a Series B Financing Round
+
+14.08.2020 10:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG and Northway Biotechpharma collaborate on the fast-track manufacturing of a SARS-CoV-2-neutralizing antibody for the therapy of COVID-19
+
+Schlieren, Switzerland, and Vilnius, Lithuania – August 11, 2020 – Swiss biotech company Memo Therapeutics AG (MTx), and Northway Biotechpharma (Northway), a leading biopharmaceutical Contract Development and Manufacturing Organization (CDMO), announce a new partnership to develop a fast-track manufacturing path for MTx’s therapeutic COVID-19 antibody candidate. 
+
+ Memo Therapeutics AG and Northway Biotechpharma collaborate on the fast-track manufacturing of a SARS-CoV-2-neutralizing antibody for the therapy of COVID-19
+
+25.06.2020 10:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG and Northway Biotechpharma sign a Development and Manufacturing Agreement
+
+Zurich, Switzerland, and Vilnius, Lithuania – June 25, 2020 – Memo Therapeutics AG and Northway Biotechpharma, a leading biopharmaceutical Contract Development and Manufacturing Organization (CDMO), have signed a Development and Manufacturing Agreement for a therapeutic antibody. 
+
+ Memo Therapeutics AG and Northway Biotechpharma sign a Development and Manufacturing Agreement
+
+04.06.2020 10:00 | Memo Therapeutics AG 
+
+Memo Therapeutics AG identifies potent SARS-CoV-2-neutralizing antibodies from the blood of recovered COVID-19 patients
+
+Schlieren, Switzerland – 4 June 2020 – Memo Therapeutics AG (“MTx”), an innovator in the field of antibody discovery and immune repertoire analysis, today announces that it has identified several SARS-CoV-2-specific virus-neutralizing antibodies with the potential for development as a COVID-19 immunotherapy. 
+
+ Memo Therapeutics AG identifies potent SARS-CoV-2-neutralizing antibodies from the blood of recovered COVID-19 patients
+
+18.03.2020 09:00 | Memo Therapeutics AG 
+
+Discovery of SARS-CoV2-neutralizing antibodies from COVID-19 patients
+
+Schlieren, March 18, 2020. Memo Therapeutics AG is deploying its microfluidic technology platform DROPZYLLA®, to create cognate recombinant libraries from COVID-19 patients who overcame infection in a particularly efficient manner (“elite controllers”). In comparison to other technlogies having a capture rate of far below 5%, MTxs libraries comprise at least 80% of a patient’s antibody repertoire. Capturing essentially the whole antibody repertoire is of crucial importance since antibodies with neutralizing activity represent only a minority of the antibodies made by the human immune system. 
+
+ Discovery of SARS-CoV2-neutralizing antibodies from COVID-19 patients
+
+25.10.2019 16:10 | Memo Therapeutics AG 
+
+ImmunoQure AG and Memo Therapeutics AG announce collaboration for the production of APS-1 cognate, paired libraries
+
+Düsseldorf, Germany and Schlieren, Switzerland October 25th, 2019. ImmunoQure AG, a biotechnology company focused on the development of autoantibodies as therapeutics to treat human diseases and Memo Therapeutics AG, a biotechnology company focused on the discovery and development of therapeutic antibodies from cognate paired antibody libraries today announced the establishment of a collaborative partnership to create libraries from APS-1 memory B cells. 
+
+ ImmunoQure AG and Memo Therapeutics AG announce collaboration for the production of APS-1 cognate, paired libraries
+
+11.09.2019 10:45 | Memo Therapeutics AG 
+
+Memo Therapeutics AG nominates its first human-derived monoclonal antibody to enter preclinical development
+
+Memo Therapeutics AG announced today that it is entering preclinical development with its first drug candidate an anti-BKV antibody isolated from humans for the treatment of BK virus infection after renal transplantation. 
+
+ Memo Therapeutics AG nominates its first human-derived monoclonal antibody to enter preclinical development
+
+01.02.2019 13:55 | Memo Therapeutics AG 
+
+Memo Therapeutics AG Announces the Development of a Droplet Sorter Enabling Functional Antibody Screening in a High-Throughput Format
+
+Basel, Switzerland, Feb 1st, 2019 - This is a major step in the technology development at Memo Therapeutics AG since we are now able to directly screen antibody repertoire libraries from rare patients or immunized animals for antibodies with the desired functional activity in a single day. 
+
+ Memo Therapeutics AG Announces the Development of a Droplet Sorter Enabling Functional Antibody Screening in a High-Throughput Format
+
+11.06.2018 10:00 | Memo Therapeutics AG 
+
+Dr. Karsten Fischer as Chief Executive Officer of the company
+
+Basle, Switzerland, June 11, 2018 - Memo Therapeutics AG announces that Dr. Karsten Fischer was appointed as Chief Executive Officer of the company effective June 01, 2018.
+
+ Dr. Karsten Fischer as Chief Executive Officer of the company
+
+09.05.2018 13:53 | Memo Therapeutics AG 
+
+SERIES A2 FINANCING ROUND OF CHF 5 MILLION CLOSED
+
+Basel, Switzerland, May 9th 2018 – Memo Therapeutics AG (“MEMO”), an innovator in the field of antibody discovery and human immune repertoire analysis, announced today the closing of a Series A2 financing round of CHF 5.0 million. 
+
+ SERIES A2 FINANCING ROUND OF CHF 5 MILLION CLOSED
+
+07.09.2017 14:21 | Memo Therapeutics AG 
+
+TOP100 BEST SWISS STARTUPS 2017: MEMO THERAPEUTICS AG IS IN THE TOP5 BIOTECH
+
+Memo Therapeutics AG made it to the top 100 of Swiss startups for the third time in a row and is within the top 5 biotech companies. See entire list of companies. 
+
+ TOP100 BEST SWISS STARTUPS 2017: MEMO THERAPEUTICS AG IS IN THE TOP5 BIOTECH
+
+10.07.2017 14:27 | Memo Therapeutics AG 
+
+NEW KTI/CTI PROJECT FOR ONCOLOGY TARGETS
+
+Memo Therapeutics AG was awarded a new CTI grant 
+
+ NEW KTI/CTI PROJECT FOR ONCOLOGY TARGETS
+
+23.05.2017 14:33 | Memo Therapeutics AG 
+
+Memo Therapeutics AG announces proof of concept of its huMemoMABTM antibody technology platform 
+
+09.02.2017 14:41 | Memo Therapeutics AG 
+
+MEMO THERAPEUTICS AG PRESENTED AT SWISS NORDIC BIO 2017 IN ZURICH
+
+Memo Therapeutics AG at conferences 
+
+ MEMO THERAPEUTICS AG PRESENTED AT SWISS NORDIC BIO 2017 IN ZURICH
+
+22.11.2016 14:48 | Memo Therapeutics AG 
+
+FIRST CLIENT PROJECT COMPLETED – VALIDATION OF MEMOMAB(TM) PLATFORM
+
+Memo Therapeutics AG announces completion of a first commercial project validating its proprietary MemoMAB™ antibody technology platform. 
+
+ FIRST CLIENT PROJECT COMPLETED – VALIDATION OF MEMOMAB(TM) PLATFORM
+
+06.11.2016 14:52 | Memo Therapeutics AG 
+
+Memo Therapeutics AG FEATURED AT ESMO CONFERENCE IN LAUSANNE, SWITZERLAND
+
+MEMO’s poster introducing the MemoMAB™ technology platform for the banking and screening of human... 
+
+ Memo Therapeutics AG FEATURED AT ESMO CONFERENCE IN LAUSANNE, SWITZERLAND
+
+07.10.2016 14:54 | Memo Therapeutics AG 
+
+ESMO SYMPOSIUM ON IMMUNO-ONCOLOGY
+
+MEMO’s abstract has been accepted for Poster Discussion presentation... 
+
+ ESMO SYMPOSIUM ON IMMUNO-ONCOLOGY
+
+14.09.2016 14:56 | Memo Therapeutics AG 
+
+TOP100 BEST SWISS STARTUPS 2016
+
+Memo Therapeutics AG made it to the top 100 of Swiss startups for the second time in a row and is within the top 10 biotech companies. 
+
+ TOP100 BEST SWISS STARTUPS 2016
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+
+
+
+7_MEMO-THERAPEUTICS-COM-CONTACT-HTML
+
+- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Contact
+
+Mandatory field First Name*
+
+Mandatory field Last Name*
+
+Please calculate 9 plus 1.
+
+Do not fill in this field
+
+By submitting the application, consent is given to the processing of the transmitted data in the recruiting process. For further information, please read our data protection declaration.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+
+
+
+8_MEMO-THERAPEUTICS-COM-IMPRINT-HTML
+
+Imprint- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Memo Therapeutics AGWagistrasse 278952 SchlierenSwitzerlandinfo@memo-therapeutics.com
+
+Concept, Design & Technical implementation
+
+Media Motion AGArbonerstrasse 6CH-9300 Wittenbachinfo@mediamotion.ch www.mediamotion.ch+41 71 577 55 55
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+
+
+
+9_MEMO-THERAPEUTICS-COM-EXPANDED-ACCESS-POLICY-HTML
+
+ExpandedAccess Policy - Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Memo Therapeutics AG (“MTx”) is committed to developing promising new therapies to address the unmet medical needs of patients suffering from rare and seriously debilitating diseases.
+
+We currently have late-stage investigational medicines in our product pipeline for the treatment of BK viremia in kidney transplant recipients. Our goal is to provide access to our medicines at the appropriate time and in a manner that is most beneficial to the relevant patient population. We believe enrollment in our ongoing clinical trials is the safest and most effective way of achieving this goal.
+
+We do recognize that some patients will not be eligible for our clinical trials and may wish to access our products through expanded access. However, at this time, we do not have the resources available to offer expanded access use of our investigational medicines.
+
+We encourage all patients and physicians who are interested in accessing our investigational medicines to visit the clinical trial section of our website to find out about enrolling (https://clinicaltrials.gov/ct2/show/NCT05769582?cond=BKV&draw=3&rank=16).
+
+MTx may revise this expanded access policy at any time. Additionally, the posting of this policy by MTx does not serve as a guarantee of access to any specific investigational new drug by any individual patient.
+
+If you have any questions, please reach out to us at info@memo-therapeutics.com. You can find further contact details on the Contact page of our website (https://memo-therapeutics.com/contact.html).
+
+We may change this policy at any time.  Please check back periodically for updates on EAP clinical trials.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+
+
+
+10_MEMO-THERAPEUTICS-COM-PRIVACY-POLICY-HTML
+
+Privacypolicy - 
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+We take the topic of data protection very seriously. Here you will find important information regarding your personal data protection.
+
+Application area and controller
+
+This Data Protection Declaration informs you about the nature, scope and purpose of the collection and use of personal data on this website by the responsible controller:
+
+Lars Spenger, CFO (Data Protection Officer)
+
+Memo Therapeutics AG
+
+Tel: +41 79 196 2665
+
+Access data and server log files
+
+We automatically collect and store information in so-called server log files, which your browser automatically transmits to us. Access data include:
+
+Name of accessed website
+
+Data and time of access
+
+Report about successful access
+
+Browser type and version, user operating system
+
+Referrer URL (URL referring to our website, e.g. Google search)
+
+IP address and requesting provider
+
+We use the log data only for statistical analyses for the purpose of the operation, the security and optimization of the service. However, we reserve the right to check the log data retroactively if there is a justified suspicion of unlawful use on the basis of concrete evidence.
+
+Handling of personal data
+
+Personal information is information that helps a person to be identified, i.e. information that can be traced back to a person. This includes name, email address or phone number. But also data about preferences, hobbies, memberships or which websites somebody has accessed are among personal data.
+
+The personal data we process about you may include:
+
+Your name and contact details (such as name, postal address, phone number or email address), and other basic information
+Identification and background information provided by you or collected as part of our on-boarding process
+Any other information relating to you which you may provide to us
+
+Personal data are only collected, used and passed on by us if permissible by law, if we have legitimate interests or if users consent to the collection of data.
+
+We process your personal data:
+
+To communicate with you
+To provide and improve our services to you
+To provide and improve our websites
+
+We respect the principle of earmarked data usage and collect, process and store your personal information only for the purposes for which you have provided us with it.
+
+Who we share your personal data with
+
+A transfer of your personal data to third parties will not take place without your explicit consent, unless this is necessary for providing the service or for implementing the contract.
+
+Therefore may share your personal data with trusted third parties including:
+
+Suppliers to whom we outsource certain support services
+
+Accountants
+Third parties engaged in the course of the services we provide to clients
+
+Any transfer to government institutions and authorities entitled to receive information only occurs within the scope of the statutory information obligations or if a court decision obliges as to provide such information.
+
+If relevant and necessary, we may transfer your personal data to some of our partners in the EU, which provide us with different services. We may also share your personal data with partners in the USA, where there is no adequate level of data protection as in Switzerland. If we transfer data to a country without adequate legal data protection, we ensure that there are appropriate safeguards to protect your personal data (namely based on the standard contractual clauses of the European Commission or on the legal basis of consent).
+
+We will usually transfer your personal data to recipients abroad on the basis that such a transfer is necessary for the performance of an agreement with the data subject, for an agreement or performance of an agreement concluded in the interest of the data subject or for the establishment, exercise or defence of legal claims.
+
+Protection of personal data
+
+We have taken technical and organizational security measures to protect your personal data from loss, destruction, manipulation and unauthorised access. Our security measures are being continuously reviewed and optimised in line with technological developments.
+
+We also take company-internal privacy very seriously. We have bound our employees and our commissioned service companies to secrecy and to complying with all data protection regulations.When using a service on our website, your personal data will be transmitted to us. In order for those not to fall into the wrong hands, we encrypt them using the SSL method (Secure Socket Layer). The SSL method is currently the most common and secure data transmission method on the Internet.
+
+How does the SSL method work?
+
+The Secure Socket Layer (SSL) method protects data that a customer sends over the Internet to a company's server. SSL provides triple protection:
+
+It ensures that a form is returned only to the server from which it was opened
+It checks whether data reach their respective recipient in full and unaltered
+SSL is used every time you see a small (usually green) lock on the bottom left of your browser's status bar
+
+When contacting us via our contact form, user details will be stored for the purpose of processing the request as well as in the event that follow-up questions arise. We will not share these data without your consent.
+
+If you would like to receive the newsletter provided on the website, we will need an email address from you, as well as information allowing us to verify that you are indeed the owner of the specified email address and that you agree to receive the newsletter (double opt-in). No further data are collected. We use these data exclusively for the transmission of the requested information and do not pass them on to third parties. You can revoke at any time your consent to storing your data and your email address as well as their use for sending the newsletter.
+
+Retaining your personal data
+
+We retain your personal data for as long as it is necessary for the purposes for which the data is collected, and as long as we have a legitimate interest in keeping personal data, for example to enforce or defend claims or for archiving purposes and IT security. We also retain your personal data as long as it is subject to a legal retention obligation.
+
+Use of services and contents by third parties
+
+It may happen that content by third parties, such as videos from YouTube, maps from Google Maps, RSS feeds or graphics from other websites are included as part of this online service. This always presupposes that the providers of these contents (hereinafter referred to as "third party providers") detect the users’ IP address. For without the IP address, they could not send the content to the browser of the respective user. The display of these contents therefore requires the IP address. We attempt to use only content whose respective providers use the IP address solely for content delivery. However, it is outside our sphere of influence whether third parties store the IP address for e.g. statistical purposes. Whenever we are aware of this, we will inform the users about it.
+
+In order to make your visit to the website appealing and to enable the use of certain functions, the website uses so-called cookies on various pages. These are small text files stored on your device (for example, mobile phone, tablet, PC). Some of the used cookies are deleted following any given browser session, i.e. after closing your browser (so-called session cookies, such as ‘are you logged in?’). Other cookies remain on your device and make it possible to recognize your browser upon your next visit (so-called persistent cookies, such as the storage of your login data upon request). You can set your browser in such a way as to being informed about the placement of cookies and you can decide for yourself about their acceptance; or you can reject them by default. We hereby point out that the functionality and the comfort of use might be reduced when disabling cookies.
+
+More information here: https://support.google.com/accounts/answer/32050
+
+Use of web fonts
+
+These websites use external fonts, i.e. Google Fonts. Google Fonts is a service by Google Inc. ("Google"). The integration of these web fonts occurs via a server call, usually a Google server in the USA. This transmits to the server, which of our websites you have visited. Google also stores the IP address of the browser installed on the terminal of this website’s visitor. For more information, please see Google’s data protection information accessible here:
+
+At any time and without indicating any reasons, you are entitled to receive free information about your data stored with us and to receive a copy of your personal data. You may at any time block, correct or delete your data collected by us and you may object to anonymised or pseudonymised data collection and storage for the purpose of optimising our website. You can also at any time revoke your granted consent to collecting and using data without providing us with any reasons. To do this, please contact: lars.spenger@memo-therapeutics.com. You may also lodge a complaint regarding our processing of your personal data to the local supervisory authority, in Switzerland to the Federal Data Protection and Information Commissioner.
+
+We are at your disposal for any further questions regarding our data protection information and our processing of your personal data. Note that privacy policies and privacy practices, such as e.g. at Google, can continuously change. It is therefore advisable and necessary to continuously be aware of changes to statutory provisions and company practices, e.g. at Google.
+
+Your trust is important to us. Therefore, we would like to be at your disposal regarding the processing of your personal data. Should you have any questions that this data protection declaration could not answer, please contact us via e-mail: lars.spenger@memo-therapeutics.com.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out
+

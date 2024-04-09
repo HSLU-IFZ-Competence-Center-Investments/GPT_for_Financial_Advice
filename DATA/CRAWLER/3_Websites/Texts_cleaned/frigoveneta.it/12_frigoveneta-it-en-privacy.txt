@@ -1,0 +1,112 @@
+EndGoogle Tag Manager 
+
+[if lte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+<ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+ Informativa ex art. 13 del Codice della Privacy redatta in conformità al Provvedimento del
+ Garante per la protezione dei dati personali del 08.05.2014
+
+ I cookie sono stringhe di testo di piccole dimensioni che i siti visitati dall'utente inviano
+ al suo terminale, dove vengono memorizzati per essere poi ritrasmessi agli stessi siti alla
+ successiva visita del medesimo utente.
+
+ Il presente sito, gestito da Frigoveneta S.p.A., con sede legale in Via Caduti del Lavoro, 5, 37049, Villa Bartolomea (Vr), che assume,
+ pertanto, la qualità di titolare del trattamento ai sensi del D.Lgs. n. 196/03 (Codice della privacy),
+ utilizza solamente cookie tecnici, definiti come quelli utilizzati al solo fine di "effettuare la
+ trasmissione di una comunicazione su una rete di comunicazione elettronica, o nella misura strettamente
+ necessaria al fornitore di un servizio della società dell'informazione esplicitamente richiesto
+ dall'abbonato o dall'utente di erogare tale servizio" (cfr art. 122 comma 1 del Codice della privacy).
+
+ In particolare, trattasi dei seguenti:
+
+Fine della sessione del browser
+
+Cookie di Analytics
+
+Cookie di Sessione
+Fine della sessione del browser
+
+ Per l'installazione e l'utilizzo di tali cookie non è richiesto il preventivo consenso dell'utente. 
+ Trattasi di cookie necessari, in quanto indispensabili per il corretto funzionamento delle applicazioni.
+ Il presente sito web consente di selezionare/deselezionare i singoli cookie, con le modalità di seguito
+ illustrate, ma si avverte che, in caso di disattivazione, potrebbe non essere garantita la completa
+ fruibilità del medesimo.
+ Per disattivare, rimuovere o bloccare i cookie è possibile ricorrere alle impostazioni del browser,
+ secondo le indicazioni riportate di seguito:
+
+Apri Firefox
+Premi il pulsante "Alt" sulla tastiera
+Nella barra degli strumenti situata nella parte superiore del browser, seleziona "Strumenti" e successivamente "Opzioni"
+Seleziona quindi la scheda "Privacy"
+Vai su "Impostazioni Cronologia" e successivamente su "Utilizza impostazioni personalizzate"
+Deseleziona "Accetta i cookie dai siti" e salva le preferenze
+
+Apri Internet Explorer
+Clicca sul pulsante "Strumenti" e quindi su "Opzioni Internet"
+Seleziona la scheda "Privacy" e sposta il dispositivo di scorrimento sul livello di privacy che desideri impostare (verso l'alto per bloccare tutti i cookies o verso il basso per consentirli tutti)
+Quindi clicca su "Ok"
+
+Clicca sull'icona "Strumenti"
+Seleziona "Impostazioni" e successivamente "Impostazioni avanzate"
+Seleziona "Impostazioni dei contenuti" sotto la voce "Privacy"
+Nella scheda "Cookies" è possibile deselezionare i cookies e salvare le preferenze
+
+Apri Safari
+Scegli "Preferenze" nella barra degli strumenti, quindi seleziona il pannello "Sicurezza" nella finestra di dialogo che segue
+Nella sezione "Accetta cookie" è possibile specificare se e quando Safari deve salvare i cookies dai siti web. Per ulteriori informazioni clicca sul pulsante di Aiuto (contrassegnato da un punto interrogativo)
+Per maggiori informazioni sui cookies che vengono memorizzati sul vostro computer, clicca su "Mostra cookie"
+
+ Informazioni utili sui cookie sono disponibili a questi indirizzi:
+ http://www.allaboutcookies.org.
+ Per maggiori informazioni sull'utilizzo dei cookie ciascun interessato potrà rivolgersi
+ direttamente al titolare, a mezzo e-mail, al seguente indirizzo: frigoveneta@frigoveneta.it,
+ anche al fine di richiedere l'elenco completo dei responsabili del trattamento dei
+
+Frigoveneta - Video Aziendale

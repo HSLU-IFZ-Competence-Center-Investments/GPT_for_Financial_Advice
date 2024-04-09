@@ -1,0 +1,83 @@
+VAC - Advanced Magnetic Solutions | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+Vocational Training and Studies
+
+ Sustainability Drives Our Daily Business
+
+ Solutions for Extraordinary Motor Performance
+
+ NEW: Solutions for High Performance Motors
+
+ Whitepaper on EMI Mitigation available
+
+ New Current Transformers for Smart Grids
+
+ Quickselector for Nanocrystalline Common Mode Chokes
+
+ VAC – Advanced Magnetic Solutions
+
+We are a leading manufacturer of magnetic alloys and their downstream solutionswith a strong focus on applications where our customers' designs gain the maximum benefit from our innovative materials. 
+
+We provide a wide range of magnetic materials and components for the automation & drives industry. If you need more power, higher precision or EMI filtering solutions, we are here to support you!
+
+We provide electrifying solutions for the automotive industry. Whether you are improving combustion engines or designing an electric car, our products enable you to realize smaller systems or higher performance for various automotive applications.
+
+For decades, we have been a strong partner for components that support energy generation and conversion systems, as well as electrical safety. We are proud to create products that support our customers in the development and implementation of technical solutions for tomorrows energy supply challenges.
+
+Low weight, maximum performance and outstanding quality assurance are the typical requirements for aerospace applications. We provide magnetic materials, stamped parts and components to enhance the performance of electric motors and generators for various aerospace applications.
+
+Scientific and medical applications often require the best magnetic properties and extremely tight tolerances. Our high standards meet both requirements and enable us to support our customers effectively.
+
+Cyclic Materials and VAC partner to recycle critical magnet manufacturing by-products
+
+Cyclic Materials and VACUUMSCHMELZE are working together to recycle by-products from magnet production, creating a sustainable supply chain for materials critical to the global energy transition.
+
+Groundbreaking ceremony for Sumter plant
+
+An exciting milestone achieved in March 7: The groundbreaking of eVAC represents the culmination of a tremendous partnership with General Motors, Department of Defense, State, and Community officials.
+
+Coiltech, Augsburg
+March 20 - 21, 2024
+Hall 2, stand E-38
+
+PCIM, Nürnberg
+June 11 - 13, 2024
+Hall 7, stand 109
+
+Are you delivering reliable, high quality products? 
+
+Our striving for technological leadership, continuous improvement and innovations are decisive for our market success. We are always looking for suppliers with equally high standards who are able to support our competitive edge.
+
+ Reach and RoHS Statement
+
+Certificate of Compliance REACH and RoHS
+
+ Certificates and Quality Docs
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

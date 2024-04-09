@@ -1,0 +1,74 @@
+Globalsitetag(gtag.js)-GoogleAnalytics
+
+ This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ 
+Public Safety UAS & Emergency Applications l Fotokite
+
+ / Yoast SEO plugin. 
+
+ Delivering elevated situational awareness on a daily basis, Fotokite Sigma is the go-to public safety UAS for first responder teams looking for a safe, easy, and reliable way to gain aerial perspectives.
+
+Fotokite solutions support public safety UAS operations such as fire response, search & rescue missions, and traffic management on a daily basis. 
+
+Read more about Fotokite Sigma specifications
+
+ End Page Title H1 
+
+ End
+
+Safely size up a roof for hot spots, easily visualize and direct hose lines, or gain perspective from the front-line of a forest fire. At the push of a button, without the need for piloting, and without drawing team resources.
+
+ End
+
+Immediate elevated situational awareness helps to detect and direct team resources in SAR missions with significant efficiency gains. Quick scanning capabilities enable a scene-overview snapshot in seconds, giving you the information you need, when you need it most.
+
+ End
+
+ Post-Fire Inspection & Monitoring 
+
+Continuously monitoring the incident scene for flare-ups with elevated thermal imaging and easy detection of heat concentration points, without needing to swap batteries or pilot the system throughout hours of the incident response and post-response.
+
+ End
+
+ Page Title H2 
+
+ Public Safety & Security 
+
+ End Page Title H2 
+
+ Teaser Use Case 
+
+Immediate and hands-free deployment for everyday on-scene response coordination and post-scene documentation.
+
+ End Teaser Use Case 
+ Teaser Use Case 
+
+Quickly and easily visualize traffic flow and bottlenecks from the safety and convenience of your vehicle.
+
+ End Teaser Use Case 
+ Teaser Use Case 
+
+ Infrastructure & Event Security 
+
+Mounted to security vehicles or installed as a remote deployable asset, the Fotokite Sigma system fits well with security site inspection and monitoring applications.
+
+ End Teaser Use Case 
+
+ Page Call to Action 
+
+ Would you like to know more about Fotokite applications? 
+
+ Fotokite is driven to meet the needs of high impact applications with our unique technologies. If you'd like to learn more about how Fotokite can help in your operations, please get in touch. 
+
+ End Page Call to Action 
+
+Fotokite US LLC
+3125 Sterling Circle, STE 107
+Boulder, CO 80301, USA
+
+Fotokite US LLC
+235 Harrison Street, MD 52
+Syracuse, NY 13202, USA
+
+ © 2024 Fotokite. All rights reserved
+
+ Custom Feeds for Instagram JS

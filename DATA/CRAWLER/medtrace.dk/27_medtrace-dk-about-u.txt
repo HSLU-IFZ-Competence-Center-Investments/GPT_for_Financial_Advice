@@ -1,0 +1,67 @@
+ThissiteisoptimizedwiththeYoastSEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ 
+About us - MedTrace
+
+ / Yoast SEO plugin. 
+
+ HFCM by 99 Robots - Snippet # 3: Google Analytics 
+
+ /end HFCM by 99 Robots 
+ HFCM by 99 Robots - Snippet # 2: GDPR 
+
+ /end HFCM by 99 Robots 
+
+Core Values
+Investors, Grants & Awards
+
+Core Values
+Investors, Grants & Awards
+
+IMPORTANT NOTICE: MedTrace’s products are not currently cleared for routine use in any markets, including both the US and Europe. In the US, 15O-water is currently under investigation as an investigational drug in a Phase 3 clinical trial. In Europe, its use is in compliance with approvals granted by national drug authorities, in accordance with the specific legislation of each member state. 
+
+MedTrace is dedicated to becoming a global leader in perfusion imaging. Our products are under development and are being designed to help patients be diagnosed quickly and accurately.
+
+Our goal is to innovate PET diagnostic imaging by transforming blood flow quantification. We will do this by making 15O-water PET practically available in clinical settings.
+
+Based in Denmark and the US, we are a team of diverse ages, cultures, and professional backgrounds.
+
+Our company is collaborating with university hospitals in Europe, Japan, and the USA to develop and test our products. This is part of preparing our solution for regulatory approval in various regions of the world. 
+
+How we got started 
+
+Our co-founder Rune Wiik Kristensen wondered why 15O-water is considered the gold standard3 for perfusion imaging, but it was not used routinely clinically. Rune, who had worked as a radiochemist in two of Denmark’s top hospitals, also wondered why cardiac PET (position emission tomography) wasn’t on the radar of most clinicians in the field, given the great success of oncological PET.
+
+He learned that 15O-water was impractical in a clinical setting because it had such a short half-life, rendering the supply chain near impossible to scale up. Yet he also deduced that the short half-life, if controlled, would provide for reduced patient dosage and shorter scan times, increasing the feasibility of cardiac PET.
+
+Rune decided to try to invent a device that would allow 15O-water to be produced right next to a PET scanner in a hospital, overcoming the short half-life and making 15O-water practically available. 
+
+Sketched on a dinner napkin 
+
+About this time, Rune met MedTrace’s other co-founder, Martin Stenfeldt. Martin was an independent executive consultant who helped companies draw up and develop their business plans.
+
+Martin became enthusiastic about the potential for 15O-water in a clinical setting. The two had lunch together in a restaurant in Vejle, Denmark, and sketched out the idea for MedTrace on a dinner napkin.
+
+Peter Larsen, an experienced inventor of chemistry devices, was approached to help create the physical device that would manufacture and infuse 15O-water next to the patient in a PET scanner, and thus became the third co-founder.
+
+The new company was born, and officially registered in January 2015. The result was the development of MedTrace’s P3 system. As of August 2023 more than 3000 patients have been clinically scanned in Denmark with MedTrace system. 
+
+Creating software for 15O-water diagnosis 
+
+Meanwhile, Hans Harms, a Dutch PhD student was working under supervision of the Dutch physicist, Mark Lubberink to create analytical software that could analyze 15O-water PET images. Mark relocated to Uppsala University Hospital (Sweden) where he met Professor Jens Soerensen, a Dane working in Uppsala. Professor Soerensen helped Hans find funding to work further on the project in Aarhus, Denmark, where he met Lars Poulsen Tolbod, a hospital physicist.
+
+Together, they created the novel analysis software that became aQuant, which aims to deliver a variety of clear images of the area scanned while it quantifies blood flow to enhance diagnostic abilities of the clinician. 
+
+The two groups met by coincidence at an industry conference in San Diego and realized that their products complimented each other perfectly. After feedback from multiple potential investors, the decision was made to merge the two companies under the common name MedTrace Pharma in August 2018.
+
+Since then, the company has continued to grow, and is now considered a development stage company with beginning revenue. 
+
+In December 2020, Aarhus University Hospital received a magistral exemption for clinical use of MedTrace’s P3 system as well as authorization for the use of non-CE marked medical device components of the P3 system. Since then, the Danish Medicines Agency has granted exemption for clinical perfusion studies using the P3 system and the aQuant analytical software at Aarhus University hospital and Copenhagen University hospital. Aarhus University Hospital has scanned more than 3000 patients using the MedTrace P3 system.
+
+At the Series B financing round in May 2021, MedTrace attracted a strong syndication of investors in the form of ATP, BankInvest and Vækstfonden from Denmark, Swisscanto Private Equity from Switzerland and the European Innovation Council. MedTrace finished a new series of funding in September 2023 primary based on the existing investor group.
+
+MedTrace has since 2021 received 16 patents within 4 different “patentfamilies” here among its system for modelling the human heart in EP, JP, US, CN.
+
+MedTrace moved to its existing premises in DTU Sciencepark in Hørsholm near Copenhagen that includes showroom featuring hardware and software. In Sept. 2022 MedTrace opened its US office out of Medical Alley in Minneapolis, MN. 
+
+Meet our team and learn about our backgrounds. 
+
+Read about core values, investors and grants.

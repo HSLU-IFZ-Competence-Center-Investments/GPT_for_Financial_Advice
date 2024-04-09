@@ -1,0 +1,75 @@
+BiogastoBiomethaneUpgradingTechnologies - Cycle0 : Cycle0
+
+ Twitter conversion tracking base code 
+
+ End Twitter conversion tracking base code 
+
+ This site is optimized with the Yoast SEO plugin v20.3 - https://yoast.com/wordpress/plugins/seo/ 
+
+ / Yoast SEO plugin. 
+
+Generamos biometano a partir de residuos agroalimentarios utilizando nuestra tecnología de upgrading y licuefacción, permitiendo una mejor gestión de desechos
+
+Desde CycleØ desarrollamos plantas propias de biometano. Nos encargamos de todo el proceso, desde la tramitación, ingeniería, construcción, gestión y entrega de GNC y GNL al mercado.
+
+Nuestras plantas de biometano de pequeña y mediana escala son diseñadas, fabricadas y construidas en España por nuestra subsidiaria FNX; incorporando tecnologías modulares de upgrading y licuefacción que ofrecen una mayor eficiencia en comparación con las instalaciones a gran escala.
+
+Sistema modular de upgrading de biogás basado en separación por membranas
+
+Nuestra tecnología de upgrading de biogás está conformada por dos módulos:
+
+El biogás se introduce en un contenedor de pretratamiento.
+El biogás se enfría para eliminar el exceso de agua.
+El H2S se elimina utilizando filtros de carbono.
+Se filtran los compuestos orgánicos volátiles.
+
+Module 2: Compression and CO2 Removal
+
+El gas pasa por un compresor, aumentando la presión.
+El gas se enfría con un condensador para eliminar cualquier resto de H2O.
+El metano se separa del CO2 mediante filtros de membrana.
+El biometano se inyecta en la red o se utiliza como combustible para vehículos.
+
+Plantas de licuefacción de BioGNL plug-and-play
+
+Plantas de licuefacción de BioGNL plug-and-play
+
+Nuestras plantas modulares de licuefacción de pequeña y mediana escala están diseñadas para facilitar el transporte e instalación en zonas rurales.
+
+Diseños montados sobre skids completamente terminados para una instalación rápida y sencilla en el sitio final
+Transporte sencillo a cualquier lugar a través de contenedores de envío ISO estándar
+Completamente ensambladas y probadas por FNX en nuestra nave industrial
+El sistema de refrigeración de circuito cerrado de nitrógeno es económico y autónomo
+La planta puede operar usando energía eléctrica proveniente de la red o se puede instalar un generador de energía proveniente del biogás
+Existe la posibilidad de utilizar electricidad proveniente de la red o se puede instalar un generador de electricidad
+
+FNX: Expertos en ingeniería del biogás respaldados por más de 10 años de experiencia
+
+FNX: Expertos en ingeniería del biogás respaldados por más de 10 años de experiencia
+
+Nuestras tecnologías de upgrading y licuefacción de biometano están diseñadas, desarrolladas, construidas y probadas in situ por FNX, nuestra subsidiaria de fabricación ubicada en el País Vasco español.
+
+Nuestro equipo está compuesto por expertos en la materia, con amplia experiencia en la industria y un enfoque de eficiencia, flexibilidad y excelencia en nuestros procesos industriales.
+
+Explora el sitio de FNX
+
+Ofrecemos tecnología que impulsa el desarrollo de la cadena de valor del biometano
+
+ Acceder a la materia prima distribuida a menudo en áreas remotas, y producir económicamente biometano, requiere un conjunto completo y detallado de habilidades que aportamos a la mesa. Nuestras soluciones técnicas, capacidad para desarrollar y construir plantas eficientemente y nuestro sólido equipo de ingeniería son lo que nos brinda una ventaja crítica en CycleØ. 
+
+¿Te gustaría saber más acerca de nuestra tecnología?
+Nos encontramos en una etapa de rápido crecimiento en España, Europa y América Latina. Con el respaldo de Ara Partners, una firma de capital privado líder en la descarbonización industrial, contamos con el capital necesario para impulsar la industria del biometano en Europa.
+
+Nombre(Obligatorio) Apellidos(Obligatorio) Correo electrónico(Obligatorio)
+
+Teléfono MensajeConsent He leído y estoy de acuerdo con la Política de privacidad
+
+This website uses cookies to improve your experience.SettingsAcceptManage consent 
+
+Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities.
+
+	Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.	
+
+	 Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.	
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1711366226

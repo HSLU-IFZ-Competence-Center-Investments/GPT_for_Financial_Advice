@@ -1,0 +1,68 @@
+html This site is optimized with the Yoast SEO plugin v17.3 - https://yoast.com/wordpress/plugins/seo/ Autonomous wind blade inspection products and licences | Sulzer Schmid / Yoast SEO plugin. Leadfeeder End Leadfeeder Google Tag Manager End Google Tag Manager 
+
+Our collaborative and cloud-based 3DX™ Blade Platform is at the core of our digital end-to-end inspection process and enables highly professional blade asset management. It offers a comprehensive view of the blade health status of the entire fleet and stands out for being completely flexible and adaptable to suit your needs.BOOK A DEMO
+Comprehensive blade analytics based on highest quality inspection data
+
+Capture the most reliable, consistent inspection data utilizing autonomous drones. Once uploaded into the cloud, you can process the images and generate highly customizable reports and dahsboards at a push of a button. 
+
+With our powerful integrated 3DX™ Data Analytics you turn blade data into actionable insights and optimize performance over time. 
+
+Click on each step to find out more about our process and its benefits.
+
+You can rely on high-quality image and metadata capture covering 100% of the blade using autonomous drones on pre-defined flight routes.1/2 day pilot training30 minute downtime per turbine
+
+Once all visual inspection data is captured, it is securely uploaded to the cloud – ready for the annotation process.Safe data transferAI aided processing of blade dataTime invested by blade experts is minimized
+
+Annotations are easily reviewed, corrected and approved in our browser-based interface.Intuitive annotation workflowHighest-quality annotations as a serviceInteractive links available in applications and reports
+
+Our browser-based 3DX™ Blade Platform gives you a complete overview of the health of your entire fleet.Find out about a specific damageIdentify damage patterns across turbinesMonitor trends over time
+
+By tracking damage progression over time, you can make informed decisions about the timing of repairs and ensure the integrity of your blades. Thanks to more reliable planning you can:Save costsImprove the annual energy productionFuture proof your O&M strategy
+
+Efficient inspection planning and monitoring with our 3DX™ Campaign Manager.Highly intuitive interfaceFull transparency in real timeProfessional planning service
+Blade condition monitoring and reporting
+
+Our 3DX™ Blade Platform offers complete transparency and a detailed health status of each blade. With two different digital inspection solutions we meet a variety of customer needs. Choose our fully autonomous 3DX™ AutoPilot for efficient, high-volume blade inspection campaigns or opt for our 3DX™ SmartPilot if you are looking for a flexible setup where you can inspect with your own teams, minimizing logistics and stand-by time. Bundled with our platform, both solutions give you the tools to stay in control of your assets, minimize repair costs and optimize turbine performance.
+
+ Condition monitoring with 3DX™ AutoPilot 
+ Condition monitoring with 3DX™ SmartPilot
+Analyzing rotor blade inspection data
+
+If you are interested in more than just a snapshot of the condition of your blades, our 3DX™ Blade Analytics module offers trend monitoring and data analytics across the entire fleet while providing repair recommendations to optimize performance over time. Powerful progression analytics helps you identify and analyse damage patterns to make more informed decisions that will help save costs, improve the annual energy production and future proof your O&M strategy. And because our platform allows you to consolidate all your inspection and repair data, no matter where you got it from, it solves the challenge of heterogeneous data sets and advances the transition from data-driven to AI-driven blade maintenance. 
+
+Actionable insights with 3DX™ Blade Analytics
+
+Our SaaS offering combines the powerful analytics of the 3DX™ Blade Platform with our highly flexible and advanced 3DX™ inspection technology.
+Execution models can be customized to suits the needs of OEMs, owners and operators and field operation partners alike. With different price plans and optional extras you can be sure to find the right one for you: 
+
+Capture and process inspection data in our 3DX™ Blade Platform. Use our annotation services for highest quality and utilize our reports to gain insights into the health of your rotor blades. Choose between 3DX™ autonomous drone technology with your own team or as a full service through us.
+
+ 3DX™ Data Capture including drone and 3DX™ Payload 
+
+ 3DX™ Blade Station Online (access for 6 months)
+
+ Campaign Management as a service (optional)
+
+Capture, process and analyse inspection data using our 3DX™ Blade Platform. Monitor trends and analyse blade inspection data of your entire fleet. Get repair recommendations and optimize performance over time.
+
+GET A QUOTE
+ Same as 3DX™ Inspection Manager plus
+
+ Unlimited access to 3DX™ Blade Station Online and Data Analytics 
+
+ Site and Fleet reports 
+
+ Access to 3DX™ Campaign Manager (optional)
+
+Put us to the test
+
+Would you like to see what benefits our inspection technology could bring to your operations? Take our 3DX™ Blade Platform for a test run.Arrange a trial inspection
+Insights into the 3DX™ Blade Platform
+
+Too busy for a trial inspection? Don’t worry, you can get a glimpse of what it’s like to work with the 3DX™ Blade Platform within seconds! The first video takes you on a trip to Scandinavia, where we kick off our largest ever inspection campaign for Vestas Europe. In the second video we address some of the issues you might be facing day to day and how our platform can help you make better informed decisions on blade maintenance, reduce downtime and improve AEP.
+
+ Vestas NCE inspection campaign 2021
+ Turn visual inspection data into actionable insights!
+
+Rotor blades can be visually inspected using different methods. It is important to have a good understanding of the differences in inspection data, the requirements and how to import the data into a unified digital platform such as our 3DX Blade Platform.
+Discussed in this white paperDifferent types of inspection dataImage properties and qualityData specifications and data importTerminologyDownload Nowxml version="1.0" encoding="UTF-8"?3DX™ Blade PlatformCustomized SolutionsPartner with usBlog/NewsAbout UsOpen/close navigation3DX™ Blade PlatformCustomized SolutionsPartner with usBlog/NewsAbout Us Matomo End Matomo Code

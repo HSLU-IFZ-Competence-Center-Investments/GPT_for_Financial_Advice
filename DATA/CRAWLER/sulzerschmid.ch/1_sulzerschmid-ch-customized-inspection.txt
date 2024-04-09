@@ -1,0 +1,59 @@
+html This site is optimized with the Yoast SEO plugin v17.3 - https://yoast.com/wordpress/plugins/seo/ Drone-based wind turbine rotor blade inspection platform | Sulzer Schmid / Yoast SEO plugin. Leadfeeder End Leadfeeder Google Tag Manager End Google Tag Manager 
+
+A blanket approach to blade inspections won’t cut it. That is why we have developed our 3DX™ Blade Platform – a flexible, customizable solution that adapts to customers’ needs and various scenarios, and manages the inspection process from start to finish. 
+
+Take a look at how our system adapts to your individual requirements:OEMSOPERATORSFIELD OPERATION PARTNERSINVESTORSOEMS
+The Complete Inspection Package for OEMs
+
+Designed to promote efficiency and cost-effectiveness during inspection, our 3DX™ Blade Platform is the ideal choice for OEMs. 
+
+Regular rotor blade inspections form the basis for any professional blade O&M strategy. But how do you increase efficiency without compromising quality? Our integrated inspection system relies on the latest technology to achieve conclusive results in less time than any of the established inspection methods.
+A more detailed view of maintenance requirements
+
+The goal is to enable OEMs to issue repair quotes that are based on reliable and detailed data. Automated report generation saves time, and annotations are rated on a scale from cosmetic to serious, so you can optimize resource allocation.
+
+Our 3DX™ Blade Platform facilitates the entire process from planning to damage analysis, significantly cutting the time required for each inspection while simultaneously increasing the quality and repeatability of the results. Not only does this reduce costs, it allows OEMs to solicit accurate repair quotes and work towards predictive maintenance.
+Key benefits
+EfficiencyMore wind turbines inspected per dayFaster and easier damage assessment supported by AI and automated report  generationComplete process managed via one interfaceAll data is stored and made accessible via secure cloud services
+Cost-effectivenessAttractively priced 3DX™ licensing options available
+ReliabilityHighly automated and repeatable process100% blade coverage – no blank spotsHigh-resolution image capturePrecise, actionable results (e.g. repair quotes) based on reliable informationFoundation for benchmarking, trend analysis and ultimately predictive maintenanceOPERATORS
+A Structured Inspection Process 
+
+for Wind Asset Operators
+
+Striking a balance between aerodynamic performance and blade repair costs while maintaining safety standards is fundamental for wind asset operators. Using the 3DX™ Blade Platform, frequent inspections are now cost-efficient and allow operators to take the first step towards predictive maintenance of rotor blades. 
+Keep inspections in check
+
+The 3DX™ Blade Platform simplifies the way wind asset operators examine and manage their blades. Due to the high degree of automation, rotor blade inspections become highly repeatable, generating an inspection plan that can be used again and again for any given wind park. Inspections are quick to set up, require little manpower and can be run frequently.
+Using data to predict inspection needs
+
+The 3DX™ Blade Platform enables you to build a record of checks and damages over the lifespan of your blades. The results obtained from each inspection are added to the database, so you can track progress and analyze trends over the long term. This helps you forecast maintenance requirements, implement preventative measures and schedule repairs, giving you better oversight and control of the safety of your assets.
+Key benefits
+In-depth insightsIn-depth knowledge on blade healthAccurate information on risksCentralized data management
+Cost-effectivenessDamage trends and repairs monitored over the lifespan of any blade
+EfficiencyRepeatable processesShorter blade inspection timesOptimized preventive effortsFacilitates repair schedulingFIELD OPERATION PARTNERS
+
+as a Field Operation Partner
+
+Field Operation Partners often have to carry out inspections under intense time and cost constraints. To really stand out, they must use an approach that is tailored to customers’ needs and exceeds expectations.
+Higher quality and transparency for your customers
+
+Our autonomous flight components put you in charge: as a UAV operator, now you have the tools to capture every millimeter of a rotor blade – efficiently and consistently, time and again. All flight paths, camera and sensor settings are predefined in advance of an inspection flight by components of our 3DX™ Blade Platform. The quality of the data acquisition no longer relies on the skill and experience of a UAV pilot. In addition, given the throughput of the system, a high level of efficiency is attained, allowing you to take on more inspection contracts.
+
+As a blade repair service partner, the 3DX™ Blade Platform enables you to provide your customers with an unprecedented level of transparency. Using our collaborative software applications you can share data in real time and agree on repair measures based on accurate inspection data.
+Deeper expertise as a selling point
+
+Our image analysis tools give you peace of mind: as a blade expert, your customers depend on your judgement. You will appreciate the consistency and quality of the inspection images and the cutting-edge analysis tools, aided by Artificial Intelligence, which will shorten the time you need to assess the image data and produce a detailed damage report, all while adhering to the highest quality standards. Be the go-to resource for all insight on blade damages.
+Key benefits
+Top data quality100% blade coverage – no blank spotsComprehensive info on blade healthCentralized data managementHigh-resolution image quality
+ConsistencyProcess is highly repeatable enabling damage tracking over time and across inspectionsAdvanced damage recognitionBetter trend analysis based on consistent data
+Higher productivity levelsHigh level of automationEase of useMore blades inspected per dayMore blades assessed per hourINVESTORS
+Clear, Dependable Information for Investors in Wind Energy
+
+Full awareness of the technical condition of the assets is crucial for potential investors looking to acquire a wind farm. The 3DX™ Blade Platform provides complete transparency on the health of rotor blades, so you can make investment decisions that make good financial sense. 
+Quickly pinpoint potential risks
+
+The 3DX™ Blade Platform lets you examine wind farms of all sizes in significantly less time and greater detail than traditional inspection methods and delivers valuable, comprehensive data. This equips you with the information necessary to calculate a realistic return on investment and enter into negotiations fully prepared.
+Key benefits
+Conclusive dataIn-depth knowledge on blade healthEnables more precise risk  assessmentOffers a strong basis for negotiations
+Saves timeRapid inspection executionQuick and easy damage assessment  and automated report generationFast turnaround time from inspection to reportxml version="1.0" encoding="UTF-8"?3DX™ Blade PlatformCustomized SolutionsPartner with usBlog/NewsAbout UsOpen/close navigation3DX™ Blade PlatformCustomized SolutionsPartner with usBlog/NewsAbout Us Matomo End Matomo Code

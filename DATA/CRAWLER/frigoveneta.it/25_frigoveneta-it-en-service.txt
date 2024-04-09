@@ -1,0 +1,120 @@
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflteIE8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript> height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+SERVICE Over 4000 times safe, h24/h24
+
+Service
+
+Customized technical assistance contracts
+
+Interventions throughout Italy and abroad
+
+RELIABILITY AND PROFESSIONALISM 24h/day
+
+We know that a refrigeration system or a mechanical system represents an investment and an important tool at the service of the business of our customers: that’s why the mission of Frigoveneta Service is to maintain each system in conditions of maximum efficiency as long as possible, and also to set up the operating parameters so as to ensure the lowest energy consumption in each season. Our clients operate in a wide variety of sectors: supermarkets and mass retailing, distribution centers, fruit and vegetables industry, frozen food industry, food industry, pharmaceutical industry, wineries. These results are possible due to the TeleGest system, which enables constant monitoring by Frigoveneta Service's internal engineers, each specializing in a specific area: mechanical, electrical, electronics, computer science. In addition to the core made up of the Engineers of the Remote Monitoring Centre, Frigoveneta Service avails of an internal team of refrigeration specialists, as well as carefully selected collaborators trained throughout Italy and abroad: in this way, both online and on-site service operations are always prompt and professional, 24h/day, all year round. Frigoveneta Service and all engineers are certified in accordance with Regulation (EC) 303/2008, P. Decree no. 43 of January 27, 2012 and the Technical Regulations Accredia-RT29.
+
+The follow-up of an installation requires specialised experts and should be organised according to the different needs and the business of the customer. Regardless of the type, the "agreement" formula allows each customer to know in advance the budget to be allocated to technical assistance and maintenance, as well as having a technical partner for every need. Thanks to the dedicated email and direct telephone number, each customer can contact the engineers according to a priority criteria. 
+
+For those who want to carry out specialised follow-up using the remote monitoring system,
+ but intend to entrust on-site service to engineers of their choice or have an internal service specialist.
+ You can also entrust bureaucratic and regulatory obligations to Frigoveneta Service.
+
+DIRECT TELEPHONE SUPPORT 24/7
+
+In addition to the follow-up via remote monitoring, it includes scheduled maintenance
+ procedures and leak tests required by law as well as the compilation of equipment record.
+
+EXTRA BENEFITS COMPARED TO ONLINE OPTION
+
+CHECK OF REFRIGERANT LEAKS
+
+COMPILATION OF EQUIPMENT RECORD
+
+In addition to what is provided for in the plus online agreement, it includes service
+ in the event of failure. This solution allows you to reduce the incidence of failure,
+ operate keeping an eye on prevention and always have the best system setup to reduce
+ energy consumption. Controlling the entire maintenance of the equipment allows our
+ engineers to promptly identify any structural problems or repetitive problems and
+ to refer to the customer the different technical solutions available.
+
+EXTRA BENEFITS COMPARED TO ONLINE PLUS OPTION
+
+A SINGLE CONTACT ENGINEER FOR ASSISTANCE
+
+PREVENTION AND REDUCTION OF FAILURES
+
+compilation and transmission of yearly F-gas statement: a service particularly appreciated because
+ compliance with regulations is characterised by a bureaucratic and technical component that can
+
+thanks to the security USB flash drive issued by Frigoveneta you can access the local PCs and the
+ Database from any PC connected to internet. Each customer may request a USB flash drive to connect
+
+provides access to the data recorded by the Telegest system relating to your system
+ and allows you to create statistical reports, custom reports or graphs
+
+send automatic alert/ warning email, with custom filters and settings according to customer or service engineer requirements
+
+ <img class="img-responsive" title="Qualcosa" alt="Qualcosa" style="margin-bottom: 20px; margin-top: 20px" srcset="http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=600&h=165 600w, http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=800&h=220 800w, http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=1200&h=330 1200w, http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=1800&h=495 1800w, http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=2400&h=660 2400w" sizes="(min-width: 320px) 100vw" src="http://frigoveneta.dev/web/thumb?src=/images/service/telegest-schema.jpg&w=2400&h=660" /> 
+
+Are you interested in our solutions?
+
+<img
+
+ alt="Qualcosa"
+ style="margin-bottom: 20px; margin-top: 20px"
+
+ //localhost:3000/web/thumb?src=/images/service/telegest-schema.jpg&amp;w=600&amp;h=165 600w"
+ sizes="(min-width: 1200px) 100vw, 2400px"
+
+Frigoveneta - Video Aziendale

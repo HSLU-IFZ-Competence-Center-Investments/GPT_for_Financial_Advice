@@ -1,0 +1,100 @@
+Changeablepagetitle
+| 
+
+[if lte IE 9]>
+
+ <![endif]
+ since IE ignores conditional comments, we use this 
+
+ End Google Tag Manager /Head scripts 
+
+ Body scripts 
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) /Body scripts 
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer ServiceService
+
+OrderingEasy4u subscriptionOur productsAbout usCustomer ServiceService
+
+Accessible and affordable digital education for everyone!
+
+Accessible and affordable digital education for everyone!
+
+Accessible and affordable digital education for everyone!
+
+Welcome!
+
+ | Your partner for laptops in class
+
+Our mission is to give every pupil and student easy and affordable access to digital education!
+
+We have developed the Easy4u subscription to take care of everything at the same time. Service, software and insurance are always included! That way, the school, the parents and the pupils have nothing to worry about. 
+
+Every day, over 700 schools and at least 280,000 pupils in the Netherlands and Belgium use our laptops. We have now been doing this for over 17 years.
+
+Choose convenience and certaintyChoose Easy4u
+
+Why 
+
+ Purchase or rent, digital education for everyone 
+
+ Security, accidental damage and theft insurance 
+
+ Continuity, thanks to the provision of laptops on loan during repairs 
+
+ Convenience, a single point of contact for service 
+
+ Laptops for educational use, geared towards the education sector 
+
+What customers say about 
+
+"We have had a very good relationship with for several years. Their sound products, helpfulness and professional approach takes digital education to a higher level." - Rik Zwart -
+
+"We shaped our Chromebook programme for pupils in collaboration with The Rent Company. They offer genuine input in terms of service, support and what best suits the school and the eduction sector." - Marcel Hoogstoevenbeld -
+
+The Rent Company
+
+"Effective and rapid communication at the front end and efficient organisation of contracts and procedures at the back end. We used to arrange everything ourselves, which required almost 2 FTE." - Sjors van der Heiden -
+
+The Rent Company
+
+"The Rent Company does not treat you like a number, but a valued client, they all offer proactive input. Suppliers often say they will unburden you when in reality they give you cause for concern. At The Rent Company, they really take … 
+The Rent Company
+
+"We have had a good relationship with The Rent Company for 3 years. They are always willing to inform parents and are happy to offer input for solutions." - Leonie Drabbe-van Rijn -
+
+The Rent Company
+
+10
+
+"We have been working with The Rent Company for three years. A good company where everything is well organised. Assistance with our open days, the web shop, delivery, not to mention the service provided to our pupils at school. The use of … 
+The Rent Company
+
+Students and laptops? They are inextricably linked. Thanks to our full service provision via the Easy4u subscription, we make access to digital education easy and affordable.
+
+Laptops on loan during repairs, super-fast service, a single point of contact for the school and the students, and accidental damage and theft insurance are included.
+
+Choose Convience and securityChoose Easy4u
+
+Special educational laptop with solid casing and rubber edges
+Active battery life of at least 7 hours
+Wi-Fi card for fast and stable wireless access
+Model selection is agreed in advance with the educational institution 
+
+Basic installation for educational purposes
+Re-installation of the software at school is possible with a special image network
+Integration with school website domain if needed
+
+Replacement laptop during repairs
+Customer service support by phone
+Support via the school or home address during holidays
+Online customer portal
+Single point of contact for the customer
+In-house transport and repair service
+
+Damage and theft insurance with a limited excess of €50,00 per incident (max. 3)
+Includes solid, water-resistant protective sleeve
+The entire process is handled by The Rent Company
+
+ <div class="columns is-mobile is-overflow-x-scroll">

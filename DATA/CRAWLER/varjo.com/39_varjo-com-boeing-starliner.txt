@@ -1,0 +1,158 @@
+ThissiteisoptimizedwiththeYoastSEOPremiumpluginv22.0(YoastSEOv22.0)-https://yoast.com/wordpress/plugins/seo/
+Varjo & Boeing: A New Era in Astronaut Training using Virtual Reality
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+Varjo & Boeing: A New Era in Astronaut Training using Virtual Reality
+
+With Varjo, the Boeing Starliner program unlocks an entirely new way for astronauts to prepare for spaceflight. Varjo allows astronaut training – 
+
+from pre-launch to docking to landing – entirely in VR for the first time.
+
+Transcending the way astronauts are trained
+
+When astronauts prepare for crewed space missions, every step of the flight is practiced thousands of times. Although launching a spacecraft from zero to orbit takes only 12 minutes, it requires years of preparation and hundreds of hours of complex training simulations. For the mission to be successful, everything needs to go flawlessly. This is why the Boeing Starliner flight-test crew in Houston is always looking for new, innovative ways to train astronauts.
+
+Boeing CST-100 Starliner capsule approaching International Space Station. Boeing has built the spacecraft for all of NASA’s crewed space endeavors, including Mercury, Gemini, Apollo, the space shuttle and International Space Station (ISS) and now the Starliner.
+
+Connie Miller is a programmer at Boeing Starliner with almost two decades of experience supporting Boeing space programs with new technologies. The Boeing Starliner is developed in partnership with NASA and is designed for researchers and adventurers alike.
+
+Right now, Miller is responsible for progressing the virtual reality training efforts in the Starliner program. Her goal is to set up the team to be able to train astronauts for every step of the mission using immersive technologies.
+
+While NASA’s astronauts have been training for spacewalks in VR for years, the low resolution of existing VR devices has meant that training for the full spectrum of safety-critical scenarios, including operating the spacecraft and docking with the ISS, has not been possible – until now.
+
+When the first crewed mission aboard CST-100 Starliner takes place, the crew will have banked hundreds of training hours for each phase of the entire mission – including launching, docking, re-entering the atmosphere and landing phases – using Varjo’s human-eye resolution VR devices.
+
+The VR headset provides a clear, high resolution system so that the crew can read instruments from a normal distance, which vital to effective astronaut training.
+
+ “Being able to read the crew displays with a VR headset from a normal position in the capsule was mandatory. Without that, we were really stuck – until we found a headset that worked.”
+
+CONNIE MILLER – Software Engineer, BOEING
+
+Effective training requires crystal-clear vision
+
+The crew console in the CST-100 Starliner has two display panels that show in real time the velocity and trajectory of the aircraft as it moves in space.
+
+Connie Miller and spaceflight training software engineer Jim May have been exploring the possibility of using VR for astronaut training since 2017, but until last year, the immersive training opportunities were still limited.
+
+But the ambition level was high. Boeing developers in Australia had 3-D modeled the Starliner console using Unreal Engine. In Houston, the virtual training applications were integrated to the physical simulators. Meanwhile, Miller and her colleagues took on the task of testing all available VR devices on the market.
+
+Astronauts need crystal-clear vision to be able to read the display panels in the capsule. The spacecraft’s crew console consists of two displays, each about the size of an iPad, which show mission-critical flight data such as the velocity and trajectory of the aircraft as it moves in space.
+
+For the VR training to be effective, astronauts need to be able to read all the displays simultaneously while operating the simulated aircraft with their hands or controllers. With earlier VR headsets, reading the displays in the immersive training environment was only possible when leaning in close to the displays – but then the astronauts couldn’t see their hands, making it unsuitable for training.
+
+With the human-eye resolution in Varjo headsets, astronauts can see the smallest of details on the crew console. For the Boeing Starliner program, this unlocks unprecedented virtual reality training opportunities for a crewed space mission.
+
+When using Varjo’s human-eye resolution virtual reality, astronauts are able to read all the mission-critical data in the immersive training environment. The crew console has been 3-D modeled using Unreal Engine. Varjo & Boeing: A New Era in Astronaut Training using Virtual Reality
+
+ “The simulators ensure that the crew is able to train for all aspects of their mission safely.”
+
+STEVEN SICELOFF – Boeing Communications, International Space Station/Lunar Exploration
+
+Most demanding training is now possible in VR
+
+Boeing's software engineer Connie Miller with the Varjo VR headset. Whether training for simulated emergency scenarios – or virtual launching, docking, entry or landing – astronauts need to keep their focus just as they would in real life. And they need to act fast and understand their options.
+
+Docking to the International Space Station is one of the most complex operations of a Starliner mission, and is one example of the training scenarios now possible in the immersive VR environment.
+
+Imagine approaching the ISS in the Starliner spacecraft. Your speed is relatively low, but the ISS weighs about 420,000 kilograms. That’s the equivalent of more than 330 automobiles. And even though the ISS is weightless in space, it still has mass. And the spacecraft needs to be steered to a fine point at the docking port by following a cone-shaped path. Projecting the display panels and trajectory data precisely is crucial if VR is to be an effective training tool for such a vital operation.
+
+Varjo’s visual fidelity not only makes it possible to train for precise procedures such as docking, but to practice for unplanned events. VR training allows the Starliner crew to simulate dangerous situations, and build the team’s responses and decision-making abilities, without ever putting the astronauts in danger.
+
+Using VR simulators, the team can perform all the interactions, voice and switch commands, while being immersed in the same surroundings they’d see when sitting in the actual spacecraft.
+
+Ultimately this adds to the safety of the mission.
+
+Docking to the ISS is one of the most complex operations of a Starliner mission, and is one example of the training scenarios now possible in the immersive VR environment.
+
+VR brings operational benefits – even under exceptional circumstances
+
+Chris Ferguson, Commander of the Starliner spacecraft. The Starliner is setting the foundation for commercial passenger spaceflight services to and from low-Earth orbit.
+
+Augmenting astronaut training with virtual reality has immense operational benefits for Boeing and the Starliner program. Before exploring virtual training, Boeing’s Starliner crew has trained in two state-of-the-art fixed simulators in Houston, with very powerful computers and electronic hardware. Virtual reality allows astronauts to train remotely from anywhere in the world.
+
+With Varjo’s VR devices, astronauts can participate in training sessions remotely, with the same level of realism and interactions as if they were sitting in the physical simulators. The Starliner crew can also perform VR simulations in their individual part-task trainers from anywhere in the world. This brings operational flexibility for the entire team.
+
+Virtual reality also unlocks the ability for astronauts to train while in pre-launch quarantine in crew quarters, which is not possible with more conventional training systems.
+
+With the software development largely behind them, the Boeing team is making its final evaluations and crews are set to begin using the headset full-time in their training.
+
+ “The ability to connect and jointly train astronauts from various countries, agencies, and private partnerships will be especially important as human spaceflight becomes more commercialized and accessible to everyone.”
+
+JIM MAY – Spaceflight Training Software Engineer, BOEING
+
+CHRIS FERGUSON – Commander of the Starliner Spacecraft, BOEING
+
+ When the first crewed mission aboard CST-100 Starliner takes place,
+
+the crew will have banked hundreds of training hours for each phase 
+
+of the entire mission using Varjo’s human-eye resolution VR devices.
+
+Never-before-seen remote training opportunities
+
+Jim May, Boeing’s Spaceflight Training Software Engineer, with the Varjo headset. Varjo & Boeing: A New Era in Astronaut Training using Virtual Reality
+
+In the future, the Boeing Starliner team’s ambitions for VR training are likely to reach even greater heights. According to Connie Miller, the team would like to enable flight crews to take the VR training system into orbit aboard the Starliner. This would mean never-before-seen remote training – conducting VR simulations from outer space.
+
+Before this, though, the Boeing Starliner program’s pioneering work in VR simulations is likely to be applied to other safety-critical scenarios.
+
+VR training translates well to other vehicles as well. This platform could potentially be used on other Boeing aircraft.
+
+ “We are proud to be delivering the technology that is pushing industrial training applications to their furthest reaches.”
+
+NIKO EIDEN – Co-founder, VARJO
+
+Varjo & Boeing: A New Era in Astronaut Training using Virtual Reality
+
+Want to take training to the next level?
+
+Varjo’s human-eye resolution virtual and mixed reality enables safety-critical training across industries. Reach out to our expert team to learn more.
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

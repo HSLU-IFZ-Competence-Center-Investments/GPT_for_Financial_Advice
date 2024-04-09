@@ -1,0 +1,47 @@
+Inductive Components and Cores | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+ Vocational Training and Studies
+
+ Inductive Components and Cores
+
+ Inductive Components and Cores
+
+Common mode chokes (CMCs) based on nanocrystalline VITROPERM® offer highest attenuation in compact designs for a wide range of EMI requirements. The broad portfolio of standard types offers solutions for 1-phase and 3-phase applications as well as 4-fold CMCs.
+
+ Amorphous and Nanocrystalline Cores
+
+Tape-wound toroidal and oval cores made of nanocrystalline VITROPERM® or amorphous VITROVAC® offering low losses over the full permeability range between µ~7000 to µ>100,000.
+
+Gate drive transformers for IGBT are the key element in the driver circuit supplying the necessary power for switching and maintaining safe galvanic separation between the intermediate circuit and the low voltage control side.
+
+By using nanocrystalline VITROPERM® as core material, VACUUMSCHMELZE Gate Drive Transformers combine high power density with high insulations strengths.
+
+Current transformers for 50 Hz/60 Hz energy meters require core materials with highest permeability and linearity.
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

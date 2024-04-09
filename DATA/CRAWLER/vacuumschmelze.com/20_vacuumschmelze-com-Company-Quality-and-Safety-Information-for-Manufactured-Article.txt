@@ -1,0 +1,37 @@
+Information for Manufactured Articles | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+Vocational Training and Studies
+
+ Information for Manufactured Articles
+
+ Information Sheets for Manufactured Articles
+
+The semi-finished and finished products manufactured at VAC are classified as 'articles' under the REACH Regulation (EC) No. 1907/2006. No legal obligation to produce and distribute a safety data sheet applies to products that are 'articles' as understood by REACH. The comprehensive information typically contained in a safety data sheets is summarized in the alloy-specific "Information sheets for articles". We expressly point out that these information sheets are voluntarily produced data sheets to which the requirements of the REACH Regulation do not apply. Information sheets are available in two languages (German/English). Information sheets for manufactured articles for the US market are available in English.
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

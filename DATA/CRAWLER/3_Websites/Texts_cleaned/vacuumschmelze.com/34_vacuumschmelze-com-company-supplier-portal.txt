@@ -1,0 +1,75 @@
+Supplier Portal | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+ Vocational Training and Studies
+
+VACUUMSCHMELZE is one of the world's leading companies in the development, manufacture and marketing of magnetic materials and refined products derived from them.
+
+We expect our suppliers to deliver reliable high quality and innovative products at reasonable and fair market prices. We rely on high-performance suppliers who enable us to sell our high-quality products on time and competitively.
+
+Raw Materials
+Electrical & Electronical Goods / Plastics / Metal Products
+
+Plant & Machinery
+Energy / Chemicals & Industrial Gas
+
+ Our Supplier Platform - Onventis
+
+Transparent and efficient processes are saving resources on both ends. Hence, we use the platform Onventis to collaborate with our suppliers closely.
+
+The platform includes a standardized supplier questionnaire, which is used for master data maintenance. Regular queries ensure that the information available to us is always up-to-date.
+
+Onventis serves as a document management system during our collaboration. This ensures mutual transparency of exchanged documents and certificates at all times. In addition, it offers our suppliers the opportunity to map certifications or other documented process standards in order to gain an advantage. 
+
+We constantly measure the performance of our suppliers and provide regular feedback. We will provide feedback on a regular basis and in a standardised form, which will enable you to see how we perceive you as a supplier and in which areas you can improve.
+
+We process our tenders via Onventis and enable our registered suppliers to participate. Hence, potential new suppliers have to register on Onventis in order to participate.  
+
+As soon as a tender has been started, the participants will be notified by e-mail. This e-mail contains a link to our supplier portal Onventis, via which the participants can submit an offer directly. There is also a guide to submitting bids. Should your bid be of interest to our buyer after the tender result has been determined, he will get in touch with you. 
+
+In coordination with us, you as a supplier may provide us with your e-catalogues on our  Onventis platform or connect your webshop via OCI interface. In addition, we are increasingly working with automated order processing workflows via Onventis. This allows both parties to benefit from a transparent, accelerated and reliable flow of information.
+
+The platform includes a standardized supplier questionnaire, which is used for master data maintenance. Regular queries ensure that the information available to us is always up-to-date.
+
+Onventis serves as a document management system during our collaboration. This ensures mutual transparency of exchanged documents and certificates at all times. In addition, it offers our suppliers the opportunity to map certifications or other documented process standards in order to gain an advantage. 
+
+We constantly measure the performance of our suppliers and provide regular feedback. We will provide feedback on a regular basis and in a standardised form, which will enable you to see how we perceive you as a supplier and in which areas you can improve.
+
+We process our tenders via Onventis and enable our registered suppliers to participate. Hence, potential new suppliers have to register on Onventis in order to participate.  
+
+As soon as a tender has been started, the participants will be notified by e-mail. This e-mail contains a link to our supplier portal Onventis, via which the participants can submit an offer directly. There is also a guide to submitting bids. Should your bid be of interest to our buyer after the tender result has been determined, he will get in touch with you. 
+
+In coordination with us, you as a supplier may provide us with your e-catalogues on our  Onventis platform or connect your webshop via OCI interface. In addition, we are increasingly working with automated order processing workflows via Onventis. This allows both parties to benefit from a transparent, accelerated and reliable flow of information.
+
+New supplier? Please follow the link to register your company as a supplier.
+
+Register as a Supplier
+
+Are you already a supplier of ours? Follow the link to login. 
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

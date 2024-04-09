@@ -1,0 +1,117 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+ in VR Explained – And Eliminated – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Learning Hub: Home
+VR Terminology Explained Virtual Reality
+
+Immersive/Spatial Computing
+VR, AR, XR – Which technology to choose?
+What’s the difference between standalone, wireless and tethered VR headsets?
+
+Technical Features and Capabilities Base Stations
+Controllers
+Degrees of freedom in VR/XR
+Eye Tracker
+Field of View in VR
+
+Motion Sickness
+
+Getting started with VR/XR How to get started with VR: What do I need?
+How to create VR/XR content
+Using existing VR/XR content
+What kind of content can I view in VR? Can I view video content? 
+Where does the content come from? How to create it?
+Why do I need such a powerful computer to use VR?
+Capturing VR or XR experiences
+
+Motion sickness in VR
+
+Motion sickness, also known as simulator sickness or cyber sickness, commonly occurs when using virtual reality and mixed reality technologies (VR / XR) if the quality of the experience is not high enough. The symptoms of motion sickness include nausea, disorientation, discomfort, eye strain, and drowsiness.
+
+Motion sickness in VR does not require actual movement to occur: the perceived motion in the VR simulation is enough to trigger it.
+
+There are several theorized causes for simulator sickness, and even the sensitivity to each cause can vary between people.
+
+Practical sources of motion sickness in MR, AR, and VR
+
+High latency. If the VR experience of the headset being used for training has high latency, it can cause simulator sickness.
+Latency in video pass-through: When operating in mixed reality where digital and real-world objects are mixed together, the video pass-through must have sufficiently low latency to avoid simulator sickness
+Low refresh rate: If the headset has a low refresh rate, this can cause simulator sickness.
+Incorrect interpupillary distance (IPD). The distance between each person’s eyes varies a lot. This means that headsets, which use lenses to display the image, must also have a way to change the position of those lenses to account for the different interpupillary distances. Recent studies have shown that an improperly adjusted interpupillary distance (IPD) is the cause of 40% of all cyber sickness.
+Laggy or inaccurate hand tracking: Slow and inaccurate hand tracking can also in motion sickness as some users experience discomfort when they move their hand but it doesn’t follow fast enough in their visual perception compared to the sense of their limb.
+Low resolution. When low resolution scenes are displayed close to the eye , it can cause eye strain and motion sickness. Low resolution also makes it hard for the wearer to use their gaze as they would in real life, because they are unable to see objects that are far away in meaningful detail (which they could do in real life).
+
+How to tackle motion sickness in VR?
+
+Professional-grade headsets, such as Varjo XR-3 and VR-3, have made massive strides in eliminating motion sickness. Varjo’s headsets can be used for hours on end without motion sickness experienced by the user.
+
+Capabilities that ensure a comfortable experience without motion sickness include:
+
+Automatic interpupillary-distance adjustment. Varjo headsets automatically calibrate themselves to each individual user so their IPD is taken into account to avoid cyber sickness. With an IPD range of 57–73mm, they fit almost any potential user.
+High refresh rate: Varjo headsets have a refresh rate of 90 hz, which helps avoid simulator sickness.
+Extremely high resolution: With resolutions of more than 70 pixels per degree, which is greater than what can be detected by a human eye with 20/20 vision, Varjo headsets can display virtual scenes in real-life fidelity and allow users to perceive objects at realistic visibility distances.
+Low latency, high-definition video pass-through: Varjo XR-3 is capable of true mixed reality where video and virtual representations reach parity and cannot be differentiated. The core technology that provides mixed reality is video pass-through, enabled by stereo 12-megapixel cameras that digitize the world in real-time. With latency under 20 milliseconds, this delay is undetectable in normal interaction situations and universally deemed good enough to avoid the creation of false sensations and simulator sickness.
+
+Varjo customer testimonial on motion sickness being eliminated:
+
+“During my trials, I have noticed dramatically reduced VR motion sickness with the Varjo VR-3 headset, this includes those that experience motion sickness with other VR headsets. We experienced around 10 cases of VR sickness out of c. 1000 people in trials and demonstrations when using the Varjo VR-3, which is a substantial decrease when compared to other VR headsets that we have trialed. 
+
+The Varjo VR-3 is a remarkable VR headset that can enable effective future synthetic training solutions for defense by enabling users to read the smallest text, experiencing the highest levels of photorealism and experience significantly reduced VR motion sickness when compared to other VR headsets on the market. 
+
+The Varjo VR-3 is the headset that I currently recommend for use within the VR training pipeline primarily because of the decreased levels of motion sickness and ability to read small text which is imperative within any vehicle simulator.”
+
+– WO2 (QGI) Ian Ferguson, Modelling and Simulation QGI, Royal School of Artillery, UK
+
+Blog Post: Training in VR and XR: Simulator Sickness Explained (And Eliminated)
+Designed for Ultimate VR/XR Comfort – A Deep Dive into the Design of Varjo XR-3 and VR-3
+Varjo Aero Reviews and Awards
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

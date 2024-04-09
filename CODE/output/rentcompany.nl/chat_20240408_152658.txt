@@ -1,0 +1,12 @@
+user: Please provide me with a summary of the content of all the files in couple of sentences. I do not wish to go through them one by one.                               Just give me a general idea of what they are about.
+
+assistant: It appears that no files have been uploaded yet. Please upload the files containing the content you would like me to summarize for you.
+
+user: Purely based on the information in the files, which SDGs arguably does the company have in the focus?
+
+assistant: It seems that the files have not been uploaded yet. Please provide the files containing information about the company so that I can identify which Sustainable Development Goals (SDGs) it may be focusing on.
+
+user: If you had to, how would you rank these against each other in terms of how prominent they seem to be in the company's self-presentation based on the information provided to you.
+
+assistant: To provide a ranking based on the prominence of Sustainable Development Goals (SDGs) in the company's self-presentation, I would need to review the content of the files you uploaded related to the company. Please upload the files so I can assess the prominence of each SDG in the company's focus and presentation.
+

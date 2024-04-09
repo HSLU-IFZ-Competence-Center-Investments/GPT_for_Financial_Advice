@@ -1,0 +1,119 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+Virtual Reality Maritime Training with FORCE Technology – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+How FORCE Technology Achieves a Thousandfold Cost Reduction in Maritime Training with Virtual Reality & Mixed Reality 
+
+FORCE Technology is bringing about a second generational shift in maritime training with the help of Varjo’s virtual and mixed reality.
+
+Key benefits of virtual and mixed reality for maritime training:
+
+Up to a thousandfold cost reduction in operating costs compared to traditional maritime simulators 
+Added sense of depth and the ability to realistically perceive distances 
+Added portability enables training much closer to the point of need 
+High level of immersion in lifelike training scenarios 
+Ability to train maritime workforce at scale
+
+Overcoming challenges with innovative training solutions
+
+ When simulators first appeared on the maritime training scene, they represented a generational shift in training capability. They are now essential in training people to pilot commercial marine vessels such as cargo ships. Simulators have many benefits over training with actual vessels: you can practice maneuvers that are hard or impossible to train with real vessels, the operating expense is much lower due, and you can easily implement different weather conditions, for example.  
+
+While these traditional simulator solutions still have a place in the training process, they are not without drawbacks. They typically cost around 1-10 million dollars per unit, they need large facilities, and the portability is practically nonexistent, so training volumes and cost savings are limited. 
+
+A global shortage of skilled seafarers and ship pilots also limits the training of new operators. Many shipping companies can’t afford to commit their existing skilled workforce to training new employees because they are constantly needed to operate the vessels. To combat this shortage, more scalable and cost-effective training solutions that can be deployed closer to the point of need are required.  
+
+VR and XR bring about a generational shift in maritime training 
+
+FORCE Technology is a global leader in the maritime simulation space. They have decades of experience in building bleeding-edge simulators to train employees for the biggest naval companies in the world. They offer several cutting-edge ship bridge simulator models and are always looking to advance the training technology further. This led them to partner with Varjo to explore how the next generation of naval simulation could be built. 
+
+As FORCE Technology’s simulator visual system had already been converted into Unity 3D engine, it enabled an easy integration into a 3D virtual reality environment and from there to Varjo headsets.  
+
+The compatibility of the existing software with Varjo headsets has been a major benefit for the company. As many clients are already familiar with the existing software, using it in this new virtual environment is a frictionless experience.  
+
+“The advantages are clear, and the industry-leading visual quality of Varjo headsets make them the perfect fit for our needs.”
+
+ -
+ Director of Department, Simulation, Ports & Training, Force Technology 
+
+“Our headset-based training solution represents a generational evolution in maritime training. I believe this will become the industry gold standard in the future,” says Jan Michelsen, Director of Department, Simulation, Ports & Training at FORCE Technology.
+
+The first major benefit of this evolution has been the cost. Traditional full-scale maritime simulators typically cost around 1-10 million dollars, and the operational costs can add up when factoring in facility expenses, maintenance, and operating the system over time. If you compare this setup to a VR/XR headset-based solution that can be used with a single gaming PC, consumes much less power, and has a total system cost of some tens of thousands of dollars, its advantages for many use cases are clear. The cost reduction can be up to a thousandfold. This technology opens up new markets that were previously unattainable, allowing FORCE Technology to expand its business in exciting new ways.
+
+As the headset-based simulator only requires a single desktop computer, you can use it anywhere you can place that single computer. The added portability enables training much closer to the point of need – without the need for a dedicated simulator facility.  
+
+In the future, Michelsen sees that simulators using Varjo headsets will be deployed directly on ships that are in operation: “This will enable ship crews to practice anchoring at busy or difficult locations en route before they arrive, or train new employees during downtime at ports – right at the bridge where they will be working anyway.” 
+
+Major training quality benefits 
+
+“We’ve researched using VR for maritime training for years, but weren’t able to use it because the technology out there just wasn’t good enough.
+
+Headsets were bulky, the visual quality was not good, there was too much heat emitted, people got cyber sickness, etc. With Varjo, all of those pain points have been solved, and we’ve finally been able to take the next step.”
+
+– Jan Michelsen, Director of Department, Simulation, Ports & Training, FORCE Technology 
+
+But how do headset-based simulators compare to more traditional simulators? One strength of headsets is the added sense of depth and the ability to perceive distances realistically. This is extremely crucial for ship pilot training as vessels are large and slow to maneuver. You need to be able to accurately gauge distances to other vessels in order to avoid collisions and maintain safe distances. 
+
+There is also a stronger sense of immersion, which helps make the training more effective. The added sense of depth and distances is one factor in developing immersion, but it also helps that there are no barriers or cutoff points, which are present when using 2D screens. On a headset, the person is fully immersed, no matter where they look, and there are no cutoff points.  
+
+In order to achieve this kind of immersion, the visual quality has to be sufficient. FORCE Technology tried a few other headsets in addition to Varjo’s offering but found that the visual quality was simply not sufficient. This made Varjo the only choice to suit their needs, and the immersion achieved has been impressive. For example, in tests with clients, Jan Michelsen has seen that after about 10-15 minutes, peoples’ sense that they are in a simulator disappears, and they start behaving as if they were on an actual ship. 
+
+FORCE Technology is now looking to deploy the technology more broadly with numerous customers. Jan Michelsen sees that the future of headset-based training in the maritime industry is bright.
+
+“Our headset-based training solution represents a generational evolution in maritime training. I firmly believe this will become the industry gold standard in the future.” 
+
+Learn more about other pioneering use cases for VR/XR:
+
+Operating Drones in Mixed Reality: How Inzpire Leverages Varjo for Next-Gen UAV Training
+
+Mixed Reality in JTAC Training: A New Dimension in Defence Preparedness
+
+How Wärtsilä Revolutionizes Maritime Training with Varjo’s XR Technology
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

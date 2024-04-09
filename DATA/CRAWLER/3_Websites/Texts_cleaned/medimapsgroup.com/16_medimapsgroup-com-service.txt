@@ -1,0 +1,71 @@
+End
+
+Custom | DXA, pDXA, QUS; Trabecular Bone Score™ (TBS®) etc
+
+ This site is optimized with the Yoast SEO Premium plugin v12.4 - https://yoast.com/wordpress/plugins/seo/ 
+
+ / Yoast SEO Premium plugin. 
+
+ This site uses the Google Analytics by MonsterInsights plugin v8.20.1 - Using Analytics tracking - https://www.monsterinsights.com/ 
+
+ / Google Analytics by MonsterInsights 
+
+[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css' href='https://www.medimapsgroup.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.3' media='screen' />
+
+ Google Analytics snippet added by Site Kit 
+
+ End Google Analytics snippet added by Site Kit 
+
+ Google Tag Manager 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+skip to Main Content
+
+Electronic Instructions for Use (e-IFU)
+Request TBS iNsight™ User Manual as paper
+
+Contact
+Find Centers with TBS
+
+Services
+
+In addition to creating proprietary software applications such as , Medimaps Group operates as a contract scientific organisation (CSO) and as a custom software development company.
+
+As such, we offer a wide range of services pertaining to our core areas of expertise: bone densitometry imaging (DXA and pDXA); bone quantitative ultrasound (QUS); bone microarchitecture assessment employing proprietary Trabecular Bone Score™ (TBS®) using various image modalities (DXA, X-ray or projected CT imaging); and body composition estimation based on Bio-Impedance Analyzer (BIA) and DXA.
+
+Contract scientific organisation services:
+
+Protocol design
+Imaging-site selection and training
+Imaging equipment cross-calibration and longitudinal monitoring 
+
+Project management
+Reporting and medical writing
+Regulatory consulting services (e.g. US FDA filing) in cooperation with a strong network of global partners
+
+For any information on contract scientific organisation services, please contact:
+
+ Didier HANS
++41 22 884 86 44 (Switzerland)
+
+Custom software development services:
+
+Third-party software development for research or clinical purposes
+
+We have developed several software solutions for large contract research organisations; automated quality control solutions; secure databases for clinical use; dedicated automation software solutions for university hospitals; and are currently working on several projects using AI, machine learning and 3D modeling.
+
+© Medimaps Group, 2024
+
+TBS iNsight™ (Osteo)
+
+Electronic Instructions for Use (e-IFU)
+Request TBS iNsight™ User Manual as paper
+
+Contact
+Find Centers with TBS

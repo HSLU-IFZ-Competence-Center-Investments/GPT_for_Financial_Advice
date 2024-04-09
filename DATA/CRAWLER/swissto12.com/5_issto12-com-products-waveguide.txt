@@ -1,0 +1,47 @@
+| SWISSto2
+
+Waveguide Solutions
+Antenna Components
+Electronically Steered Antenna Arrays
+
+Highest performance waveguide solutions
+
+Thanks to our proprietary D printing techniques, SWISSto12 waveguide routing solutions enable new Radio Frequency design freedom. Our RF components and sub-systems benefit from an optimized signal interconnect approach that delivers the lowest signal loss, mechanical bracketing and thermal management features while facilitating system integration (licensed from Airbus Defence and Space).
+
+Loading 3D model This might take a minute.
+
+1
+
+2
+Waveguide with built-in bracketing
+
+3
+
+Dense and complex waveguide routings are solved through multi-waveguide clusters designed on demand. Multiple waveguides along with their flanges, mechanical brackets and thermal management features are 3D printed in one single unit replacing what would traditionally be 10’s or 100’s of components (licensed from Airbus Defence and Space).
+
+Waveguides: WR75 to WR19;
+Up to 40 waveguides in one monolithic piece;
+Return loss typically better than 30 dB;
+
+11 waveguides, 5 different types;
+200 mm average length;
+
+Loading 3D model
+This might take a minute.
+
+Multiple waveguides merged into one unit. 3D printing allows for multiple waveguides to be merged into one unit which shares waveguide walls, flanges, mechanical brackets, thereby significantly facilitating system integration and optimizing weight (licensed from Airbus Defence and Space).
+
+Waveguides: WR75 to WR19;
+Multi-flange and wall mutualization;
+
+Loading 3D model
+This might take a minute.
+
+Waveguide with built-in bracketing
+
+With SWISSto12’s 3D printing, waveguides, flanges, mechanical brackets or thermal features are no longer thought of as separate components - rather, they are built into a single monolithic unit. This approach reduces part count, eases system integration and opens up a new avenue for system optimization through design.
+
+Waveguide with built-in bracketing
+
+Loading 3D model
+This might take a minute.

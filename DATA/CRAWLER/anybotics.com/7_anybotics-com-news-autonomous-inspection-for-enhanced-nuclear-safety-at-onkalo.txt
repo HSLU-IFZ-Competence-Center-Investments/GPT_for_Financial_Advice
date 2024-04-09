@@ -1,0 +1,71 @@
+ThissiteisoptimizedwiththeYoastSEO Premium plugin v20.8 (Yoast SEO v22.3) - https:yoast.com/wordpress/plugins/seo/ 
+Autonomous Inspection for Enhanced Nuclear Safety at - ANYbotics
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.28
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Power & Utilities
+Mining, Metals & Minerals
+
+Articles and Case Studies
+
+Pioneering Autonomous Inspection for Enhanced Nuclear Safety at Onkalo
+
+Inspection robots enhance nuclear safety. In collaboration with the European Commission, the Joint Research Centre, and Posiva Oy, autonomously patrols and monitors Onkalo’s depths at Finland’s spent nuclear fuel repository. Conducting tasks such as visual asset monitoring ’s advanced mobility and offline operation make it ideal for harsh conditions, ensuring thorough inspections. ANYmal serves as a fail-safe safety device, documenting nuclear waste storage without human presence, contributing to improved safety, productivity, and the future of robotic nuclear plant inspection.
+
+Automated Inspections Enhance Underground Nuclear Facilities
+
+The Onkalo spent nuclear fuel repository, located near the Olkiluoto Nuclear Power Plant in Finland, is the world’s first long-term disposal facility for spent nuclear fuel and is currently under construction by Posiva. Autonomous robots play a vital role in nuclear facilities, safeguarding human workers from potential contamination. These robots, such as ANYmal from ANYbotics, demonstrate their effectiveness by conducting automated inspections related to nuclear safeguards in the underground facilities of Olkiluoto.
+
+Championed by the European Commission Directorate General for Energy and the Joint Research Centre in collaboration with Posiva Oy, this initiative highlights the crucial role of ANYmal in improving nuclear safety. The focus is on autonomous robots patrolling specific areas, ensuring constant visual and radiation monitoring to safeguard operators. The goals include demonstrating the distances ANYmal can travel under Onkalo conditions across varying terrain in the tunnel system. Overall, robots prove invaluable, particularly in areas inaccessible to humans, ensuring thorough and accurate inspections related to nuclear safeguards.
+
+Autonomous Inspection Resilience in Onkalo’s Depths
+
+ANYmal, the only legged robot assessed at the Onkalo site, demonstrated resilience and capabilities in demanding underground conditions. At a depth of more than 400 meters, in a network of over 100 deposition tunnels accessed via a spiral-shaped 5 km long main tunnel, ANYmal efficiently performed essential and repetitive tasks autonomously. This enabled operators to collect and manage inspection and monitoring data. Use cases at Onkalo encompass visual asset monitoring, such as gauges, levers, and valves, and reality capture for creating and updating 3D models on demand while accompanying operators on their inspection routes.
+
+ANYmal performing inspection missions in the complex Onkalo tunnel system.
+
+ANYmal: Ideal Choice for Onkalo’s Challenges
+
+ANYmal stands out among other legged inspection robots for its advanced mobility, navigation, and localization capabilities, making it well-suited for spent nuclear fuel repository sites. Its robust design and IP67 rating ensure full functionality in harsh, wet, and dirty conditions. The removable fans allow ANYmal to remain uncompromised during cleaning after decommissioning. With full autonomous functioning and offline operation, it operates seamlessly without needing connectivity. Additionally, it facilitates the addition of ad hoc inspection points through teleoperation, as demonstrated in collaboration with Framence at Entega’s waste-to-energy plant in Darmstadt, Germany.
+
+As an additional fail-safe safety device, ANYmal plays a crucial role in documenting nuclear waste’s proper storage and handling without requiring human presence in hazardous environments. The integration of ANYmal provides valuable insights, enabling operators in complex environments like Onkalo to intervene more quickly and effectively, thereby enhancing overall safety and productivity.
+
+Improving Nuclear Safety Through Robotic Innovation
+
+Increased safety is the key to advances in robotic inspection and maintenance of nuclear facilities. Technological innovations are driving progress by removing humans from potentially hazardous environments. At the forefront of these developments is ANYbotics’ commitment to developing sophisticated robotic systems that can handle increasingly complicated tasks. As ANYmal’s deployment at Onkalo demonstrates, ANYmal is leading the way in performing inspections that are more efficient, more reliable, and, most importantly, improve the safety of workers in this industry.
+
+Are you interested in exploring ANYmal’s potential to transform your operations? Find out more about increasing worker safety and efficiency while maximizing uptime in fossil fuel, nuclear energy, hydroelectricity, solar, and wind facilities.
+
+ANYMAL FOR POWER & UTILITIES INDUSTRIES
+
+(Video and image: Courtesy Posiva)
+
+Onkalo
+
+ANYmal
+
+Power & Utilities
+Mining, Metals & Minerals
+
+Articles and Case Studies
+
+ANYmal
+
+Power & Utilities
+Mining, Metals & Minerals
+
+Articles and Case Studies
+
+//
+
+ Parsed with iubenda experimental class in 0.0235 sec.

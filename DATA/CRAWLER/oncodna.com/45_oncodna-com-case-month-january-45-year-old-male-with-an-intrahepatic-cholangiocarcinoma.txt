@@ -1,0 +1,106 @@
+Cholangiocarcinoma:FGFR2-BICC1FusionIdentified
+
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySiteKit
+
+GoogleTagManager snippet added by Site Kit 
+
+ End Google Tag Manager snippet added by Site Kit 
+
+ Google Tag Manager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solid Biopsy (OncoDEEP® Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+January: 45-year-old male with an intrahepatic cholangiocarcinoma 
+
+Cholangiocarcinoma can be classified into subtypes depending on the primary anatomic: intrahepatic cholangiocarcinoma and extrahepatic cholangiocarcinoma (perihilar cholangiocarcinoma and distal cholangiocarcinoma).
+
+Intrahepatic cholangiocarcinoma is the most common primary liver cancer after hepatocellular carcinoma. The early diagnosis of this cancer remains a challenge because of the silent clinical manifestation. The prognosis of both subtypes of cholangiocarcinoma is poor. Current therapeutic option remains on first complete surgical resection but the situation of the primary tumor constitutes a challenge to proceed. Indeed, small tumor can be located in difficult access localisation, multiple lesions can also be identified. The 5-year overall survival for patients with intrahepatic cholangiocarcinoma is around 10% [PMID: 33735689].
+
+The use of adjuvant therapy is needed. The most common chemotherapy is gemcitabine alone or in combination with cytotoxic agent such as cisplatin. The better knowledge of the genomic landscape of the tumor allows the use of targeted therapies. The main two are targeting alteration in isocitrate dehydrogenase (IDH) and fibroblast growth factor receptor (FGFR). [PMID: 36260350].
+
+We will describe the case of a 45 year old man diagnosed with an intrahepatic cholangiocarcinoma in 2022. He was treated by surgery and had several cycle of chemotherapies. The patient shows signs of resistance to the adjuvant therapy. Therefore a genomic profile of the tumor has been performed using the OncoDEEP solution. 
+
+Clinical interpretation and analysis results
+IDH1 variant analysis in intrahepatic cholangiocarcinoma
+
+The OncoDEEP panel did not identify the presence of IDH1 variant for this patient.
+
+IDH1 alteration is found in about 20% of patients with intrahepatic cholangiocarcinoma [PMID: 37746315]. Isocitrate dehydrogenase (IDH) is a key metabolism enzyme that is responsible of the conversion of isocitrate into alpha-ketoglutarate, involved in the Krebs Cycle.
+
+The IDH mutation usually leads to a gain of function of the protein leading to the increase of alpha-ketoglutarate conversion into D-2-hydroxyglutarate, an oncometabolite. The high concentration of the D-2- hydroxyglutarate leads to dysregulation of histone and DNA methylation (alpha-ketoglutarate enzyme dependent) promoting malignant transformation. This oncometabolites also lead to the promotion of cellular proliferation by stabilisation of the hypoxia-inductible factor 1 alpha (HIF-1α) [PMID: 33182517 ; PMID: 37746315].
+
+Ivosidenib (also called AG-120) is an inhibitor of IDH1, FDA approved drug for patients with IDH1 mutation and previously treated locally advanced or metastatic cholangiocarcinoma. The Ivosidenib allows to decrease the level of D-2-hydroxyglutarate to restore the level of alpha-ketoglutarate and the activity of alpha-ketoglutarate enzymes dependent, involved in the regulation of histone and DNA methylation [PMID: 33683991]. For this patient, Ivosidenib is therefore not recommended since there is no mutation in IDH1.
+Detection of FGFR2-BICC1 fusion and its implications
+
+Nevertheless, we detected a fusion FGFR2-BICC1 with our OncoDEEP RNA panel. Indeed, our oncoDEEP solution includes a DNA panel allowing us to identify genomic alterations but also a RNA panel targeting splicing event and fusion in 22 genes involved tumor development. The detection of gene fusion is performed by specific primers pairs designed for the identification of rearrangements.
+
+A fusion FGFR2 – BICC1 has been identified in the RNA for this patient.
+
+Fibroblast growth factor receptor (FGFR) family belongs to the family of the tyrosine kinase receptors. There are four family member: FGFR1, FGFR2, FGFR3 and FGFR4. Those receptors are involved in several cellular processes such as proliferation, survival, migration, angiogenesis. FGFR signalling pathways is triggered by the binding of the ligand that allows the recruitment of intermediate proteins leading to the activation of the downstream pathway. FGFR fusion lead to a constitutive activity of the receptor independent of the ligand. FGFR2 fusion is characteristic of the intrahepatic cholangiocarcinoma. About 14% of cholangiocarcinoma shows a FGFR2 fusion [PMID: 23900974 ; PMID: 36497187 ; PMID: 29848569].
+
+The FGFR receptor is composed by 3 domains:the extracellular domain that allows the ligation of the ligand,the transmembrane domain andthe intracellular domain which contains the tyrosine kinase activity.variant 
+
+In case of FGFR2 fusion, the extracellular domain and the kinase domain is conserved. The fusion partner, in this case BICC1, allows dimerization signal and lead to the activation of the downstream pathway. FGFR2 translocation can be targeted by tyrosine kinase inhibitor [PMID: 32983265]. Pemigatinib, an oral selective inhibitor, is approved for the treatment of cholangiocarcinoma with FGFR2 fusion. [ PMID: 36497187].
+
+In conclusion, the OncoDEEP kit analysis reveals the absence of mutation in IDH1 but highlight the detection of an FGFR2 fusion. The treatment of intrahepatic cholangiocarcinoma remains a challenge and is still associated with poor prognostic for the patient. The use of targeted therapy such as FGFR2 inhibitors paved the way to a better chance of survival for the patient. 
+
+Fig : Isocitrate is converted into alpha ketoglutarate by the Isocitrate dehydrogenase in normal condition. In case of IDH1 mutated, the alpha-ketoglutarate is converted into an oncometabolite, D-2-hydroxyglutarate. The accumulation of this oncometabolite leads to dysregulation of alpha-ketoglutarate enzyme dependent which leads to dysregulation of histone and DNA methylation. In addition, the HIF factor is also stabilised by the high concentration of D-2-hydroxyglutarate. 
+
+You may also be interested in these resources 
+
+ Gridbuilder ᵂᴾ Plugin (https://wpgridbuilder.com) 
+
+ Case of the Month
+November: 68 year-old man with a Stage IV Prostate cancer2 min readingNov 14th
+
+Case description: Prostate cancer is the fifth leading cause of cancer death in the world. When the cancer is localized, it is usually indolent, with a 5-year survival rate of nearly 100%. However, when the...Read more →
+
+ Press Release
+OncoDNA supports BSMO project to advance precision medicine for late stage cancer patients across BelgiumFeb 4th
+
+Nation-wide study will measure the impact of comprehensive genomic profiling on access to, and uptake of, personalised medicines and on clinical outcomes for patients across Belgium GOSSELIES, FEBRUARY 4, 2021 – Today, the Belgian Society of...Read more → Lab Case
+Revolutionizing laboratory operations with OncoDEEP® Kit4 min readingJun 18th
+
+Biomarker testing is critical to learning more about each patient’s tumor type and can be used to help determine treatment options. Based on the test results, patients may be matched with targeted therapies aimed at...Read more → 
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712129289

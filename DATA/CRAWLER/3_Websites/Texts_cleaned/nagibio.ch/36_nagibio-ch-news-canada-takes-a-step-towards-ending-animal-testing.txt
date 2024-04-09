@@ -1,0 +1,43 @@
+This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ 
+Canada takes a step towards ending animal testing - Nagi Bioscience
+
+ / Yoast SEO plugin. 
+Canada takes a step towards ending animal testing - Nagi Bioscience
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Products & ServicesSydLab OneSydLab OneNagi Assay KitsSoftware SolutionsNagi Service SolutionsApplicationsEarly ToxicologyPre-clinical TestingAging ResearchTechnologyOrganism-on-ChipBiological ModelsNews & ResourcesNews & Blog#ResearchAlertEventsResourcesAboutAbout UsTeamTestimonialsSupportersCareersContact
+
+Canada takes a step towards ending animal testing
+
+In a significant move towards ethical scientific practices, Canada has taken a decisive step towards ending animal testing to phase out testing of toxic chemicals on animals.
+
+Bill S-5, known as the Strengthening Environmental Protection for a Healthier Canada Act, received royal assent after Senate approval on June 13th, paving the way for the elimination of toxicity testing on animals. This move brings Canada in line with other progressive nations that have already implemented several regulations to end animal testing, such as the famous FDA Modernization Act in the United States last year. The new legislation not only reflects the global shift towards alternative testing methods, but also signals a new era of research and innovation where NAMs (New Approach Methodologies) are key to ensure human-relevant results while reducing the number of animals used in biological research.
+
+The ban and its implications
+
+Toxicity testing has long relied on the use of animals – such as dogs, mice, pigs, fish, and rabbits – to determine the potential harm chemicals may cause to humans. However, animal rights advocates and scientists have highlighted that such tests often fail to correctly assess the safety of those compounds on humans, as well as being ethically questionable when alternatives providing human-relevant data are currently available. Kaitlyn Mitchell, the director of legal advocacy for Animal Justice Canada, expressed her satisfaction with Canada’s commitment to phasing out old-school toxicity assessment methods and ultimately banning animal testing. More than 40 countries have already banned certain forms of animal testing, placing Canada in a position to catch up with global standards.
+
+Canada already introduced early this year the  Budget Implementation Act, which included the ban on cosmetic animal testing and its trade in Canadian territory.
+
+Alternative Testing Methods for toxicity testing
+
+The ban on animal testing in Canada marks a significant shift towards the utilization of non-animal testing methods. These alternative methods – such as computer modeling, 2D and 3D cell models, and micro-organisms testing – offer numerous advantages over traditional animal testing. Those methods are not only less costly and fast than animal testing, but also often provide more human-relevant data while staying cruelty-free.
+
+A current issue that alternative testing methods are facing is how to obtain the full picture with cell models. Hence, how to get the full-organism data necessary to assess organ cross-talk and life-time effects of substances on individuals without animal testing? 
+
+The use of certain microscopic organisms, such as nematodes worms or Drosophila flies, are included in the New Approach Methodologies (NAMs) umbrella. While they still belong to the animal kingdom, they are not sentient and perfect to obtain readouts at the whole-organism level. 
+
+The next question is: can they really predict toxicity in humans? Aren’t they too far from us? The answer: not quite, they are closer to us than you may think. For instance, the most known small organism used in science is C. elegans nematode, a microscopic worm with whom we share 80% of homolog genes.
+
+How similar are C. elegans to humans
+
+Interested in knowing more?
+
+Nagi’s CSO and co-founder Laurent Mouchiroud will give a session at the 12th World Congress on Alternatives and Animal Use in the Life Sciences (WC12) in Canada about New Approach Methodologies for Developmental and Reproductive Toxicity Testing inside the theme “21st Century Predictive Toxicology”.
+
+Check out our other related blog posts

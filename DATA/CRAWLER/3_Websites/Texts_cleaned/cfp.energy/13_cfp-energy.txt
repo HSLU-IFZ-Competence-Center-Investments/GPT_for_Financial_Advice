@@ -1,0 +1,104 @@
+RenewableEnergyandSustainabilitySolutions|CFPEnergy
+
+Themejavascriptstarts
+Themejavascript end
+
+ End Google Tag Manager 
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonAbout us
+
+ <span class="open_mobileviews tel2" onclick="openNav()"><i class="fa fa-user"></i> <i class="fa fa-times"></i></span>
+
+ <div class="iconbox">
+ <span class="open_mobileview_cust tel2" onclick="openNav_cust()"><i class="fa fa-user"></i></span>
+
+ <div class="iconbox ProductSearch">
+ <span data-toggle="modal" data-target="#myModalProducts"><i class="fa fa-search"></i></span>
+
+ <div class="iconbox">
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonPowerUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a>
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal"></button>
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+</div> 
+
+Powering a sustainable world
+
+Accelerating the transition to a low carbon world through innovative energy and environmental products
+
+CF Partners is CFP Energy
+
+As the energy world has evolved, so have we.
+
+Consolidated Gross Revenue FY2023*
+
+With our diverse portfolio of services, we are committed to supporting you through the complexities of the environmental sector to achieve your sustainability goals.
+
+Carbon Border Adjustment Mechanism (CBAM)
+
+Power
+
+Enabling your business to navigate and thrive in an evolving energy landscape. We help you optimise energy supply, maximise value fromcontracts and accelerate the journey to a low carbon future.
+
+UK Energy Supply
+
+Power Market Access & Supply
+
+Cyber Security
+
+Fuels
+
+Our team offers comprehensive market analysis, risk management solutions, and tailored procurement strategies to capitalise on evolving market opportunities.
+
+Insights
+
+ <div id="insights" class="owl-carousel owl-theme"> 
+
+Clean Cookstove Projects: Debunking Headlines and Embracing Progress
+
+Amidst the flurry of media attention surrounding clean cookstove projects, it is essential to consider a full range of standpoints to ensure that we focus on continuously improving the quality and integrity of carbon projects. Scrutiny drives change, and with it, the voluntary carbon market can continue to deliver climate finance to initiatives that go beyond emission reductions and offer meaningful benefits to communities. 	
+
+ UK ETS EU ETS Emissions News
+
+CFP Energy win multiple awards in the Environmental Market Rankings 2023-2024
+
+Following a successful year, CFP Energy is delighted to have been voted a winner in the Environmental Finance Environmental Market Rankings 2023-2024. CFP Energy were voted as winners in two awards, and runner-up in a further two. 	
+
+Emissions Economics: Understanding the Financial Implications on your Business
+
+From regulatory compliance to ESG initiatives, the financial impact of the evolving energy landscape on your business is important. The balancing act between doing what's right for the future of your business, your clients, and our planet is not a simple decision, but an important one to get right. 	
+
+*Consolidated grossed-up sales across all group entities
+
+ I agree to receive other communications from CFP Energy (UK) Ltd.
+
+You can unsubscribe from these communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.
+
+By clicking submit below, you consent to allow CFP Energy (UK) Ltd. to store and process the personal information submitted above to provide you the content requested.
+
+Close
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+This site uses cookies to store information about your computer.
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site may not work then.
+
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
+
+ <button type="submit" class="pix_button btn_normal pix_button_flat blue_bg bold_text" style="border:none;" name="btn_accept"> </button> 
+ Accept Recommended Settings
+
+ end footer 
+ start scroll to top

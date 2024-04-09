@@ -1,0 +1,69 @@
+HowtoupdateyourDistrancamera
+
+CompositeManufacturing
+GasLeakDetectionAsAService
+
+UltraPro/UltraProX
+
+Blog
+Distraninthe media
+
+Composite Manufacturing
+Gas Leak Detection As A Service
+
+Ultra Pro / Ultra Pro X
+
+Blog
+Distran in the media
+
+Talk to your local Expert
+
+Distran ultrasound camera software updates
+
+Update your camera regularly with Distran’s free-of-charge over-the-air updates
+
+To get the latest software version available, please follow these few steps:
+
+Connect your device to the Internet (see User Manual Section 5.7)
+
+Click here to find the Distran’s User Manuals.
+
+If a software update is available, a notification will appear after connecting to Audalytics.
+Note: it may take up to 45 seconds to appear.
+
+Click ‘Start downloading the update now‘ to download the update. A progress bar of the download will appear.
+
+To install the update directly after download:
+
+Leave the slider ‘Install after download’ to the right (active).
+Installing update after download is recommended.
+
+To install the update at a later time:
+
+Move the slider ‘Install after download’ to the left (unchecked).
+Then, to install the update, navigate to the Audalytics menu and click on ‘Start installation now’.
+
+Note: for update installation no WiFi connection is required.
+
+To get the latest software version available, please follow these few steps:
+
+Connect your device to the Internet (see User Manual Section 5.7)
+
+Click here to find the Distran’s User Manuals.
+
+If a software update is available, a notification will appear after connecting to Audalytics.
+Note: it may take up to 45 seconds to appear.
+
+Click ‘Start downloading the update now‘ to download the update. A progress bar of the download will appear.
+
+To install the update directly after download:
+
+Leave the slider ‘Install after download’ to the left.
+Installing update after download is recommended.
+
+To install the update at a later time:
+
+Move the slider ‘Install after download’ to the left (unchecked).
+Then, to install the update, navigate to the Audalytics menu and click on ‘Start installation now’.
+
+Note: for update installation no WiFi connection is required.

@@ -1,0 +1,65 @@
+End
+
+TBS®Ortho| medical imaging software technology uused in orthopaedics
+
+ This site is optimized with the Yoast SEO Premium plugin v12.4 - https://yoast.com/wordpress/plugins/seo/ 
+
+ / Yoast SEO Premium plugin. 
+
+ This site uses the Google Analytics by MonsterInsights plugin v8.20.1 - Using Analytics tracking - https://www.monsterinsights.com/ 
+
+ / Google Analytics by MonsterInsights 
+
+[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css' href='https://www.medimapsgroup.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.3' media='screen' />
+
+ Google Analytics snippet added by Site Kit 
+
+ End Google Analytics snippet added by Site Kit 
+
+ Google Tag Manager 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+skip to Main Content
+
+Electronic Instructions for Use (e-IFU)
+Request TBS iNsight™ User Manual as paper
+
+Contact
+Find Centers with TBS
+
+ START TBS ORTHO PRODUCT PAGE 1 REVOLUTION SLIDER 6.3.0 
+
+Bone quality assessment for surgical implants and procedures 
+
+ is a medical imaging software technology, which will give orthopedic surgeons critical information on a patient’s trabecular bone microarchitecture. This will help them select the most appropriate procedures and implants and ensure optimal implant stability and outcome for hips, shoulders, spine or knee replacement surgery.
+
+Since orthopaedic implants are fixed in the trabecular bone area, the quality of the bone itself matters. If it is fragile, implants can become loose, unstable or migrate, causing pain and reducing a patient’s mobility. A revision joint replacement surgery, a longer, more complicated procedure than the initial one, may have to be performed early on.
+
+With the critical information provided by TBS, orthopaedic surgeons will be able to choose appropriate implants and procedures according to their patient’s bone quality. TBS Ortho may help reduce the number of revisions of joint replacements due to fragile bones; better predict implant failure; improve recovery time; save consultation and surgery time; justify incurred costs to the payers (insurances); justify procedures used in case of litigation.
+
+How TBS Ortho can help
+
+With the critical information provided by TBS, orthopaedic surgeons will be able to choose appropriate implants and procedures according to their patient’s bone quality. TBS Ortho may help reduce the number of revisions of joint replacements due to fragile bones; better predict implant failure; improve recovery time; save consultation and surgery time; justify incurred costs to the payers (insurances); justify procedures used in case of litigation.
+
+Based on the analysis of regular 2D X-ray images, Cone Beam CT scans or regular CT scans, the TBS algorithm computes a specific score to assess the trabecular bone quality, which is related to its 3D-microarchitecture. Results are obtained with no additional patient radiation exposure nor scan time.
+
+White, R., Krueger, D., De Guio, F., Michelet, F., Hans, D., Anderson, P., and Binkley, N. (2019). An Exploratory Study of the Texture Research Investigational Platform (TRIP) to Evaluate Bone Texture Score of Distal Femur DXA Scans – A TBS-Based Approach. Journal of Clinical Densitometry. [Pubmed link] Presented at QMSKI and ISCD conferences in 2019.
+Kolta, S., Etcheto, A., Fechtenbaum, J., Feydy, A., Roux, C., Briot, K., 2018. Measurement of Trabecular Bone Score of the spine by low-dose imaging system (EOS®); a feasibility study. Journal of Clinical Densitometry. [Pubmed link]
+Lelong, C., Stroncek, J., Howe, J., Huber, B., Hill, R., Hans, D., 2018. Local Osteo-Enhancement Procedure Increases Femoral Raw Trabecular Bone Score (rTBS) at 5-7 Year Follow-up in Osteoporotic Patients. J Bone Miner Res 32 (Suppl 1). Presentation, ASBMR. [Link] 
+Lobos, S., Cooke, A., Simonett, G., Ho, C., Boyd, S.K., Edwards, W.B., 2018. Trabecular Bone Score at the Distal Femur and Proximal Tibia in Individuals with Spinal Cord Injury. Journal of Clinical Densitometry. [Pubmed link]
+
+© Medimaps Group, 2024
+
+TBS Ortho
+
+Electronic Instructions for Use (e-IFU)
+Request TBS iNsight™ User Manual as paper
+
+Contact
+Find Centers with TBS

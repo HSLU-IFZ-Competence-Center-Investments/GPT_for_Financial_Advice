@@ -1,0 +1,15 @@
+html This site is optimized with the Yoast SEO plugin v17.3 - https://yoast.com/wordpress/plugins/seo/ Sulzer Schmid Introduces New 3DX™ AutoPilot For Industry Leading Image Quality - Sulzer & Schmid Laboratories AG / Yoast SEO plugin. Leadfeeder End Leadfeeder Google Tag Manager End Google Tag Manager 
+Sulzer Schmid Introduces New 3DX™ AutoPilot For Industry Leading Image Quality07.11.2023
+
+Zurich, Switzerland, 7 November 2023
+
+Sulzer Schmid, a Swiss company pioneering UAV technology for wind rotor blade inspection, announces the introduction of its latest 3DX™ AutoPilot upgraded with a brand-new image capturing system, to ensure crystal clear inspection results. Mounted on DJI’s latest Matrice M350 Enterprise drone, the new 3DX™ AutoPilot payload provides up to 61MP resolution images and introduces a precise adaptive focus and optimized exposure settings for each image, allowing the drone to be positioned even closer to the blade.SulzerSchmid new AutoPilot
+
+Over recent months, engineers at Sulzer Schmid have been working consistently to improve image quality with the aim to deliver the best image quality on the market. Addressing the challenge of automated camera settings which can sometimes cause blurred images, the new 3DX™ AutoPilot sets a new standard for inspection data. ISO settings, aperture, and shutter speed are individually set for each image to ensure the perfect exposure even when zoomed in. As a result, image quality is superior in terms of sharpness, image density, dynamic range, and exposure accuracy, making it easier to identify and classify damages correctly.New 3DX™ AutoPilot 2023
+
+With the new technology damages are identified with greater precision. The risk of missing a damage or wrongly interpreting inspection data is greatly reduced, thus avoiding any poorly planned or wrongly executed repairs. For example, with the brand-new image capturing system, hairline cracks that are potentially the sign of serious damage, are easier to detect at an early stage, enabling preventive and less costly maintenance to be scheduled.
+
+Tom Sulzer, Sulzer Schmid Co-founder and CEO, stated: “Our commitment to pushing the boundaries of innovation in the wind energy sector is vividly realized in our latest inspection solution. This is not just an upgrade; it’s a revolution in precision and in the way we approach blade inspections— a fast and reliable inspection process, best-in-class image quality and powerful analytics capabilities, all wrapped up in an intuitive digital inspection platform boosted by AI and machine learning.
+
+Learn more here.
+Share this articleBlog/Newsxml version="1.0" encoding="UTF-8"?3DX™ Blade PlatformCustomized SolutionsPartner with usBlog/NewsAbout UsOpen/close navigation3DX™ Blade PlatformCustomized SolutionsPartner with usBlog/NewsAbout Us Matomo End Matomo Code

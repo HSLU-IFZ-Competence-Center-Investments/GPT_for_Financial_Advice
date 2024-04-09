@@ -1,0 +1,44 @@
+More Technologies | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+Vocational Training and Studies
+
+ Magnetocaloric Material - CALORIVAC
+
+CALORIVAC® is a magnetocaloric alloy enabling solid state energy conversion such as magnetic refrigeration. It enables engineers to build gas-free magnetic refrigeration using magnetocaloric alloys as active materials.
+
+ Magnetically Shielded Room (MSR) made of VACOSHIELD
+ VACOSHIELD® - Measure precisely without any disturbance
+
+MSRs are used to shield applications that are very sensitive to magnetic sources of disturbance. Our VACOSHIELD® rooms are a proven solution that has become an industry standard.
+
+ Brazing Foils - VITROBRAZE
+
+Amorphous VITROBRAZE® foils are used as 100 % metallic filler materials in brazing processes. The different grades of VITROBRAZE are optimized for joining of steel and stainless steel, nickel and cobalt alloys, or copper and brass alloys, among others. VITROBRAZE products are available as strip material and can be customized in geometry.
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

@@ -1,0 +1,63 @@
+Aerospace and Defence | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+Vocational Training and Studies
+
+ Download our New Brochure 
+
+VAC excels in providing solutions for next generation electric motors - with permanent magnets, magnetic materials and components made for mission-critical requirements in the field of automotive, aerospace and defense as well as industrial applications.
+
+Learn about our capabilities and our unique one-stop production.
+
+Get Your Copy Here
+
+ 40 to 50 % Nickel-Iron 
+
+Alloys with a Ni-content of around (40...50) wt% are characterized by a maximum in the saturation polarisation of up to JS = 1.6 T and a medium range permeability. By selecting appropriate rolling and annealing conditions, the shape of the magnetization curve can be varied over a wide range.
+
+Thanks to their high magnetic saturation of up to 2.4 T, the cobalt-iron (CoFe) alloys VACOFLUX® and VACODUR® are generally suitable for all applications where high flux density and minimum weight are required.
+
+Qualities with a cobalt content of 49 % and 2 % vanadium are offering in addition low coercivity forces and therefore best possible parameters for highest performance electric motors/generators and magnetic actuators.
+
+Lamination stacks are packages using single laminations separated by electrical insulating layers to surpress eddy current losses during dynamic magnetic load.
+
+In-house manufactured cobalt-iron or nickel-iron strips in combination with adjusted production technologies are offering optimum stack solutions with respect to performance and costs.
+
+These parts are mainly used as stators and rotors in electric motors and generators but also as laminated cores.
+
+The positioning of magnets with extreme precision, especially small one, and the very high forces associated with large-volume magnetized parts, make the assembling of magnet systems a challenging task. For this process we can apply our extensive experience in the design and construction of assembly tools and our expert knowledge in the selection of a suitable bonding process.
+
+VACODYM® magnets are produced on the basis of neodymium-iron-boron alloys and have the highest energy density available today. VACODYM alloys are anisotropic material grades.
+
+VACOMAX® is our permanent magnet material made from rare earths and cobalt. These magnets have particularly high coercivities with simultaneous high saturation polarization and excellent temperature and corrosion stability.
+
+ Soft Magnetic Stamped Parts
+
+All crystalline alloys can be processed further to stamped parts. VAC has state-of-the-art facilities for punching, deep-drawing and further processing methods like interlocking or wire-EDM.
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

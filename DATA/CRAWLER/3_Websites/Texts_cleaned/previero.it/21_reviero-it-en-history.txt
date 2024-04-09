@@ -1,0 +1,99 @@
+[if !(IE 6) | !(IE 7) | !(IE 8) ]><!
+
+<![endif]
+
+ - Previero
+ Set the viewport width to device width for mobile 
+
+ Google Tag Manager for WordPress by gtm4wp.com 
+
+ End Google Tag Manager for WordPress by gtm4wp.com 
+ This site is optimized with the Yoast SEO plugin v22.4 - https://yoast.com/wordpress/plugins/seo/ 
+
+ / Yoast SEO plugin. 
+
+ This site uses the Google Analytics by ExactMetrics plugin v7.25.0 - Using Analytics tracking - https://www.exactmetrics.com/ 
+ Note: ExactMetrics is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the ExactMetrics settings panel. 
+ No tracking code set 
+ / Google Analytics by ExactMetrics 
+ This site uses the Google Analytics by MonsterInsights plugin v8.25.0 - Using Analytics tracking - https://www.monsterinsights.com/ 
+ Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. 
+ No tracking code set 
+ / Google Analytics by MonsterInsights 
+
+ Google Tag Manager for WordPress by gtm4wp.com 
+ GTM Container placement set to footer 
+
+ End Google Tag Manager for WordPress by gtm4wp.com Themnific Styling 
+
+[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://previero.it/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif][if IE 8]><link rel="stylesheet" type="text/css" href="https://previero.it/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif] 
+
+How to reach us
+
+Technical features
+WET GRINDERS: SERIES 508
+WET GRINDERS: SERIES 610
+WET GRINDERS: SERIES 812
+WET GRINDERS: SERIES 916
+
+Technical features
+MULTI PURPOSE GRINDERS: N SERIES
+MULTI PURPOSE GRINDERS: M SERIES
+MULTI PURPOSE GRINDERS: MS SERIES
+MULTI PURPOSE GRINDERS: P SERIES
+MULTI PURPOSE GRINDERS: AS SERIES
+MULTI PURPOSE GRINDERS: DR SERIES
+MULTI PURPOSE GRINDERS: TO SERIES
+
+PELLETIZERS TYPE G
+Pelletizers Type TA 1000
+
+DISK PULVERIZER: PD 300
+DISK PULVERIZER: PD 500
+DISK PULVERIZER: PD 900
+
+Adhesive masses
+Cube dicers for rubber extrusion
+
+The company has been belonging to the PREVIERO family for three generations.
+
+At the beginning of the 1920’s, Mr. Natale PREVIERO began to work as an agent in Como for metal and wood processing machinery.
+
+The earliest documents located in the Alzate Brianza town archives describes the start of business in 1922.
+
+During the same time, Natale created a mechanical workshop and offices for servicing wood and textile machinery, the dominating industries in Como at that time.
+
+In the 1950’s, Natale’s son Oscar decided to invest in the development of machinery for the emerging yet young plastic market and moved the head offices to Lipomo.
+
+In these days many types of machinery were produced, including the first blade granulators. In the 1970’s, production was concentrated on grinding and cutting machinery.
+
+At the end of the 1970’s, Oscar’s trhee sons (Flavio 1951, Aldo 1954 and Dario 1958) took direction of the company, building the successes of their father and grand father. Among their many projects:
+
+Building of offices and factories in Alzate Brianza and Anzano del Parco
+Installing 3D CAD systems
+Installing CAM machinery
+Market research for the optimisation of the products
+
+In 1992 PREVIERO purchased the outstanding shares of its sister company, SOREMA from Domenico Gazzoni.
+
+SOREMA business of plastics recycling plants is currently operated out of the Anzano del Parco factory.
+
+La società PREVIERO appartiene alla famiglia PREVIERO da 3 generazioni. All’inizio degli anni ’20, Natale Previero inizia la propria attività con la rappresentanza di macchine per l’industria tessile e del legno nel territorio di Como.
+
+PREVIERO 
+
+History
+
+Downloads
+Privacy & Cookie Policy
+
+ PREVIERO N. S.R.L. Via per Cavolto, 17 22040 Anzano del Parco (COMO) Italy - C.F. e P.IVA 00098470131
+
+ GTM Container placement set to footer 
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ Shortcodes Ultimate custom CSS - start 
+
+ Shortcodes Ultimate custom CSS - end

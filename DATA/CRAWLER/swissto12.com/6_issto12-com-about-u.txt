@@ -1,0 +1,143 @@
+-Swissto12Swissto12
+
+AntennaComponents
+ElectronicallySteered Antenna Arrays
+
+About us
+
+It all started when Emile de Rijk, now CEO of SWISSto12, was working on his PhD in novel Magnetic Resonance Spectroscopy and Imaging at the Swiss Federal Institute of Technology in Lausanne (EPFL). His challenge was to build a new generation of such devices, that required complex Radio Frequency components and systems.
+
+Luckily, the university had state of the art precision manufacturing and 3D printing capabilities. In a classic case of necessity breeding invention, Emile began pioneering the use of 3D printing to create novel Radio Frequency components.
+
+In 2011, SWISSto12 was spun out of EPFL. The name SWISSto12 has its origins in tradition and technology:
+
+“Swiss”– to represent a tradition of precision craftsmanship as the company originally started in business with a portfolio of Radio Frequency products which rely on extremely precise mechanical geometries.
+
+“to12” – in connection with the company’s first products, which were channelling signals atTeraHertz frequencies (1 THz = 10<sup>12</sup>Hz)
+
+Hence SWISSto12, meaning “Swiss to the power of twelve”.
+
+Fast forward to today, and SWISSto12 has over 30 patents in novel Radio Frequency solutions and is leading into the Satellite Telecoms industry with HummingSat – the first ever commercial GEO SmallSat.
+
+Based in Switzerland, with facilities expanded into in the USA, SWISSto12 works with global aerospace and telecommunications corporations including Intelsat, ViaSat (Inmarsat) Thales, Lockheed Martin, and the European Space Agency. Together with our partners, we deliver advanced aerospace missions and next generation Satcom solutions to better connect and protect people worldwide.
+
+SWISSto12 is backed by prominent Swiss and European investors including Contantia New Business, Swisscom, Swisscanto, Zürcher Kantonal. 
+
+Our management team brings to SWISSto12 deep industry experience combined with a hands-on approach. 
+
+Dr. Emile de Rijk
+
+Chief Executive Officer (CEO) and 
+
+Emile founded SWISSto12 in 2011 as a spinoff of his PhD in Physics he completed at the Swiss Federal Institute of Technology (EPFL). 
+He drove the company from inception through technology validation, product development and qualification, operational scaling and delivery, sales and business expansion into the aerospace and telecommunications industry. 
+Under his leadership SWISSto12 has grown into becoming an established provider of RF solutions and the first scale-up company to sell a Geostationary telecoms satellite to a global satellite operator with HummingSat. 
+Over the course of his entrepreneurial journey, Emile has co-invented 15+ patents, raised 30+m$ of equity with renowned investors and signed 150+m$ of commercial contracts with leading aerospace and telecommunication customers. 
+Emile holds a PhD in Physics from EPFL, and a Master in Physics from the University of Amsterdam.
+
+Chief Product Officer (CPO)
+
+Frank’s role at SWISSto12 is to work within the team, our customers and partners to develop and deliver cutting edge products that bring value to our customers and to the business. 
+These activities include facilitating the product development lifecycle from opportunity analysis to delivery, as well as build our growing team. 
+In addition to this, Frank also oversees the program management and engineering activities of our European team.
+Frank holds a PhD in Telecom engineering from TU Munich. Frank served as Head of IoT operations and project execution at Nagravision, Kudelski Group and previously as Program manager at DLR (German Aerospace Center)
+
+Chief Growth Officer (CGO)
+
+Peter contributes with his vast executive experience and network as a space products provider to generate sustainable growth opportunities for SWISSto12. 
+His main areas of focus are business development, partnerships, international business expansion, government relations. 
+He also oversees the IT environment.
+Peter holds a PhD in Computer science from ETH Zürich and an IMD executive MBA. Peter served as CEO of RUAG Space from 2008-2020 and previously as Head of automation products at ABB.
+
+Chief Operations Officer (COO)
+
+Jean-Marie’s role at SWISSto12 is to manage production, test, procurement, facilities and quality operations of the company to deliver on the business and growth of SWISSto12. 
+This includes Manufacturing, Supply Chain management, Logistics, Quality Management, Maintenance and Facilities.
+Jean-Marie holds a Master in Material science from UCL Belgium. 
+Jean-Marie served in various roles across R&D management, plant management and general management of production sites at Bekaert, Sulzer Sorevi, Oerlikon
+
+Franck is in charge of Finance at SWISSto12, helping us deliver sustainably and profitably on our growth trajectory while managing and controlling the financial assets and associated risks.
+Franck holds a Master in Finance in Paris. 
+He previously served in multiple CFO, financial management and controlling roles at Roche, Swatch group, Richmond and others.
+
+Chief Technology Officer, HummingSat
+
+When Mike and Emile first met, they immediately understood the value of developing satellite systems leveraging SWISSto12’s RF products USP. 
+Over the course of their collaboration, they progressively matured the idea of developing a satellite product line, which today is brought to the market by HummingSat. 
+Mike serves as the product line manager of HummingSat, which involves coordinating the activities between the various teams and locations contributing to the development and the various program executions of HummingSat as the partners and suppliers. 
+With a vast network across satellite operator customers, Mike is also leading the business development efforts of HummingSat. 
+Mike also leads to California office of SWISSto12.
+Mike holds a Master in Aerospace engineering from Stanford and previously served as Director of Payload Engineering at Ruag Space and Program Manager at Space Systems Loral (now Maxar).
+
+Hadar joined SWISSto12 to start the company’s commercial activities with customers in EMEA that have developed into key partnerships.
+He also helped build and develop the company’s Surveillance product line. 
+With a strong background in sales of RF products, Hadar is now helping us to develop our RF products and solutions sales across EMEA.
+
+Managing Director of St12 RF Solutions Inc.
+
+Scott leads a wholly owned subsidiary of SWISSto12 that is aimed at bringing SWISSto12’s RF products and solutions to U.S. customers to enable their next generation critical missions. 
+Our team works directly with customers to develop their technical requirements and we provide Engineering, Program Management & Delivery on U.S. programs along with our partner Frontgrade who operate a manufacturing capability using SWISSto12’s IP and technology for our U.S. customers.
+Scott holds a Master in Engineering Management from Drexel University. 
+He previously served as Product Line Director at Spectrum Control, Sr Director and Site Lead at Advanced Acoustic Concepts and VP Program Management and Business Area VP at Cobham.
+
+The board of directors 
+
+Dr. Emile de Rijk
+
+Chief Executive Officer (CEO) and 
+
+Emile founded SWISSto12 in 2011 as a spinoff of his PhD in Physics he completed at the Swiss Federal Institute of Technology (EPFL).
+He drove the company from inception through technology validation, product development and qualification, operational scaling and delivery, sales and business expansion into the aerospace and telecommunications industry.
+Under his leadership SWISSto12 has grown into becoming an established provider of RF solutions and the first scale-up company to sell a Geostationary telecoms satellite to a global satellite operator with HummingSat.
+Over the course of his entrepreneurial journey, Emile has co-invented 15+ patents, raised 30+m$ of equity with renowned investors and signed 150+m$ of commercial contracts with leading aerospace and telecommunication customers.
+Emile holds a PhD in Physics from EPFL, and a Master in Physics from the University of Amsterdam.
+
+Chairman of the board
+
+Roland holds a Master of electrical engineering from EPFL.
+He previously founded and was CEO of NewSat communications (merged with ITC Global) and subsequently COO & Chairman of ITC Global (acquired by Panasonic Avionics in 2015).
+
+Philipp Thurn und Taxis
+
+Board member
+
+Philipp serves as founder and CEO of CNB Capital.
+He holds a Master of Law from the University of Vienna, an MBA from Heriot-Watt University (Edinburgh Business School).
+He previously served in various roles, including VP corporate development and Director of Global sales Operations at SAP.
+
+Pär serves as Partner at Swisscom Ventures.
+He holds a Master in Engineering Physics from Linköping University and an MBA from INSEAD.
+He previously worked in various roles, including as Managing Director and co-founder of Miranet AB, and in the telecoms industry as Product Marketing Manager for Ericsson.
+
+Board member
+
+Nils serves as Senior Investment Director Private Equity at the Zürcher Kantonalbank.
+He holds a Master in Mechanical Engineering from Linköping University and an MBA from INSEAD.
+He previously worked in various roles, including Head of investments at Telia, investment management roles at Swisscom and Cartagena Capital and in the telecoms industry as Regional Manager for Ericsson.
+
+Every single day people around the world depend on Inmarsat services. Our customers have demanding, and often safety critical, missions that rely on our satellite technology for links that can make the difference. The I-8’s will not only underpin our existing capabilities for the future; but enable ever more advanced safety innovations like SBAS that can ultimately help save more lives. We have chosen SWISSto12 because they have the ground-breaking technology that can make it a reality.
+
+Peter Hadinger
+Chief Technology Officer, Inmarsat
+
+The SWISSto12 product brings two innovations to meet our business needs. The small size addresses a gap in our fleet strategy, enabling us to be increasingly more targeted to meet specific customer requirements. In addition, the additive-manufacturing process used for this spacecraft is paving the way for faster satellite build cycles in the future. We are confident in the HummingSat technology and want to support the success of new players in the field of commercial communication satellites.
+
+Jean-Luc Froeliger
+SVP Space Systems, Intelsat
+
+HummingSat is a showcase for a successful ESA Partnership Project and we are delighted to support European and Canadian industry in this exciting new-space venture. The project has been set up in record time and within only a few months SWISSto12 has sold the first commercial HummingSat to global satellite operator Intelsat. ESA Partnership Projects federate the European and Canadian space industry around large-scale programmes, achieving competitive leaps forward and economic impact. They support end-to-end space systems from start-up to in-orbit validation, after which commercial partners operate the system.
+
+Andreas Mauroschat
+Partnership and Opportunity Satellites Programme Manager, ESA
+
+Technical innovation is part of the DNA of Thales’s Microwave and Imaging Subsystems business, and we’re delighted to be collaborating with such a dynamic and agile company for the development of a state-of-the-art Ka-band SSPA product for Swissto12’s HummingSat platform.
+
+Cécile Assié
+VP Strategy and Marketing, Microwave and Imaging Subsystems, Thales
+
+SWISSto12 provides a strong mix of innovative technical solutions and skilled talent. We look forward to strengthening this relationship as we build solutions for increasingly complex challenges in space.
+
+Kyle Griffin
+Vice President Advanced Program Development Groups Space, Lockheed Martin
+
+If you are interested in joining one of Europe’s fastest-growing aerospace scale-ups with a customer-centric culture of engineering excellence, we’d like to hear from you.

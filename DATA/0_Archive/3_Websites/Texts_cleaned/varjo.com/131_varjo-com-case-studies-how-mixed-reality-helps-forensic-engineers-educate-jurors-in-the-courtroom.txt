@@ -1,0 +1,128 @@
+Thissiteis optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+How XR Helps Forensic Engineers Educate Jurors in the Courtroom
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for XR-3/VR-3 owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+Case Explico: How Mixed Reality Helps Forensic Engineers Educate Jurors in the Courtroom
+
+Explico is developing mixed reality solutions to help prove complex issues to juries in the courtroom. Using Varjo headsets, the company can present fully-immersive and accurate reconstructions of various scenarios, demonstrating what happened and helping to reach a resolution.
+
+Unraveling the details of what happened
+
+Founded in 2013, Explico’s primary objective has always been to be the very best forensic engineering services firm on the planet. Explico specializes in using cutting edge technology to investigate, analyze, and visualize complex problems associated with accidents and failures. The end goal of these investigations is not just to determine what happened, but to be able to explain it to a wide audience, including potential jurors in a court of law.
+
+Did the specific lighting conditions and nearby structures affect a driver’s ability to perceive the distance of an oncoming motorcycle or passing pedestrian? Was a downed powerline open and obvious to a nearby individual walking by? Did a carpeting’s pattern create an optical illusion thereby obscuring a step, which ultimately caused an individual to fall and become injured? Legal matters involving accidents, failures and even serious crimes often hinge on whether one side can effectively communicate critical, complex issues to the jury.
+
+Answering these questions objectively is not easy. To help prove what happened and effectively communicate it to a jury, 3D animations have long since become an important tool in courtrooms because they can convey very complex issues in a compelling and understandable way. Example use cases include showing a scene of a crime, illustrating the inner workings of a failed mechanical device, and demonstrating the events that lead to an injury.
+
+In these cases, accuracy is paramount. Accurate, high-fidelity representations of objects and environments can be generated from 3D laser scanning (LiDAR) devices. These 3D reconstructions and animations are more informative than traditional photographs or video, but they still have limitations. 
+
+The biggest challenge is that 3D content is still being viewed on traditional 2D screens. This results in a lack of immersion and interactivity. Even the most detailed 3D animation, when viewed on a conventional display, will not be able to provide the sense of space and depth that is available in XR. Consequently, for certain accidents and issues, XR’s ability to provide an immediate understanding of what a person may have observed from their perspective, could provide critical understanding to jurors when reaching a verdict.
+
+Things are about to change, though. Immersive technology is already revolutionizing how 3D scenes and animations are used in mediations, and it won’t be long before virtual and mixed reality headsets make their way to the courtroom. And at the heart of this development are Explico’s Steve Rundell, PhD, PE and Steve Arndt, PhD, CHFP.
+
+The challenge: Using an immersive virtual experience for more accurate depictions of events
+
+ Explico uses an individual’s own hands in order to navigate the scene of this ladder accident. Using this technology, Explico avoids the need to train jurors on complicated hand controllers making navigation intuitive and controlled.
+
+One of Explico’s unique areas of expertise is using 3D engines such as Unity and Unreal Engine to create amazing, highly accurate interactive 3D models and animations that show what happened. This has led them to work on numerous high-profile cases where precisely proving the course of events, and being able to convey that understanding to a jury, is essential.
+
+Explico’s goal has always been to make the experience even better by leveraging the latest technologies. To overcome the limitations of 2D screens, Explico decided to explore immersive technologies as a potential solution. 
+
+The reason they chose mixed reality over virtual reality was simple: the possibilities of this technology are far more flexible, and the experience is far more intuitive to non-technical users and less jarring to people not accustomed to virtual reality, which includes most judges and jurors.
+
+The solution: Varjo mixed reality
+
+While Explico had tried other headsets before, Varjo’s industry-leading resolution and ease of use proved to be a great match for their needs. 
+
+Varjo has allowed them to present fully-immersive and accurate reconstructions of various scenarios, clearly demonstrating what happened or was observable, and helping reach a resolution such as a settlement. Thanks to hand tracking and automatic IPD adjustment, the headset is also easily usable by any kind of user, no matter what their proficiency level with immersive technologies might be.
+
+Varjo has been vital for Explico’s work. The visual quality and the seamless blend of the real world and the virtual world ensures that when someone is wearing a headset, real-world conditions can be presented accurately. Visual acuity needs to be close enough to real life for the technology to bring value, and Varjo achieves this in an unmatched way. For example, it is possible to show what an individual would actually be presented with since objects look natural and unpixelated – something no other headset can realistically achieve. 
+
+ In a yacht accident case, a person was touring a yacht and missed a single step down into a room, leading them to break their ankle. Relatives of the injured party took a photo of the step and claimed it was obscured due to an optical illusion created by the carpet’s pattern. However, when people were put in VR and shown the same location, it was immediately apparent to everyone that there was a step down, highlighting the technology's potential for accurately conveying depth perception.
+
+Visualizing Scenes in a User-Friendly Way
+
+“Varjo’s technology is perfect for our needs. The visual quality is unmatched, and thanks to features like hand tracking and automatic IPD adjustment, even users without any previous experience with these technologies can easily use them with no additional training or discomfort.
+
+With Varjo we are taking the ability to convey depth, size, and spatial awareness to a whole new level.”
+
+STEVE RUNDELL – PRINCIPAL ENGINEER, EXPLICO ENGINEERING COMPANY
+
+Mixed reality also makes the experience less jarring than being immersed in a fully virtual scene right from the start. This is especially useful with people who might not even have heard of virtual reality before and do not necessarily know what to expect when they are put in such a scene.
+
+Ease of use is extremely important once headsets are used in legal proceedings. Jurors, judges and lawyers cannot be expected to be proficient in working with headsets. The technology needs to be intuitive to any kind of user. Once this technology is deployed in jury trials, there simply won’t be time to teach each and every juror to operate controllers, navigate complex settings, or adjust interpupillary distances so they don’t get nauseous. 
+
+This is why accurate and natural hand tracking is a must have: there is no need for learning any kind of controller once a person can simply use their own hands to interact with an environment. Automatic IPD removes the need for manual visual calibration so the device can simply be put on and adjusted with the click of a single button, without any expertise needed from the user. This ensures that there is no eye strain, everything can be seen clearly, and there is no cyber sickness.
+
+Another major benefit of this technology is that it can show events in real-life scale inside the courtroom, something that would be impossible with physical objects and places alone. For example, it is simply not realistic to bring large machines or vehicles into a courtroom, or expect a jury or judge to travel to the actual accident site in every single case.
+
+The technology was also relatively easy to take into use as the Explico team was already using Unity to create 3D animations. Converting them for use with an XR headset was simply a natural step forward.
+
+The result: Immersive scenes will be the future of courtroom animations
+
+The investigation of a yacht accident serves as a prime example of how VR/XR technology can be leveraged in courtroom cases. Photos alone may not accurately convey depth, but in VR, users can move their head around and gain a clear understanding of the scene in a way that no photo can convey.
+
+While not deployed during a jury trial within the United States yet, these immersive solutions have already been used as part of arbitration and mediation proceedings that ended up in a settlement outside the courtroom. Judges and arbitrators have already been able to view scenarios in mixed reality. It’s only a matter of time until jurors do so as well.
+
+However, given how compelling many of these interactive demonstrations are using the Varjo headset, Steve Rundell of Explico anticipates that most cases will settle prior to trial. Specifically, once one side has had an opportunity to experience the other side’s compelling and interactive VR experience, they won’t want to run the risk of having a jury be exposed to the same evidence. Consequently, many lawyers will fight to keep VR out of the courtroom if it doesn’t aid in their case. Fortunately, a combination of Varjo’s incredibly high visual acuity combined with Explico’s previous and future peer-reviewed research will make exclusion of this evidence difficult for attorneys. 
+
+Explico’s Steve Rundell sees that it is only a matter of time before the technology is deployed during a jury trial as well, and thanks to Varjo, Explico is ready to be a part of that monumental shift. He believes the first cases where the technology is going to be used will most likely end up in court fairly soon – perhaps already this year.
+
+“The technology has reached a sufficient level of maturity to become widely adopted. It has the chance to revolutionize court proceedings, especially in tricky cases where you need to depict something that can only be depicted in XR. For example, nobody wanted to touch animations in the 80’s, but they are now a staple in many court cases. I predict a similar shift towards extended reality will happen eventually, because the degree of accuracy and how well it can reflect the real world is simply unmatched, and Varjo is a perfect device for making that happen,” Rundell says.
+
+Learn more about other pioneering use cases for VR/XR:
+
+Operating Drones in Mixed Reality: How Inzpire Leverages Varjo for Next-Gen UAV Training
+
+Mixed Reality in JTAC Training: A New Dimension in Defence Preparedness
+
+How Wärtsilä Revolutionizes Maritime Training with Varjo’s XR Technology
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

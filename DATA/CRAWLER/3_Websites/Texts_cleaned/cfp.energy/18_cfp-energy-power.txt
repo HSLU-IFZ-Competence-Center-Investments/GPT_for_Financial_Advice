@@ -1,0 +1,89 @@
+forRenewableEnergySupplyintheUK | CFP Energy
+
+Theme java script starts 
+ Theme java script end 
+
+ End Google Tag Manager 
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonFuelsAbout usInsights
+
+ <span class="open_mobileviews tel2" onclick="openNav()"><i class="fa fa-user"><i> <i class="fa fa-times"></i></span>
+
+ <div class="iconbox">
+ <span class="open_mobileview_cust tel2" onclick="openNav_cust()"><i class="fa fa-user"></i></span>
+
+ <div class="iconbox ProductSearch">
+ <span data-toggle="modal" data-target="#myModalProducts"><i class="fa fa-search"></i></span>
+
+ <div class="iconbox">
+
+EnvironmentalCompliance carbonLiquidity solutionsRenewable energy certificatesStructured solutionsVoluntary carbonUK Energy SupplyCyber SecurityFuelsAbout usInsights
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal"></button>
+
+ <div class="BrowseBtn"><a href="#" class="btn blueBtn">Browse </a></div> 
+
+ <div class="modal-footer">
+ <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+/
+Power
+
+Power
+
+Optimise your power strategy, reduce volatility, and maximise the value of your renewable asset generation
+
+UK Energy Supply
+
+As part of the CFP Energy group, Brook Green Supply provides power and gas to a diverse portfolio of industrial and commercial energy consumers across the UK.
+
+In a market that rewards flexibility, our services enable customers to optimise their energy generation and supply within an increasingly volatile and intermittent grid.
+
+Power Market Access & Supply
+
+CFP Energy helps clients across the UK and Europe access a range of prompt and longer-dated power products. Combined with our ability to trade carbon and transition fuels, we offer market-leading intelligence and bespoke insights to transform what the market can deliver for you.
+
+Our local market presence means we are able to provide access and solutions in both established and emerging power markets.
+
+PPAs
+
+PPAs promote the growth of renewable energy and consequently the reduction in fossil fuel reliance. We work with renewable energy generators, offtakers and corporate buyers to deliver innovatively structured PPAs and CPPAs.
+
+Through our network of UK and European offices, we can offer local market specialisation via both physically and financially settled PPA structures across a variety of technologies and geographies.
+
+Our specialist team of analysts works daily with market leading fundamentals to provide evolving models for wind and solar generation and price forecasting.
+
+This allows us to manage and optimise renewable assets and exposures by providing direct access to power markets and large industrial consumers.
+
+Cyber Security
+
+As the energy grid becomes more decentralised, it is essential that renewable assets are protected against increasingly sophisticated cyber security threats.
+
+CFP Energy provides onsite teams to assess your asset and system vulnerabilities, bespoke cyber security services, and ongoing 24/7 surveillance and support.
+
+I agree to receive other communications from CFP Energy (UK) Ltd.
+
+You can unsubscribe from these communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our Privacy Policy.
+
+By clicking submit below, you consent to allow CFP Energy (UK) Ltd. to store and process the personal information submitted above to provide you the content requested.
+
+Close
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+This site uses cookies to store information about your computer.
+
+Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site may not work then.
+
+These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
+
+ <button type="submit" class="pix_button btn_normal pix_button_flat blue_bg bold_text" style="border:none;" name="btn_accept"> </button> 
+ Accept Recommended Settings
+
+ end footer 
+ start scroll to top

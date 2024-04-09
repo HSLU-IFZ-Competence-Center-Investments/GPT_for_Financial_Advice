@@ -1,0 +1,17 @@
+- Memo Therapeutics AG
+
+[if lt IE 9]><script src="assets/html5shiv/js/html5shiv-printshiv.min.js"></script><![endif]
+
+Contact
+
+Mandatory field First Name*
+
+Mandatory field Last Name*
+
+Please calculate 9 plus 1.
+
+Do not fill in this field
+
+By submitting the application, consent is given to the processing of the transmitted data in the recruiting process. For further information, please read our data protection declaration.
+
+Our website uses cookies. By using and continuing to navigate through our website and its contents you accept these cookies.For details on the use of cookies and how to delete them, please read our data protection declaration. Mask out

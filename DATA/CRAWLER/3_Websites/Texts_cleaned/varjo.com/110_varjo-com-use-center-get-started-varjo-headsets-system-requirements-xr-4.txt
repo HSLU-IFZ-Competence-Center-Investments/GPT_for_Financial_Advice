@@ -1,0 +1,200 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+ for XR-4 – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for / owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Get started Varjo headsets System requirements XR-4
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Setting up your headset XR-4
+XR-3
+VR-3
+Varjo Aero
+XR-1 Developer Edition
+VR-2 Pro, VR-2, and VR-1
+
+Setting up tracking Varjo inside-out tracking
+
+Varjo services Varjo Account Commercial account
+
+Varjo Reality Cloud Varjo Reality Cloud subscription
+System requirements
+
+Varjo XR and VR subscriptions Getting a seat in a subscription
+
+Get to know your headset Using the headset
+Using Varjo Controllers
+Fitting the headset XR-4
+XR-3, VR-3, and Varjo Aero
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Getting the perfect image quality
+
+Get to know Varjo Reality Cloud
+Develop for Varjo Developer support
+
+FAQ & Troubleshooting
+Downloads Release notes Release notes for Varjo Base
+Release notes for Varjo Reality Cloud for Windows
+Release notes for Varjo Reality Cloud for iOS
+
+System requirements for XR-4
+
+On this page you can find the system requirements for XR-4.
+
+These are the hardware requirements for XR-4 when running applications locally.
+
+See below for hardware requirements when using XR-4 with a desktop computer.
+
+12th Gen Intel Core i9-12900K or newer
+4th Gen Intel Xeon w5-2455X 8-core or better
+AMD Ryzen 9 5950X
+
+12th Gen Intel Core i7-12700K
+4th Gen Intel Xeon w3-2435
+AMD Ryzen 7 7700X
+
+XR-4 requires a chipset that supports high throughput USB connectivity with multiple IN transactions.List of compatible Intel and AMD chipsets
+
+Graphics card (GPU)1, 2
+One of the following or better:
+
+NVIDIA RTX 6000 Ada
+NVIDIA GeForce RTX 4070 Ti
+NVIDIA GeForce RTX 3090
+NVIDIA RTX A5000
+NVIDIA Quadro RTX 6000
+NVIDIA GeForce RTX 4070
+NVIDIA GeForce RTX 3080
+NVIDIA GeForce RTX 2080 Ti
+
+Video output
+1 x DisplayPort 1.4
+
+USB connectivity
+1 x 10 Gbps USB-C 3.1 Gen 2 or USB-C 3.2 Gen 2
+
+The USB port must be directly connected to the chipset. Alternatively, required USB connectivity can be achieved with a compatible PCIe expansion card.
+
+1 Note that the GPU requirements may vary based on use case and required graphical quality.
+
+2 AMD graphics cards are currently not supported.
+
+3 Storage space required to install Varjo Base.
+
+Note about laptop graphics cards
+
+Laptop graphics cards with identical names can perform differently depending on factors such as the thermal design of the laptop and amount of memory on the card.
+
+Some key terms to keep in mind when comparing graphics cards:
+
+Total Graphics Power (TGP): The maximum power consumption of a graphics card, which gives an indication of its maximum performance.
+GPU memory: Graphics cards come in many variants with different amounts of memory on the card, which also affects performance.
+
+See below for hardware requirements when using XR-4 with a laptop computer.
+
+Processor (CPU)
+13th Gen Intel Core i9-13900HX or better
+
+XR-4 requires a chipset that supports high throughput USB connectivity with multiple IN transactions.List of compatible Intel and AMD chipsets
+
+Graphics card (GPU)1, 2
+NVIDIA RTX 5000 Ada (150W TGP or more)
+NVIDIA RTX 4090 (150W TGP or more)
+
+Video output
+1 x USB-C to DisplayPort adapter or 1 x Mini DisplayPort to DisplayPort adapter
+
+Note that the adapter must support 8k video and DisplayPort 1.4 with Display Stream Compression (DSC).
+
+USB connectivity
+1 x 10 Gbps USB-C 3.1 Gen 2 or USB-C 3.2 Gen 2
+
+The USB port must be directly connected to the chipset.
+
+1 Note that the GPU requirements may vary based on use case and required graphical quality, and while mobile and desktop GPUs may have identical product names, performance is significantly lower when using mobile GPUs.
+
+2 AMD graphics cards are currently not supported.
+
+3 Storage space required to install Varjo Base.
+
+The following software is required to use XR-4.
+
+Requirement
+Where to get it
+
+Varjo Base
+Varjo Base 4.0 or later is required. We recommend using the latest version.
+Download Varjo Base 4.0 Beta under Experimental > Early Access Assets.
+
+Note that you will need a Varjo Account to download Varjo Base.
+
+Windows OS version
+Windows 10: v. 1809 or later
+Windows 11: v. 21H2 or later
+Windows 10:
+Navigate to Settings > Update & Security > Windows Update.Windows 11:
+Navigate to Settings > Windows Update.
+
+NVIDIA GPU driver
+We recommend using the latest version.
+
+SteamVR (optional)1
+We recommend using the latest version.
+1. Download the Steam desktop application
+2. Create a Steam account
+3.  Download SteamVR
+(For offline use, install SteamVR for Enterprise / Government use instead)
+
+1 The SteamVR software is required when using OpenVR applications and with XR-4 base station tracking versions using SteamVR™ Tracking.
+
+Read more about the network requirements for Varjo software.
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

@@ -1,0 +1,100 @@
+StageIVGlioma:PersonalizedTreatmentwithOncoDEEP®Kit
+
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySiteKit
+
+ Google Tag Manager snippet added by Site Kit 
+
+ End Google Tag Manager snippet added by Site Kit 
+
+ Google Tag Manager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solid Biopsy (OncoDEEP® Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+February: 40-year-old male with a stage IV glioma cancer 
+
+We describe the case of a 40-year-old male diagnosed with stage IV glioma cancer in 2023. This patient presents peritoneal and liver metastases. Initial treatment involved Temozolomide chemotherapy.
+
+Gliomas stand out as the prevalent form of malignant brain tumors in adults, originating in the glial tissue and developing throughout the central nervous system, with a predominant occurrence in the brain. While the incidence of glioma is relatively low in the population, they cause significant mortality and morbidity (PMID: 24842956). 
+
+Clinical interpretation and analysis results
+
+Adult diffuse gliomas refer to tumors originating in the central nervous system (CNS) with widespread infiltration of cells showing characteristics of glial differentiation. These tumors demonstrate variability in treatment respond and impact patient prognosis. Furthermore, even within the same histological subtype, tumor development can differ ((PMID: 32271284).
+
+The genetic profile of the tumor plays a key role in its development and subsequently influences their behavior, response to therapies, and overall clinical outcomes for patients. For these reasons the World Health Organization (WHO) classification of glioma has evolved since the past decades to integrate molecular feature such as the mutational status of IDH1 (Isocitrate dehydrogenase 1) and ATRX (alpha thalassemia/mental retardation, X-linked) or the presence of 1p/19q codelation. Indeed, WHO classification of 2007 was almost only based on morphologic features but it’s in 2016 that these molecular markers were included (PMID: 27157931).
+
+The most recent update to the WHO classification was performed in 2021. This update refines and expands upon the molecular and histological criteria introduced in 2016. Some of the significant modifications include the separation of Adult- and Pediatric-Type Gliomas and introduction of new biomarker such as FGFR (fibroblast growth factor receptors) alteration or H3K27M mutation. This relatively new classification is illustrated in the figure below (PMID: 37069792). 
+
+Fig: Flowchart of 2021 WHO Classification for Gliomas 
+
+The patient treatment is based on temozolomide regimen which stands as the only approved first-line therapy for this tumor type up to the present date. Temozolomide, an alkylating agent, exerts its action by delivering a methyl group to the purine bases of DNA. This mechanism effectively inhibits DNA and cellular replication (PMID: 22122467).
+
+Using our OncoDEEP® panel, we identified the presence of an IDH1 R132H variant. No therapies directly targeting IDH1 alterations are currently approved, although therapies targeting mutant IDH1 are currently in clinical and preclinical development. Notably, it has been reported that variant in IDH1 could lead to a BRCAness phenotype and therefore, PPARP inhibitors might be associated with a clinical benefit (PMID: 17325041; PMID: 23558169; PMID: 23680144).
+
+We also found a stop codon in the ATRX gene. This variant induces a truncated protein leading to a probable loss of the function of the protein. It has been reported that loss of function of ATRX triggers ATM phosphorylation and finally restrains the activation of downstream proteins of the ATM pathway and could affect the DNA homologous repair mechanism (PMID: 29378238).
+
+Additionally, we found a deletion of two copies of RAD51B gene. RAD51B is a member of the RAD51 protein family involved in the homologous recombination repair (HRR) pathway. Loss of expression of this protein could induce a deficiency in the process of homologous recombination and could thus be associated with a clinical benefit to PARP inhibitors (PMID: 30551670).
+
+These data together confirmed the diagnosis of adult diffuse glioma, grade 4, as the patient’s tumor exhibited mutations in both IDH1 and ATRX, and no 1p/19q codeletion was observed. (see figure).
+
+Although Temozolomide is the only approved first-line therapy for glioma, the OncoDEEP® analysis revealed distinct mutations associated with ongoing clinical trials, particularly those involving PARP inhibitors. The inclusion of PARP inhibitors in these therapeutic approaches opens novel possibilities for glioma treatment. 
+
+You may also be interested in these resources 
+
+ Gridbuilder ᵂᴾ Plugin (https://wpgridbuilder.com) 
+
+ Case of the Month
+March: 42-year-old male with a metastatic colorectal cancer2 min readingMar 18th
+
+Here we will describe the case of a man of 42 years old diagnosed in 2021 with metastatic colorectal cancer. Read more →
+
+ Scientific Application Note
+OncoDNA supports the AURORA study to identify molecular changes driving metastatic breast cancerJul 6th
+
+AURORA, an international molecular screening program conducted by the Breast International Group, has uncovered genetic pattern specific to metastatic breast cancer (MBC). By performing multi-omics profiling on primary tumor and paired metastases, the research program succeeded...Read more →
+
+ Press Release
+C2i Genomics partners with OncoDNA to bring AI-powered liquid biopsy for cancer diagnostics across EuropeJan 10th
+
+This partnership marks C2i’s launch into the EU and a first-of-its kind interventional clinical trial led by the Gustave Roussy Institute in France C2i Genomics, a cancer intelligence company, today announced expansion into Europe through...Read more → 
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712129227

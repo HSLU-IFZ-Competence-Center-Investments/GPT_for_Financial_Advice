@@ -1,0 +1,311 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+VR – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for / owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Get started Varjo headsets XR-4
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Setting up your headset XR-4
+XR-3
+VR-3
+
+XR-1 Developer Edition
+VR-2 Pro, VR-2, and VR-1
+
+Setting up tracking Varjo inside-out tracking
+
+Varjo services Varjo Account Commercial account
+
+Varjo Reality Cloud Varjo Reality Cloud subscription
+System requirements
+
+Varjo XR and VR subscriptions Getting a seat in a subscription
+
+Get to know your headset Using the headset
+Using Varjo Controllers
+Fitting the headset XR-4
+XR-3, VR-3, and 
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Getting the perfect image quality
+
+Get to know Varjo Reality Cloud
+Develop for Varjo Developer support
+
+FAQ & Troubleshooting
+Downloads Release notes Release notes for Varjo Base
+Release notes for Varjo Reality Cloud for Windows
+Release notes for Varjo Reality Cloud for iOS
+
+On this page you can find examples of compatible computers and associated hardware to use with your Varjo headset.
+
+Varjo Aero
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+ for XR-1 Developer Edition
+
+Below you can find some computers and hardware compatible with XR-3 and VR-3.
+
+XR-3 and VR-3 are compatible with a broad range of Windows desktop computers. Here are some examples of tested and compatible computers:
+
+Dell Alienware Aurora R11
+Processor: Intel Core i9-10900F
+GPU: NVIDIA GeForce RTX 3090
+
+Dell Precision 5820
+Processor: Intel Xeon W-2145
+GPU: NVIDIA Quadro RTX 6000
+
+Dell Precision 7920
+Processor: Dual Intel Xeon Gold 6252 24-Core
+GPU: NVIDIA Quadro RTX 6000
+
+FoxGuard Bantam I
+Processor: AMD Ryzen 3700X 8-Core
+GPU: NVIDIA GeForce RTX 2080 Ti
+
+HP Z4 G4
+Processor: Intel Core i9-10940X 14-Core
+GPU: NVIDIA GeForce RTX 2080 Ti
+
+HP Z8 G4
+Processor: 2x Intel Xeon Silver 4114
+GPU: NVIDIA Quadro RTX 6000
+
+Lenovo Thinkstation P520
+Processor: Intel Xeon W2145 8C/16T
+GPU: NVIDIA Quadro RTX 6000
+
+Lenovo Thinkstation P620
+Processor: AMD Ryzen Threadripper PRO 3975WX 32-Core
+GPU: NVIDIA Quadro RTX 6000
+
+Lenovo Thinkstation P720
+Processor: 2x Intel Xeon Gold 6144 16C/32T
+GPU: NVIDIA Quadro RTX 6000
+
+Lenovo Thinkstation P920
+Processor: 2x Intel Xeon Gold 6150 36C/72T
+GPU: NVIDIA Quadro RTX 6000
+
+MSI MEG Trident X
+Processor: Intel Core i9-10900K
+GPU: NVIDIA GeForce RTX 3090
+
+Rave Renderbeast
+Processor: Intel Core i9-10900k
+GPU: NVIDIA Quadro RTX 2080 Ti
+
+Schenker Media Station
+Processor: Intel Core i9-9900k
+GPU: 2x NVIDIA QuaDRO RTX 2080 Ti
+
+Silverdraft Demon VR
+Processor: Intel Core i9-9900KF
+GPU: NVIDIA Quadro RTX 6000
+
+Compatible motherboards
+
+XR-3 and VR-3 are compatible with all motherboards as long the remaining system requirements are met. The following are some examples of compatible motherboards:
+
+ROG STRIX X570-E Gaming
+
+Asus
+ROG STRIX Z490-F Gaming
+
+Asus
+
+Asus
+TUF Gaming Z490 Plus
+
+MSI
+MPG Z490 Gaming Carbon WIFI ATX
+
+See the list of compatible adapters.
+
+Varjo Aero
+
+Below you can find some computers and hardware compatible with Aero.
+
+Compatible computers
+
+For recommended laptop models and configurations, seeVarjo-Ready computers for Varjo Aero.
+
+See the list of compatible adapters.
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Below you can find some computers and hardware compatible with XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1.
+
+Compatible computers
+
+We have tested the following computers to be compatible with XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1:
+
+Boxx Apex3 single 2080ti
+
+Sells and ships to North America from BOXX Technologies.
+Processor: Intel Core i9-9920X 3.5GHz
+GPU: NVIDIA GeForce RTX 2080 Ti
+
+Desktop
+XR-1 Developer Edition, VR-2 Pro, VR-2, VR-1
+
+Sells and ships globally from Lenovo.
+Processor: Intel Xeon E-2276M with vPro™
+GPU: NVIDIA Quadro RTX 5000
+ DDR4-2666
+Laptop
+VR-2 Pro, VR-2, VR-1
+
+Sells and ships globally from Lenovo.
+Processor: Intel Xeon E-2276M with vPro™
+GPU: NVIDIA Quadro RTX 5000
+ DDR4-2666
+Laptop
+VR-2 Pro, VR-2, VR-1
+
+Sells and ships globally from Lenovo.
+Processor: Intel Xeon W2135 6C/12T – 3.7/4.5 GHz
+GPU: NVIDIA Quadro RTX 6000
+
+Desktop
+XR-1 Developer Edition, VR-2 Pro, VR-2, VR-1
+
+Sells and ships globally from Lenovo.
+
+Processor: 2 x Intel Gold 6144 16C/32T – 3.5/4.2 GHz
+GPU: NVIDIA Quadro RTX 5000
+Memory: 32 GB
+Desktop
+VR-2 Pro, VR-2, VR-1, VR-1
+
+Sells and ships globally from Lenovo.
+Processor: 2 x Intel Xeon Gold 6244 16C/32T – 3.6/4.4 GHz
+GPU: NVIDIA Quadro RTX 6000
+Memory: 32 GB
+Desktop
+XR-1 Developer Edition, VR-2 Pro, VR-2, VR-1
+
+Sells and ships to North America from RAVE Computer.
+Processor: Intel Core i9-10900k CPU 3.70GHz
+GPU: NVIDIA GeForce RTX 2080 Ti
+
+Desktop
+XR-1 Developer Edition, VR-2 Pro, VR-2, VR-1
+
+Sells and ships to North America from RAVE Computer.
+Processor: Intel Core i9-9900K
+GPU: NVIDIA GeForce RTX 2080 Ti
+
+Desktop
+XR-1 Developer Edition, VR-2 Pro, VR-2, VR-1
+
+Sells and ships globally from Bestware.
+Processor: Intel Core i9-9900k
+GPU: NVIDIA GeForce RTX 2080 Ti
+Memory: 32 GB DDR4-3200
+Desktop
+XR-1 Developer Edition, VR-2 Pro, VR-2, VR-1
+
+Sells and ships globally from Bestware.
+Processor: Intel Core i9-9900K
+GPU: NVIDIA GeForce RTX 2080
+Memory: 32 GB DDR4-2666
+Laptop
+VR-2 Pro, VR-2, VR-1
+
+Sells and ships to EU and APAC: Australia, New Zealand, Japan, South Korea, Singapore.
+Processor: Intel Core i9-9900KF
+GPU: NVIDIA Quadro RTX 6000
+
+Desktop
+XR-1 Developer Edition, VR-2 Pro, VR-2, VR-1
+
+Sells and ships to North America from Foxguard Solutions.
+Processor: Intel Core i7-8700
+GPU: NVIDIA GeForce RTX 2080 Ti
+Memory: 32 GB DDR4-3000
+Desktop
+XR-1 Developer Edition, VR-2 Pro, VR-2, VR-1
+
+Compatible motherboards for XR-1 Developer Edition
+
+We have tested the following motherboards to be compatible with XR-1 Developer Edition. We strongly recommend that you choose a motherboard from the list below. s not on this list are assumed to be incompatible.
+
+Model
+
+ASRock
+Z390 Phantom Gaming ITX/AC
+
+ASUS
+Prime Z390-A Motherboard w/ ThunderboltEX 3 expansion card
+
+We have tested the following Mini DisplayPort–DisplayPort adapters to be compatible with XR-3, VR-3, and Varjo Aero:
+
+Benfei
+Mini DisplayPort to DisplayPort Adapter 4K, BENFEI Mini DP to DP Converter,Thunderbolt | Thunderbolt 2 Port Compatible
+
+Mini DisplayPort 1.4 to DisplayPort adapter with latch 8K 60 Hz
+Delock
+
+LEIRUI
+8K Mini Displayport to Displayport Adapter, Thunderbolt 2 to Displayport 1.4 Cable Support 8K@60Hz, 4K@144Hz, 2K@240Hz, Compatible with MacBook Air/Pro, Surface Pro/Dock and More
+
+PEA
+Mini Displayport to Displayport 8k Adapter, DP1.4 Adapter 8K@60Hz Ultra High Speed DP Mini Male to DP Female Extention Adapter, Compatible with Laptop PC TV Gaming Monitor
+
+Rankie
+Mini DisplayPort to DisplayPort Adapter, 4K Resolution Converter, Black
+
+8K Mini DisplayPort to DisplayPort Adapter Mini DP Male to DP 1.4 Female Converter Support 8K@60Hz 4K@144Hz 2K@240Hz HDR FreeSync G-SYNC for Thunderbolt 2 PC Surface Pro Monitor Graphics
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

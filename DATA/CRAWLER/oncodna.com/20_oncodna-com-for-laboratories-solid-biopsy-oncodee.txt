@@ -1,0 +1,222 @@
+ExploreOncoDNA'sSolidBiopsyKit|+10yearsofknowledge
+
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySiteKit
+
+GoogleTagManagersnippetaddedbySiteKit
+
+EndGoogleTagManagersnippetaddedbySiteKit
+
+GoogleTagManager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solid Biopsy (OncoDEEP® Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+Initiated for patients by oncology experts
+
+Clinically-relevant oncology targets and biomarkers
+
+Clinical interpretation of genomic data
+
+Initiated for patients by oncology experts 
+
+	Initiated for patient testing, the OncoDEEP® Kit is built on the OncoDEEP® molecular diagnostic test, which is the result of more than a decade of strong collaboration with oncology experts.	
+
+10 years of knowledge that matters 
+
+Since 2013, OncoDNA has performed more than 100,000 tests, enabling us to build a comprehensive database (OncoKDO®) comprising 4,6 million variants across 22,000 genes, along with information on 1,600 drugs and 10,000 clinical trials. This vast repository of information allows OncoDNA to provide our clients with the most accurate and up-to-date molecular profiling for personalized cancer treatment. 
+
+An all-in-one solution with the largest panel in the market 
+
+OncoDEEP® Kit DNA & RNA panel is the largest and the most complete of the market. This panel is composed of probes targeting 63 genes for a final content of 1.8 Mb. It supports identification of all relevant variants involved in various solid tumor types with genes carefully selected based on their biological and therapeutical relevance.
+
+In addition, specific sequences have been added to cover key regions associated with phenotypes of interest such as Tumor Mutational Burden (), Microsatellite Instability (), Loss Of Heterozygosity (LOH) in Tumor Suppressor Genes (TSGs), introns tilling for genes ALK/RO/RET and MET-ex14, sub-telomeric Single Nucleotide Polymorphisms (SNPs) for Homologous Recombination Deficiency () calculation and promoter of TERT. 
+
+A unique capture method for high quality data with less sequencing 
+
+OncoDEEP® Kit uses a unique Twist Biosciences’ capture method allowing high coverage and uniformity with less DNA/RNA input and less sequencing needed. 
+
+An easy process automatization 
+
+Thanks to the compatibility with Illumina’s technology, the easy automation process simplifies tasks by continuing using the current tools without disturbing the automate routine activities and losing time in extra training and manipulations. 
+
+Read our white paper
+
+Compatible with Illumina Technology 
+
+OncoDEEP® Kit has been meticulously designed to seamlessly integrate Illumina’s cutting-edge sequencing platforms, ensuring a streamlined and efficient workflow. This singular compatibility empowers researchers to concentrate on their scientific goals, free from the burden of technical obstacles. By optimizing the compatibility ofOncoDEEP® Kit, we strike the perfect balance between cost efficiency and constand precision, guaranteeing reliable results without compromising accuracy. 
+
+NextSeq 500/550 2x75 cycles
+
+NextSeq 2000 2x100 cycles
+
+S1
+
+8
+
+Achieving high-performance sequencing is now more accessible than ever, thanks to the OncoDEEP® Kit and Illumina sequencers. By utilizing these cutting-edge technologies, laboratories can process multiple samples per flow cell, as outlined in the Table above. This streamlined process allows faster and more efficient sequencing, resulting in more accurate data and better outcomes. 
+
+From sample preparation to clinical insights in just 5 days 
+
+OncoDEEP® Kit revolutionizes the diagnostic process by significantly reducing the timeline from DNA extraction to clinical and biological interpretation to just 5 days. This accelerated timeframe enables healthcare professionals to make faster decisions, resulting in enhanced patient care and improved outcomes. 
+
+Extracted DNA and/or RNA from FFPE tumor tissue or unstained slides
+
+: Library preparation
+
+DNA fragmentation, end repair & dA tailing
+Ligation Twist universal adapters and purification
+PCR amplification using Twist UDI Primers, purification and QC
+
+: Target Enrichment
+
+Libraries preparation for hybridization
+Binding hybridized targets to streptavidin beads
+Post-capture PCR amplification, purification and QC
+
+DNA concentration adjustment according to sequencer specifications
+
+: Analyse and interpretation
+
+Upload FASTQ files
+Secondary and tertiary analysis via OncoDEEP pipeline
+Clinical and biological interpretation through OncoKDM
+QC visualization via Mercury
+
+Day 2
+
+Day 3
+
+Day 5
+
+Clinically-relevant oncology targets and biomarkers 
+
+Designed by oncology experts, the OncoDEEP® panel contains the most relevant and complete cancer gene panel. Over the time this panel was optimized to include all clinically-relevant oncology targets. The panel is composed of 638 genes, reporting genomic alterations (SNV, insertion, deletion, CNV) and complex genetic signature (, and ). 
+
+Insertion / Deletion / CNV / SNV 
+
+ALK / ROS1 / RET / translocation / MET-Exon 14 
+
+ALK / ROS1 / RET / FGFR1 / FGFR2 / FGFR3 / NTRK1 / NTRK2 / NTRK3 / BRAF / NRG1 
+
+BRCA1 / BRCA2 / PTEN / AR / EGFR / ERBB2 / MET / PALB2 / RB1 
+
+TMB
+
+TMB
+
+Tumor Mutational Burden (TMB) is a biomarker that can predict how responsive solid tumors may be to immunotherapy. The higher the TMB score, the greater the likelihood of a positive response to immunotherapy. 
+
+MSI
+
+MSI
+
+Microsatellite instability (MSI) is a hypermutable phenotype caused by the loss of DNA mismatch repair (MMR) activity, which is associated with inactivation, loss or epigenetic silencing of MMR genes (MSH2, MLH1, MSH6 and PMS2). 
+
+HRD
+
+HRD
+
+The determination of HRD status can provide crucial information, which can be used to personalize the treatment of patients with ovarian, breast, pancreatic and prostate cancer. 
+
+Clear data insight and clinical interpretation 
+
+Easy sequencing files upload
+
+After the sequencing, output files (FASTQ + Medata files) are uploaded 
+
+Easy sequencing files upload
+
+After the sequencing, output files (Fastq + medata files) are uploaded on a secured storage to automatically launch a batch of samples. 
+
+Variants identification & annotation
+
+Our BioIT pipeline performs the secondary analysis of genomic data 
+
+Variants identification & annotation
+
+Our BioIT pipeline performs the secondary analysis of genomic data by aligning the data, identifying, annotating and classifying the variants, and cleaning the bias. 
+
+Data cross-referencing with our proprietary knowledge base
+
+We use our proprietary knowledge base 
+
+Data cross-referencing with our proprietary knowledge base
+
+We use our proprietary knowledge base OncoKDO to perform tertiary analysis by cross-referencing molecular data, resulting in the clinical interpretation of the data. 
+
+Clinical validation by scientific team
+
+Our team of oncology experts reviews each report 
+
+Clinical validation by scientific team
+
+Our team of oncology experts reviews each report before making it available on OncoKDM 
+
+OncoKDM® ’s comprehensive interpretation reports provide labs with eight essential assets to enhance the understanding of NGS data, including detailed annotations, a list of actionable variants, a list of therapies recommendation and a summary of relevant clinical trials. 
+
+We considered multiple in-house comprehensive genomic profiling NGS options, but during the validation phase, our results demonstrated that OncoDNA’s OncoDEEP single multiplex assay provides a consistent, time-efficient, and simple sample-to-clinical report solution for accurate comprehensive genomic profiling in FFPE samples.
+
+Marcel Trautmann
+Head of the molecular diagnostics and translational cancer research lab
+
+Which types of cancer is the OncoDEEP® Kit recommended for?
+
+The OncoDEEP® Kit is recommended for a wide range of cancer types. Its comprehensive gene panel and ability to detect various genomic alterations make it applicable to solid tumors across different cancer types. It can help in identifying relevant variants and genetic signatures in cancers such as lung cancer, breast cancer, colorectal cancer, ovarian cancer, melanoma, and many others.
+
+How long does it take to get my reports available in Mercury and OncoKDM®? 
+
+The turnaround time for OncoDEEP® Kit is determined from the receipt of sequencing data to their validation by OncoDNA®, and subsequently, the release of reports on both platforms. The typical TAT is within 48 hours or two business days.
+
+How often do we update our annotation database / information?
+
+We regularly update our annotation database and information to ensure that it reflects the most relevant and accurate information for clinical interpretation and decision-making. The frequency of updates may vary, but it is done on a regular basis to incorporate new scientific discoveries, clinical findings, and emerging genomic data.
+
+Can I edit the analysis report after it has been published in OncoKDM®?
+
+Depending on your workspace configuration, you can edit almost every part of the report until you validate it. Every change is recorded and can be reviewed in the report’s history of changes.
+
+How many genes are covered by OncoDEEP® Kit panel? 
+
+The OncoDEEP® Kit panel covers 638 genes. These genes have been carefully selected based on their biological and therapeutic relevance in various solid tumor types. The comprehensive coverage of these genes allows for the detection of genomic alterations and complex genetic signatures associated with cancer.
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+Manage consent
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712128769

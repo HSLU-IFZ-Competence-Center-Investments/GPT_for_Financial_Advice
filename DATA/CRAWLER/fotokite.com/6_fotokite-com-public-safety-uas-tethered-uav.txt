@@ -1,0 +1,38 @@
+Globalsitetag(gtag.js) - Google Analytics 
+
+ This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ 
+Fire Inspection for first responders using tethered UAV systems l Fotokite
+
+ / Yoast SEO plugin. 
+
+Post-Fire Inspection & Monitoring
+
+ Detect hot spots before they flare up and manage your post-response with time and personnel resource efficiency gains. 
+
+ End Page Title H1 
+
+Fotokite tethered UAV is equipped with both low-light regular and FLIR thermal imaging cameras that enable public safety teams with the ability to gain the essential thermal information of the object post fire. The capability to detect remaining hot spots from the height of up to 45m/150ft provides these teams with the tools and situational awareness necessary to act quickly and efficiently with team safety and resources in mind.
+
+Fotokite tethered UAV is an accessible tool for nearly any post-fire inspection operation, in both urban and rural areas, due to the safety, redundancy, self-piloting, and regulatory advantages of the Fotokite Sigma over traditional drones.
+
+Night-time operations or inclement weather conditions are no problem for Fotokite Systems. Their ruggedized design and thermal imaging capabilities enable the Kite to cut through challenging conditions and help understand the scene until the mission is complete.
+
+ Page Call to Action 
+
+Would you like to know more about use cases? 
+
+ Get in touch with our industry experts to learn more about how Fotokite can help in your operations. 
+
+ End Page Call to Action 
+
+Fotokite US LLC
+3125 Sterling Circle, STE 107
+Boulder, CO 80301, USA
+
+Fotokite US LLC
+235 Harrison Street, MD 52
+Syracuse, NY 13202, USA
+
+ © 2024 Fotokite. All rights reserved
+
+ Custom Feeds for Instagram JS

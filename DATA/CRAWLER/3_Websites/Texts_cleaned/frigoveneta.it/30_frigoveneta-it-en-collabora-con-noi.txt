@@ -1,0 +1,78 @@
+EndGoogleTagManager
+
+|FrigovenetaSPA
+
+[iflte IE 8]>
+
+ <![endif]
+[if lte IE 8]>
+
+ <![endif]
+[if gte IE 9]><!
+
+<![endif]
+
+ </script>
+ <noscript><img height="1" width="1" style="display:none"
+
+ DO NOT MODIFY 
+ End Facebook Pixel Code 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+ <ul class="social-icons">
+ <li class="facebook"><a href="https://www.facebook.com/FRIGOVENETA-SPA-113075642119143/" target="_blank" title="Facebook">Facebook</a></li>
+ <li class="linkedin"><a href="https://www.linkedin.com/company/frigoveneta-s-p-a-" target="_blank" title="Linkedin">Linkedin</a></li>
+ <li class="youtube"><a href="https://www.youtube.com/user/Frigoveneta" target="_blank" title="Youtube">Youtube</a></li>
+
+ <div class="qualcosa" style="position: relative">
+
+ <div class="search">
+ <form id="searchForm" action="page-search-results.html" method="get" novalidate="novalidate">
+ <div class="input-group">
+ <input type="text" class="form-control search" name="q" id="q" placeholder="" required="" aria-required="true">
+ <span class="input-group-btn">
+ <button class="btn btn-default" type="button" id="iscrivi-newsletter"><i class="fa fa-envelope"></i></button>
+
+ <label class="checkbox">
+ <input type="checkbox" id="newsletter-privacy"> Privacy
+
+ Button trigger modal 
+ <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal"> 
+
+ </div> 
+
+ li.active per quello corrente 
+
+Refrigerating Units and Chillers 
+Machines with non-greenhouse natural fluids
+Indirect-expansion machines with low-gwp fluids
+Indirect-expansion machines
+Direct-expansion machines with low-gwp refrigerants
+
+Contacts
+Collaborate with us
+
+Congratulazioni! Il tuo messaggio è stato spedito. 
+
+Errore! C'è stato un errore durante l'invio del tuo messaggio. 
+
+Collaborate with us
+
+NAME AND SURNAME HOLDER / REFERENT *
+
+CITY / GEOGRAPHICAL AREA IN WHICH YOU OPERATE *
+
+WHICH CUSTOMERS / COMPANIES DO YOU WORK FOR?
+
+WHAT KIND OF BUSINESS DO YOU DO? *
+
+GENERAL COMPANY DESCRIPTION / USEFUL INFO
+
+ I have read the privacy policy 
+
+ Via Caduti del Lavoro, 5 - 37049 Villa Bartolomea (Vr)
+
+Frigoveneta - Video Aziendale

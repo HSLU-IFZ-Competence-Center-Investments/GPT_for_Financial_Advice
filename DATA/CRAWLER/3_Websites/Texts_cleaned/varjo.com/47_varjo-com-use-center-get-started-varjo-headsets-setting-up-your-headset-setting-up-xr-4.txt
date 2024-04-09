@@ -1,0 +1,181 @@
+Thissite is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.0) - https://yoast.com/wordpress/plugins/seo/ 
+ – Varjo.com
+
+ / Yoast SEO Premium plugin. 
+
+ DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.4
+
+ DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Upgrade offer for / owners available. Learn more.
+
+Enterprise Solutions Headsets Varjo XR-4 Series
+Varjo XR-4 Secure Edition
+
+Varjo ResellersVarjo has over 35 certified resellers across North America, Europe, Asia-Pacific, and Middle East. Find your nearest reseller and get in touch with them for a demo.
+
+Use Cases A – M Automotive
+
+R – Z Research
+
+Case StudiesMoving your work into a true-to-life immersive environment can help save time, money and effort along the way. Read how to transform workflows across industries with virtual and mixed reality.
+
+Resources Resources E-books and Whitepapers
+
+Varjo Case Studies25% of the Fortune100 companies are already partnering with us across multiple business areas. Read why industry leaders and pioneers choose Varjo.
+DevelopersYou can develop experiences for Varjo headsets using the 3D tools you’re already familiar with. Find all our dev documentation and code examples here.
+Learning HubA resource meant for anybody who would like to learn more about VR/XR and understand the most common terms used in the industry.
+
+About Company About Us
+
+Become a Partner Become a Varjo Reseller
+
+Latest from VarjoRead our latest VR/XR technology insights, hear what the world is saying about Varjo, and know right away when Varjo news breaks – it’s all here.
+EventsWant to experience the world’s only human-eye resolution XR/VR headsets firsthand? Meet us and our partners around the world.
+
+Support Get StartedGet started with the Varjo headset. We’ll guide you through the software installation, headset setup, and help you get the most out of your device.
+FAQ & TroubleshootingFind answers to frequently asked questions and get help with the most common troubleshooting situations.
+Contact SupportReach out to our in-house experts for support. We'll aim to get back to all our enterprise clients within one business day.
+
+ Get started Varjo headsets XR-4
+
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Setting up your headset XR-4
+XR-3
+VR-3
+Varjo Aero
+XR-1 Developer Edition
+VR-2 Pro, VR-2, and VR-1
+
+Setting up tracking Varjo inside-out tracking
+
+Varjo services Varjo Account Commercial account
+
+Varjo Reality Cloud Varjo Reality Cloud subscription
+System requirements
+
+Varjo XR and VR subscriptions Getting a seat in a subscription
+
+Get to know your headset Using the headset
+Using Varjo Controllers
+Fitting the headset XR-4
+XR-3, VR-3, and Varjo Aero
+XR-1 Developer Edition, VR-2 Pro, VR-2, and VR-1
+
+Getting the perfect image quality
+
+Get to know Varjo Reality Cloud
+Develop for Varjo Developer support
+
+FAQ & Troubleshooting
+Downloads Release notes Release notes for Varjo Base
+Release notes for Varjo Reality Cloud for Windows
+Release notes for Varjo Reality Cloud for iOS
+
+Setting up XR-4
+
+You will need a Varjo Account to use XR-4. Two account types are available:
+
+Commercial accounts are for commercial purposes.
+Personal accounts are intended for personal use.
+
+Choose the account type that best fits your needs.
+
+Follow these steps to set up your headset.
+
+1. Log into Varjo Account Portal
+
+To get started, log into Varjo Account Portal. If you don’t have a Varjo Account yet, you can create a Varjo Account.
+
+2. Download Varjo Base from Varjo Account Portal
+
+Varjo Base is the software used to run your headset. It contains everything you need to use the headset on a Windows computer, including advanced presentation and developer tools.
+
+Note that Varjo Base 4.0 or later is required to use XR-4. If you have an older version of Varjo Base, please download and install the latest version.
+
+When you install Varjo Base for the first time, you may be prompted to also install Microsoft Visual C++ 2019 X64 Minimum Runtime.
+
+3. Start Varjo Base
+
+Varjo Base will help you set up your headset. You can also follow along the setup steps on this page.
+
+When you start Varjo Base for the first time, we will run a system check to confirm that your computer is compatible with the headset. See System requirements for more information.
+
+4. Log into Varjo Base with your Varjo Account
+
+Depending on your commercial package, you may be asked to log in.
+
+In Varjo Base, log in with your Varjo Account to start setup.
+
+If your company has enabled Microsoft single sign-on with Varjo, you can also login using Microsoft SSO.
+
+Note that your computer needs to be connected to the internet to log in.
+
+5. Select your headset model
+
+When you start Varjo Base for the first time, it will automatically open the first-time user guide to help you through the setup process. You can open the guide at any time in the Support tab under Run setup.
+
+Select your headset model to view detailed instructions on how to connect your headset.
+
+See the cabling in more detail.
+6. Connect your headset and charge the controllers
+
+When you connect the headset to your computer for the first time, Windows will recognize the headset as a new USB device and install the appropriate drivers.
+
+Connect power to the headset adapter using the charging cable. Use the 60W port in the 3-port charger.
+Make sure the charging cable locks into place properly.
+Connect the headset adapter to the back of your computer. The status indicator light in the headset adapter turns green.
+Connect the headset’s data cable to the headset adapter. Make sure the cable locks into place properly.
+Connect the headset’s display cable to the graphics card of the computer.
+Power on the headset.
+We recommend charging the controllers before use. Connect the controllers to the 7.5W ports in the 3-port charger.
+
+7.  Update your headset firmware if prompted
+
+Varjo Base will automatically check that your headset firmware is up to date. If the firmware is not compatible with the current version of Varjo Base, you will be prompted to update the firmware.
+
+8.  Enable OpenXR and OpenVR runtimes if prompted
+
+Varjo Base will attempt to automatically enable the OpenXR and OpenVR runtimes for Varjo headsets. If you have previously used an OpenXR- or OpenVR-compatible headset on this computer, you may be prompted to enable the runtime manually.
+
+Enable the runtime if you want to run OpenXR and OpenVR applications, such as SteamVR apps.
+
+We recommend that you also enable Software updates and Crash reporting.
+
+9. Pair your controllers
+
+Follow the instructions in Varjo Base to pair your controllers.
+
+10. Update controller firmware
+
+In Varjo Base, go to the Support tab and select Update under Controller firmware update.
+Follow the instructions on the screen to update the controllers.
+
+Note: Varjo Base will incorrectly show “Update to version 0.xxx“ even after firmware has been updated.
+
+11. Optional: Install Ultraleap Leap Motion Controller 2
+
+The Ultraleap Leap Motion Controller 2 enables hand tracking for your XR-4 series headsets. It is available in Varjo Store.
+
+See the instructions on how to Install Ultraleap Leap Motion Controller 2.
+
+Continue setup by selecting a tracking method for your headset. The Varjo XR-4 headset supports the following tracking systems:
+
+ Varjo inside-out tracking uses the positional tracking cameras on the headset to continuously scan the room and keep track of your position.
+ SteamVR™ Tracking uses up to four SteamVR™ base stations to track your headset and optional controllers. SteamVR™ Tracking is available for XR-4 base station tracking versions.
+ Third-party tracking methods can also be integrated with Varjo headsets.
+
+XR-4 and XR-4 Focal Edition are available in our web store and through selected Varjo resellers to business customers in nearly 40 countries.
+
+Private customers can order Aero through our selected Varjo resellers. Shipping to EU, Canada, Iceland, Norway, Switzerland, United Kingdom and United States.
+
+Business customers have access to our full product range.
+
+Private customers can order Aero through our selected Varjo resellers.

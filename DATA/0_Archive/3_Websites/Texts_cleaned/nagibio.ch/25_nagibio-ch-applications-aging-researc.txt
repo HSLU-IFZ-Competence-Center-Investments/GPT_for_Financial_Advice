@@ -1,0 +1,143 @@
+This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ 
+ - Nagi Bioscience
+
+ / Yoast SEO plugin. 
+Aging Research - Nagi Bioscience
+
+ End Google Tag Manager 
+
+ Google Tag Manager (noscript) 
+
+ End Google Tag Manager (noscript) 
+
+Products & ServicesSydLab OneSydLab OneNagi Assay KitsSoftware SolutionsNagi Service SolutionsApplicationsEarly ToxicologyPre-clinical TestingAging ResearchTechnologyOrganism-on-ChipNews & ResourcesNews & Blog#ResearchAlertEventsResourcesAboutAbout UsTeamTestimonialsSupportersCareersContact
+
+Aging Research
+
+Discover the technology behind
+
+UNLOCK THE full POTENTIAL OF C. elegans to empower YOUr research
+
+Unique datapoints at an unprecedented reproducibility
+
+The biological model C. elegans has been fundamental in aging and longevity research allowing groundbreaking findings about human lifespan, such as Insulin/Insulin-like Growth Factor (IGF-1) signaling pathway or the discovery of the daf-2 gene. 
+
+From motility phenotypes to molecular neurodegenration, perform any C. elegans assay seamlessly with our technologies
+
+SCREEN YOUR ANTI-AGING CANDIDATES
+
+C. elegans nematodes are an ideal model organism for the screening of aging-related drug candidates due to its short lifespan (~15 days), tractable genetics and the conservation of essential age-related metabolic pathways between C. elegans and humans.
+
+High-throughput and high-content screening of your candidates is finally possible thanks to SydLab™ One, making C. elegans research fast and easy.
+
+EXPLORE THE EFFECTS OF TEST COMPOUNDS ON LIFESPAN & HEALTHSPAN
+
+Manual protocols can hinder your research by its inability to obtain important readouts from micro-organisms such as nematodes. Unlock unique lifespan and healthspan datapoints by automating your full experimentation process in just a click 
+
+Our pioneer technology allows you to easily design and run experiments so you can focus on what really matters: your results.
+
+C. ELEGANS: A POWERFUL MODEL FOR LONGEVITY STUDIES
+
+Widely used for more than 60 years to address fundamental aspects of longevity and aging research, such as metabolic diseases and neurodegenerative illnesses.
+Conservation of essential age-related metabolic pathways between C. elegans and humans.
+Scalable, faster and ethical alternative to animal testing.
+
+s on PubMed with keyword “Longevity” per model organism (Blue=all time ; green=2010-2020).
+
+LEARN MORE ABOUT OUR BIOLOGICAL MODELS
+
+Biological Models
+
+Nagi aging research Assays
+
+LIFESPAN PHENOTYPE DETECTION ASSAY
+
+The assay is designed to understand longevity regulation, explore the effects of test compounds on aging, and screen for anti-aging candidates. Bring your research to the next level with unique datapoints.
+
+Synchronized populations of L4 C. elegans larvae are automatically injected into the Nagi™ Chips by the SydLab™ One platform (day 0).
+The SydLab System device will continuously expose each worm population to a well-defined liquid environment, including the compounds to be tested and E. coli bacteria as the food source.
+Growth and reproduction readouts of C. elegans will be collected and monitored by the system during the first 4 days of adulthood by acquiring brightfield images every hour.
+After the first 4 days, SydLab™ One will take videos every 6 hours to analyze multiple motility phenotypes. At this point, the system will also determine whether a worm is alive or not. Consequently, a worm will be considered as dead if no movement is observed for 3+ consecutive video cycles.
+The experiment ends when no nematode is alive.
+
+Reproductive parameters
+Mean & maximum lifespan
+
+With our analysis software we can extract a multi-phenotypic fingerprint plot including readouts of body bends frequency, velocity, and curvature, as well as amplitude of movement in the head, tail and middle of the body. Data obtained by SydLab™ One.
+
+The worm survival curve is extracted automatically with a 6-hour time resolution, based on the Kaplan-Meier model. The mean lifespan values obtained with our microfluidic platform are therefore consistent with the published literature data. Data obtained by SydLab™ One.
+
+NAGI MOTILITY PHENOTYPES DETeCTION
+
+The assay is designed to evaluate the effects of test compounds on C. elegans behavior and motility, as well as to provide indications about neurotoxicity, muscular toxicity or premature aging process.
+
+A synchronized population of C. elegans is automatically injected into the Nagi™ Chips by the SydLab™ One platform at the first larval stage (L1). Worms are then automatically confined within the dedicated microfluidic chambers inside the Nagi™ Chips and are continuously fed with an E. coli solution (no human intervention needed).
+The platform will chronically exposed the worms to the test compounds starting from the last larval stage prior to sexual maturity (L4) for 85 hours (day 3 of adulthood). The compounds to be tested are mixed with the E. coli solution. Freeze-dried OP50 E. coli are used as a food source for the whole duration of the experiment, since it prevents the metabolization of the tested molecules by the bacteria.
+Starting from 70 hours post-worm injection (day 1 of adulthood), SydLab™ One will record short video sequences ever 6 hours. Time-resolved readouts are then extracted from the acquired videos for a a diversified characterization of the worms’ motility and behavior thanks to the SydLab™ Analyzer software suite.
+
+Velocity
+Amplitude of the movement of the head
+Amplitude of the movementat the middle of the body
+Amplitude of the movement of the tail
+
+Movement analysis for a wild-type worm during high (left) and low (right) physical activity. Video and ML-based analysis automatically generated by the SydLab™ motility analysis software module.
+
+Representative multi-phenotypic fingerprint plot comparing a control worm and a more active worm at day 1 of adulthood, which includes readouts of body bends frequency, velocity, curvature as well as amplitude of the movement at the head, tail and middle of the body. In conclusion, this high-content motion analysis reveals very subtle changes in C. elegans movements, beyond average motility measurements. Data obtained by SydLab™ One.
+
+Representative multi-phenotypic fingerprint plot comparing a control worm with a less active worm at day 1 of adulthood, which includes readouts of body bends frequency, velocity, curvature as well as amplitude of the movement at the head, tail and middle of the body. In this case, this high-content motion analysis reveals very subtle changes in C. elegans movements, beyond average motility measurements. Data obtained by SydLab™ One.
+
+UNIQUE RESEARCH NEEDS VERSATILITY
+
+COMBINE THE MOTILITY FEATURES OF SYDLABtm One WITH OTHER ASSAYS
+
+LIfespan phenotype detection assay
+
+Study of worm disease models
+
+The assay to monitor the effects of test compounds on aggregate formation and aggregation dynamics in numerous C. elegans models of neurodegenerative diseases.
+
+Worms model of Amyotrophic Lateral Sclerosis (ALS)​
+In vivo monitoring of the hSOD1 aggregates​
+Quantification of the size and number of the aggregates during aging​
+
+For this assay we take advantage of the existing C. elegans GFP-reporter strains, modelling a variety of neurodegenerative disorders, such as Alzheimer’s, Parkinson’s, Huntington’s disease and amyotrophic lateral sclerosis (ALS), as well as the capacity of SydLab™ One to perform fluorescent imaging. 
+A synchronized population of C. elegans is automatically injected into the Nagi™ Chips thanks to SydLab™ One at the first larval stage (L1). Worms are then confined within dedicated microfluidic chambers of the Nagi™ Chips and are continuously fed with an E. coli solution. 
+Worms are chronically exposed to the test compounds starting from the last larval stage prior to sexual maturity (L4) for 85 hours (day 3 of adulthood). The entire process of culture and treatment administration is handled by SydLab™ One. The compounds to be tested are mixed with the E. coli solution fed to the worms. Freeze-dried OP50 E. coli are used as a food source for the whole duration of the experiment, preventing the metabolization of the tested molecules by the bacteria.
+The images of each microfluidic chamber are recorded every hour by SydLab™ One. Starting from 70 hours post worm injection (day 1 of adulthood), both brightfield and fluorescent images start to be recorded in order to monitor worm growth and protein aggregation dynamics in parallel. Time-resolved phenotypic readouts are then extracted from the collected images in both brightfield and fluorescent modes.
+
+Check the data
+Temporal evolution of the average number of polyQ::yfp aggregates counted per each worm of two different strains: AM140 (C. elegans model for human Huntington’s disease) and AM134 (control strain). “Humanized” C. elegans strains modeling all major neurodegenerative disorders exist, also including e.g. ALS, Alzheimer’s, and Parkinson’s disease. Data obtained by SydLab™ One.
+
+CASE STUDIES: Aging Research
+
+DATA IS WORTH THOUSAND WORDS
+
+“THE INTEGRATION OF NAGI’S TECHNOLOGY OPENED MANY POSSIBILITIES FOR US.”
+
+THE QUEST for BEST CANDIDATES IDENTIFICATIOn
+
+Read the full story
+
+welcome to the sydlab™ one universe
+
+Positioning the “Worm-on-Chip” technology as part of the toolbox for NAMs.
+
+Laurent Mouchiroud, Elena Katsyuba, David Liaskos, David Rouquié, Ainhoa Letamendia, Matteo Cornaglia
+
+Microfluidic system for Caenorhabditis elegans culture and oxygen consumption rate measurements.
+
+Roger Krenger, Matteo Cornaglia, Thomas Lehnert, Martin Gijs
+
+Journal: Lab on a chip
+
+Integrated Microfluidic Device for Drug Studies of Early C. elegans Embryogenesis.
+
+Li Dong, Radek Jankele, Matteo Cornaglia, Thomas Lehnert, Pierre Gönczy, Martin Gijs
+
+Publication
+
+Microfluidic systems for high-throughput and high-content screening using the nematode Caenorhabditis elegans.
+
+Matteo Cornaglia, Thomas Lehnert, Martin Gijs
+
+Journal: Lab on a chip

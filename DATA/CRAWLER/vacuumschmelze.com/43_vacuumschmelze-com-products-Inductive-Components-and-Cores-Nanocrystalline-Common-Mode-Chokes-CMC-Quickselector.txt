@@ -1,0 +1,107 @@
+CMC Quickselector | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+Vocational Training and Studies
+
+ Inductive Components and Cores
+
+ Nacrystine Common Mode Chokes
+
+Nominal current [A] -10% / +25%
+
+Isat, max () [A]
+
+Nom. voltage [Vrms] -0% / +∞
+
+ size +∞ / +5%
+
+all
+
+no
+
+ [mA]
+
+Basic electric parameter
+
+max. unbalanced current
+
+DC -20% / +∞
+
+ -20% / +∞
+
+ -20% / +∞
+
+max. ambient temperature Ta [°C] -0% / +∞
+
+Overtemp. [K] (Nom. current, T=Ta)
+
+Operating temp. T<sub>op</sub> [°C]
+
+ [mHz] ±50%
+
+Wdg. cap. ±50%
+
+Leak. ind. Ls [μH] ±50%
+
+Coupl. cap. Ck ±50%
+
+max. ambient temperature Ta[°C]
+
+Overvoltage Category
+Footprint [mm] w x d
+
+self resonance
+
+Cw
+Ck
+: L -20 %sim: µ +20 %at 70 % Bs
+
+meas.
+
+[pF]
+[pF]
+DC
+10kHz
+kHz
+
+max.
+
+Choose a cell to start the derating process.
+
+CMC with copper losses only
+
+Top (IN, Ta) [°C]:
+
+As the accuracy of this calculation is limited any warranty is excluded. Final temperature measurement in the application under worst case conditions is recommended.
+
+100
+
+Ambient temperature Ta [°C]
+Derated current I<sub>N derat.</sub> IN,derat (Top,derat) [A]
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

@@ -1,0 +1,63 @@
+Current Sensors | VAC
+
+ Soft Magnetic Materials and Stamped Parts
+
+ Inductive Components and Cores
+
+ Permanent Magnets and Assemblies
+
+ Energy Generation & Management
+
+ Vocational Training and Studies
+
+ New d Loop P28x-Sensors
+ High precision current measurement for demanding applications
+
+VAC introduces a new line of closed-loop phase current sensors with a primary opening optimized for busbars. They are ideally suited for the measurement of DC, AC, and pulsed currents in current range of 150 A to 350 A.
+
+ Open-Loop Current Sensors for Smart Industrial Solutions
+
+VAC continues the development of new open loop sensors with a new product line of Hall-based open loop current sensors for industrial applications. They are ideally suited for the measurement of DC, AC, and pulsed currents in ranges of 80 A to 120 A.
+
+ Open-Loop Current Sensors for Automotive Applications
+
+VAC set up a new product line of open loop current sensors with a robust, automotive qualified hall element for high accuracy and linearity. They are ideally suited for the measurement of DC, AC, and pulsed currents in ranges of 300 A and 600 A.
+
+ benvac
+ All Current Sensitive DI Sensor for Electric Vehicle Charging
+
+benvac is a differential current (DI) sensor specifically developed for EV-charging. The sensor can activate an automatic shut-off in case of hazardous electrical faults (DC and AC) according to IEC 62752 or UL2231.
+
+ Differential Current Sensors
+ Highest Accuracy for Maximum Electrical Safety
+
+d-loop differential current sensors with VAC-invented magnetic probe for highest accuracy. VAC differential current (DI) sensors cover differential currents from 30 mA up to several Amps.
+
+ Closed-Loop Current Sensors
+ Current Measuring with the Highest Accuracy
+
+Closed-loop current sensors with VAC-invented magnetic probe as zero field detector for highest accuracy. VAC current sensors cover three orders of magnitude of rated current between 1.5 A and 1,700 A.
+
+Close
+
+Close
+
+ ®VACUUMSCHMELZE GmbH & Co. KG
+
+ Root element of PhotoSwipe. Must have class pswp. 
+
+ Background of PhotoSwipe.
+ It's a separate element as animating opacity is faster than rgba(). 
+
+ Slides wrapper with overflow:hidden. 
+
+ Container that holds slides.
+ PhotoSwipe keeps only 3 of them in the DOM to save memory.
+ Don't modify these 3 pswp__item elements, data is added later on. 
+
+ Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. 
+
+ Controls are self-explanatory. Order can be changed. 
+
+ Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR 
+ element will get class pswp__preloader--active when preloader is running

@@ -1,0 +1,92 @@
+HighTMB,MSI:ImmunotherapyforAdvancedColorectalCancer
+
+GoogleAnalyticssnippetaddedbySiteKit
+
+EndGoogleAnalyticssnippetaddedbySite Kit 
+
+ Google Tag Manager snippet added by Site Kit 
+
+ End Google Tag Manager snippet added by Site Kit 
+
+ Google Tag Manager (noscript) snippet added by Site Kit 
+
+ End Google Tag Manager (noscript) snippet added by Site Kit 
+
+Solid Biopsy (OncoDEEP® Kit)Liquid Biopsy (OncoSELECT® Kit)Molecular Residual Disease (MRD)OncoCDI – Clinical Data Intelligence 
+
+Clinical TestingPrecision enrollmentMRD for PharmaKnowledge-driven medicineClinical Data Intelligence (OncoCDI®) 
+
+Solid Biopsy (OncoDEEP®)Liquid Biopsy (OncoSELECT®)Cancer Monitoring (OncoFOLLOW®)Molecular Residual Disease (MRD) 
+
+About UsCertifications & AccreditationsTeamAwardsCareersIntegraGen subsidiary investors
+
+March: 42-year-old male with a metastatic colorectal cancer 
+
+The challenge of colorectal cancer: diagnosis and treatment options
+
+Colorectal cancer is the third cancer with the highest incidence worldwide and remains the second most lethal cancer. It can be explained by the silent symptoms of the early stage of the disease. Indeed, early diagnosis of colorectal cancer remains a challenge. Prevention of colorectal cancer is thus crucial to avoid cancer development. The main clinical preventions are stool based tests and invasive endoscopic methods [PMID: 34243011]. Colorectal cancer can be classified depending on the site of the lesion in the large intestine: proximal colon, distal colon and rectum.
+
+A better understanding of the pathophysiology of colorectal cancer paved the way for numerous treatments options. The main treatments strategies are based on surgery, chemotherapies, targeted therapies and immunotherapy. Surgery has been performed at first instance in early stage associated with neoadjuvant or adjuvant therapy. Standard chemotherapies relay the backbone of colorectal treatment. There are used alone or in multiple combination of regimens including oxaliplatin, irinotecan, capecitabine, fluoropyrimidine. Side effects and limitations of chemotherapies has led to the development of alternative treatment. Targeted therapy in the treatment of colorectal cancer remains a key since the various signalling pathways involved in this cancer. The study of those pathways leads the way to the approval and use of specific inhibitors [PMID: 32296018]. Immunotherapy is also meanly use in the treatment of colorectal cancer. This cancer is characterized by a dominant DNA mismatch repair (MMR) signature leading to a high sensitivity to immune check point inhibitors [PMID: 36828759]. 
+
+Here we will describe the case of a man of 42 years old diagnosed in 2021 with metastatic colorectal cancer. Surgery has been performed with chemotherapies. The patient shows signs of resistance to the adjuvant therapy. Therefore, a genomic profile of the tumor has been performed using the OncoDEEP solution. 
+
+Genetic fingerprint for targeted therapy : OncoDEEP Panel identifies actionable mutations
+
+The OncoDEEP panel highlights a high number of variants. Indeed, a high tumor mutational burden (TMB) and a high microsatellite instability (MSI) have been observed for this patient. The TMB represents the number of mutations per mega bases. The MSI is an hypermutable phenotype due to alteration in the DNA mismatch repair activity. There is positive correlations between TMB high and MSI high [PMID: 31502149]. Both are associated with sensitivity to immune check points inhibitors [PMID: 28835386; PMID: 28877075]. Indeed, the accumulation of mutations results in the synthesis of many neoantigens that can be detected and triggers the immune system. A MSH2 (MutS homolog 2) variant leading to a stop codon has also been identified. MSH2 protein is a member of the DNA mismatch repair system (MMR) which is a mechanism involved in DNA base mismatches repair. Alteration in the MMR system can be followed by the analyse of the microsatellites, which are short tandem repeat sequences of the DNA. Modification of the length of those short-repeated sequences, due to DNA polymerase slippage, can leads to microsatellite instability. MSI is detected in about 15% of all colorectal cancer and can be associated with Lynch syndrome [PMID: 20420947 ; PMID: 16106253].
+Lynch Syndrome: genetic risk for colorectal cancer
+
+Lynch syndrome is characterized by a pathogenic variant in the MMR genes such as MSH2, MSH6 (MutS homolog 6), PSM2 (post meiotic segregation increased 2) and MLH1 (mutL homologue 1) or by a deletion in the EPCAM (Epithelial cell adhesion molecule) gene that regulates MSH2 expression. This syndrome increases the risk to develop cancer in the gastrointestinal and gynaecological tracts, notably, colorectal cancer and endometrial cancer. The prevalence of this inherited condition is about 1 in 125 individuals in the general population. Colorectal cancer related to Lynch syndrome appears at younger age and represent about 3 to 5% of all CRC [PMID: 35812033]. Guideline highly recommends using immunohistochemistry against MRR genes or microsatellite instability testing and more currently the use of next generation sequencing of a specific panel of gene, including MMR gene, on all colorectal cancer to guide the patient through the best treatment option but also to identify relatives without cancer that can benefit from a high surveillance [PMID: 36077639]. Depending on the MMR gene mutated, the contribution of Lynch syndrome is not the same. Indeed, the protein MSH6 and MSH2 form a heterodimer that recognize and binds to a DNA mismatch and trigger a conformational change of the DNA. Then, the heterodimer MLH1 and PMS2 recognises the mismatch sequence and induce degradation of the wrong DNA sequence through the recruitment of an exonuclease. Finally, the correct sequence is synthetised by polymerase. Therefore, loss of function of MLH1 or MSH2 protein are responsible of 60-70% of cancer related to Lynch syndrome. The germline variant in one of the fourth MMR genes induce a predisposition to MMR dysfunction, but a second hit is need on the wild type allele inducing a biallelic complete inactivation. Indeed, some patient with Lynch Syndrome will not develop any cancer. This complete inactivation induces a mutator phenotype, a microsatellite instability. In this case, the MSH2 variant has been associated with a high microsatellite instability leading to a sensitivity to immune checkpoints inhibitors. In MSI-high colorectal cancer, pembrolizumab and nivolumab with or without ipilimumab are FDA approved. Therefore, this patient can benefit from PD-1/PD-L1 inhibitors. The identification of this variant in this patient also highlights the need to screen the patient’s relatives for Lynch syndrome [PMID: 36077639].
+OncoDEEP Panel identifies Lynch Syndrome risk: immunotherapy option and family screening recommended
+
+Through the Oncodeep kit panel analysis, it highlights the potential sensitivity to immune checkpoints inhibitors for this patient based on the high TMB, MSI and the presence of the MSH2 variant, which highly recommend a screening of patient’s relatives for Lynch syndrome. 
+
+You may also be interested in these resources 
+
+ Gridbuilder ᵂᴾ Plugin (https://wpgridbuilder.com) 
+
+ White paper
+Ensuring a Robust DNA Analysis and the Best Clinical Interpretation by Generating a High-Quality Data Set5 min readingJun 6th
+
+OncoDEEP® Kit enables laboratories to achieve and consistently replicate high-quality sequencing data regarding coverage and sensitivity. Based on analytical performance this Whitepaper assesses the precision of OncoDEEP® Kit while measuring the repeatability and reproducibility. Combined...Read more →
+
+ Scientific Application Note
+RENAL CANCER In a retrospective analysis, rechallenge with immunotherapy delivered ORR 23% (compared with 37% ORR for first exposure); responses at rechallenge were not restricted to those who had responded at first exposure.Jun 22nd
+
+Evaluation of the Safety and Efficacy of Immunotherapy Rechallenge in Patients With Renal Cell Carcinoma IMPORTANCE Several immune checkpoint inhibitors (ICIs) are approved for use in patients with metastatic renal cell carcinoma (mRCC), but the...Read more →
+
+ Video
+Decoding Cancer: OncoDEEP Kit revolutionises genomic analysis for personalised treatment5 min readingNov 15th
+
+Join us in this video as Marcel Trautmann, Head of Molecular Diagnostics within the first German Department of Pathology and member of the German Network for Personalized Medicine (DNPM),  shares his firsthand experience with OncoDEEP®...Read more → 
+
+OncoDNA is a theranostic and genomic company with renown expertise in precision oncology and genetic diseases. 
+
+OncoDNA S.A. (headquarters)Rue Louis Breguet 1BE-6041 Gosselies
+
++32 (0) 71 18 35 00 
+
+	©OncoDNA 2024. All rights reserved. VAT:BE0501631837	
+
+	Made by Créatonit   Sitemap 
+
+ Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr 
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+Manage {vendor_count} vendors
+Read more about these purposes
+
+ Start of Async HubSpot Analytics Code 
+
+ End of Async HubSpot Analytics Code 
+
+ This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1712101356

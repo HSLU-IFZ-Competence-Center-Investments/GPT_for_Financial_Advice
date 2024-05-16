@@ -1,1716 +1,0 @@
-
-
-1_ANYBOTICS-COM-GET-STARTED
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv20.8(YoastSEOv22.3)-https:yoast.com/wordpress/plugins/seo/
-GetstartedwithANYMal-ANYbotics
-
-/YoastSEOPremiumplugin.
-
-DONOTCOPYTHISSNIPPET!Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-How do you get
-
-Unlock rapid value scaling with the autonomous solution
-
-The ANYbotics team guides you through training, commissioning, and capturing relevant data to generate value with the deployment.
-
-Learn more about onboarding >
-
-Operator training and inspection mission set-up
-
-Immediate data insights and continued coaching
-
-Improved asset performance and increased safety 
-
-Scaling and roll-out across operations
-
-Fleet Management
-Optimize entire operations by deploying a fleet of inspection robots across multiple facilities.
-
-Robot-as-a-Service
-Leverage ANYbotics’ fully serviced RaaS model for hardware and software to scale robotics operationally.
-
-Integration
-Integrate with the existing asset management software and digital twins via ANYmal API.
-
-Support & Services
-Profit from continuous operation with ANYbotics’ support, maintenance, and repair program at your facility.
-
-ANYmal brought to you by our partners
-
-Our global network of resellers and partners gives you access to ANYmal solutions wherever you are.
-
-Meet ANYmal in your region >
-
-ANYmal creates value across industries
-
-Monitoring Ex-rated gas facility
-
-Automating inspection at a
-
-1.5% uptime increase at chemical plant
-
-Reducing human exposure in mining environments
-
-How can your operations profit from ANYmal?
-Talk to a human
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-//
-
- Parsed with iubenda experimental class in 0.0267 sec.
-
-
-
-2_ANYBOTICS-COM-ABOUT-US-COMPANY-PAGE-2
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv0.8(YoastSEOv22.)-https:yoast.com/wordpress/plugins/seo/
-
-/YoastSEOPremiumplugin.
-
-DONOTCOPYTHISSNIPPET!StartofPageAnalyticsTrackingforHubSpotWordPresspluginv1.0.28
-
-DONOTCOPYTHISSNIPPET!EndofPage Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Creating a Workforce of
-
-ANYbotics is the leading provider of autonomous robotic solutions to improve the safety, efficiency, and sustainability of industrial work
-
-Enhancing Human Work, Enabling Sustainability
-and Promoting Better Societies
-
-Robot as a coworker
-
-At ANYbotics, we believe in connecting the physical and digital world by teaming up humans and autonomous robots. We strive to empower businesses with cutting-edge robotics technology, leading to a future where robots and humans can collaborate seamlessly to achieve greater outcomes.
-
-Robot as a coworker
-
-At ANYbotics, we believe in connecting the physical and digital world by teaming up humans and autonomous robots. We strive to empower businesses with cutting-edge robotics technology, leading to a future where robots and humans can collaborate seamlessly to achieve greater outcomes.
-
-We are driven by a passion for technological advancement and a desire to create a positive impact on society. Since 2009, our team pioneers robotics technology with the focus to deliver customer value through increased productivity, plant sustainability, and improved lives of workers.
-
-, ANYbotics Co-Founder & CEO
-
-We are driven by a passion for technological advancement and a desire to create a positive impact on society. Since 2009, our team pioneers robotics technology with the focus to deliver customer value through increased productivity, plant sustainably, and improved lives of workers.
-
-Dr. Péter Fankhauser, ANYbotics Co-Founder & CEO
-
-We create robotic solutions that add value to human work and take over the dull, dirty and dangerous jobs for which many economies struggle to get qualified staff. 
-
-We assist our customers with their decarbonization, digitalization, automation, and safety goals, while reducing environmental impact.
-
-We develop autonomous robots with the uncompromising purpose of industrial deployment. We support the industry’s statement against weaponizing robots.
-
-1 Years of redefining
-what robots can achieve
-
-From the first prototype built at the ETH Zurich in 2009, the team has been passionate about pushing the limits of what robots can do, and how they transform the way industrial facilities are operated. ANYbotics was founded in 2016 to industrialize this technology.
-
-A world-class team where great ideas succeed, innovation thrives, and growth is embraced.
-
-Dr. Péter Fankhauser
-
-	Péter is co-founder and CEO of ANYbotics. During the first years, he led the company’s business development and marketing activities. In his doctorate at ETH Zurich, Péter developed perception and motion planning algorithms for legged robots in challenging environments.	
-
-	Fredrik is the CFO of ANYbotics and leads the finance, administration and HR activities. Fredrik holds a Double Master’s Degree from the University of St. Gallen and prior to joining ANYbotics spent five years doing M&A in one of Switzerland’s leading advisories.	
-
-	Enzo is the CCO of ANYbotics and leads all marketing, sales and customer success. He holds a Double Master’s Degree from University of St. Gallen and spent the last decade in marketing, sales and business development for innovative solutions in the , Power Generation and Construction industry.	
-
-	Martin leads the operations and supply chain activities at ANYbotics. He holds a B.Sc. (FH) in Mechanical Engineering, and an Executive MBA from University of St. Gallen. Martin gained several years of experience in supply chain, operations management, field service and maintenance in Aviation, Energy and Defence.	
-
-	Robert leads the software engineering at ANYbotics. He holds a doctorate in biomedical engineering from ETH Zurich. Robert is experienced in scaling technology companies globally and brings expertise in product management, digital collaboration and high-performing (distributed) teams.	
-
-Dr. Hanspeter Fässler
-Chairman of the Board
-
-	Hanspeter is a co-founder of ANYbotics and acts as chairman of the board. He completed the first PhD at ETH Zurich in 1989 and since then had an intense industrial career.	
-
-Prof. Dr. Marco Hutter
-Member of the Board
-
-	Marco is Associate Professor at ETH Zurich, Branco Weiss Fellow, co-founder and Vice-Chairman of ANYbotics. His research interests are in the development of novel machines and actuation concepts together with the underlying control, planning, and learning algorithms for locomotion and manipulation.	
-
-Alexander Schläpfer
-Member of the Board
-
-	Alexander is Partner at Swisscom Ventures. He holds a Masters in Finance from London Business School and became a VC in 2008, after working for 15 years in senior management positions in the power engineering industry.	
-
-Young Sohn
-Member of the Board
-
-	Young is a Silicon Valley entrepreneur and Founding Managing partner of Walden Catalyst Ventures whose passion is building businesses and fostering emerging technologies that have the potential to transform the world for the better. Young serves as Chairman of the Board of HARMAN and Senior Advisor to Samsung Electronics.	
-
-Christian Noske
-Member of the Board
-
-	Christian is a Partner at NGP Capital and has been on the board of many leading transportation companies and led investments in startups that are disrupting how consumers experience transportation products and services. Christian’s passion is to work closely with exceptional entrepreneurs and support dedicated teams to build global sustainable businesses.	
-
-Prof. Dr. Roland Siegwart
-
-	Roland is Professor for Autonomous Systems and Director of the Wyss Zurich at ETH Zurich. He is a recipient of the IEEE RAS Pioneer Award and one of the most cited researchers in robotics. His research interests are in ground and flying robots that can autonomously operate in challenging environments.	
-
- on ARTE: Can High-Tech Save Lives?
-
-"This episode highlights the importance of advanced technology by showing how takes on dangerous industrial tasks and protects people from danger."
-
-Outokumpu becomes ‘first’ in steel industry to use robotics in safety management
-
-"Outokumpu will use ANYmal to improve and digitize health and safety monitoring at its facilities."
-
-Walking robot tested in Finnish repository
-
-"ANYmal is put through its paces at a depth of 400 meters in the tunnels of the Onkalo underground used nuclear fuel repository in Finland."
-
-KI beschleunigt Entwicklung autonomer Arbeitsroboter
-
-"KI treibt die Entwicklung autonomer Industrieroboter wie ANYmal voran und ermöglicht vielfältigen Einsatz in verschiedenen Branchen."
-
-1
-2
-3
-4
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Robotics
-
-ANYmal
-
-Oil & Gas
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-//
-
- Parsed with iubenda experimental class in 0.0289 sec.
-
-
-
-3_ANYBOTICS-COM-INDUSTRIES-ROBOTIC-INSPECTION-MINING-METALS-MINERAL
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv20.8(YoastSEOv22.3)-https:yoast.com/wordpress/plugins/seo/
-RoboticinspectionforMining,Metals&Minerals-ANYbotics
-
-/YoastSEOPremiumplugin.
-
-DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Robotic inspection for mining, metals & minerals
-
-Increase safety at extraction and processing facilities
-
-Reduce exposure to hazardous environments
-
-Detect anomalies early and improve predictive maintenance
-
-Better insights maximize asset performance
-
-The mining and metals industry constantly strives to improve working conditions. improves safety, automates data collection for better awareness, and increases operational efficiency. It performs inspections day and night, even in challenging environments, making it ideal for the mining and metals industries.
-
-Metals and minerals
- improves the sustainability of metals and minerals operations through automated inspections that are independent of external factors and increase the lifetime value of assets.
-
-Corrosive, gaseous, and high-temperature environmentsATEX zones, material accumulations, and restricted areas 
-
-Piping, hydraulics, instrumentation, actuators, and bearings 
-
-Mining
-ANYmal enhances mining safety by minimizing human risk, ensuring continuous monitoring, and autonomously providing accurate data for preventive measures during operations.
-
-Safe and reliable inspections of structures and hazardous areasEarly intervention and emergency response alerts 
-
-Material handling, crushing and screening, processing and beneficiation 
-
-Outokumpu and ANYbotics sign deal to improve safety and sustainability in the steel industry
-
-Together with ANYmal, Outokumpu continues to drive society forward by setting new standards for sustainable stainless steel in Finland, Germany, and Sweden.
-
-ANYmal helps vale to
-prioritize people in mining
-
-In a partnership with ANYbotics, Vale highlights its commitment to becoming one of the safest and most reliable mining companies in the world.
-
-Go to case study
-
-Minimize dull, dirty, dangerous
-
-With its industry-grade ruggedness, ANYmal is fit for tough workplaces and can take over routine inspections on your facility from day one.
-
-Monitor asset in operations, identify thermal anomalies, detect gas presences, and create 3D reality capture.
-
-Learn how to >
-
-Mobile, autonomous and integrated
-
-An end-to-end inspection solution for complex facilities, that integrates with your operation.
-
-Discover ANYmal’s Capabilities >
-
-Works on wet and bumpy terrain
-
-Four-legged locomotion, based on reinforcement learning, enables robust maneuvering in challenging environments.
-
-Explore the ANYmal platform >
-
-	Our ANYmal can verify several asset conditions in addition to a circuit of critical spaces, stairs, and complex equipment—all autonomously, and always with the aim of integrating people, technologies, and processes that prioritize safety.	
-
-Rayner Teixeira, 
-Digital Maintenance Coordinator, VALE
-
-Get started
-Deploy ANYmal in a day
-A ready-to-use solution and efficient onboarding ensure fast technology adoption
-
-How can your operations profit from ANYmal?
-Talk to a human
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Automate Inspection
-
-ANYmal
-
-Industries
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-//
-
- Parsed with iubenda experimental class in 0.0246 sec.
-
-
-
-4_ANYBOTICS-COM-ROBOTIC
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv20.8(YoastSEOv22.3)-https:yoast.com/wordpress/plugins/seo/
-inspectionwith-ANYbotics
-
-/YoastSEOPremiumplugin. 
-
- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Automate industrial
-
-World's most capable end-to-end robotic inspection solution
-engineered for complex industrial facilities and Ex-rated areas
-
-	Robotic health monitoring of industrial facilities	
-
-Monitor assets in operationIdentify thermal anomalies 
-
-Detect gas presenceEnable 3D reality capture 
-
-Learn how to automate inspection > 
-
-	World’s most capable autonomous inspection robot	
-
-AI-based mobility on four legsAutonomous operation 
-
-Learn about 's capabilities > 
-
-Choose between two robot models depending on the industrial requirements
-
-Rugged industrial-grade
-An autonomous, highly mobile inspection platform with ready-to-go sensors
-
-Inspecting Ex-areas
-The robot model for inspection in ATEX/IECEx, Ex-zones in and operations
-
-	The value of automating inspection in your sector	
-
-	A reliable and enduring robot coworker for oil & gas, chemicals, power & utilities, mining & metals, and transport. 	
-
-ANYmal Research –
-a community to advance legged robotics
-
-The ANYmal Research community develops and shares software and other information to improve and extend ANYmal’s capabilities.
-
-Community members have exclusive access to ANYmal’s low-level control software, simulation, documentation, and community support.
-
-Join the community >
-
-How can your operations profit from ANYmal?
-Talk to a human
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-ANYmal
-
-Oil & Gas
-Chemicals
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-//
-
- Parsed with iubenda experimental class in 0.0266 sec.
-
-
-
-5_ANYBOTICS-COM-ABOUT-US-COMPANY
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv0.8(YoastSEOv22.)-https:yoast.com/wordpress/plugins/seo/
-
-/YoastSEOPremiumplugin.
-
-DONOTCOPYTHISSNIPPET!StartofPageAnalyticsTrackingforHubSpotWordPresspluginv1.0.28
-
-DONOTCOPYTHISSNIPPET!EndofPage Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Creating a Workforce of
-
-ANYbotics is the leading provider of autonomous robotic solutions to improve the safety, efficiency, and sustainability of industrial work
-
-Enhancing Human Work, Enabling Sustainability
-and Promoting Better Societies
-
-Robot as a coworker
-
-At ANYbotics, we believe in connecting the physical and digital world by teaming up humans and autonomous robots. We strive to empower businesses with cutting-edge robotics technology, leading to a future where robots and humans can collaborate seamlessly to achieve greater outcomes.
-
-Robot as a coworker
-
-At ANYbotics, we believe in connecting the physical and digital world by teaming up humans and autonomous robots. We strive to empower businesses with cutting-edge robotics technology, leading to a future where robots and humans can collaborate seamlessly to achieve greater outcomes.
-
-We are driven by a passion for technological advancement and a desire to create a positive impact on society. Since 2009, our team pioneers robotics technology with the focus to deliver customer value through increased productivity, plant sustainability, and improved lives of workers.
-
-, ANYbotics Co-Founder & CEO
-
-We are driven by a passion for technological advancement and a desire to create a positive impact on society. Since 2009, our team pioneers robotics technology with the focus to deliver customer value through increased productivity, plant sustainably, and improved lives of workers.
-
-Dr. Péter Fankhauser, ANYbotics Co-Founder & CEO
-
-We create robotic solutions that add value to human work and take over the dull, dirty and dangerous jobs for which many economies struggle to get qualified staff. 
-
-We assist our customers with their decarbonization, digitalization, automation, and safety goals, while reducing environmental impact.
-
-We develop autonomous robots with the uncompromising purpose of industrial deployment. We support the industry’s statement against weaponizing robots.
-
-14 Years of redefining
-what robots can achieve
-
-From the first prototype built at the ETH Zurich in 2009, the team has been passionate about pushing the limits of what robots can do, and how they transform the way industrial facilities are operated. ANYbotics was founded in 2016 to industrialize this technology.
-
-A world-class team where great ideas succeed, innovation thrives, and growth is embraced.
-
-Dr. Péter Fankhauser
-
-	Péter is co-founder and CEO of ANYbotics. During the first years, he led the company’s business development and marketing activities. In his doctorate at ETH Zurich, Péter developed perception and motion planning algorithms for legged robots in challenging environments.	
-
-	Fredrik is the CFO of ANYbotics and leads the finance, administration and HR activities. Fredrik holds a Double Master’s Degree from the University of St. Gallen and prior to joining ANYbotics spent five years doing M&A in one of Switzerland’s leading advisories.	
-
-	Enzo is the CCO of ANYbotics and leads all marketing, sales and customer success. He holds a Double Master’s Degree from University of St. Gallen and spent the last decade in marketing, sales and business development for innovative solutions in the , Power Generation and Construction industry.	
-
-	Martin leads the operations and supply chain activities at ANYbotics. He holds a B.Sc. (FH) in Mechanical Engineering, and an Executive MBA from University of St. Gallen. Martin gained several years of experience in supply chain, operations management, field service and maintenance in Aviation, Energy and Defence.	
-
-	Robert leads the software engineering at ANYbotics. He holds a doctorate in biomedical engineering from ETH Zurich. Robert is experienced in scaling technology companies globally and brings expertise in product management, digital collaboration and high-performing (distributed) teams.	
-
-Dr. Hanspeter Fässler
-Chairman of the Board
-
-	Hanspeter is a co-founder of ANYbotics and acts as chairman of the board. He completed the first PhD at ETH Zurich in 1989 and since then had an intense industrial career.	
-
-Prof. Dr. Marco Hutter
-Member of the Board
-
-	Marco is Associate Professor at ETH Zurich, Branco Weiss Fellow, co-founder and Vice-Chairman of ANYbotics. His research interests are in the development of novel machines and actuation concepts together with the underlying control, planning, and learning algorithms for locomotion and manipulation.	
-
-Alexander Schläpfer
-Member of the Board
-
-	Alexander is Partner at Swisscom Ventures. He holds a Masters in Finance from London Business School and became a VC in 2008, after working for 15 years in senior management positions in the power engineering industry.	
-
-Young Sohn
-Member of the Board
-
-	Young is a Silicon Valley entrepreneur and Founding Managing partner of Walden Catalyst Ventures whose passion is building businesses and fostering emerging technologies that have the potential to transform the world for the better. Young serves as Chairman of the Board of HARMAN and Senior Advisor to Samsung Electronics.	
-
-Christian Noske
-Member of the Board
-
-	Christian is a Partner at NGP Capital and has been on the board of many leading transportation companies and led investments in startups that are disrupting how consumers experience transportation products and services. Christian’s passion is to work closely with exceptional entrepreneurs and support dedicated teams to build global sustainable businesses.	
-
-Prof. Dr. Roland Siegwart
-
-	Roland is Professor for Autonomous Systems and Director of the Wyss Zurich at ETH Zurich. He is a recipient of the IEEE RAS Pioneer Award and one of the most cited researchers in robotics. His research interests are in ground and flying robots that can autonomously operate in challenging environments.	
-
-Petrobras invests in robots to automate offshore inspections
-
-Petrobras invests US$4 million in acquiring ANYbotics robots to enable greater efficiency and safety in maintenance routines. Petrobras will receive six X units in 2024.
-
- Closes the Remote Inspection Loop in 
-
-"Aker BP, Cognite, and ANYbotics partner in pioneering offshore remote inspections with on the Valhall platform in the North Sea."
-
-So will Outokumpu seine Werke sicherer machen
-
-"Der Stahlhersteller Outokumpu testet in drei Werken den Einsatz von Laufrobotern. Sie sollen die Arbeitssicherheit und die Produktivität verbessern. Klappt das? PRODUKTION fragt nach."
-
-ANYbotics Establishes Platform to Accelerate Robotic Inspection
-
-"The 2023 ANYbotics Industry Forum, held in Zurich, Switzerland, on September 20 and 21, brought together 60 professionals from safety, inspection, maintenance, robotics, and innovation."
-
-1
-2
-3
-
-ANYmal
-
-Oil & Gas
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Robotics
-
-ANYmal
-ANYmal X
-
-Oil & Gas
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-//
-
- Parsed with iubenda experimental class in 0.0293 sec.
-
-
-
-6_ANYBOTICS-COM-ANYBOTICS-ROBOT-DATA-POLICY-PDF
-
-3 0 ob
-<< /Filter /FlateDeode /Lent 8038 
-
-ve(U膄
-rz:."`7Lm@R go1R`	Ё@Jݼ<98O'hGI^3%vdy ��L9k�ůY� �}q�<ɇWwp�G,�y��L��p��Z�gsW!cv�p���М)ڱ�]���M�/�!�����kҖ��"@�����O@��3|P
-
-�
-
-��ѧ�Aߘ~�Oz^��˾���]E���!�ظ9;�N����5�I�c�u��5�An���5�^��I4B����v�S�0�Ѵ,�P��G0C�~bK�>�ҹ�ݰ 9��,HsZ���buy@���P�9�3�{6c���SX������4�4 ʖ10yI�c��8�:e��8��:g�8�y	e�&j8p�:�s�E�G�8�"#xNuGE���);Q��P��D޴7D�<9ԍ��	��a1X�r�K��&,��a���0���pU,h1�aoV憢x��O�mT�-4,��y�e]��찢�rC6�����d鞭���L�
-
-
-
-
-
-��
-
-E�
-�5��Y��}y-��	�I5֘�8���B'!���a��}|�s��Am��ɺ�o���@3O(�[��g������-FR�6����q#���A	#"�N�D;Ū%��זn��GͤJ'̂��$��p��5�zs� �~��ӏ(���Ċ/��Z�� -�a���
-
-1 0 obj
-<< /Type /Page /Parent 2 0 R /Resources 4 0 R /Contents 3 0 R /MediaBox [0 0 595.2756 841.8898]
-
-4 0 obj
-<< /ProcSet [ /PDF /Text ] /ColorSpace << /Cs1 5 0 R /ExtGState << /Gs1
-13 0 R /Gs2 14 0 R >> /Font << /Tc1 6 0 R /Tc2 7 0 R /Tc3 8 0 R /Tc4 9 0 R
-/Tc5 10 0 R /Tc6 11 0 R /Tc7 12 0 R >> >>
-
-13 0 obj
-<< /Type /ExtGState /SM 0.02 >>
-
-14 0 obj
-<< /Type /ExtGState /OPM 1 >>
-
-15 0 obj
-<< /N 3 /Alternate /DeviceRGB /Length 2612 /Filter /FlateDecode >>
-
-'
-
-p
-
-ߏƿ'�	Zk�!� $l$T����4Q��Ot"�y�\b��A�I
-
-�FV>2	u�����/�$\�Bv�<	5
-�
-
-5 0 obj
-[ /ICCBased 15 0 R ]
-
-2 0 obj
-<< /Type /Pages /MediaBox [0 0 595.2756 841.8898] /Count 1 /Kids [ 1 0 R ]
->>
-
-16 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
-
-6 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /AAAAAB+SimplonNorm-Medium /FontDescriptor
-17 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 121 /Widths [ 219
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 629
-0 0 0 0 0 0 0 0 0 0 0 599 0 610 0 0 0 0 0 0 0 0 0 0 0 0 0 0 543 554 529 0
-0 0 0 0 243 0 0 272 0 0 540 0 0 0 0 359 0 0 0 0 476 
-
-17 0 obj
-<< /Type /FontDescriptor /FontName /AAAAAB+SimplonNorm-Medium /Flags 32 /FontBBox
-[-231 -268 1140 874] /ItalicAngle 0 /Ascent 874 /Descent -262 /CapHeight 700
-/StemV 0 /XHeight 516 /AvgWidth 243 /MaxWidth 1433 /FontFile3 18 0 R >>
-
-18 0 obj
-<< /Subtype /Type1C /Length 6995 /Filter /FlateDecode >>
-
-u
-
-���
-�������	��	t��D	킇�vE&#x�թ�Dp�Ǯٝ�|�z��yU[6WO����$m�ʄ�X_���
-i��xL*s:&	�
-��`�ӆ�_ꈡ�(	�ЎQ� %E�@��U"[ƈcE#�7��-3�2�ԡO{�>	���FKYo���<|�Y��x��o��/�3��d�����:=�R'��El���)�8RO�?�	�r�[|~t����e7v�E�۲����zu�Z/6پj_�Nwp�
-
-3�0�O�5V��m&�$�L�苬6m4��
-MW��m�o�����/��#ߗ���,>�_�/�W�	�F~+��g���|	z%������<{Ҋ�%�H{�K��~d0FƐ��,$�d
-
-�\V ���T�س|�`��st0>ϰP�����IR���"-�S�yr���#��W���=��'�T�Tf�����y����Q��4U9��������r���;��@;��d�ouӜW�=	ag3
-�Zp�ת��Dޖf ]%�������ꖋ���VO�%_��Y�dn@�2r:�m_�ƴV�/����PH��k�7!Vt2	��'
-�
-
-7 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /AAAAAC+SimplonNorm-Regular /FontDescriptor
-19 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 32 /Widths [ 225
-
-19 0 obj
-<< /Type /FontDescriptor /FontName /AAAAAC+SimplonNorm-Regular /Flags 32 /FontBBox
-[-225 -229 1081 874] /ItalicAngle 0 /Ascent 874 /Descent -262 /CapHeight 700
-/StemV 0 /XHeight 516 /AvgWidth 225 /MaxWidth 1368 /FontFile3 20 0 R >>
-
-20 0 obj
-<< /Subtype /Type1C /Length 6620 /Filter /FlateDecode >>
-
-�7�
-
-�
-
-��
-
-}��
-
-�x�G�13��c� ?55�%&��D�$��0A�ʖk��z���ӢizkD� 	�Y�࿄��h~&�	Ӹ���	�-���~P����瓺PQ
-
-ɟ*�}\>А�c�Z�Š�(:ݯ���%H�D#:RRX~�"ꦍ�x_se��=n��LDlz�j�JҰ ���w8t�]w�%�6�7��o�̶�4U���6�%���o�@��I�&�Ĝ�0O���4]-̠b4oM�A�
-�O���t�6��&(j�7�=
-���l��E�h3ln�Ӓ��S��h�p�y�D���O�B�d'E�߷߳{_�V�����rE��j:Kb2�d��ĊL91�h���������b���c
-
-�
-
-��
-
-���
-
-�
-0p5�ͻ����pM��.�;P��}�>{��!�yH)�a��I�d���5��Ub��1�0�KԵ�	���^�2�O^��r�-&!����9:&�'JK�)K���l�����Y�]�X{c�w�XTrҲlZ�(Ɋ�C5껵!{f�-�*���3_�\�i�Y�i�j��	m.���?�+�
-
-�G�
-
-8 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /AAAAAD+SimplonNorm-Regular /FontDescriptor
-21 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 213 /Widths [ 225
-0 0 0 0 0 0 0 274 274 0 0 275 400 275 0 532 341 505 511 512 512 0 0 524 0
-275 0 0 0 0 0 0 566 0 0 591 542 532 566 612 237 0 0 0 718 612 570 561 0 572
-517 479 594 566 0 0 545 537 0 0 0 0 0 0 527 540 515 540 521 317 539 547 225
-0 505 254 846 547 526 540 547 471 341 541 468 684 474 468 466 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 541 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0 0 0 0 241 ] >
-
-21 0 obj
-<< /Type /FontDescriptor /FontName /AAAAAD+SimplonNorm-Regular /Flags 32 /FontBBox
-[-225 -229 1081 874] /ItalicAngle 0 /Ascent 874 /Descent -262 /CapHeight 700
-/StemV 0 /XHeight 516 /AvgWidth 225 /MaxWidth 1368 /FontFile3 22 0 R >>
-
-22 0 obj
-<< /Subtype /Type1C /Length 7758 /Filter /FlateDecode >>
-
-�e\���
-�6s���z�s��l.{�u� �i.�.�]J]�u�tmu���2u�t{u/���U�J�A�����O�/�g�q
-
-]
-
-��
-
-�
-
-�
-
-�C��
-
-9}�������l&&��Y<�[�5H
-��K�TX?����5��׵�J�k�X8��˱chv_e��7dv d��/���6�A >�6�G��V�3g� @t�
-
-��|�le�3U�e��wօue=�^�@6���Mf���Y�*��������Eq�������媋���?u��>�4�_u��s��uTo�J|�~�~������Nߤ�k�Ω?�c/�'{������!-��$��Ԟ��H4��D�.��n3G���UR���9Z-�"�h'�e�S��閕�zo%�3RG����P˽ň.�z�>x�{�z�|P���3|�aW���uH�ȴ�
-��t��H��{����A\�eW�v�T:5_ޔa'�v��Ξ�@''�̀���PǤ��G�NM�m�V;mw�s�t���$��4�.�܄�k��$��9%�,�����ʦ'� �9�AV�Z���u´� �됡h.�z��W0g�
-
-k/��zL�/���h�\
-� ��嫲��lU�;˦t8�.��2�MuwlE��D��	���!�T}V�Ur6���z��%Kf/;t��ޑ��)}2؂]&T�O�j��~�f�
-
-��ɳ�*K��״"C��4������.e�g��@�5�#�F�,�f��]��e�� 	Ocz���g��9/r�-�a�[�	B~悝1�1�-�������߻s{�#�LJ��M�r_�2��s#	@�8���]�-Go��K��́1������#�J�A��RM��=5�,4���2^�t�
-�
-
-��]��
-
-J
-
-~
-
-9 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /AAAAAE+SimplonNorm-Bold /FontDescriptor
-23 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 32 /Widths [ 210
-] >>
-
-23 0 obj
-<< /Type /FontDescriptor /FontName /AAAAAE+SimplonNorm-Bold /Flags 32 /FontBBox
-[-200 -304 1174 884] /ItalicAngle 0 /Ascent 874 /Descent -262 /CapHeight 700
-/StemV 0 /XHeight 516 /AvgWidth 558 /MaxWidth 1436 /FontFile3 24 0 R >>
-
-24 0 obj
-<< /Subtype /Type1C /Length 7125 /Filter /FlateDecode >>
-
-N
-$rsv�+F}xC��˭ߤY�����F�/���Nۑ����¶iFsm�z�h���9�C�/g�M��-��_�;!�;t���-yGe�x*����r��9��:)��eD�N�r��7nx��3�o[Ǝ]έ[7�l�����])9Κ���4��u
-F8�ƃ�Ų86�Y�q�a�!�~m�u<�s��ǯ�d��#����G� ~��F�t��N)rņG�X�@[�W��g�	�r���}��"D	lj�0�ѯ��I'pO
-
-��h�
-
-T����՚�ܜW�56zC�:�"�c�YJ=�ܶ+=;MXA��L�CT>�a�8����܌��Rg�U�#�PyW�v��q�f�4�imO�	nK4q	�1s���Čr��:%0����NK#�{������}$�C�O�;�i`�w�Rsf��m�|�w�y�m9Q���/����~���yd��Ư^�I��I1����c�j
-T�+����9��/O_�xb���Q����U�٪A�X�yʟ���k�l7�� �ZFq��0腿>h� �SL[�V-�`n�*x�E��eH��uL�4�V�j���c��Z5�KL^�&�9�������b~5-'��r����F���	�
-
-�1���
-
-|n��f=�����Ѵ�����ݯ��: ��NlX�%oĠ圏���;'۱����ס�q����#����
-m9	Z�q "�+����)�C'�����K��~����� @H�ѮB$}���E-���O��i�)�,T�������6Qc�H�I+�e�4Y�׳MK
-|���,�
-
-�
-
-10 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /AAAAAF+SimplonNorm-Regular /FontDescriptor
-25 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 121 /Widths [ 225
-0 0 0 0 0 0 0 0 0 0 0 0 400 275 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 566 0
-0 0 0 0 0 0 0 0 0 0 0 612 0 0 0 0 0 0 0 0 726 0 545 0 0 0 0 0 0 0 527 540
-515 540 521 317 539 547 225 0 0 254 846 547 526 540 0 327 471 341 541 468
-0 0 468 ] >>
-
-25 0 obj
-<< /Type /FontDescriptor /FontName /AAAAAF+SimplonNorm-Regular /Flags 32 /FontBBox
-[-225 -229 1081 874] /ItalicAngle 0 /Ascent 874 /Descent -262 /CapHeight 700
-/StemV 0 /XHeight 516 /AvgWidth 225 /MaxWidth 1368 /FontFile3 26 0 R >>
-
-26 0 obj
-<< /Subtype /Type1C /Length 7138 /Filter /FlateDecode >>
-
-�=
-
-Zr$a�\QT|��c���S�\'�أ������OK�#ǅU����1���	�;:�=[ �n�&
-
-'�
-��
-��On�v�M�`���g���X< d���1GK��O���	�-Xd�h�ǥ�8�N&mH�r���!�&�,[�A�m(��0�J�M��Л��,
-
-����
-
-�
-
-��|
-
-�g
-���+�nLç���ɲ&hPo�>w�/�]�v	�.#Z���`��V�����)��K�J®h�t� ��������f�f�f�&@3��(M�&H3Z��	фj�4�55�4�5S4��*C֌����ŚÚ����R�C�W;\�M�fi�j�h�k�y��r�9ѭ��dM�9��s�
-
-���پi4; �f*����y);��Go� �Δ��=1��#�ec+���uB}����\An~/|�F�2��
-
-�8�.�6�w0�!Q�A�2V�a,�ë=e$�G��KȮ��-2y[q�\|IO�Y�,\�~m�%��Fq�
-�H��}-���ɢ/�Y�[y��'�Lw�69�2J[5�Ad��$`�N��>�2p�	���{�pe Ï�Xv8��J��2f��;�fx��~�����|��n<��ݢ�C�Tuȅy�
-
-[
-
-11 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /AAAAAG+SimplonNorm-Bold /FontDescriptor
-27 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar 118 /Widths [ 210
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 637
-540 0 0 0 264 0 0 491 0 0 0 0 0 618 0 0 0 0 0 0 0 0 0 0 0 0 0 0 558 564 538
-564 547 0 563 0 252 0 0 281 889 573 548 564 0 364 477 368 0 490 ] >>
-
-27 0 obj
-<< /Type /FontDescriptor /FontName /AAAAAG+SimplonNorm-Bold /Flags 32 /FontBBox
-[-200 -304 1174 884] /ItalicAngle 0 /Ascent 874 /Descent -262 /CapHeight 700
-/StemV 0 /XHeight 516 /AvgWidth 558 /MaxWidth 1436 /FontFile3 28 0 R >>
-
-28 0 obj
-<< /Subtype /Type1C /Length 7572 /Filter /FlateDecode >>
-
-����
-
-�k���
-
-�
-�ߝ��O���|�?�7��D$^ćt'�Ff��$�d��� �#���L����F��
-����
-
-|+
-
-���
-��,�
-
-t�
-
-���
-
-h
-
-u��y������"����L��X2*1;/�����1+V9�TҒ�I0��1Ї�á�y�s��/g��N
-���Cb3̔B"��P�:.?�â�P�Δ�K���IS=bdȳ Lz�u��������Ɉ&m�tfA�i��
-���|+U��C�&�Gv�h������K��c�e.�t�iK:�"Oc9�
-�S���ݱ���p���.��Uy���~M�'t��5���-������Z�H�7��B��t�tq���?i%;	�^��?DB�	�ZL`�0��n=���e(N����[g[	1�s�j�қu�ޗ��ʞ�<_���<��K����I/���Ux��Gn�葪 �T��9��4��� �?	%b=��I�֯\�&�`�B���!�q�o}t�jARQ�A|_cY�y�ڛMްn}�þu�>���Mή-��+g!�ܟ��@��p����ē��k7$;�7���Q%�47*4*D!�-Oq:��	ג�`�rL?��ōb4��g/
-
-
-
-)�
-
-���
-
-12 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /AAAAAH+SimplonNorm-RegularItalic
-/FontDescriptor 29 0 R /Encoding /MacRomanEncoding /FirstChar 32 /LastChar
-118 /Widths [ 225 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 589 542 0 0 0 237 0 0 493 0 0 0 0 0 572 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 527 541 515 540 521 0 539 0 225 0 0 254 846 547 527 541 0 327 471
-341 0 468 ] >>
-
-29 0 obj
-<< /Type /FontDescriptor /FontName /AAAAAH+SimplonNorm-RegularItalic /Flags
-96 /FontBBox [-206 -229 1083 874] /ItalicAngle -12 /Ascent 874 /Descent -262
-/CapHeight 700 /StemV 0 /XHeight 516 /AvgWidth 225 /MaxWidth 1351 /FontFile3
-30 0 R >>
-
-30 0 obj
-<< /Subtype /Type1C /Length 8205 /Filter /FlateDecode >>
-
-��_ǝ��'#��J��Rr��#t�@�H��n�n�n��_�K�e�6�
-tU�&ݷ��u�+�ޤ����������_���'�S���=�Z�)�%�}����oz�;�7��w���(~<���O���~�g|ů��t~���������c��2��w����3��NJ'����������=�qNnN3��:}��)�)�)�)�)�)۩Щ�i��>y�hYκñ"6~4j��ʲ6{��Es��N
-
-�r
-
-�
-
-�C
-
-���G��nx����54	�&$�K�Ab�u�RO���wb~NѦ�;ZoɊK-��K���&�f�H4N8=��O�ٱ���˄	ˏ�(��]xLz$^�[6=9#,=Tz1 Og	`���n��Y�,
-
-KN�$��e`�/O=�4��t���:M� ���@�)C7��v���_ ��M*�:��t�W;HX�*��!9�f�#���@Įs��eu-�X��=��\W�_��0�ݹ�m����-��	�|�BU�
-
-j
-�Z=�������#���)���O���~���`}�~�ުO�o�oҗ�+�
-�����V�U���'���tർ�w���`~�!? �7��/��A�*>�_���E�<:Wx!��E��& ��	E�E_�
-
-}6_
-H���
-
-�0��
-
-�N(SU��51X��CD����2yD��j�OlB�;��O�'O*�8Q���IOi&{��\�K NH/�ę�B��{;�	��C�½�uWK��F�FǮ����݉���7oQO�<��?	���`�6`�|����s%5@����Pn�`��_ʸOD�ݡ��䬻��Un�Tm��iKVB���O�o���A����־�����q����
-�j
-
-6
-
-31 0 obj
-<< /Title (ANYbotics Robot Data Policy) /Producer (macOS Version 13.2.1 \(Build 22D68\) Quartz PDFContext)
-/Author (��\000D\000r\000.\000 \000P\000�\000t\000e\000r\000 \000F\000a\000n\000k\000h\000a\000u\000s\000e\000r)
-/Creator (Word) /CreationDate (D:20230327171300Z00'00') /ModDate (D:20230327171300Z00'00')
->>
-
-0 32
-
-trailer
-<< /Size 32 /Root 16 0 R /Info 31 0 R /ID [ <e572f29299f6a2da61a0d00ec8cff6c2>
-
-%%EOF
-
-
-
-7_ANYBOTICS-COM-NEWS-AUTONOMOUS-INSPECTION-FOR-ENHANCED-NUCLEAR-SAFETY-AT-ONKALO
-
-ThissiteisoptimizedwiththeYoastSEO Premium plugin v20.8 (Yoast SEO v22.3) - https:yoast.com/wordpress/plugins/seo/ 
-Autonomous Inspection for Enhanced Nuclear Safety at - ANYbotics
-
- / Yoast SEO Premium plugin. 
-
- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Pioneering Autonomous Inspection for Enhanced Nuclear Safety at Onkalo
-
-Inspection robots enhance nuclear safety. In collaboration with the European Commission, the Joint Research Centre, and Posiva Oy, autonomously patrols and monitors Onkalo’s depths at Finland’s spent nuclear fuel repository. Conducting tasks such as visual asset monitoring ’s advanced mobility and offline operation make it ideal for harsh conditions, ensuring thorough inspections. ANYmal serves as a fail-safe safety device, documenting nuclear waste storage without human presence, contributing to improved safety, productivity, and the future of robotic nuclear plant inspection.
-
-Automated Inspections Enhance Underground Nuclear Facilities
-
-The Onkalo spent nuclear fuel repository, located near the Olkiluoto Nuclear Power Plant in Finland, is the world’s first long-term disposal facility for spent nuclear fuel and is currently under construction by Posiva. Autonomous robots play a vital role in nuclear facilities, safeguarding human workers from potential contamination. These robots, such as ANYmal from ANYbotics, demonstrate their effectiveness by conducting automated inspections related to nuclear safeguards in the underground facilities of Olkiluoto.
-
-Championed by the European Commission Directorate General for Energy and the Joint Research Centre in collaboration with Posiva Oy, this initiative highlights the crucial role of ANYmal in improving nuclear safety. The focus is on autonomous robots patrolling specific areas, ensuring constant visual and radiation monitoring to safeguard operators. The goals include demonstrating the distances ANYmal can travel under Onkalo conditions across varying terrain in the tunnel system. Overall, robots prove invaluable, particularly in areas inaccessible to humans, ensuring thorough and accurate inspections related to nuclear safeguards.
-
-Autonomous Inspection Resilience in Onkalo’s Depths
-
-ANYmal, the only legged robot assessed at the Onkalo site, demonstrated resilience and capabilities in demanding underground conditions. At a depth of more than 400 meters, in a network of over 100 deposition tunnels accessed via a spiral-shaped 5 km long main tunnel, ANYmal efficiently performed essential and repetitive tasks autonomously. This enabled operators to collect and manage inspection and monitoring data. Use cases at Onkalo encompass visual asset monitoring, such as gauges, levers, and valves, and reality capture for creating and updating 3D models on demand while accompanying operators on their inspection routes.
-
-ANYmal performing inspection missions in the complex Onkalo tunnel system.
-
-ANYmal: Ideal Choice for Onkalo’s Challenges
-
-ANYmal stands out among other legged inspection robots for its advanced mobility, navigation, and localization capabilities, making it well-suited for spent nuclear fuel repository sites. Its robust design and IP67 rating ensure full functionality in harsh, wet, and dirty conditions. The removable fans allow ANYmal to remain uncompromised during cleaning after decommissioning. With full autonomous functioning and offline operation, it operates seamlessly without needing connectivity. Additionally, it facilitates the addition of ad hoc inspection points through teleoperation, as demonstrated in collaboration with Framence at Entega’s waste-to-energy plant in Darmstadt, Germany.
-
-As an additional fail-safe safety device, ANYmal plays a crucial role in documenting nuclear waste’s proper storage and handling without requiring human presence in hazardous environments. The integration of ANYmal provides valuable insights, enabling operators in complex environments like Onkalo to intervene more quickly and effectively, thereby enhancing overall safety and productivity.
-
-Improving Nuclear Safety Through Robotic Innovation
-
-Increased safety is the key to advances in robotic inspection and maintenance of nuclear facilities. Technological innovations are driving progress by removing humans from potentially hazardous environments. At the forefront of these developments is ANYbotics’ commitment to developing sophisticated robotic systems that can handle increasingly complicated tasks. As ANYmal’s deployment at Onkalo demonstrates, ANYmal is leading the way in performing inspections that are more efficient, more reliable, and, most importantly, improve the safety of workers in this industry.
-
-Are you interested in exploring ANYmal’s potential to transform your operations? Find out more about increasing worker safety and efficiency while maximizing uptime in fossil fuel, nuclear energy, hydroelectricity, solar, and wind facilities.
-
-ANYMAL FOR POWER & UTILITIES INDUSTRIES
-
-(Video and image: Courtesy Posiva)
-
-Onkalo
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-//
-
- Parsed with iubenda experimental class in 0.0235 sec.
-
-
-
-8_ANYBOTICS-COM-CAREER-#STORIE
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv.8(YoastSEOv22.3)-https://yoast.com/wordpress/plugins/seo/
-
-/YoastSEOPremiumplugin.
-
-DONOTCOPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Build the Future of 
-A world-class team where great ideas succeed, innovation thrives, and growth is embraced.
-
-20
-
-Do you want to join a pioneering company that creates real impact through robotics? This is the place. about being part of the family.
-
-We get things done as a team
-
-	We offer a dynamic, fast-paced working environment where everyone has a voice. People from across the world share ideas, solve customer problems, celebrate achievements and unwind, together. During Fabulous Fridays we have loads of fun, relax and exchange ideas.	
-
-Our passion drives real impact
-
-	With our tech-driven and commercially savvy approach, we push the boundaries of robotics by developing innovative technology solutions to real customer challenges. Joining our team will place you at the epicenter of shaping robotic solution ecosystems and the shift from human-centric to robot-centric workforces.	
-
-We are at the best location
-
-	We are situated in Zurich, the largest city in Switzerland and a global robotics hotspot. Experience the vibrant and international urban community, take in the beauty of the lake and surrounding countryside or unwind hiking, biking and skiing within a 1-2 hour radius from downtown Zurich.	
-
-Everything we do is shaped by our culture
-
-Our values are behind every technological advancement, every robot we develop, every solution we roll out, every new talent we hire, and every moment we share as a team.
-
-	Dare to think big.
-Redefine what robots can achieve.
-Strive for excellence in all we do.	
-
-	Are passionate, dedicated
-and eager to learn.
-Trust, share and have
-each other’s back.
-Are open-hearted and embrace
-
-	Deliver added value through
-cutting edge technology.
-Improve work for humankind.
-Act entrepreneurially as a
-
-	Create robots for the good of society.
-Deliver on what we promise.
-Care for our robots and their wellbeing.	
-
-Our Skiing Weekend
-
-Our annual company ski weekend is one of our highlights every year in February. Sporting activity in the magic of snow, enjoying the Swiss dining culture, having a lot of fun and entertainment as a team, or just relaxing the soul in the fascinating mountain world of the Alps.
-
- & the ICRA Award Return Home
-
-The super excited team welcomes the 2022 Robotics and Automation Award for Product Innovation to Zürich, after traveling from the International Conference of Robotics and Automation 2022, held Philadelphia, USA.
-
-Hawaiian Party, Ice Hockey & Go-karting
-
-Organized by a different person each time, ‘Fabulous Fridays’ take place after work on the last Friday of the month. These and company events can be relaxing or energetic and include team members’ favorite places, activities and discoveries, as well as family members.
-
-Benefits of working at 
-
-Enjoy a broad set of perks that make up a great working environment.
-
-Compensation Model
-Get entrepreneurial exposure by becoming a shareholder.
-
-Fair market-level compensation with a transparent salary model and employee stock ownership plan
-Shape your personal compensation by choosing between cash and stock bonus
-
-Vacation & Leave Options
-Benefit from generous time off.
-
-Five weeks of vacation which can be freely allocated
-Flexible unpaid leave options, as well as additional days off for private events
-
-Passion & Innovation
-Work with the best on projects that matter.
-
-High-performance, passionate teams
-Strong tech-driven pioneering spirit
-Modern working methods that cultivate great ideas
-
-Career Development
-Develop your career and benefit from paid learning & development initiatives.
-
-Develop within our Career Progression Framework with job levels and leadership paths 
-Frequent growth, reflection and performance talks foster everyone’s personal and professional development
-Individual learning and development budget and internal learning groups
-
-Location & Relocation
-Get support when relocating and settling in.
-
-Flexible office-, home- and remote-based work 
-Modern office and development lab conveniently situated in Zurich
-Personal support for work permits and relocations
-
-Celebration & Recognition
-Thrive in an enabling company atmosphere.
-
-Relationships built on transparency and trust
-Shine at regular team and company events
-Loads of fun at our social events and leisure groups
-
-AllAccounting & Finance SystemHardware R&DLocomotion & ManipulationOperationsPeople ExperienceProductProduct DevelopmentRobotics Hardware ExpertsSalesSoftware EngineeringStrategy 
-
- is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
- is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Electrical Engineer - Product Development / Robotics
-
- is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Financial Planning & Analysis (FP&A) Manager
-
- is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Global Project Certification Engineer
-
- is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Industrialization / Manufacturing Software Engineer
-
- is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Industrialization Engineer / Autonomous Robots
-
- is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Mechanical Engineer / Robotics
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Product Manager - Autonomous Robotics Platforms
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Product Manager - Robotic Manipulation
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-RL Robotics Locomotion 
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Sales Manager / Autonomous Inspection
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Senior AI Engineer - Locomotion
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Senior PLM manager / Robotics
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Software Engineer - Product Care
-
-ANYbotics
-
-ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 130 people and work on cutting-edge robot technology.…
-
-Internship
-
-Learn more
-
-Robotics
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-ANYmal
-ANYmal X
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Company
-
-
-
-9_ANYBOTICS-COM-NE
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv0.8(YoastSEOv.)-https:yoast.com/wordpress/plugins/seo/
-,Articles,and - ANYbotics - ANYbotics
-
- / Yoast SEO Premium plugin. 
-
- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v1.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-ANYbotics expands in Taiwan 
-
-teaming up with YCL
-
-Onkalo: Enhanced Nuclear Safety
-
-Scaling production beyond 00
-
-ANYbotics and Adeptor Announce 
-
-1
-2
-3
-
-Events
-
-See in action at the following events:
-
-Mining 4.0 Future Bridge Mining
-We are excited to participate at the Mining 4.0 from Future Bridge Mining, one of the most important Mining & Metals event. Come and meet ANYbotics engineers and at our booth!
-
-Click on "Discover More" to visit the event website.
-
-ICRA
-Together with our reseller Nihon Binary we will present our robotic solution at the ICRA event this May. Come meet us and explore the future of robotics.
-
-Click on "Discover More" to visit the event website.
-
-AWS Summit Berlin
-ANYbotics is thrilled to be a featured speaker at the AWS Summit Berlin in May, where we will discuss the fusion of robotics and cloud computing, offering a glimpse into the future of automation. Join us for an insightful session you won't want to miss!
-
-22
-
-The Digital Summit 20
-Come meet ANYbotics at the Digital Oil and Gas Summit in Lisbon this May, where we'll showcase our tailored robotic solutions, revolutionizing the industry with cutting-edge automation technologies.
-
-Click on "Discover More" to visit the event website.
-
-AI for Good Global Summit
-Join ANYbotics for the second time at the AI for Good Global Summit, where we'll highlight our contributions to leveraging AI for positive impact. Explore our innovative robotic solutions and learn how we're shaping a better future through technology.
-
-Click on "Discover More" to visit the event website.
-
-10
-
-ACHEMA
-See ANYmal in action at ACHEMA, the world's leading trade show for the process industries.
-
-Click on "Discover More" to visit the event website.
-
-AWS Cloud Leadership Day
-Discover ANYbotics' expertise at the AWS Cloud Leadership Day, where we've been invited as speakers. Join us for insights into our integration of robotics with cloud technology, shaping the future of automation.
-
-Click on "Discover More" to visit the event website.
-
-24
-
-Minexpo
-Experience ANYbotics' groundbreaking innovations at Minexpo, one of the largest mining exhibitions. Join us to explore how our robotic solutions are revolutionizing the mining industry, paving the way for safer and more efficient operations.
-
-Click on "Discover More" to visit the event website.
-
-SPRINT World Conference 2024
-
-Meet ANYbotics and ANYmal, your new inspector for your facilities, at the largest world conference for inspection and maintenance robotics.
-
-Click on "Discover More" to visit the event website.
-
-ADIPEC 2024
-ANYbotics presents ANYmal together with our local partner Sigma Enterprises. We look forward to meeting you to discuss the potential of inspection robotics at your facilities.
-
-Click on "Discover More" to visit the event website.
-
-Discover our extensive collection of insightful and captivating webinar recordings presented by top ANYbotics experts, covering a wide range of topics including introduction to robotic inspection, product updates and case studies.
-
-How can your operations profit from ANYmal?
-Talk to a human
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Robotics
-
-ANYmal
-
-Oil & Gas
-
-Power & Utilities
-Mining, Metals & Minerals
-
-News
-
-Articles and Case Studies
-
-//
-
- Parsed with iubenda experimental class in 0.0298 sec.
-
-
-
-10_ANYBOTICS-COM-NEWS-FIRST-ANYBOTICS-RESELLER-SUMMIT-DRIVES-GLOBAL-INSPECTION-TRANSFORMATION
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv20.8(Yoast SEO v22.3) - https:yoast.com/wordpress/plugins/seo/ 
-ANYbotics first global reseller summit - ANYbotics
-
- / Yoast SEO Premium plugin. 
-
- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-First ANYbotics Reseller Summit Drives Global Inspection Transformation
-
-January 22, 2024 – Zurich The ANYbotics Reseller Partner Summit, recently held in Zurich, brought together 25 participants from 8 countries for a three-day immersive experience. The goal was to deepen collaboration and equip global reseller partners with tools for joint market success in 2024. The event featured hands-on workshops, networking opportunities, best practice exchange, and a product showcase. By incorporating robotic inspection technology into their portfolios, the expanding ANYbotics reseller partner network is transforming industrial inspections worldwide.
-
-ANYbotics Reseller Summit 2024: Global Collaboration for Success 
-
-The first ANYbotics Reseller Partner Summit occurred from January 15 – 17, 2024, at the ANYbotics headquarters in Zurich. The three-day event, attended by 25 participants from 8 countries, provided an immersive experience and a dynamic platform to foster closer relationships between ANYbotics and its global reseller network. The main objective was to deepen collaboration, share best practices, and equip participants with the latest tools and insights for joint market success in 2024 and beyond.
-
-The event featured a comprehensive program to enhance collaboration and knowledge-sharing among the reseller community. Collaborative workshops explored new avenues for joint marketing and innovative solutions. A best practice exchange enabled partners to share success stories, market challenges, and valuable insights to achieve strong sales performance in 2024. The summit also included a product showcase, where ANYbotics presented its latest tools and insights and gave resellers an exclusive preview of innovative technologies that will shape the market in 2024. Networking sessions facilitated relationship building between ANYbotics and its global reseller partners to ensure a successful 2024.
-
-Demonstrations, technical deep dives, and workshops facilitated meaningful exchanges during the Summit.
-
-Transforming the Industrial Inspection Landscape – Globally
-
-The global demand for automated inspection robots is steadily increasing, especially for large plants in various sectors such as oil and gas, chemicals, energy, railroads, and mining. With its innovative inspection robot technology, ANYbotics plays a decisive role in the worldwide spread of autonomous inspection.
-
-The company’s global reseller network has strategically incorporated ANYbotics’ robots into their portfolios, transforming the inspection landscape in their respective regions. This collaboration involves the convergence of industrial optimization and advanced-legged robotics expertise, enabling the delivery of unparalleled industrial inspection solutions. By leveraging the strengths of its reseller partners, ANYbotics can effectively address the specific needs of local industrial facilities and enhance customer support.
-
-Growing ANYbotics’ presence in key strategic markets and focusing on expanding our global reseller network with accomplished partners is a core focus in 2024 to drive our growth, increase market penetration, and accelerate the global adoption of our robotic inspection solutions.
-— Satschin Bansal, Global VP Strategic Alliances & hips, ANYbotics
-
- – Scaling Value for Automated Industrial Inspections
-
-ANYbotics’ inspection solution, ANYmal, increases safety by minimizing worker exposure to hazardous environments, detecting anomalies in equipment early to improve predictive maintenance, and optimizing production through accurate and frequent data collection. ANYmal performs autonomous inspection and monitoring tasks in various industrial environments and provides immediate value through seamless integration with asset management software and digital twin platforms, enabling easy automation of inspections.
-
-The initial deployment of ANYmal offers a compelling business case that grows with the size of the fleet. Customers order additional ANYmals to accelerate technology adoption, leverage established value drivers such as ROI, integrate data for actionable insights, and build a workforce of autonomous robots.
-
-With more than 500 ANYmal units already reserved for 2024-2025, ANYbotics has effectively scaled its production output in collaboration with global manufacturing partners to meet demand from reseller partners worldwide.
-
-Since 2016, Swiss robotics company ANYbotics has developed innovative, intelligent, and integrated robotic solutions that improve workers’ lives, increase productivity, and support more sustainable industrial facilities. Partnering with global technology leaders, ANYbotics provides large asset operators with autonomous, automated, end-to-end robotic inspection solutions for complex, hazardous, and explosive industrial environments. ANYbotics is a fast-growing company with over 150 employees focused on supporting the inspection needs of workers in oil & gas, power, energy, mining, processing, chemicals, transportation, and construction.
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Partners
-
-Articles and Case Studies
-
-//
-
- Parsed with iubenda experimental class in 0.0236 sec.
-
-
-
-11_ANYBOTICS-COM-ROBOTICS-ROBOT-CAPABILITIE
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv20.8(YoastSEOv22.3)-https://yoast.com/wordpress/plugins/seo/
-Roboticinspectionsolutioncapabilities-ANYbotics
-
-/YoastSEOPremiumplugin.
-
-DONOTCOPYTHISSNIPPET!StartofPage Analytics Tracking for HubSpot WordPress plugin v11.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-solution capabilities
-Safety, mobility and autonomy make the world's most capable
-end-to-end robotic inspection solution
-
-’s four-legged locomotion, based on reinforcement learning enables robust manoeuvring in multi-floor industrial facilities.
-
-Safe on open grated stairs
-
-In and out of cramped spaces
-
-Crawl in low positions
-
-Works on wet and bumpy terrain
-
-	’s safety features guarantee intuitive robot handing and safe autonomous operation. 	
-
-CE compliance and FCC, IECEx & ATEX certifications360° vision, near-field perception, and obstacle avoidance ensure safety distanceMultiple levels of accessible, emergency-stop functionality 
-
-Comprehensive online and on-site safety trainingIntuitive Workforce UI with safety-centric UX 
-
-	ANYmal performs its defined inspection missions without human intervention or an internet connection.	
-
-Complete autonomy in complex, multi-level environmentsFacility-wide path optimization and fastest route determinationPrecise self-localization and alternative route planning 
-
-Continuous data acquisition independent of stable network connectionsAutomatic docking for recharging, multiple missions, and extended range 
-
-Navigating large facilities
-ANYmal uses Pharos, ANYbotics' 3D software for simultaneous localization and mapping (SLAM), to navigate complex industrial facilities.
-
-Centimeter-accurate mapping through sensor fusion of lidar and depth camerasArea-wide mapping with a range of 4 km in a single pass 
-
-Continuous operation with no need for navigation markers, QR codes, or GPS 
-
-	ANYmal collects accurate, high-quality data from hundreds of inspection points per mission.	
-
-Accurate data capture through high-end sensors, ready-to-go and extendable payloadsEdge computing allows intelligent inspection at highest data quality and instant interpretationPrecise contextualization of inspection time, location, and viewpoint data 
-
-Continuous monitoring of equipment states and anomaly detectionOn-board computer power for localization and Ai-based interpretation without internet connection 
-
-The ANYmal Workforce is the robot control UI that allows non-experts to access the technology and enables scaling
-
-ANYbotics Workforce - UI for intuitive single-operator robot controlSet up, verify missions, and deploy ANYmal in a few hours 
-
-Ruggedized tablet in standard or Ex-proof versionRuns on any device 
-
-Instant data access and seamless integration
-ANYmal autonomously collects health and anomaly data on the edge, encrypts it and transfers it via the ANYmal API
-
-Inspection and asset health data on the edge
-
-ANYmal Data Server (ADS) connects via API to ANYmal and any linked service
-
-DATA & ANOMALY REPORT
-
-Direct insights for instant decision-making
-
-Integrate robotic inspection in the existing CMMS
-
-Integrate inspection data and operate the robot
-
-Operate through ANYmal’s native interface
-
-Download the API Whitepaper 
-
-ANYmal
-Rugged industrial-grade
-An autonomous, highly mobile inspection platform with ready-to-go sensors
-
-Inspecting Ex-areas
-Automating inspections in ATEX / IECEx zones of and operations
-
-How can your operations profit from ANYmal?Talk to a human 
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-ANYmal
-
-Oil & Gas
-Chemicals
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-
-
-12_ANYBOTICS-COM--PAGE_ID-10120-PREVIEW-TRUE
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv20.8(YoastSEOv22.3)-https:yoast.com/wordpress/plugins/seo/
-On Demand - ANYbotics
-
- / Yoast SEO Premium plugin. 
-
- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Watch our on-demand webinars:
-
- API and advanced integration
-
-Learn how the API and advanced integration options improve communication with various asset management systems and the potential for smarter, autonomous operations through constant machine communication in this 30-minutes webinar.
-
-Meet – your robotic inspection co-worker
-
-In this 20-minute webinar, our experts will dive into ANYmal’s locomotion and navigation capabilities. The aim is to create a solid understanding of its capabilities and, in particular, highlight its problem-solving potential in industrial inspection applications.
-
-Aker BP – Pioneering Offshore Inspections
-
-Watch this 40-minute webinar, where experts from Aker BP, Cognite, and ANYbotics share their experiences integrating robotic inspections in offshore Ex-zones and demonstrate the benefits of AI-powered data platforms and real-time digital twins.
-
-Product Update: Simplified Robot Operations
-
-In this webinar, you will learn about our latest updates to ANYmal including robot fleet management through the new desktop interface and advanced AI locomotion based on sim-based reinforcement learning and near-field perception.
-
-Introduction to robotic inspection
-
-In this webinar, you will get your first deep dive into the field of inspection robots and how they are revolutionizing heavy asset industries. Robots are increasingly used to enable safer, more automated, and more efficient large-scale industrial operations.
-
- Deployments at BASF and Equinor
-
-In this webinar, you will gain first-hand insight from deployments in Ex-zones at and Chemical facilities.
-
-ANYmal Product Update December 2022
-
-Introducing easy operation, gas detection, and reality capture. In this webinar, we demonstrate our new tablet user interface for the effortless control and deployment of ANYmal and the UX story behind its creation.
-
-Robot installation in industrial plants
-
-In this webinar we provide you a deeper and practical look into ANYmal’s latest software capabilities for industrial optimization.
-
-Intro to Ex-proof ANYmal X
-
-This webinar focuses on bringing autonomous robotic inspection into hazardous and potentially explosive environments. Discover how ANYmal X, the world’s first ex-proof legged inspection robot, increases equipment uptime, improves safety, and enhances plant performance.
-
-Robotic Inspection in the and 
-
-In this webinar, you will learn about the technology and impact of automating routine inspections in the Oil & Gas and industries.
-
-Robotic Inspection at Chemical Plants with BASF
-
-In this webinar, you will learn how our robotic solution supports you to enhance equipment uptime, safety, and data-driven decision making.
-
-ANYmal
-ANYmal X
-
-Oil & Gas
-Chemicals
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-ANYmal
-ANYmal X
-
-Industries
-
-Oil & Gas
-Chemicals
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-Webinars
-
-//
-
- Parsed with iubenda experimental class in 0.0254 sec.
-
-
-
-13_ANYBOTICS-COM-GET-STARTED-PARTNER
-
-ThissiteisoptimizedwiththeYoastSEOPremiumpluginv20.8(YoastSEOv22.3)-https:yoast.com/wordpress/plugins/seo/
-atyour-ANYbotics
-
-/YoastSEOPremiumplugin.
-
-DONOTCOPYTHISSNIPPET!Start of Page Analytics Tracking for HubSpot WordPress plugin v11.0.28
-
- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin 
-
- End Google Tag Manager 
-
- Google Tag Manager (noscript) 
-
- End Google Tag Manager (noscript) 
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-doorstep through
-our global partners
-
-, deployment, and integration of 
-according to your needs through regional services
-
-Full service at your facility
-
-	The ANYbotics reseller partner network provides worldwide access to ANYmal while ensuring optimal robot uptime through dedicated service at your facility.	
-
-Click to meet ANYmal in your region
-
-Click to meet ANYmal in your region
-
-United Arab Emirates >
-
-Solutions driven by solid technology partnerships
-
-	Integrate ANYmal in Cognite’s industrial DataOps platform for optimal asset performance management.	
-
-	Accenture builds digital transformation solutions for full operational integration of robotic inspection.	
-
-	High-precision reality capture with BLK ARC, built for efficient use with autonomous ground robots.	
-
-	AWS is our preferred cloud partner and provides reliable and secure IT infrastructure for Robot-as-a-Service (RaaS)	
-
-	With the solutions of AI-partner NVIDIA, ANYmal gets trained and tested in simulation at scale.	
-
-	Siemens Xcelerator is an integrated portfolio of software, services, and application development designed to support digital enterprises.	
-
-Talk to us about partnerships!
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Articles and Case Studies
-
-ANYmal
-
-Power & Utilities
-Mining, Metals & Minerals
-
-Onboarding
-
-Articles and Case Studies
-
-//
-
- Parsed with iubenda experimental class in 0.0249 sec.
-

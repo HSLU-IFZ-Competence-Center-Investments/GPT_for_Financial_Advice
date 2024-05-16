@@ -1,6 +1,0 @@
-AntennaComponents
-ElectronicallySteered Antenna Arrays
-
-SWISSto12 delivers qualified, flight ready, cutting edge RF components, subsystems and payloads for the satcom industry. Products are based on innovative materials and process technology that allows SWISSto12 to produce RF components and systems by 3D printing.
-
-Swissto12 Routing and Waveguide Solutions

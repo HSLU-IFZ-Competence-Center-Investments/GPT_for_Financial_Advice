@@ -3,12 +3,12 @@
 
  
 
-![Cover.jpg](https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/blob/main/Images/Cover.jpg)
+![Cover.jpg](https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/blob/master/Images/Cover.jpg)
 
 
 ### Initial situation
 
-The objective of study "GPT for Financial Advice" is to explore how LLMs and rule-based systems can be combined for investment advice.
+The objective of the study "GPT for Financial Advice" is to explore how LLMs and rule-based systems can be combined for investment advice.
 In addition, the study aims to create a prototype that showcases the benefits of integrating these two concepts,
 without, however, meeting all regulatory requirements (e.g. by the Banking Act or the Federal Data Protection Act) for
 AI-based investment advice. Hence, the focus is on demonstrating the technical feasibility of using LLMs to support
@@ -24,7 +24,7 @@ Furthermore, the proof-of-concept is performed using a simplified rule-based dec
 
 #### Rule based decision system: 
 
-![Table_rules.JPG](https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/blob/main/Images/Table_rules.JPG)
+![Table_rules.JPG](https://github.com/HSLU-IFZ-Competence-Center-Investments/GPT_for_Financial_Advice/blob/master/Images/Table_rules.JPG)
 
 The rule based decision system can be seen as a function that deterministically transforms the attributes age, wealth, and risk appetite
 of a user, i.e., a bank client, to a specific model portfolio, but can in principle be used for other rule-sets.
